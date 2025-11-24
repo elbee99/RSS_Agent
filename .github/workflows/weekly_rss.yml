@@ -1,0 +1,50 @@
+name: Weekly RSS Curation
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # every Monday at 02:00 UTC
+  workflow_dispatch:      # allow running manually
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Running fetch_feeds..."
+          python scripts/fetch_feeds.py
+          echo "Ranking..."
+          python scripts/rank_articles.py
+          echo "Generating markdown..."
+          python scripts/generate_markdown.py
+
+      - name: Commit curated results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Only commit if curated_latest.md or caches changed
+          if [ -n "$(git status --porcelain)" ]; then
+            git add curated_latest.md cache/
+            git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push
+          else
+            echo "No new articles. Nothing to commit."
+          fi
+

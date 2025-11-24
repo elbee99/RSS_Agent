@@ -1,42 +1,83 @@
-
+import json
+import os
 from openai import OpenAI
 import numpy as np
-import json
-import re
-from collections import Counter
 
-def embed(texts, model="text-embedding-3-small"):
-    client = OpenAI()
-    resp = client.embeddings.create(model=model, input=texts)
-    return [d.embedding for d in resp.data]
+RAW_FEED_CACHE = "cache/raw_feeds.json"
+RANKED_CACHE = "cache/ranked_articles.json"
 
-def cosine(a,b):
-    return float(np.dot(a,b)/(np.linalg.norm(a)*np.linalg.norm(b)))
+client = OpenAI()
 
-def extract_tags(text):
-    words = re.findall(r"[a-zA-Z]{5,}", text.lower())
-    return Counter(words).most_common(5)
+# DOMAIN-SPECIFIC PROMPT
+RANKING_PROMPT = """
+You are a domain expert in microbial oceanography, marine biogeochemistry, systems biology,
+and computational biology. Score the relevance of this article to the following interests:
 
-def score_articles(articles, interests_text, tag_history, model="gpt-4o-mini"):
-    client = OpenAI()
-    interest_emb = embed([interests_text])[0]
+- Microbial oceanography
+- Biogeochemical cycles
+- Microbial metabolism & cell physiology
+- Ecosystem thermodynamics (including maximum entropy production)
+- Reinforcement learning for agent based models
+- Mechanistic or computational models of microbial/ecosystem processes
 
-    texts = [a["title"] + " " + a["abstract"] for a in articles]
-    art_embs = embed(texts)
+Score from 0 to 1. A score of 1 means “highly relevant.”
 
-    scored=[]
-    for art, emb in zip(articles, art_embs):
-        base = cosine(np.array(emb), np.array(interest_emb))
-        tags = extract_tags(art["title"] + " " + art["summary"])
-        tag_score = sum(tag_history.get(t[0],0)*0.1 for t in tags)
-        total = (base + tag_score + 1)*5
-        scored.append({
-            "id": art["id"],
-            "title": art["title"],
-            "link": art["link"],
-            "summary": art["summary"],
-            "score": round(total,2),
-            "tags": [t[0] for t in tags],
-            "justification": f"Similarity + tags: {tags}"
+Return ONLY a JSON object: {"score": float}
+"""
+
+def embed_text(text):
+    response = client.embeddings.create(
+        model="text-embedding-3-small",
+        input=text
+    )
+    return response.data[0].embedding
+
+def get_relevance_score(title, content):
+    text = f"Title: {title}\nAbstract: {content}"
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": RANKING_PROMPT},
+            {"role": "user", "content": text}
+        ]
+    )
+    try:
+        return float(json.loads(response.choices[0].message.content)["score"])
+    except Exception:
+        return 0.0
+
+def rank_articles(threshold=0.50, keep_top_n=100):
+    with open(RAW_FEED_CACHE, "r") as f:
+        articles = json.load(f)
+
+    ranked = []
+
+    for a in articles:
+        score = get_relevance_score(a["title"], a["content"])
+        embedding = embed_text(a["title"] + "\n" + a["content"])
+        ranked.append({
+            "id": a["id"],
+            "title": a["title"],
+            "link": a["link"],
+            "content": a["content"],
+            "score": score,
+            "embedding": embedding
         })
-    return scored
+
+    # Sort by score
+    ranked_sorted = sorted(ranked, key=lambda x: x["score"], reverse=True)
+
+    # Filter: keep only top N OR those above threshold
+    filtered = [a for a in ranked_sorted if a["score"] >= threshold]
+    if len(filtered) < keep_top_n:
+        filtered = ranked_sorted[:keep_top_n]
+
+    # Save all ranked results for later analysis
+    with open(RANKED_CACHE, "w") as f:
+        json.dump(ranked_sorted, f, indent=2)
+
+    print(f"Ranked {len(ranked)} articles. Kept {len(filtered)}.")
+    return filtered
+
+if __name__ == "__main__":
+    rank_articles()
