@@ -29,9 +29,9 @@ jobs:
       - name: Archive last week's curated markdown
         run: |
           mkdir -p archived
-          if [ -f curated_latest.md ]; then
+          if [ -f output/curated_latest.md ]; then
             DATE=$(date -u +"%Y%m%d")
-            cp curated_latest.md archived/curated_${DATE}.md
+            cp output/curated_latest.md archived/curated_${DATE}.md
           fi
 
       # ----------------------------------------------------
@@ -68,7 +68,7 @@ jobs:
 
             See the attached file for details.
 
-          attachments: curated_latest.md
+          attachments: output/curated_latest.md
 
       # ----------------------------------------------------
       # Commit updates
@@ -78,7 +78,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add curated_latest.md archived/ cache/
+            git add output/curated_latest.md archived/ cache/
             git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push
           else
