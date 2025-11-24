@@ -8,10 +8,10 @@ def fetch_all(feed_list):
         feed = feedparser.parse(url)
         for entry in feed.entries:
             articles.append({
-                "id": entry.get("id", entry.get("link","")),
-                "title": entry.get("title", ""),
+                "id": entry.get("id"),
                 "link": entry.get("link", ""),
-                "summary": entry.get("summary", ""),
-                "published": entry.get("published", str(datetime.datetime.utcnow()))
+                "title": entry.get("title", ""),
+                "abstract": entry.get("content", ""),
+                "published": entry.get("published", str(datetime.datetime.now(datetime.timezone.utc)))
             })
     return articles

@@ -23,6 +23,7 @@ def load_tags():
     return {}
 
 def save_tags(t):
+    os.makedirs("cache", exist_ok=True)
     with open(TAGS_FILE,"w") as f:
         json.dump(t,f)
 

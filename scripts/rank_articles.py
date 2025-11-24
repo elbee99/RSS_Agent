@@ -21,7 +21,7 @@ def score_articles(articles, interests_text, tag_history, model="gpt-4o-mini"):
     client = OpenAI()
     interest_emb = embed([interests_text])[0]
 
-    texts = [a["title"] + " " + a["summary"] for a in articles]
+    texts = [a["title"] + " " + a["abstract"] for a in articles]
     art_embs = embed(texts)
 
     scored=[]
