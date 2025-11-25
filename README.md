@@ -61,21 +61,31 @@ python scripts/run_all.py
 
 ## Automating with GitHub Actions
 
-A workflow file (`.github/workflows/rss_agent.yml`) is provided.  
-It:
+Two workflow files (`.github/workflows/rss_agent.yml` and `.github/workflows/daily_fetch.yml`) are provided. This is done to avoid missing articles that exceed the limit for a feed.
+
+Daily:
+
+- Runs daily
+- Fetches articles from all RSS feeds.
+- Appends to raw_feeds.json
+- Appends to seen_ids.txt
+
+Weekly:
 
 - Runs weekly
 - Fetches and ranks new articles
 - Archives the last week’s results
 - Emails the new curated list
 - Commits updates to the repo
+- Deletes this week's raw_feeds.json articles but leaves seen_ids.txt to accumulate. 
 
 Ensure you configure repository secrets before enabling the workflow.
 
 ## Output
 
-- `curated_latest.md` — most recent curated articles  
+- `output/curated_latest.md` — most recent curated articles  
 - `archive/curated_YYYYMMDD.md` — archived weekly snapshot  
+- `archive/raw_feeds_last_week.json` - all of last week's articles, for review purposes
 - `cache/seen_ids.json` — tracking previously processed article IDs  
 - `cache/ranked_results.json` — full ranking logs
 

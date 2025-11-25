@@ -49,12 +49,3 @@ jobs:
           else
             echo "No new articles — nothing to commit."
           fi
-
-      - name: Commit updated cache
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add cache/
-          git commit -m "Daily fetch update" || echo "No changes to commit"
-          git push
-
