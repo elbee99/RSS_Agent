@@ -33,7 +33,7 @@ jobs:
         run: |
           if [ -f output/curated_latest.md ]; then
             DATE=$(date -u +"%Y%m%d")
-            cp output/curated_latest.md archived/curated_${DATE}.md
+            cp output/curated_latest.md archive/curated_${DATE}.md
           fi
 
       # ----------------------------------------------------
@@ -78,7 +78,7 @@ jobs:
       - name: Archive this week's raw feed cache
         run: |
           if [ -f cache/raw_feeds.json ]; then
-            cp cache/raw_feeds.json archived/raw_feeds_last_week.json
+            cp cache/raw_feeds.json archive/raw_feeds_last_week.json
           fi
 
       # ----------------------------------------------------
@@ -104,7 +104,7 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jrcasey/RSS_Agent.git
           if [ -n "$(git status --porcelain)" ]; then
-            git add output/curated_latest.md archived/ cache/
+            git add output/curated_latest.md archive/ cache/
             git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin HEAD:main
           else
