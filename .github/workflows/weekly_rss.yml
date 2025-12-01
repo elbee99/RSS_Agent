@@ -30,7 +30,7 @@ jobs:
       # Archive the previous week's file
       # ----------------------------------------------------
       - name: Archive last week's curated markdown
-        run:  
+        run: |
           if [ -f output/curated_latest.md ]; then
             DATE=$(date -u +"%Y%m%d")
             cp output/curated_latest.md archived/curated_${DATE}.md
@@ -76,19 +76,19 @@ jobs:
       # Archive the current week's raw feed cache. Will overwrite last week's.
       # ----------------------------------------------------
       - name: Archive this week's raw feed cache
-        run:  
-         if [ -f cache/raw_feeds.json ]; then
-           cp cache/raw_feeds.json archived/raw_feeds_last_week.json
-         fi
+        run: |
+          if [ -f cache/raw_feeds.json ]; then
+            cp cache/raw_feeds.json archived/raw_feeds_last_week.json
+          fi
 
       # ----------------------------------------------------
       # Delete this week's raw feed cache to start fresh next week
       # ----------------------------------------------------
       - name: Delete this week's raw feed cache
-        run:  
-         if [ -f cache/raw_feeds.json ]; then
-           rm cache/raw_feeds.json
-         fi
+        run: |
+          if [ -f cache/raw_feeds.json ]; then
+            rm cache/raw_feeds.json
+          fi
 
       # ----------------------------------------------------
       # Commit updates
