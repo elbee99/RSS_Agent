@@ -20,7 +20,7 @@ and computational biology. Score the relevance of this article to the following 
 - Reinforcement learning for agent based models
 - Mechanistic or computational models of microbial/ecosystem processes
 
-Score from 0 to 1. A score of 1 means “highly relevant.”
+Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests.
 
 Return ONLY a JSON object: {"score": float}
 """
