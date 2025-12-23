@@ -4486,5 +4486,17 @@
     "title": "Dynamic molecular docking enables high-safety Na-ion pouch cells at elevated temperature",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405829725007317?dgcid=rss_sd_all",
     "content": "<p>Publication date: December 2025</p><p><b>Source:</b> Energy Storage Materials, Volume 83</p><p>Author(s): Yuan Tu, Zhineng Ren, Mengying Ma, Changjian Zuo, Shurong Wang, Yi-chun Lu, Huilin Pan</p>"
+  },
+  {
+    "id": "b84cae247795aee0",
+    "title": "Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage",
+    "link": "https://www.nature.com/articles/s41586-025-10044-8",
+    "content": "<p>Nature, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-10044-8\">doi:10.1038/s41586-025-10044-8</a></p>Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage"
+  },
+  {
+    "id": "f4141c19100775ea",
+    "title": "Machine learning-driven interface material design for high-performance perovskite solar cells with scalability and band-gap universality",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(25)00445-3?rss=yes",
+    "content": "Machine learning-driven molecular design integrating correlation analysis, clustering, and LASSO regression discovers BIPA, an efficient interface modifier that concurrently passivates defects, optimizes band alignment, and enhances perovskite crystallinity. This strategy enables high-efficiency, scalable, and stable perovskite solar cells across a wide band-gap range (1.55\u20131.85 eV)."
   }
 ]
