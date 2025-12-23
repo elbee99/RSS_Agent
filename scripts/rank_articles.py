@@ -47,6 +47,17 @@ def get_relevance_score(title, content):
     except Exception:
         return 0.0
 
+def get_summary(title, content):
+    text = f"Title: {title}\nAbstract: {content}"
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "Provide a concise 1-2 line summary of the following article abstract."},
+            {"role": "user", "content": text}
+        ]
+    )
+    return response.choices[0].message.content.strip()
+
 def rank_articles(threshold=0.80, keep_top_n=50):
     with open(RAW_FEED_CACHE, "r") as f:
         articles = json.load(f)
@@ -55,13 +66,16 @@ def rank_articles(threshold=0.80, keep_top_n=50):
 
     for a in articles:
         score = get_relevance_score(a["title"], a["content"])
+        summary = get_summary(a["title"], a["content"])
         embedding = embed_text(a["title"] + "\n" + a["content"])
         ranked.append({
             "id": a["id"],
             "title": a["title"],
             "link": a["link"],
             "content": a["content"],
+            "journal":a["journal"],
             "score": score,
+            "summary": summary,
             "embedding": embedding
         })
 

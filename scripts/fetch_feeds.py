@@ -62,6 +62,7 @@ def fetch_all_feeds():
     for feed_url in feeds:
         print(f"Fetching: {feed_url}")
         parsed = feedparser.parse(feed_url)
+        journal_title = parsed.feed.get("title", str(feed_url))
         # Process each entry in the feed
         for entry in parsed.entries:
             entry_id = entry.get("id") or entry.get("link") or entry.get("title")
@@ -86,7 +87,8 @@ def fetch_all_feeds():
                 "id": hashed_id,
                 "title": title,
                 "link": link,
-                "content": content
+                "content": content,
+                "journal": journal_title
             })
             # Mark this ID as seen
             seen_ids.add(hashed_id)

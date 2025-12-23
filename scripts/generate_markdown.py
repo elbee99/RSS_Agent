@@ -9,7 +9,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "curated_latest.md")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def generate_markdown():
-    with open(RANKED_CACHE, "r") as f:
+    with open(RANKED_CACHE, "r", encoding="utf-8") as f:
         ranked = json.load(f)
 
     lines = []
@@ -20,12 +20,13 @@ def generate_markdown():
         title = a["title"].replace("\n", " ").strip()
         url = a["link"]
         score = f"{a['score']:.3f}"
-        content = a["content"]
-        lines.append(f"- *[{title}]({url})* — score: {score}\n{content}\n")
+        summary = a["summary"]
+        print(summary)
+        lines.append(f"- **[{title}]({url})** — score: {score}\n{summary}\nJournal: *{a.get('journal')}*\n")
 
     md = "\n".join(lines)
 
-    with open(OUTPUT_FILE, "w") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(md)
 
     print(f"Markdown written to {OUTPUT_FILE}")
