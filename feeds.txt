@@ -39,3 +39,15 @@ https://www.science.org/journal/science
 
 # Science Advances
 https://www.science.org/journal/sciadv
+
+# Energy & Fuels
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
+
+# ACS Energy Letters
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
+
+# ACS Applied Energy Materials
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
+
+# Nano Energy
+https://rss.sciencedirect.com/publication/science/22112855
