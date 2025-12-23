@@ -14,14 +14,18 @@ You are a domain expert in battery chemistry, advanced battery characterisations
 and structure-function relationships in batteries. Score the relevance of this article to the following interests:
 
 - Battery chemistry
+- Novel insights into the chemistry of common battery materials (i.e. how and why they work, not just that they do)
 - Advanced characterisation (operando, spatially resolved, novel techniques etc.)
 - Spatial analysis of heterogeneity in batteries
+- Tomographic imaging of batteries
 
 Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests. In particular,
 a score of 1 should be given to articles that discuss novel insights into battery chemistry using advanced characterisation
 techniques, such as novel operando methods, synchrotron techniques, and/or spatially resolved analyses that reveal new insights into
-the structure-function relationships in batteries. A paper which simply uses a new material and shows better performance with
-little insight would score low (0-0.2).
+the structure-function relationships in batteries. 
+
+A paper which simply uses a new material and shows better performance with
+little insight would score low (0-0.2). Papers which do not discuss batteries should always score low (0)
 
 Return ONLY a JSON object: {"score": float}
 """
