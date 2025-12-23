@@ -20,7 +20,8 @@ def generate_markdown():
         title = a["title"].replace("\n", " ").strip()
         url = a["link"]
         score = f"{a['score']:.3f}"
-        lines.append(f"- [{title}]({url}) — score: {score}")
+        content = a["content"]
+        lines.append(f"- *[{title}]({url})* — score: {score}\n{content}\n")
 
     md = "\n".join(lines)
 
