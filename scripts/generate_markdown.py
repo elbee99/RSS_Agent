@@ -16,11 +16,11 @@ def generate_markdown():
     lines.append(f"# Curated Research Articles\n")
     lines.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
 
-    for a in ranked[:100]:  # Already filtered previously
+    for a in ranked[:50]:  # Already filtered previously
         title = a["title"].replace("\n", " ").strip()
         url = a["link"]
         score = f"{a['score']:.3f}"
-        lines.append(f"- [ ] [{title}]({url}) — score: {score}")
+        lines.append(f"- [{title}]({url}) — score: {score}")
 
     md = "\n".join(lines)
 
@@ -28,6 +28,7 @@ def generate_markdown():
         f.write(md)
 
     print(f"Markdown written to {OUTPUT_FILE}")
+    
 
 if __name__ == "__main__":
     generate_markdown()

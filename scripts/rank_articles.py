@@ -15,9 +15,13 @@ and structure-function relationships in batteries. Score the relevance of this a
 
 - Battery chemistry
 - Advanced characterisation (operando, spatially resolved, novel techniques etc.)
-- Structure-function relationships in batteries
+- Spatial analysis of heterogeneity in batteries
 
-Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests.
+Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests. In particular,
+a score of 1 should be given to articles that discuss novel insights into battery chemistry using advanced characterisation
+techniques, such as novel operando methods, synchrotron techniques, and/or spatially resolved analyses that reveal new insights into
+the structure-function relationships in batteries. A paper which simply uses a new material and shows better performance with
+little insight would score low (0-0.2).
 
 Return ONLY a JSON object: {"score": float}
 """
@@ -43,7 +47,7 @@ def get_relevance_score(title, content):
     except Exception:
         return 0.0
 
-def rank_articles(threshold=0.50, keep_top_n=100):
+def rank_articles(threshold=0.80, keep_top_n=50):
     with open(RAW_FEED_CACHE, "r") as f:
         articles = json.load(f)
 

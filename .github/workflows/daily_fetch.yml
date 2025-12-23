@@ -41,7 +41,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jrcasey/RSS_Agent.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/elbee99/RSS_Agent.git
           if [ -n "$(git status --porcelain)" ]; then
             git add cache/raw_feeds.json cache/seen_ids.txt
             git commit -m "Daily RSS fetch: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
