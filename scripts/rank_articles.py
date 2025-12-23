@@ -10,15 +10,12 @@ client = OpenAI()
 
 # DOMAIN-SPECIFIC PROMPT
 RANKING_PROMPT = """
-You are a domain expert in microbial oceanography, marine biogeochemistry, systems biology,
-and computational biology. Score the relevance of this article to the following interests:
+You are a domain expert in battery chemistry, advanced battery characterisations,
+and structure-function relationships in batteries. Score the relevance of this article to the following interests:
 
-- Microbial oceanography
-- Biogeochemical cycles
-- Microbial metabolism & cell physiology
-- Ecosystem thermodynamics (including maximum entropy production)
-- Reinforcement learning for agent based models
-- Mechanistic or computational models of microbial/ecosystem processes
+- Battery chemistry
+- Advanced characterisation (operando, spatially resolved, novel techniques etc.)
+- Structure-function relationships in batteries
 
 Score from 0 to 1. A score of 1 means “highly relevant" and implies overlap with multiple interests.
 
