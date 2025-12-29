@@ -1,203 +1,203 @@
 # Curated Research Articles
 
-Generated: 2025-12-23 22:04
+Generated: 2025-12-29 03:48
 
-- **[Decoding Short‐Range Order in Amorphous Two‐Dimensional Nanosheets for Efficient and Durable Ampere‐Level Seawater Electrolysis: A Case Study of Amorphous Ni(OH)2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504584?af=R)** — score: 1.000
-The study reveals the atomic-scale architecture of amorphous Ni(OH)2 nanosheets, identifying short-range order motifs that enhance their performance in seawater electrolysis, achieving efficient and durable hydrogen production. The incorporation of Pt single atoms further improves their catalytic activity and stability, transforming the understanding of amorphous materials in energy applications.
+- **[Storage Failure Mechanism of Sodium‐Ion Full Cells: Unsteady Structural Transformation and Interfacial Chemical Reconstruction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506068?af=R)** — score: 1.000
+The study investigates the failure mechanisms of sodium-ion batteries during high-temperature storage, revealing that unstable structural transformations and interfacial chemical changes significantly contribute to their degradation and reduced lifespan.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[In Situ Electrochemical Polymerization Enabling High‐Performance Quasi‐Solid‐State Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504413?af=R)** — score: 1.000
-This article introduces a novel in situ electrochemical polymerization technique that utilizes high-voltage charging to achieve uniform polymerization for quasi-solid-state batteries, resulting in improved performance and safety.
+- **[Fluorine‐Driven Electrolyte Engineering: Regulating Zn2+ Coordination and Electrode‐Electrolyte Interfacial Chemistry in Aqueous Zinc Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502615?af=R)** — score: 1.000
+The article discusses how fluorinated acetylacetone derivatives optimize zinc ion solvation and enhance solid electrolyte interphase formation in aqueous zinc-ion batteries, leading to improved performance and stability.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Digital Twin of Solid Oxide Electrochemical Cells: From 3D Microstructure Reconstruction to Multiphysics Modeling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503842?af=R)** — score: 1.000
-This review discusses the development of digital twin frameworks for solid oxide electrochemical cells, highlighting 3D microstructure reconstruction and multiphysics modeling to enhance design and performance optimization of SOC technologies.
+- **[Quantitative and Non‐Destructive Analysis of Failure Process of Pouch Lithium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503858?af=R)** — score: 1.000
+The study investigates the failure mechanisms of pouch lithium metal batteries (LMBs) under fast charging, revealing a three-stage degradation pattern and demonstrating real-time, non-destructive monitoring with fiber Bragg grating technology, ultimately leading to improved battery performance and safety.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Thermal Dynamics and Lithium Plating Detection in High‐Power Li‐Ion Batteries for eVTOL Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503292?af=R)** — score: 1.000
-This study uses operando isothermal microcalorimetry to analyze thermal behavior and detect lithium plating in high-performance Li-ion batteries for eVTOL applications, emphasizing the importance of electrolyte engineering in enhancing safety and cycle life under extreme conditions.
+- **[Unraveling Asymmetric Macroscopic Reaction Dynamics in Solid‐State Li–S Batteries During Charge–Discharge Cycles: Visualizing Ionic Transport Limitations with Operando X‐Ray Computed Tomography](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503863?af=R)** — score: 1.000
+The study utilizes operando X-ray computed tomography to reveal that macroscopic ionic transport limits the performance of solid-state Li–S batteries, highlighting an asymmetric reaction behavior during charge-discharge cycles that contributes to irreversible Li2S formation.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Interplay Between the Dissolved Mn2+ and Solid Electrolyte Interphases of Graphite Anode](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503489?af=R)** — score: 1.000
-The study explores how dissolved Mn2+ interacts with the solid electrolyte interphase (SEI) on graphite anodes in lithium-ion batteries, revealing that Mn2+ promotes SEI growth by coordinating with solvents and generating gases that facilitate electrolyte infiltration.
+- **[A Complete Operando Structural and Redox Perspective on the O2‐Type Lithium‐Rich Manganese Oxide LiMn0.75O2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505540?af=R)** — score: 1.000
+The study reveals that lithium deintercalation in the O2-type LiMn0.75O2 is compensated by reversible anionic oxygen redox, although it also leads to irreversible O2 release and nano-void formation, highlighting the material's cycling stability and redox behavior.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Influence of Anode Reactivity and Chemical Crossover on the Formation of Cathode‐Electrolyte Interphase in High‐Nickel Layered Oxide Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502617?af=R)** — score: 1.000
-The article investigates the impact of anode reactivity on the degradation of high-nickel layered oxide cathodes in lithium-ion batteries, revealing that unstable anodes lead to thicker cathode electrolyte interphases and increased polarization due to chemical crossover effects.
+- **[Controlled Interfacial Stress Platform for Electrochemical‐Mechanical Coupling Measurements](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504343?af=R)** — score: 1.000
+The article presents a novel Controlled Interfacial Stress Platform for Electrochemical‐Mechanical coupling (CISP‐ECM) that allows direct measurement of stress-coupled electrochemical processes in solid-state batteries, enhancing understanding of material behavior during lithiation and its implications for various applications.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[In Situ Electrochemistry of Buried Interfaces in Metal Halide Perovskites: Probing Energy Bands, Halide Redox Activity, and Kinetics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502719?af=R)** — score: 1.000
-The article discusses the use of electrochemical techniques to investigate and optimize the properties of buried interfaces in metal halide perovskites and related materials, enhancing our understanding of charge transport, energy alignment, and surface reactivity for improved optoelectronic device performance.
+- **[Crosslinked Vinyl‐Capped Polyoxometalates to Construct a Three‐Dimensional Porous Inorganic–Organic Catalyst to Effectively Suppress Polysulfide Shuttle in Li–S Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505978?af=R)** — score: 1.000
+The article presents a method to create stable 3D porous polyoxometalate (POM) catalysts that effectively reduce polysulfide shuttle in lithium-sulfur batteries, enhancing their capacity and cycling stability, even under demanding conditions.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[A Quantitative Water‐Speciation Identification Strategy Enables Efficient Four‐Electron Conversion in Aqueous Zn‐I2 Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505649?af=R)** — score: 1.000
-The article presents a quantitative water-speciation strategy to optimize the electrolyte environment in aqueous Zn-I2 batteries, enhancing ion transport and enabling efficient four-electron conversion, leading to improved battery capacity and durability.
+- **[Activating Inert Metallic Zinc for Bifunctional Sulfur Reaction Catalysis Through Anion‐Controlled Tensile Lattice Strain](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502123?af=R)** — score: 0.900
+The article discusses the development of tellurium-induced tensile strained zinc selenides as bifunctional catalysts to enhance lithium-sulfur battery performance by optimizing electronic states for improved sulfur reaction kinetics.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Understanding Structural and Compositional Evolution during NMC Cathode Direct Recycling via Solid‐State NMR](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202406022?af=R)** — score: 1.000
-The article discusses how solid-state NMR spectroscopy is used to analyze structural and compositional changes in NMC cathodes during the direct recycling of lithium-ion batteries, aiming to enhance recycling processes and achieve electrochemical performance on par with new materials.
+- **[Cellulose‐Based Solid‐State Electrolytes for Solid‐State Lithium Metal Batteries: Advances in Functionalization Strategies and Interfacial Engineering](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504386?af=R)** — score: 0.800
+This review article explores recent advancements in cellulose-based solid-state electrolytes (CBSEs) for lithium metal batteries, focusing on functionalization strategies, interface engineering, and performance optimization methods to address stability and safety challenges.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Heterogeneity of the Dominant Causes of Performance Loss in End‐of‐Life Cathodes and Their Consequences for Direct Recycling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202405371?af=R)** — score: 1.000
-The article examines the degradation mechanisms affecting end-of-life Li-ion battery cathodes, particularly LiNixMnyCozO2 (NMC), highlighting that severe microstructural cracking is the primary cause of performance loss, which poses challenges for direct recycling methods.
+- **[Chromium‐Modified Nickel Sulfide Catalysts Enable Energy‐Efficient Electrochemical Polyethylene Terephthalate Upcycling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504208?af=R)** — score: 0.800
+The article presents a chromium-modified nickel sulfide catalyst that significantly enhances the electrochemical upcycling of polyethylene terephthalate by achieving high current densities and low energy requirements for ethylene glycol oxidation, while also enabling efficient integration with CO2 reduction processes.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[In Situ Diffraction and Ex Situ Transmission X‐Ray Microscopy Studies of Solid‐State Upcycling for NMC Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202500698?af=R)** — score: 1.000
-The study investigates the solid-state upcycling of recycled NMC622 cathodes to produce higher energy density NMC811 materials, utilizing in situ X-ray diffraction and transmission X-ray microscopy to analyze phase evolution and material distribution during the process.
+- **[Biomass‐Derived Polyanionic Interface Modulates the Electrical Double Layer to Achieve Ultrareversible Zinc Metal Anodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504350?af=R)** — score: 0.800
+The study presents a biomass-derived polyanionic interface for zinc metal anodes that enhances Zn2+ transport, suppresses side reactions, and achieves over 5000 hours of stable cycling performance in aqueous zinc-ion batteries.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Cathode Upcycling for Direct Recycling of Lithium‐Ion Batteries Using a Precipitation Approach](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202500699?af=R)** — score: 1.000
-Researchers have developed a cost-effective precipitation method to upcycle lithium-ion battery cathodes, converting low-nickel compositions to higher energy density forms while preserving particle structure, enhancing environmental sustainability in battery recycling.
+- **[Trifluoracetic Acid‐Driven (002) Facet Engineering of Zn Metal Powder Anodes for High‐Performance Aqueous Zinc‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504922?af=R)** — score: 0.800
+The article presents a strategy using trifluoroacetic acid to enhance the (002) plane exposure in zinc metal powder anodes for aqueous zinc-ion batteries, resulting in improved performance, stability, and scalability.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Multiscale Design Strategies of Interface‐Stabilized Solid Electrolytes and Dynamic Interphase Decoding from Atomic‐to‐Macroscopic Perspectives](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502938?af=R)** — score: 1.000
-The article reviews multiscale design strategies for interface-stabilized solid electrolytes in solid-state lithium metal batteries, examining their microstructure, ion transport, and interphase evolution to address interfacial challenges and enhance commercial viability.
+- **[Oxygen‐Doped Carbon Monolayer Intercalation and Selenization Stabilizing 1T‐Rich MoS2 to Enable Fast and Durable Sodium‐Ion Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503274?af=R)** — score: 0.800
+The article discusses a novel approach combining carbon intercalation and selenization to stabilize 1T‐rich MoS2, enhancing its structural stability and electrochemical performance for sodium-ion batteries, resulting in excellent cycle stability and energy density.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[[ASAP] In situ X-ray Synchrotron Studies Reveal the Nucleation and Topotactic Transformation of Iron Sulfide Nanosheets](http://dx.doi.org/10.1021/jacs.5c15843)** — score: 1.000
-The study utilizes in situ X-ray synchrotron techniques to investigate the nucleation and topotactic transformation processes of iron sulfide nanosheets.
+- **[[ASAP] Calendar Aging of LiFePO4/Graphite Batteries: Quantitative Analysis of Synergistic Effects of SEI Evolution and Electrolyte Decomposition](http://dx.doi.org/10.1021/acsenergylett.5c02954)** — score: 0.800
+This article provides a quantitative analysis of the aging process in LiFePO4/Graphite batteries, focusing on the synergistic effects of solid electrolyte interphase (SEI) evolution and electrolyte decomposition.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
+
+- **[[ASAP] Seeking Order in Complex Electrochemical Interfaces: Insights for Energy Conversion Devices](http://dx.doi.org/10.1021/acsenergylett.5c03605)** — score: 0.800
+The article explores the complexities of electrochemical interfaces to uncover insights that could enhance the performance of energy conversion devices.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
+
+- **[Multifunctional Dual‐Doping Strategy Improving Halide‐Based Solid‐State Electrolyte](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503135?af=R)** — score: 0.700
+A dual-doping strategy enhances both the ionic conductivity and electrochemical stability of a halide-based solid-state electrolyte, making it suitable for high-voltage lithium battery applications.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Molecular Engineering of Hybrid Electrolytes for Aqueous Zinc Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504692?af=R)** — score: 0.700
+The study presents a molecularly engineered hybrid electrolyte that enhances the reversibility of Zn (de)plating in aqueous zinc-ion batteries, achieving a remarkable Coulombic efficiency of 99.96% and improved cycling stability through tailored solvation dynamics and minimized parasitic reactions.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Simultaneous Nb5+‐Driven Defect Repair and Oxygen Stabilization of Spent LiNi0.88Co0.09Al0.03O2 Toward High‐Voltage and Fast‐Charging Cathode](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505762?af=R)** — score: 0.700
+The study presents a one-step molten salt strategy that utilizes NbCl5 to simultaneously repair spent Ni-rich lithium-ion batteries and stabilize their oxygen content, leading to enhanced cycling stability and rate performance in regenerated cathodes.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Novel Sodium‐Rare‐Earth‐Silicate‐Based Solid Electrolytes for All‐Solid‐State Sodium Batteries: Structure, Synthesis, Conductivity, and Interface](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503468?af=R)** — score: 0.600
+The article introduces sodium rare earth silicate (Na5RESi4O12) as a novel solid electrolyte for all-solid-state sodium batteries, detailing its structure, synthesis, ionic conductivity, and strategies to address interface issues, providing insights for future advancements in high-performance batteries.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Thermal Runaway in Sulfide‐Based All‐Solid‐State Batteries: Risk Landscape, Diagnostic Gaps, and Strategic Directions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503593?af=R)** — score: 0.600
+This article reviews the thermal runaway risks associated with sulfide-based all-solid-state batteries (ASSBs), highlighting the importance of understanding interfacial interactions and degradation mechanisms while calling for improved diagnostic standards and mitigation strategies to enhance safety.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[A Review on the Energy Storage Mechanisms of Transition Metal Sulfide and Selenide Cathode Materials for Non‐Aqueous Aluminum Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503159?af=R)** — score: 0.600
+The article reviews transition metal sulfides and selenides as promising cathode materials for non-aqueous rechargeable aluminum batteries, discussing their charge storage mechanisms, existing literature contradictions, and future research directions to enhance these batteries' performance.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Microfluidic‐Enabled Solid‐State Electrolytes With Enhanced Electrochemical Performance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505181?af=R)** — score: 0.600
+This study presents a microfluidic method to synthesize ceramic solid-state electrolytes, resulting in enhanced ionic conductivity and reduced interfacial impedance, thus improving the electrochemical performance of sodium and lithium solid-state batteries.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Hyperquaternized Biomass‐Derived Solid Electrolytes: Architecting Superionic Conduction for Sustainable Flexible Zinc‐Air Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505711?af=R)** — score: 0.500
+This study develops a chitosan-based solid-state electrolyte with ultra-high ionic conductivity for sustainable zinc-air batteries, achieving significant performance enhancements while also being biodegradable and environmentally friendly.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[High‐Throughput Synthesis of Mn‐Based Disordered Rock‐Salt Li‐Ion Cathodes with Improved Rate Capability via Rapid Joule‐Heating](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503496?af=R)** — score: 0.500
+The article discusses the use of rapid Joule-heating synthesis to produce high-performance manganese-based disordered rock-salt lithium-ion cathodes, achieving significant improvements in rate capability and efficiency compared to traditional methods, thus enabling swift discovery of advanced cathode materials.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Generalized capacity estimation for retired lithium-ion batteries: Unsupervised electrochemical impedance spectroscopy dimensionality reduction under random retirement conditions](https://www.sciencedirect.com/science/article/pii/S2405829725008335?dgcid=rss_sd_all)** — score: 0.400
+This article presents a method for estimating the capacity of retired lithium-ion batteries using unsupervised dimensionality reduction of electrochemical impedance spectroscopy data, specifically under random retirement conditions.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Dual‐Enhanced Iodine Confinement and Conversion of Single‐Atom Mn‐N3‐C Catalyst for Long‐life Electrolytic Zn‐I2 Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505589?af=R)** — score: 0.400
+Researchers have developed a highly efficient single-atom Mn catalyst embedded in a porous carbon matrix, enhancing iodine confinement and conversion, which significantly improves the performance and longevity of aqueous Zn-I2 batteries.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Electrochemical Ammonia Oxidation Reaction on Nickel‐Based Non‐Noble Metal Electrocatalysts: From Mechanistic Understanding to Practical Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503815?af=R)** — score: 0.400
+The article reviews the advancements in nickel-based non-noble metal electrocatalysts for the electrochemical ammonia oxidation reaction (AOR), highlighting their potential for practical applications and providing insights for the development of next-generation AOR catalysts.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Recycling Spent Lithium Iron Phosphate via Contact‐Electro‐Catalysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503508?af=R)** — score: 0.400
+The study presents a catalytic method using contact-electro-catalysis to efficiently recycle spent lithium iron phosphate (LFP) batteries, achieving over 99% recovery of lithium and iron within 8 minutes, thus highlighting its potential ecological and economic benefits.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Chemical Pre‐Lithiation Toward Scalable Manufacturing of Aluminum Foil Anodes With Unique Gradient Surface Layer for Copper‐Free Lithium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504817?af=R)** — score: 0.400
+The article discusses a novel chemical pre-lithiation method for aluminum foil anodes, creating a gradient Li-Al surface layer that enhances electrochemical performance and shows promise for high-capacity, copper-free lithium-ion batteries, demonstrating significant capacity retention and energy density in practical applications.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[[ASAP] Entropy-Motivated Solvation Design for Low-Temperature Ether-Based Electrolyte of Sodium-Ion Batteries](http://dx.doi.org/10.1021/acsenergylett.5c03431)** — score: 0.400
+The article discusses the design of low-temperature ether-based electrolytes for sodium-ion batteries, focusing on an entropy-motivated approach to enhance their performance.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
+
+- **[[ASAP] Cation-Ordering-Driven Design of Superionic Lithium Halospinels](http://dx.doi.org/10.1021/jacs.5c15656)** — score: 0.400
+The article discusses a method for designing superionic lithium halospinels by leveraging cation ordering, aiming to enhance their ionic conductivity for applications in energy storage.
 Journal: *Journal of the American Chemical Society: Latest Articles (ACS Publications)*
 
-- **[Probing the proton exchange kinetics of BaZr0.1Ce0.7Y0.1Yb0.1O3−δ ceramic electrolyte by operando diffuse reflectance infrared Fourier transform spectroscopy](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE05957G)** — score: 1.000
-The article discusses the development of a custom operando setup for simultaneous infrared spectroscopy and electrochemical measurements to investigate the proton exchange kinetics in BaZr0.1Ce0.7Y0.1Yb0.1O3−δ ceramic electrolyte.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Interfacial characterization in solid-state lithium metal batteries: advances in temporal, spatial, and energy resolution](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE05519A)** — score: 1.000
-The article discusses advancements in multidimensional characterization techniques that uncover hidden interfacial mechanisms in solid-state lithium metal batteries, enhancing understanding of their performance.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Resting but not idle: unveiling the mechanistic origin of resting losses for zinc anodes](http://pubs.rsc.org/en/Content/ArticleLanding/2025/EE/D5EE05063D)** — score: 1.000
-The article investigates the mechanisms behind capacity losses in zinc anodes, highlighting the significant impact of current collector materials through real-time electron transfer visualization and in situ operando ECMS techniques.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Utilising acoustic techniques to improve understanding of the formation process in sodium-ion batteries](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D5EB00170F)** — score: 1.000
-The article discusses the application of operando acoustic techniques for non-invasive monitoring of solid electrolyte interphase (SEI) formation and performance in sodium-ion batteries, enhancing the understanding of their formation processes.
-Journal: *RSC - EES Batteries latest articles*
-
-- **[Revisiting potassium intercalation in graphite: an operando characterisation and computational approach](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D5EB00184F)** — score: 1.000
-The article explores the mechanisms of potassium intercalation in graphite using a multi-modal operando characterization approach to link electrochemical processes with structural changes, enhancing understanding of K-ion storage.
-Journal: *RSC - EES Batteries latest articles*
-
-- **[Visualizing diverse lithium growth and stripping behaviors in anode-free solid-state batteries with operando X-ray tomography](http://pubs.rsc.org/en/Content/ArticleLanding/2025/EB/D5EB00111K)** — score: 1.000
-The article utilizes operando X-ray tomography to visualize and analyze the intricate growth and shedding behaviors of lithium metal electrodes in anode-free solid-state batteries.
-Journal: *RSC - EES Batteries latest articles*
-
-- **[Spatially-resolved degradation in high-voltage single-crystal cathodes and its mitigation via surface structural pillar and kinetic promoter](https://www.sciencedirect.com/science/article/pii/S2405829725008025?dgcid=rss_sd_all)** — score: 1.000
-The article investigates the spatially-resolved degradation of high-voltage single-crystal cathodes and presents strategies for mitigation using surface structural pillars and kinetic promoters.
-Journal: *ScienceDirect Publication: Energy Storage Materials*
-
-- **[Understanding operando electronic resistance variation in Li-ion battery cathode materials using in-plane analysis](https://www.sciencedirect.com/science/article/pii/S2405829725007950?dgcid=rss_sd_all)** — score: 1.000
-The article investigates the changes in electronic resistance of Li-ion battery cathode materials through in-plane analysis, aiming to enhance understanding of battery performance.
-Journal: *ScienceDirect Publication: Energy Storage Materials*
-
-- **[Towards Understanding Electrolyte-Dependant Dynamics and Kinetics of Lithium Deposition and Stripping by <em>Operando</em> Neutron Imaging](https://www.sciencedirect.com/science/article/pii/S2405829725008141?dgcid=rss_sd_all)** — score: 1.000
-The article discusses research on lithium deposition and stripping dynamics in electrolytes using operando neutron imaging, aiming to enhance understanding of these processes for improved energy storage materials.
-Journal: *ScienceDirect Publication: Energy Storage Materials*
-
-- **[[ASAP] Fe-Doped MnO2 Catalysts for Li–O2 Batteries: Mechanistic Insights into Durability Enhancement via Operando XAFS](http://dx.doi.org/10.1021/acsaem.5c03033)** — score: 1.000
-The article investigates the use of Fe-doped MnO2 catalysts in Li-O2 batteries, providing mechanistic insights into how these catalysts enhance durability through operando X-ray absorption fine structure (XAFS) analysis.
+- **[[ASAP] Achieving Stable Zinc Anodes by In Situ Constructing an Artificial Interface Layer with ZnO/Cu Gradient Zinc Affinity](http://dx.doi.org/10.1021/acsaem.5c03352)** — score: 0.400
+The article discusses a method for enhancing the stability of zinc anodes by creating an artificial interface layer using a gradient of zinc oxide and copper affinity, leading to improved performance in energy storage applications.
 Journal: *ACS Applied Energy Materials: Latest Articles (ACS Publications)*
 
-- **[[ASAP] Composite Internal Reflection Element Design for Advanced Electrochemical Attenuated Total Reflection Surface-Enhanced Infrared Absorption Spectroscopy Investigations](http://dx.doi.org/10.1021/acsaem.5c03235)** — score: 1.000
-The article discusses the design of a composite internal reflection element for enhancing electrochemical attenuated total reflection surface-enhanced infrared absorption spectroscopy, aimed at improving investigations in this field.
+- **[Dilute electrolyte-heterostructure interlocking regulates the amorphization conversion of Te cathodes for durable aqueous batteries](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE06107E)** — score: 0.300
+This study introduces a strategy using a dilute electrolyte-heterostructure interlocking approach to facilitate and maintain the reversible conversion between Te and amorphous TeO2 in Te cathodes, enhancing the durability of aqueous batteries.
+Journal: *RSC - Energy Environ. Sci. latest articles*
+
+- **[[ASAP] Emerging Multivalent Electrochromic Batteries: Dual-Function Energy Storage with Visual Intelligence](http://dx.doi.org/10.1021/acsenergylett.5c03306)** — score: 0.300
+The article discusses the development of emerging multivalent electrochromic batteries that integrate energy storage with visual intelligence, offering dual functionalities for enhanced performance.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
+
+- **[Laser Micro/Nano Fabrication of Electrochemical Filtering Capacitors: Multiscale Structural Engineering for High‐Frequency Power Conditioning](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202502620?af=R)** — score: 0.300
+The article discusses the advantages of laser micro/nano fabrication for improving the performance of electrochemical filtering capacitors, highlighting the need for enhanced structural engineering to achieve high-frequency response in compact electronic devices.
+Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+
+- **[Evolution and Underlying Mechanisms of MgH<sub>2</sub> in Amine-Based Electrolytes for Magnesium Metal Batteries](https://www.sciencedirect.com/science/article/pii/S2405829725008396?dgcid=rss_sd_all)** — score: 0.300
+The article discusses the evolution and mechanisms of MgH₂ in amine-based electrolytes for magnesium metal batteries, highlighting advancements in energy storage technologies.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[[ASAP] Navigating the Catholyte Landscape in All-Solid-State Batteries](http://dx.doi.org/10.1021/acsenergylett.5c03429)** — score: 0.300
+The article discusses the development and insights into catholyte materials for all-solid-state batteries, highlighting their significance in enhancing battery performance.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
+
+- **[[ASAP] Primary Particle Thickness of Mn-Based Hydroxide Precursors: Impact on Li-Rich Mn-Based Cathode Structure and Electrochemical Performance](http://dx.doi.org/10.1021/acsaem.5c02836)** — score: 0.300
+The article examines how the thickness of Mn-based hydroxide precursors influences the structural integrity and electrochemical performance of Li-rich Mn-based cathodes.
 Journal: *ACS Applied Energy Materials: Latest Articles (ACS Publications)*
 
-- **[Electrolyte‐Driven Suppression of Oxygen Dimerization and Oxygen Evolution in High‐Voltage Li‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503180?af=R)** — score: 0.900
-The article presents an anthracene-functionalized gel polymer electrolyte that effectively suppresses oxygen dimerization and evolution in high-voltage lithium-ion batteries by stabilizing oxidized surface oxygen and scavenging singlet oxygen, leading to improved battery performance and longevity.
+- **[[ASAP] Trimethyl Glycine Additive Realizes a High-Performance Water-Based Zinc-Ion Battery through Double-Effect Regulation](http://dx.doi.org/10.1021/acs.energyfuels.5c04635)** — score: 0.300
+The article discusses how trimethyl glycine can enhance the performance of water-based zinc-ion batteries through a dual regulatory mechanism.
+Journal: *Energy & Fuels: Latest Articles (ACS Publications)*
+
+- **[[ASAP] HF Etching-Enabled In Situ Growth of a Robust NiFe Prussian Blue Analogue Derivative as an Integrated Electrode for an Efficient Oxygen Evolution Reaction](http://dx.doi.org/10.1021/acs.energyfuels.5c05011)** — score: 0.300
+The article discusses the development of a robust NiFe Prussian Blue analogue derivative integrated as an electrode, leveraging HF etching for in situ growth to enhance efficiency in the oxygen evolution reaction.
+Journal: *Energy & Fuels: Latest Articles (ACS Publications)*
+
+- **[Enhancing Performance of Photoanodes With a Dual‐Redox Mediator for Photoelectrocatalytic Water Splitting](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504315?af=R)** — score: 0.300
+The study presents a BiVO4-based photoanode enhanced by Fe2TiO4 as a dual-redox mediator, achieving a solar-to-hydrogen efficiency of 4.7% by improving charge separation and transfer through modified quasi-Fermi levels.
 Journal: *Wiley: Advanced Energy Materials: Table of Contents*
 
-- **[Tip Effect‐Driven Charge Transport Enhancement in Silicon‐Carbon Anodes for All‐Solid‐State Lithium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504241?af=R)** — score: 0.900
-The article discusses the innovative use of the tip effect in a radial vertical graphene-encapsulated silicon anode to enhance charge transport and solid electrolyte interphase formation in all-solid-state lithium-ion batteries, resulting in improved performance and stability.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Solvation Chemistry‐Driven Interfacial Engineering Enables Reversible Anionic Redox in Sodium‐Layered Oxide Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504397?af=R)** — score: 0.900
-The incorporation of PFPN additive into ester-based electrolytes enhances interfacial chemistry and enables highly reversible anionic redox reactions in sodium-layered oxide cathodes, significantly improving their cycling performance and energy density for sodium-ion batteries.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Thick Electrode Design Enabled by a Carbon–Binder Domain–Resolved Dual‐Pore Transmission Line Model for Lithium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505334?af=R)** — score: 0.900
-The study presents a Dual‐Pore Transmission Line Model (DTLM) to enhance ionic transport in thick lithium-ion battery electrodes by optimizing carbon black and binder ratios, resulting in improved rate capabilities through better electronic and ionic conduction.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Ultrahigh‐Rate Lithium Storage in MoS2 Enabled by Isotropic Ion Transport and Fe‐Atomic Site Conversion](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505600?af=R)** — score: 0.900
-The article presents a method to enhance lithium storage in MoS2 anodes through Fe doping, leading to isotropic ion transport and achieving ultrahigh charging rates of up to 50 A g−1 while maintaining significant capacity, which may benefit fast-charging lithium-ion batteries.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Local Electrochemical Co‐Sintering Enables Stable High‐Loading All‐Solid‐State Silicon Anodes in Li‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504822?af=R)** — score: 0.900
-The article presents a local electrochemical co-sintering (LECS) strategy that enhances the performance of high-loading silicon anodes in all-solid-state lithium-ion batteries by improving transport kinetics and reducing interfacial passivation through a novel silicon gradient architecture.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Challenges and Prospects of Alkali Metal Sulfide Cathodes Toward Advanced Solid‐State Metal‐Sulfur Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503471?af=R)** — score: 0.900
-This review discusses the mechanisms, challenges, and advancements of alkali metal sulfide cathodes in solid-state metal-sulfur batteries, emphasizing their potential for high stability and safety while outlining strategies for future research and development.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Lithiation-dependent solid electrolyte interphase nucleation pathways in Si/Li<sub>6</sub>PS<sub>5</sub>Cl interfaces uncovered by machine learning-accelerated simulations](https://www.sciencedirect.com/science/article/pii/S2405829725008013?dgcid=rss_sd_all)** — score: 0.900
-The article explores lithiation-dependent nucleation pathways of solid electrolyte interphase at silicon and Li6PS5Cl interfaces using machine learning-accelerated simulations to enhance understanding of energy storage materials.
+- **[Dual-Metal Synergy in Fe-Co-based Conjugated Polymer as a Trifunctional Electrocatalyst for Durable Zinc-Air Battery and Self-Sustained Hydrogen Production](https://www.sciencedirect.com/science/article/pii/S2405829725008414?dgcid=rss_sd_all)** — score: 0.300
+This article presents a Fe-Co-based conjugated polymer that acts as a trifunctional electrocatalyst, enhancing the durability and performance of zinc-air batteries and enabling self-sustained hydrogen production through dual-metal synergy.
 Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[3D Tomography of Porous Battery Electrodes with In-situ Contrast Enhancement](https://www.sciencedirect.com/science/article/pii/S2405829725008256?dgcid=rss_sd_all)** — score: 0.900
-The article discusses advancements in 3D tomography techniques for analyzing porous battery electrodes, focusing on in-situ contrast enhancement methods to improve imaging quality.
+- **[A Universal Direct Upcycling Route Based on Framework-to-Layered Structural Conversion for Sustainable Sodium Oxide Cathodes](https://www.sciencedirect.com/science/article/pii/S2405829725008426?dgcid=rss_sd_all)** — score: 0.300
+The article presents a sustainable method for upcycling sodium oxide cathodes by converting framework structures into layered forms, promoting advancements in energy storage materials.
 Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Molecularly Integrated Additive Engineering for Rapid Rejuvenation of Spent Electrolyte](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504796?af=R)** — score: 0.800
-The article introduces a molecularly integrated additive, TMSTz, that effectively addresses issues in spent electrolytes from lithium-ion batteries by neutralizing HF, reducing moisture, and preventing metal dissolution, enabling significant capacity retention and safety improvements for sustainable battery recycling.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Laser-Driven Upcycling of Spent Graphite into Interlayer-Expanded Carbon Nanocages for Fast and Stable K<sup>+</sup>/Li<sup>+</sup> Storage](https://www.sciencedirect.com/science/article/pii/S240582972500844X?dgcid=rss_sd_all)** — score: 0.300
+The article discusses a method for converting spent graphite into interlayer-expanded carbon nanocages using laser technology, enhancing potassium and lithium storage performance.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Hierarchical Fluorinated Polymer Separator Design Mitigating Bilateral Ionic Crosstalk in Aqueous Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505800?af=R)** — score: 0.800
-The study presents a hierarchical fluorinated polymer separator that effectively regulates ion fluxes in aqueous zinc-ion batteries, mitigating bilateral ionic crosstalk and significantly enhancing the battery's cycle life and stability.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Insights into the coupled thermal behavior of silicon/graphite composite anodes in high energy density lithium-ion battery](https://www.sciencedirect.com/science/article/pii/S2405829725008384?dgcid=rss_sd_all)** — score: 0.300
+The article explores the thermal behavior of silicon/graphite composite anodes in high energy density lithium-ion batteries, providing insights into their performance and stability.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Tailored Ordering Enables High‐Capacity Cathode Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503660?af=R)** — score: 0.800
-The article discusses a new computational framework for designing high-capacity Li-ion battery cathodes by investigating the ordering stability of rocksalt-type LiMO2 materials, enabling the development of novel cobalt-free compositions with improved Li diffusion and phase stability.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Tri-functional molecular motif-engineered polymer electrolytes for high-voltage lithium metal batteries](https://www.sciencedirect.com/science/article/pii/S2405829725008323?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the design of tri-functional molecular motif-engineered polymer electrolytes aimed at enhancing the performance of high-voltage lithium metal batteries.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Unveiling Entropy‐Driven Performance Enhancement in Double Perovskite Oxygen Electrodes for Protonic Ceramic Electrochemical Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503176?af=R)** — score: 0.800
-The study reveals that high-entropy double perovskite oxides significantly enhance the electrochemical performance of protonic ceramic electrochemical cells, achieving high power and current densities, which could advance hydrogen production and sustainable energy solutions.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Competitive Coordination Enables Aqueous Four-Electron Zinc-Iodine Batteries over 60,000 Cycles](https://www.sciencedirect.com/science/article/pii/S2405829725008347?dgcid=rss_sd_all)** — score: 0.200
+The article discusses how competitive coordination enhances the performance of aqueous four-electron zinc-iodine batteries, enabling them to sustain over 60,000 charge-discharge cycles.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[MXene‐Scaffolded Planner Mesoporous Carbon with Homogeneous Electric Field Enabling Uniform and Robust SEI for Ultra‐Stable Sodium Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503682?af=R)** — score: 0.800
-The article presents a novel electrode architecture using MXene@mesoporous carbon nanosheets that regulates the electric field for sodium-ion batteries, resulting in a robust and uniform solid electrolyte interphase (SEI) and exceptional cycling stability, achieving 98.4% retention after 10,000 cycles.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Bamboo-Inspired Multilayer Composites Exhibit Record-High Energy Storage at High Temperatures](https://www.sciencedirect.com/science/article/pii/S2405829725008360?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the development of bamboo-inspired multilayer composites that achieve record-high energy storage capabilities at elevated temperatures, showcasing advancements in energy storage materials.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Low‐Reactivity Electrolytes Achieve Safe and Durable Energy‐Dense NCM955|SiC Pouch Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504009?af=R)** — score: 0.800
-The article presents a low-reactivity electrolyte (LRE) designed to enhance thermal stability and safety in energy-dense lithium-ion batteries, significantly improving performance and longevity while reducing combustion risks compared to conventional electrolytes.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[[ASAP] Platinum–Ruthenium Alloys Are Not Bifunctional CO Electro-Oxidation Catalysts: A Kinetic Analysis](http://dx.doi.org/10.1021/acsenergylett.5c03371)** — score: 0.200
+The study reveals that platinum–ruthenium alloys do not function as effective bifunctional catalysts for CO electro-oxidation, based on detailed kinetic analysis.
+Journal: *ACS Energy Letters: Latest Articles (ACS Publications)*
 
-- **[Asymmetric‐Orbital‐Hybridization Induced Electron Redistribution Enabling Stable Sodium Layered Oxides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504261?af=R)** — score: 0.800
-The article presents a strategy for enhancing the stability and capacity of sodium-layered oxide cathodes by utilizing electron redistribution through orbital hybridization, specifically with the compound NaNi0.5Mn0.35Ti0.15O2, which mitigates structural issues and improves redox processes.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[From HF Scavenging to Li‐Ion Transport Enhancement: Multifunctional Separator Enabling Stable Li Metal Batteries in Carbonate‐Based Electrolytes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505601?af=R)** — score: 0.800
-The article introduces a multifunctional separator (APA‐g‐APT) designed to stabilize lithium metal batteries (LMBs) in carbonate-based electrolytes by scavenging HF byproducts and enhancing Li⁺ transport, resulting in improved cycling stability and safety.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Constructing LiMn6 Superlattice Covalent Framework to Enable Reversible Anionic Redox Toward Layer‐Structured Oxide for Sodium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504890?af=R)** — score: 0.800
-The article discusses the construction of a LiMn6 superlattice framework in manganese-based layered oxide cathodes to enhance anionic redox activity and structural stability in sodium batteries, resulting in high energy density and excellent cycling performance.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Insight Into All‐Solid‐State Lithium‐Sulfur Batteries: Challenges and Interface Engineering at the Electrode‐Sulfide Solid Electrolyte Interface](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504926?af=R)** — score: 0.800
-The article reviews recent advancements in all-solid-state lithium-sulfur batteries, highlighting persistent challenges such as low sulfur utilization and interface instability, while discussing strategies for interface engineering and sulfur cathode design to enhance battery performance and longevity.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Prolonging Storage Shelf‐Life of Lithium Metal Batteries with Phase‐Change Electrolyte](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505116?af=R)** — score: 0.800
-A novel temperature-responsive binary phase-change electrolyte (B-PCE) for lithium metal batteries significantly reduces self-discharge, achieving a projected shelf-life of 5.9 years and enhancing cycling performance, making it ideal for long-term energy storage applications.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Prediction of Structural Stability of Layered Oxide Cathode Materials: Combination of Machine Learning and Ab Initio Thermodynamics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505470?af=R)** — score: 0.800
-This study developed a machine learning model combined with ab initio thermodynamics to predict the phase stability of layered oxide cathodes for Na-ion batteries, identifying key factors like transition metal ionic potential and sodium content that influence stability.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Reverse‐Current Induced Cascade Degradation in Ni–Ru Electrodes: Tracing the Path from Noble Metal Loss to Substrate Corrosion](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506081?af=R)** — score: 0.800
-The article examines the degradation process of Ni-Ru electrodes under reverse current in alkaline water electrolysis, revealing a pathway from Ru loss to Ni substrate corrosion, and suggests that reducing reverse current amplitude can significantly mitigate this degradation.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[A Reductively Stable Electrolyte Realizes Deep Cycling Behavior in Anode‐free Sodium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505228?af=R)** — score: 0.800
-The article discusses a novel fluorine-free carborane electrolyte that enhances the cycling stability and coulombic efficiency of anode-free sodium batteries, enabling 1000 cycles with high capacity retention due to its robust solid-electrolyte interphase.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Synergistic Mo/V‐Implanted 2D M3X2 MXene Nanoarchitectures for Enhanced Structural Stability and Ultrahigh Proton Storage Performance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505156?af=R)** — score: 0.800
-The article presents a new medium-entropy TiVMoC2 MXene, achieved through Mo and V implantation into Ti3C2, which enhances structural stability and ultrahigh proton storage performance for energy storage applications, demonstrating exceptional capacitance and long-term durability.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Tuning Hard Carbon Pores at the Ångstrom Scale Facilitates Sodium‐Ion Pre‐Desolvation in High‐Performance Sodium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504760?af=R)** — score: 0.800
-The study presents an engineered hard carbon anode for sodium-ion batteries, featuring pore mouths under 3.5 Å to enhance Na⁺ pre-desolvation, resulting in improved initial Coulombic efficiency, capacity, and cycling stability compared to conventional materials.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[[ASAP] Synthesis of Highly Crystalline α-Formamidinium Lead Triiodide Halide Perovskite Powder via Stoichiometric Control](http://dx.doi.org/10.1021/acsaem.5c02779)** — score: 0.200
+The article discusses the effective synthesis of highly crystalline α-formamidinium lead triiodide halide perovskite powder through precise stoichiometric control, potentially enhancing its applications in energy materials.
+Journal: *ACS Applied Energy Materials: Latest Articles (ACS Publications)*
