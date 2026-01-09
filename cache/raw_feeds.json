@@ -2182,5 +2182,411 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S221128552600008X?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 8 January 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Huize Yang, Wei Wang, Yong Zhu, Yaxue Wang, Yu Wu, Jichao Hong, Shuqiang Jiao</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d62cbaf02435383f",
+    "title": "Thermal Failure Mechanism of Sulfide\u2010Based All\u2010Solid\u2010State Battery with Si\u2010Based Anode",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505623?af=R",
+    "content": "Sulfide solid\u2010state electrolytes (SSEs) paired with silicon\u2010carbon (Si/C) anodes show superior thermal stability compared to liquid electrolytes. However, sulfide SSEs still react with Si/C above 350\u00b0C, producing Li2S, P2Sx, and POx. In full\u2010cells, thermal failure of sulfide\u2010based all\u2010solid\u2010state batteries begins at the cathode side, while the anode reactions above 350\u00b0C intensify failure. This work identifies key failure mechanisms to guide safer all\u2010solid\u2010state battery design.\n\n\n\n\n\n\n\n\nABSTRACT\nSulfide\u2010based all\u2010solid\u2010state batteries (ASSBs) with high\u2010capacity cathodes/anodes are currently the most promising candidates among next\u2010generation power batteries. However, the intrinsic risk of thermal runaway remains a significant safety concern for ASSBs, urging a thorough exploration of their thermal failure mechanisms. Notably, the thermal stability and underlying failure mechanisms between the Si\u2010based anode and sulfide solid\u2010state electrolytes (SSEs) remain unexplored. Herein, we systematically investigate the exothermic behavior of four representative sulfide SSEs with a Si/C anode. Although the sulfide SSEs exhibit superior thermal stability towards Si/C anode compared to liquid electrolytes, with few significant exothermic reactions below 350\u00b0C, they do undergo intense exothermic reactions at higher temperatures. In\u2010depth characterizations identify Li2S, P2Sx, and POx species as the key reaction products, along with a significant amount of heat generation. Furthermore, by integrating reaction mechanisms from both composite anode and cathode, we propose a three\u2010stage thermal failure mechanism of LiNixCoyMnzO2 | sulfide SSE | Si/C ASSB. The thermal failure of ASSB is initiated by the release of oxygen from the cathode, followed by solid\u2013solid reactions between the cathode and sulfide SSEs. The final stage involves the Si/C anode, which participates in a complex chain of exothermic reactions, culminating in catastrophic thermal failure of ASSB.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7b66f346496c8a30",
+    "title": "Manipulating Na/TM Ratio\u2010Driven Structural Heterogeneity of O3\u2010NaNi1/3Fe1/3Mn1/3O2 Cathode for High\u2010Voltage Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505343?af=R",
+    "content": "Stoichiometric Na:TM = 1.00 minimizes microstrain and enables a smooth O3\u2192P$\\rightarrow{\\rm P}$3 transition with uniform Ni\u2010centered redox, giving stable capacity retention to 4.2 V. Na\u2010excess (>>$>$1.00) imprints heterogeneity and cracking, driving two\u2010phase behavior and rapid capacity fade. XRD, SEM, TXM, and XANES together reveal how synthesis stoichiometry governs structure and durability.\n\n\n\n\n\n\n\n\nABSTRACT\nThe stability of O3\u2010type NaNi1/3Fe1/3Mn1/3O2${\\rm NaNi}_{1/3} {\\rm Fe}_{1/3} {\\rm Mn}_{1/3} {\\rm O}_2$ under high\u2010voltage cycling is dictated by how synthesis encodes lattice strain and redox heterogeneity. Here, the role of Na:TM stoichiometry is systematically resolved by tuning the NaOH:precursor ratio during solid\u2010state synthesis. The stoichiometric condition (Na:TM = 1.00) yields minimized microstrain, enabling uniform O3\u2013P3 phase evolution and homogeneous multi\u2010metal redox with preserved octahedral symmetry. In contrast, Na\u2010excess compositions inherit disordered intermediates and heterogeneous distortion fields that trigger abrupt multiphase transitions and promote localized charge redistribution. In situ XRD captures the divergence in phase\u2010transition pathways, TXM resolves particle\u2010level redox heterogeneity, and XANES corroborates a stronger and more reversible Fe redox contribution at stoichiometry, shifting to diminished Fe participation and spatially inhomogeneous redox at higher Na content. These results establish Na:TM stoichiometry as a critical synthesis parameter controlling both structural coherence and redox stability. Electrochemically, the stoichiometric composition exhibits smooth voltage profiles with minimal polarization growth and retains nearly 80% of its initial capacity after 100 cycles even at an extended 4.2\u00a0V cutoff, whereas Na\u2010excess compositions show significantly reduced initial coulombic efficiency and rapid voltage fade. Precise stoichiometric tuning provides a scalable route to defect\u2010suppressed O3 frameworks, enabling structurally resilient, high\u2010voltage sodium\u2010layered\u00a0cathodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f857044e14989c88",
+    "title": "Interface Stabilization via In Situ Lithiated Sn Interlayer in All\u2010Solid\u2010State Li\u2010Metal Batteries: Toward Pellet\u2010Type Cell to Pouch\u2010Type Cell",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505910?af=R",
+    "content": "An in situ lithiated Sn interlayer forms a stable, lithiophilic, and conductive interface that enables durable and scalable pouch\u2010type all\u2010solid\u2010state lithium metal batteries under low pressure.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010solid\u2010state batteries (ASSBs) are among the most promising candidates for next\u2010generation energy storage due to their high energy density and intrinsic safety. However, the practical use of lithium metal anodes in ASSBs remains limited by interfacial instability and dendritic Li growth, particularly under moderate stack pressures. Here, we report a nano\u2010sized tin (nSn) interlayer that forms a highly reversible Li\u2013Sn alloy interface via spontaneous in situ lithiation, offering a robust, lithiophilic, and electronically conductive interface between the Li metal and sulfide\u2010based solid electrolyte. The resulting LixSn layer promotes uniform Li\u2010ion transport, suppresses dendrite formation, and enhances interfacial charge transfer. Symmetric cell measurements demonstrate markedly improved critical current densities and stable cycling, while full\u2010cell tests reveal high Coulombic efficiency, improved rate performance, and excellent capacity retention. The nSn interlayer was further scaled into a sheet\u2010type architecture using a warm isostatic press (WIP) process for integration into pouch\u2010type cells. The pouch cell exhibited high areal capacity, retaining 81% after 500 cycles, and delivered energy densities of 351\u00a0Wh kg\u22121 and 918\u00a0Wh L\u22121 under a low external pressure of 2\u00a0MPa. This work introduces a simple and scalable alloying\u2010based interfacial engineering strategy that enables high\u2010performance, fast\u2010charging ASSBs with practical viability.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "35f1fc88b424dc1a",
+    "title": "Ionic Liquids Electrolytes for High Performance Sodium Batteries\u2014Chemistry, Composition, and Interfaces",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506236?af=R",
+    "content": "This review summarises recent progress on ionic liquid chemistry, electrolyte composition, and interfacial processes in enabling high\u2010performance sodium batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nNovel energy storage and energy generation technologies have been extensively supported by taking advantage of the unique properties of ionic liquids (ILs). In particular, the low volatility, high ionic conductivity, and large chemical and electrochemical stability of some ionic liquid chemistries have been key in the development of high\u2010performance electrolytes for electrochemical devices including sodium batteries. Recently, exploration has turned to modifications in the ionic liquid cation chemistry, as well as the sodium salt concentration, demonstrating significant influence on the anode cycling performance (both metal sodium and hard carbon), while the initial cycling protocols also have a marked effect on cycling stability. While the beneficial properties of ILs in energy storage applications have been well demonstrated, there is still a great deal to learn about their interactions both in the bulk and at electrode interfaces to facilitate further improvements in their chemical design. Future work to advance next\u2010generation sodium battery technologies should focus on the design and synthesis of new IL cations and anions with structural features promoting high sodium ion transport through improved coordination structures, as well as improved understanding of the interface interactions that contribute to improved solid electrolyte interphases solid\u2013electrolyte interphase and uniform sodium plating.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "39a5fcb7992a0578",
+    "title": "[ASAP] Mechanistic Insights into the Roles of Electrolyte Additives in Enhancing CO2 Electroreduction Efficiency",
+    "link": "http://dx.doi.org/10.1021/jacs.5c05446",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c05446/asset/images/medium/ja5c05446_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c05446</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "354d28629614fa63",
+    "title": "[ASAP] Tailoring Lithium-Ion Coordination in Metal\u2013Organic Frameworks via d-Orbital Control for Fast Ion Conduction",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17510",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17510/asset/images/medium/ja5c17510_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17510</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "45bf91d1bbfa4afd",
+    "title": "[ASAP] Optimizing the Stability of Viral Nanoparticles: Engineering Strategies, Applications, and the Emerging Concept of the Virophore",
+    "link": "http://dx.doi.org/10.1021/jacs.5c15092",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c15092/asset/images/medium/ja5c15092_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c15092</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3b0e66852468ffa3",
+    "title": "[ASAP] Integrating High-Density Frustrated Lewis Pairs with Switchable Pt\u2013O\u2013In Motifs to Break the Activity\u2013Selectivity Trade-Off of Methane Photooxidation",
+    "link": "http://dx.doi.org/10.1021/jacs.5c15998",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c15998/asset/images/medium/ja5c15998_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c15998</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a9228394d3eb8e2f",
+    "title": "[ASAP] Pretreatment-Free Direct Seawater Electrolysis Using Chloride-Blocking Bipolar Membranes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16414",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16414/asset/images/medium/ja5c16414_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16414</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4608096ffc67382a",
+    "title": "[ASAP] A Near-Infrared Aptamer:Dye System For Live-Cell Super-Resolution RNA Imaging",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16419",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16419/asset/images/medium/ja5c16419_0011.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16419</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "ace62342f2440220",
+    "title": "[ASAP] Local Symmetry Breaking Induced Superionic Conductivity in Argyrodites",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17193",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17193/asset/images/medium/ja5c17193_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17193</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "24e7c14c06c0bb26",
+    "title": "[ASAP] Chemical Synthesis of Native ADP-Ribosylated Oligonucleotides Enables Analysis of DNA ADP-Ribosylation Hydrolase Specificity",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17532",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17532/asset/images/medium/ja5c17532_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17532</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e4d54b38545f733a",
+    "title": "[ASAP] An Alkaloid Biosynthetic Gene Bundle in Animals",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18350",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18350/asset/images/medium/ja5c18350_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18350</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "0c65f91fd5277c7a",
+    "title": "[ASAP] Cross-Electrophile Coupling of N-Hydroxyphthalimide Esters with Aryl Bromides Using an Inner-Sphere Homogeneous Reductant",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18451",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18451/asset/images/medium/ja5c18451_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18451</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7e0f41a654d5c8a2",
+    "title": "[ASAP] Terminal Conjugation Enables Nanopore Sequencing of Peptides",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18813",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18813/asset/images/medium/ja5c18813_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18813</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "ac56f0fbbd1448df",
+    "title": "[ASAP] A Self-Moderation Mechanism in CO2 Electroreduction Catalyzed by a Cobalt Macrocyclic Complex",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19804",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19804/asset/images/medium/ja5c19804_0014.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19804</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "090ad41330d060ac",
+    "title": "[ASAP] Total Synthesis of (+)-Melicolone K Enabled by a Late-Stage Programmed C\u2013H Functionalization",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20001",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20001/asset/images/medium/ja5c20001_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20001</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "656bed42880512a4",
+    "title": "[ASAP] A Rational Design of Chiral Iron(III) Complexes for Photocatalytic Asymmetric Radical Cation (4 + 2) Cycloadditions and the Total Synthesis of (+)-Heitziamide A",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20243",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20243/asset/images/medium/ja5c20243_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20243</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cc71d8e635ffe3e2",
+    "title": "Materials science, 10 years on",
+    "link": "https://www.nature.com/articles/s41578-025-00881-4",
+    "content": "<p>Nature Reviews Materials, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41578-025-00881-4\">doi:10.1038/s41578-025-00881-4</a></p>As Nature Reviews Materials turns 10, we look back on a decade of achievements and explore how the landscape of materials science has transformed.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "750470479467497a",
+    "title": "This shapeshifting polymer was inspired by octopus skin",
+    "link": "https://www.nature.com/articles/d41586-026-00101-1",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00101-1\">doi:10.1038/d41586-026-00101-1</a></p>A new octopus-inspired polymer can change colour and texture on command.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2c0e8971d148e29f",
+    "title": "Getting to the (square) root of stock-market swings",
+    "link": "https://www.nature.com/articles/d41586-026-00045-6",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00045-6\">doi:10.1038/d41586-026-00045-6</a></p>A huge data set has confirmed a long-theorized relationship between the size of stock trades and the impact on prices.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d08e0ee4744eaeb4",
+    "title": "Disappearing \u2018planet\u2019 reveals a solar system\u2019s turbulent times",
+    "link": "https://www.nature.com/articles/d41586-025-04148-4",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04148-4\">doi:10.1038/d41586-025-04148-4</a></p>What was originally thought to be a planet orbiting the Fomalhaut star was probably just the fallout of a wild collision.",
+    "journal": "Nature"
+  },
+  {
+    "id": "158d6c9fbea230cd",
+    "title": "To infinity and beyond Earth\u2019s pale blue dot: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-00077-y",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00077-y\">doi:10.1038/d41586-026-00077-y</a></p>Andrew Robinson reviews five of the best science picks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "384e7e6d228b0f1c",
+    "title": "\u2018Coming out as a transgender scientist made me the best teacher I\u2019ve ever been\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-00057-2",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00057-2\">doi:10.1038/d41586-026-00057-2</a></p>Shannon Bros and Kihana Wilson outline how academia can better support LGBTQ+ researchers, launching a podcast series about workplace topics that are often off limits.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3fd9f9ec6dc604cc",
+    "title": "AI models were given four weeks of therapy: the results worried researchers",
+    "link": "https://www.nature.com/articles/d41586-025-04112-2",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04112-2\">doi:10.1038/d41586-025-04112-2</a></p>Chatbots put through psychotherapy report trauma and abuse. Authors say models are doing more than role play, but researchers are sceptical.",
+    "journal": "Nature"
+  },
+  {
+    "id": "331951c11434fc9b",
+    "title": "Can\u2019t get motivated? This brain circuit might explain why \u2014 and it can be turned off",
+    "link": "https://www.nature.com/articles/d41586-026-00062-5",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00062-5\">doi:10.1038/d41586-026-00062-5</a></p>Scientists have uncovered a way to manipulate the pathway in monkey brains that puts the brakes on motivation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f76070ec1311d64c",
+    "title": "NASA won\u2019t bring Mars samples back to Earth: this is the science that will be lost",
+    "link": "https://www.nature.com/articles/d41586-026-00060-7",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00060-7\">doi:10.1038/d41586-026-00060-7</a></p>A Congressional bill restores funding for most NASA space science missions, but there is no money for returning samples already collected on the red planet.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1b5130c8f583b518",
+    "title": "We need to talk about salaries in science",
+    "link": "https://www.nature.com/articles/d41586-025-03488-5",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03488-5\">doi:10.1038/d41586-025-03488-5</a></p>Academia too often has a \u2018passion first, money second\u2019 culture. Overcoming this mindset is crucial for building a happy career.",
+    "journal": "Nature"
+  },
+  {
+    "id": "868d9e210b008589",
+    "title": "Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next",
+    "link": "https://www.nature.com/articles/d41586-026-00063-4",
+    "content": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00063-4\">doi:10.1038/d41586-026-00063-4</a></p>Breaking the plasma density limit brings researchers a step closer to viable fusion reactors.",
+    "journal": "Nature"
+  },
+  {
+    "id": "82f8ef2c889c2c3b",
+    "title": "Daily briefing: Octopus-inspired synthetic \u2018skin\u2019 changes appearance on demand",
+    "link": "https://www.nature.com/articles/d41586-026-00080-3",
+    "content": "<p>Nature, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00080-3\">doi:10.1038/d41586-026-00080-3</a></p>A new material can switch from matte to shiny and display a variety of other effects as required. Plus, humans were using poison arrows 60,000 years ago and the quest to authenticate a da Vinci drawing using DNA.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a955892b729c7249",
+    "title": "Grain boundary engineering enables (002)-textured zinc metal anodes with superior reversibility under ultra-high current density",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE06795B",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE06795B, Paper</div><div>Xijun Liu, Le Zhang, Qiangchao Sun, Shuyu Bi, Min  Lin, Guanghui Cao, Xionggang Lu, Hongwei Cheng<br />Aqueous zinc ion batteries (AZIBs) are promising for renewable energy storage due to their inherent safety and reliability. However, zinc anodes are plagued by parasitic reactions, particularly under high-current-density conditions,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "010a6d0ec9123872",
+    "title": "Fused-ring topology orchestrates crystallographic control and polyiodide sequestration for ultra-durable zinc-iodine batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07366A",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07366A, Paper</div><div>Yan Jin, Jihao Qin, Jin Cao, Zhenyang Zhang, Xin An, Shenghan Wang, Xue-Lin Yang<br />Aqueous zinc-iodine batteries present a compelling route for sustainable energy storage yet remain hindered by uncontrolled dendritic growth and the parasitic polyiodide shuttle effect. Here, we surmount these challenges by...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "5a892deee4384adc",
+    "title": "A critical outlook for large-scale all-solid-state batteries",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(25)00450-7?rss=yes",
+    "content": "This commentary examines the practical challenges of scaling all-solid-state batteries, including physical, chemical, electrochemical, mechanical, safety, and cost-related constraints compared with present liquid-based batteries.",
+    "journal": "Joule"
+  },
+  {
+    "id": "8db4a5470289e089",
+    "title": "A just energy transition requires just-shoring critical materials",
+    "link": "https://www.nature.com/articles/s41560-025-01940-4",
+    "content": "<p>Nature Energy, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41560-025-01940-4\">doi:10.1038/s41560-025-01940-4</a></p>A just energy transition requires just-shoring critical materials",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "67bddf936c1769f5",
+    "title": "Observation of anomalous capacity hysteresis in commercial sodium ion batteries at low temperatures",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D5EB00185D",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EB00185D, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Harshitha Marikundam, Selva Seelan  Margoschis, Patricio Solana Bustamante, Bhumika Bhangale, Kumlachew Zelalem Walle, Linqin Mu, Andrew Weng, Nicholas Rolston<br />We report on a surprising low-temperature phenomenon that is unique to Na-ion batteries (NIBs), where the capacity hysteresis ratio, defined as charge capacity divided by discharge capacity, exceeds unity. Specifically,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "61556e49f335192f",
+    "title": "Flexible two-dimensional neural sensors",
+    "link": "https://www.nature.com/articles/s41563-025-02460-y",
+    "content": "<p>Nature Materials, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41563-025-02460-y\">doi:10.1038/s41563-025-02460-y</a></p>Two-dimensional molybdenum disulfide arrays fabricated at wafer scale directly on a flexible substrate create large arrays of dual transistor devices for high sensitivity and multiplexed neural monitoring.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "fb36e48cf84100ab",
+    "title": "Gate structuring on n-type bilayer MoS<sub>2</sub> field-effect transistors for ultrahigh current density",
+    "link": "https://www.nature.com/articles/s41563-025-02452-y",
+    "content": "<p>Nature Materials, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41563-025-02452-y\">doi:10.1038/s41563-025-02452-y</a></p>A dual-gate structure in bilayer MoS2 FETs is reported, allowing a high carrier density by compensating for the fringing field, which holds promise for 2D semiconductor logic applications.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "3126b3e3bab5e500",
+    "title": "Nonflammable F-rich High-Entropy Electrolytes with Manipulated Solvent Coordination for Intrinsically Safe and High-Energy Lithium Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000188?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 9 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zhiwei Ni, Yuan Li, Zhengran Wang, Suyun Liu, Junjie Liu, Chen Yang, Huizi Zhang, Juan Geng, Chenghui Zhang, Shenglin Xiong, Baojuan Xi, Jinkui Feng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5581fddd19e7affb",
+    "title": "Decoupling and Reconstructing Multiscale Ion Transport in PEO-Based Composite Electrolytes via Thermodynamics, Kinetics, and Rational Design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000206?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 9 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jiamin Li, Linhui Chang, Jie Liu, Qiangchao Sun, Xionggang Lu, Hongwei Cheng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "94068a25388fa8bd",
+    "title": "Atomistic Mechanisms of Oxygen-Containing Functional Groups in Hard Carbon Precursors for Enhanced Sodium Storage Performance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600019X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jianhui Chen, Xiaoxia Chen, Bo Xu, Libin Chen, Chenyu Wang, Cuilian Wen, Erhong Song, Baisheng Sa, Musheng Wu, Chuying Ouyang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "be95a0107f0283ff",
+    "title": "[ASAP] Mini Review on the Dynamics and Stability Mechanisms of CO2-Flooding-Produced Crude Oil Foams: Recent Progress and Perspectives",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c03495",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c03495/asset/images/medium/ef5c03495_0016.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c03495</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b6b7e6d1d29007d3",
+    "title": "[ASAP] V2O5/Mesocarbon Microbeads Composites with Oxygen Vacancies as Cathodes for Sodium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05152",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05152/asset/images/medium/ef5c05152_0007.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05152</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "28cff60b8002f82b",
+    "title": "[ASAP] Correction to \u201cUrea Synthesis from N2 and CO2 over Dual-Atom Catalysts: A High-Throughput Computational Insight\u201d",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06390",
+    "content": "<div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06390</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e9027ac0d07088ef",
+    "title": "[ASAP] Geomechanical Alteration of Carbonate Rocks in CO2-Saturated Brine: In-Situ and Ex-Situ Analysis",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c04449",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c04449/asset/images/medium/ef5c04449_0009.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c04449</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "ea863bb5084f2d00",
+    "title": "[ASAP] Mechanism and Synergistic Parameter Optimization of CO2 Huff-n-Puff Technology for Enhanced Oil Recovery in Shale Reservoirs",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c04870",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c04870/asset/images/medium/ef5c04870_0013.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c04870</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7c446d4fb53e5e20",
+    "title": "[ASAP] Transient Multiphase Flow and Mechanistic Gas Hydrate Modeling of an Anti-Agglomerant Field Trial in the Norwegian Continental Shelf",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05369",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05369/asset/images/medium/ef5c05369_0020.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05369</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "24fa71c13c20b881",
+    "title": "[ASAP] Enhancing Stability of Nitrogen Foam by PEG-Coated Silica Nanoparticles for Enhanced Oil Recovery Applications",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05498",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05498/asset/images/medium/ef5c05498_0018.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05498</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b0da323401488f29",
+    "title": "[ASAP] Advancing CO2RR to Highly Selective C2 Products in Flow Cells Using Bimetallic CuM (M = Ag, Ni) Catalysts on Porosity-Controlled Carbon",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05938",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05938/asset/images/medium/ef5c05938_0007.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05938</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2dc6e5eaa6815871",
+    "title": "[ASAP] Strain\u2013Phase Transition Interplay in Perovskites: Coupling Mechanisms and Regulation Strategy",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03359",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03359/asset/images/medium/nz5c03359_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03359</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "59bfc1105d88d8fc",
+    "title": "[ASAP] Crystallization Control in Thermally Evaporated Perovskite Solar Cells and Light-Emitting Diodes",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03255",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03255/asset/images/medium/nz5c03255_0006.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03255</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e667d63face46eb7",
+    "title": "[ASAP] Energy-Efficient Ultrafast van der Waals Floating-Gate Memory Utilizing Memristive Switching of hBN",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03326",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03326/asset/images/medium/nz5c03326_0006.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03326</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "928201fbb70ce9ed",
+    "title": "[ASAP] Operando Time-of-Flight Secondary Ion Mass Spectrometry Visualization of Reversible and Irreversible Reactions in Oxide-Based Solid-State Batteries",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03610",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03610/asset/images/medium/nz5c03610_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03610</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4afa95573c97f5be",
+    "title": "[ASAP] Multimodal Analysis of Short- and Medium-Term Degradation in Multilayered All-Solid-State Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03001",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03001/asset/images/medium/ae5c03001_0005.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03001</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "507a5b9eae58c83e",
+    "title": "[ASAP] Scalable Catalyst Coated Membranes in the Low \u03bcgIr/cm2 Range for Proton Exchange Membrane Water Electrolysis Facilitated by Antimony-Doped Tin Oxide Nanofibers",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c02409",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c02409/asset/images/medium/ae5c02409_0007.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c02409</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "21ca6678630956e3",
+    "title": "[ASAP] A Template-Free Fabrication Strategy for Low-Tortuosity Porous LiCoO2 Thick Electrodes Enabling High-Rate Performance",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03065",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03065/asset/images/medium/ae5c03065_0006.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03065</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "25b421e8d10579b0",
+    "title": "[ASAP] Understanding the Influence of Chain Architecture on the Transport Quantities of Polymer Electrolytes with Covalently Bonded Anions",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03346",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03346/asset/images/medium/ae5c03346_0008.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03346</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "284d4851196547fd",
+    "title": "Breaking the Cost-Performance Trade-off in Electrocaloric Cooling via High-Entropy Engineered Multilayer Ceramics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000133?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 9 January 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hao Wang, Ziyue Ma, Le Zhang, Qi Zhang, Guangzhi Dong, Zhonglin Wang, Biaolin Peng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "916568f8a05197ca",
+    "title": "Ultrasensitive Sn-Pb perovskite photodetector for monolithic near-infrared imaging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000091?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 January 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Haotian Bao, Yuxuan Sun, Liang Chu, Jingjing Liu, Zhihao Chen, Guofeng Zhang, Ruiyun Chen, Changgang Yang, Jiang Wang, Suotang Jia, Chengbing Qin, Liantuan Xiao, Zhichun Yang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
