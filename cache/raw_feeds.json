@@ -2756,5 +2756,110 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S221128552600011X?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 9 January 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jiafu Shen, Yiminghao Wang, Weidong Nie, Yu Dai, Fan Xia, Xiaojin Zhang</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "44f0fbdd024a8df4",
+    "title": "Machine Learning Driven High\u2010Throughput Screening of Asymmetric Dinuclear Cobalt for Nitrate\u2010to\u2010Ammonia Reduction with Near\u2010100% Selectivity",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506009?af=R",
+    "content": "In this study, with the AEI machine learning descriptor as the core driving force, the sulfur\u2010doped asymmetric dinuclear cobalt catalyst (Co2/NSC) was efficiently screened out, successfully overcoming core bottlenecks such as low selectivity and slow kinetics in the electrocatalytic nitrate reduction reaction (NO3RR) process. This catalyst not only exhibits a near\u2010100% ammonia Faradaic efficiency and excellent stability but also proves its industrial application potential through techno\u2010economic analysis. This research forms a complete logical chain of \u201cdata\u2010driven \u2010 catalytic breakthrough \u2010 industrial adaptation\u201d and provides key support for the development of nitrate reduction to ammonia technology.\n\n\n\n\n\n\n\n\nABSTRACT\nThe electrocatalytic nitrate reduction reaction (NO3RR) offers a promising way to reduce pollutants and synthesis ammonia. However, it is fraught with problems such as unbalanced adsorption\u2013desorption of intermediates, insufficient H* supply, and competing hydrogen evolution. Dual\u2010atom catalysts (DACs) have emerged as promising candidates, but their rational design faces obstacles in balancing element selection and performance. To address this, we employed high\u2010throughput calculations and machine learning to screen a series of DACs for NO3RR. Am+${\\mathrm{A}}_{\\mathrm{m}}^ + $, dm1\u2010dm2 and Qm+${\\mathrm{Q}}_{\\mathrm{m}}^ + $ were identified as key features. Based on interpretable SHAP analysis, we predicted and developed a sulphur\u2010doped, asymmetric, dinuclear cobalt catalyst (Co2/NSC). Experiments show that this catalyst achieves a Faradaic efficiency of 99.95% for NH3 production at \u22120.2\u00a0V vs. RHE, with a maximum yield of 101.19\u00a0mg h\u22121 mgcat\u22121 at \u22120.4\u00a0V vs. RHE. The underlying mechanism and DFT calculations indicate that dinuclear Co sites enhance *NO3\u2212 adsorption and reduce the energy barrier of the rate\u2010determining step *NO\u2192*NHO; sulphur doping facilitates active *H supply and stabilizes the *NHO intermediate via an S\u2500H/O\u2500H hydrogen bonding network, suppressing side reactions. In addition, the integrated membrane electrode assembly system and the technical\u2010economic analysis confirm the practical applicability and economic viability of this process.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2d673409631bedd0",
+    "title": "Crystal Growth Regulation and Iodine Management for High Performance Inverted Inorganic Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506630?af=R",
+    "content": "4\u2010Chlorobenzenesulfinic acid strongly coordinates with octahedra to accelerate the ion exchange process dominated by DMAI volatilization and cesium ion intercalation, inducing uniform nucleation and the formation of large grain size. Meanwhile, CBSA locks iodide ions through hydrogen bonding to reduce the formation of iodine defects and iodine species. The modified device achieves a PCE of 21.67% and improves stability.\n\n\n\n\n\n\n\n\nABSTRACT\nLead coordination chemical environment and intermolecular interactions in the precursor solution influence crystallization kinetics and defect distribution of inorganic perovskite. Meanwhile, inhibiting the formation of iodine related species is crucial for mitigating inorganic perovskite decomposition. Here, we introduce 4\u2010chlorobenzenesulfinic acid (CBSA), a Lewis base with strong coordination ability, into the inorganic perovskite precursor solution to modulate Pb2+ chemistry environment and implement iodine management. The robust interaction between CBSA and [PbI6]4\u2212 octahedra promotes the ion exchange process dominated by DMAI volatilization and cesium ion intercalation, inducing uniform nucleation and the formation of large grains size. Moreover, CBSA locks iodide ions through hydrogen bonding to reduce the formation of iodine defects and iodine species, while reducing trap density and alleviating perovskite decomposition by passivating undercoordinated lead defects. Ultimately, the power conversion efficiency (PCE) of inverted inorganic perovskite solar cells (IPSCs) with CBSA is increased from 18.88% to 21.67%. More importantly, unencapsulated devices maintained 95% of their initial efficiency after 550\u00a0h of maximum power point tracking (MPPT) under continuous 1\u2010sun illumination, demonstrating exceptional operational stability.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "473af6e062e88bc1",
+    "title": "Design Matters: How Cell Architecture Shapes the Performance, Cost, and Environmental Impact of Battery Technologies",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505532?af=R",
+    "content": "This study introduces a multidimensional framework integrating electrical performance, cost, and life cycle assessment for 140 real and virtual battery cells. Results show that LFP offers low emissions and costs, sodium\u2010ion excels in resource efficiency, and pouch housings and higher energy densities effectively reduce environmental burdens.\n\n\n\n\n\n\n\n\nABSTRACT\nThe mounting demand for battery cells in the context of the energy transition necessitates evaluation methodologies that extend beyond mere performance metrics. This work presents a multidimensional framework that simultaneously integrates electrical performance, economic costs, and life cycle assessment into a consistent analysis of real and virtual cells. In total 140 cells were modeled, covering commercial chemistries and systematically permuted configurations. The framework enables systematic comparisons of real commercial cells and virtual redesigns by varying cell parameters under consistent boundary conditions without unintended side effects. Ultra high energy cells were generated, achieving very high energy densities under idealized design assumptions. Lithium\u2010iron\u2010phosphate (LFP) battery cells exhibit global warming potential values of 53\u221263kgCO2-EqkWh$53-63\\, \\textit{kg}\\, C{O}_{2}\\text{-Eq}\\text{kWh}$, while sodium\u2010ion batteries (SiB) show a slightly higher range of 59\u221272kgCO2-EqkWh$59-72\\, \\textit{kg}\\, C{O}_{2}\\text{-Eq}\\text{kWh}$. Depending on housing and anode composition, production costs range from 32.7\u20ac/kWh$32.7\\, \\euro /kWh$\u201369.3\u20ac/kWh$69.3\\, \\euro /kWh$ for LFP and 31.7\u20ac/kWh$31.7\\, \\euro /kWh$\u201382.4\u20ac/kWh$82.4\\, \\euro /kWh$ for SiB. SiB cells achieve mineral resource scarcity values of about 5kgCu-EqkWh$5\\, \\textit{kg}\\, \\textit{Cu}\\text{-Eq}\\text{kWh}$, three times lower than lithium\u2010ion batteries. Cathode chemistry proves decisive for ecological performance, with nickel sulfate\u2010based precursors showing the highest acidification values and LFP cells showing the lowest. Housing design plays an important role: pouch formats minimize costs and emissions. Systematic permutations show that increasing energy density is a key lever to lower environmental\u00a0burdens.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "5890e770c79a1fe7",
+    "title": "[ASAP] Reversibly Redox-Active Iron Oxide Structures in FeNC Catalysts Identified by Microscopy and Spectroelectrochemical EPR and M\u00f6ssbauer Methods",
+    "link": "http://dx.doi.org/10.1021/jacs.5c12396",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c12396/asset/images/medium/ja5c12396_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c12396</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e7cb57bb49379284",
+    "title": "[ASAP] Linkage-Editing of \u03b2-Glucosylceramide and \u03b2-Glucosylcholesterol: Development of \u03b2-Selective C-Glucosylation and Potent Mincle Ligands",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17740",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17740/asset/images/medium/ja5c17740_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17740</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2c20723406a90bb0",
+    "title": "[ASAP] Br-Mediated Spin-State Control in Nickelocene and Cobaltocene",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17873",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17873/asset/images/medium/ja5c17873_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17873</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1c0d6fd92032510f",
+    "title": "[ASAP] Torsional Flexibility Tuning of Hexa-Carboxylate Ligands to Unlock Distinct Topological Access to Zirconium Metal\u2013Organic Frameworks",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19258",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19258/asset/images/medium/ja5c19258_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19258</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cef5fecf5390ae75",
+    "title": "[ASAP] Stability and Degradation-based Proteome Profiling Reveals Cannabidiol as a Promising CDC123-eIF2\u03b3 Inhibitor for Colorectal Cancer Therapy",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20040",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20040/asset/images/medium/ja5c20040_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20040</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dad0944589bbedab",
+    "title": "Thermodynamically Tuned Element Diffusion Enables Ultrafast Kinetics and Structural Reversibility in Grain-Refined LiMn<sub>0.8</sub>Fe<sub>0.2</sub>PO<sub>4</sub> Cathodes for High-Energy-Density Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000267?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yuanpeng Cao, Wenhui Tu, Jingjing He, Jianguo Duan, Runlin Li, Xinyu Zhang, Chenyi Huang, Liqi Li, Yingjie Zhang, Yuanbing Wang, Peng Dong, Xianshu Wang, Ding Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "7aa4ba1428cb07fe",
+    "title": "[ASAP] Terahertz Imaging of Early Stage Thermal Transformations in Oil Shale",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05476",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05476/asset/images/medium/ef5c05476_0007.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05476</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "81d21ce745f9c3b2",
+    "title": "[ASAP] Resistivity Response of Hydrate-Bearing Silty-Clayey Sediments under Temperature-Electricity-Mechanical Coupling Properties",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05714",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05714/asset/images/medium/ef5c05714_0017.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05714</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dcaf950ca7ae7696",
+    "title": "[ASAP] Simply Fabricatable Reference Electrode for Studying Li Metal Interfaces Operando",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03496",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03496/asset/images/medium/nz5c03496_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03496</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "73523df5a2f9d0b4",
+    "title": "[ASAP] A Perspective on Surface-Engineering Strategies for Selective Photocatalytic Biomass Valorization",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03687",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03687/asset/images/medium/nz5c03687_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03687</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4e8f8b06185df946",
+    "title": "[ASAP] Fluorinated Elastomeric Protective Layers with Controlled Solvophobic Properties for Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04250",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04250/asset/images/medium/nz5c04250_0008.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04250</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "94f0b6986164d411",
+    "title": "Electrochemical-mechanical regulation of lithium deposition morphology in lithium metal batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000170?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 January 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xuzhi Zhang, Yunan Liu, Libo Men, Rong Xu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
