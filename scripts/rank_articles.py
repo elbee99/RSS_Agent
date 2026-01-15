@@ -56,13 +56,13 @@ def get_summary(title, content):
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "Provide a concise 1-2 line summary of the following article abstract."},
+            {"role": "system", "content": "Provide a concise 2-3 line summary of the following article abstract, giving more detail than just rewording the title."},
             {"role": "user", "content": text}
         ]
     )
     return response.choices[0].message.content.strip()
 
-def rank_articles(threshold=0.80, keep_top_n=50):
+def rank_articles(threshold=0.50, keep_top_n=50):
     with open(RAW_FEED_CACHE, "r") as f:
         articles = json.load(f)
 
@@ -87,9 +87,10 @@ def rank_articles(threshold=0.80, keep_top_n=50):
     ranked_sorted = sorted(ranked, key=lambda x: x["score"], reverse=True)
 
     # Filter: keep only top N OR those above threshold
-    filtered = [a for a in ranked_sorted if a["score"] >= threshold]
-    if len(filtered) < keep_top_n:
-        filtered = ranked_sorted[:keep_top_n]
+    filtered = [
+        a for a in ranked_sorted
+        if a["score"] >= threshold
+    ][:keep_top_n]
 
     # Save all ranked results for later analysis
     with open(RANKED_CACHE, "w") as f:
