@@ -1,0 +1,282 @@
+[
+  {
+    "id": "313bb81ec9203a9b",
+    "title": "Deriving Stable SEI Layer and Preventing Aluminum Current Collector Corrosion via Preferential Decomposition of Concentrated Lithium Salt for Lithium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504436?af=R",
+    "content": "Applying a highly concentrated lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) trapped within a polymer matrix on the anode significantly enhances the cycling stability of lithium\u2010ion batteries with high\u2010loading electrodes. This spatial confinement of LiTFSI induces preferential decomposition at the anode surface, thereby forming a stable, inorganic\u2010rich SEI layer, while LiPF6 in the bulk electrolyte prevents aluminum current collector corrosion caused by LiTFSI.\n\n\n\n\n\n\n\n\nABSTRACT\nAmong promising lithium salts for electrolyte in lithium\u2010ion batteries (LIBs), lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) forms a more stable inorganic\u2010rich SEI layer. However, its implementation is limited by severe aluminum current collector corrosion. Since lithium hexafluorophosphate (LiPF6) contributes a stable passivation layer for aluminum, a simply\u2010mixed LiPF6\u2010LiTFSI dual\u2010salt electrolyte offers reduced corrosion. However, its corrosion inhibition capability is not complete. Herein, we propose a SEI\u2010stabilizing and corrosion\u2010preventing layer (SCL) that realizes spatial separation of salts, which confines concentrated LiTFSI within a polyethylene glycol dimethacrylate (PEGDMA) network at the anode\u2010LiPF6 electrolyte interface. The locally high concentration of LiTFSI in SCL induces a kinetic preference that overrides the thermodynamic preference of LiPF6, which enables targeted decomposition of LiTFSI to form a robust SEI layer, while using only a small amount of LiTFSI. Furthermore, SCL demonstrates excellent corrosion\u2010inhibiting behavior compared to a simply\u2010mixed LiPF6\u2010LiTFSI dual\u2010salt electrolyte. Consequently, SCL enables stable cycling of high\u2010loading (21.4\u00a0mg cm\u22122) practical NCM811/graphite full cells with 93.57% capacity retention after 100 cycles at a high current density of 2.2\u00a0mA cm\u22122. This strategy enables selective electrochemical reactions through spatial confinement to enhance LIB performance, while suppressing side reactions and reducing costs, providing a scalable approach for next\u2010generation electrolyte design.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7d8acf7b73d1d64e",
+    "title": "Molecular Engineering of Asymmetric Narrow\u2010Gap Acceptors for High\u2010Performance Semitransparent Organic Solar Cells and Modules with Minimized Energy Losses",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505706?af=R",
+    "content": "A series of low\u2010gap vinylene \u03c0\u2010bridge based nonfullerene materials with low non\u2010radiative recombination losses are synthesized. The optimized PCE10:eC9\u2010V\u20102Cl blend, processed from a green\u2010solvent in an inverted architecture, achieves remarkable PCEs of 14.2% (opaque) and 9.9% (semi\u2010transparent, AVT\u00a0=\u00a042.6%) with a minimal voltage loss of \u223c250 mV. Scaling to 5 \u00d7 5 cm2 ST\u2010OSC modules, an active\u2010area efficiency of \u22489% was reached with a remarkably high geometric fill factor (GFF) of 96.5%.\n\n\n\n\n\n\n\n\nABSTRACT\nOvercoming the inherent trade\u2010off between near\u2010infrared photon harvesting and high open\u2010circuit voltage losses in bulk\u2010heterojunction blends is critical for advancing semi\u2010transparent organic solar cells (ST\u2010OSC). Herein, we present a molecular design that combines vinylene \u03c0\u2010bridge incorporation and terminal\u2010group halogenation to tailor energy level alignment and blend morphology with PCE10 donor. These designed materials (eC9\u2010V\u20102Cl(\u20104Cl) and eC9\u2010DV\u20102Cl) exhibit broadened NIR absorption (up to 1020\u00a0nm) and significantly reduce non\u2010radiative recombination voltage loss by a maximum of \u223c100\u00a0mV compared to the standard PCE10:BTP\u2010eC9 device. The optimized PCE10:eC9\u2010V\u20102Cl blend, processed from a green solvent in an inverted structure, achieves a remarkable power conversion efficiency (PCE) of 14.2% for opaque devices with a minimal voltage loss of \u223c250\u00a0mV. Furthermore, a simply 1D double\u2010layered nano\u2010photoinc structure (LiF/MoO3) as an optical out\u2010coupling layer was integrated into the ST\u2010OSC, delivering a PCE of 9.9% with an average visible transmittance (AVT) of 42.6%, and yielding a light utilization efficiency (LUE) of 4.3%. Scaling to 5 \u00d7 5 cm2 ST\u2010OSC modules, an active\u2010area efficiency of \u22489% was reached with a remarkably high geometric fill factor of 96.5%. These findings provide new molecular design principles for high\u2010performance ST\u2010OSCs, making these devices highly attractive for sustainable and scalable applications like energy\u2010saving agrivoltaic systems and aesthetically transparent solar windows.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "26f8a7a441b385f0",
+    "title": "Geometric Remodeling of Silicon Crystal Structure Through Atomic\u2010Level Fluorine Incorporation for High\u2010Performance Lithium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504961?af=R",
+    "content": "The fluorine incorporation enables geometric modulation of the silicon crystal through a novel solid\u2010vapor\u2010solid synthetic process. This remodeling induces the reconstruction of band structure and the expansion of hexagonal region, which accelerates the movement of both electrons and ions within the material and electrode structures. The structural enhancement facilitates the fast\u2010charging and cycle stability of a pure silicon anode.\n\n\n\n\n\n\n\n\nABSTRACT\nSustainable electrification continues to drive growing interest in high\u2010performance lithium\u2010ion batteries (LIBs), which are essential energy storage systems for this transition. However, conventional graphite\u2010based LIBs cannot meet the stringent requirements of next\u2010generation applications, necessitating advanced alternatives. Herein, we report the design of fluorine\u2010incorporated silicon (FIS) nanostructures through a novel solid\u2013vapor\u2013solid synthesis method that integrates metallothermic reduction with combined top\u2010down and bottom\u2010up processes. Crucially, fluorine (F) atoms are inherently positioned both at interstitial sites within the silicon (Si) lattice and on the particle surface. Interstitial F modifies the direct\u2010allowed band structure of Si and expands lithium penetration pathways, thereby enhancing charge transport through improved electronic conductivity and ion migration. Meanwhile, surface\u2010bound F induces superhydrophobicity, enabling hydrofluoric acid\u2010free processing during both synthesis and electrode fabrication. Comprehensively, unveiled features of FIS offer a cost\u2010effective manufacturing, improved structural and electrochemical stability, and superior performance, leading to cycle\u2010stable, fast\u2010charging Si anodes for advanced LIBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c63a49ce5c0aad4e",
+    "title": "Low\u2010Cost Layered Cathodes Toward Practical Sodium\u2010Ion Batteries: Scientific Challenges, Resolution Strategies, and Economic Efficiency",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506411?af=R",
+    "content": "To further enhance the environmental sustainability and cost advantages of sodium\u2010ion batteries, it is essential to develop low\u2010cost nickel\u2010free layered oxide cathode materials. From the perspectives of cost and electrochemical performance, this review discusses the feasibility of replacing Ni2+/Ni4+ with Fe3+/Fe4+ and Mn3+/Mn4+ for charge compensation in sodium\u2010ion batteries, with the resulting key scientific challenges and effective solution strategies summarized.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium\u2010ion batteries (LIBs) are the most widely used commercial rechargeable batteries, but the stable supply of key raw materials such as lithium, nickel, and cobalt faces challenges. Sodium\u2010ion batteries (SIBs) are considered as potential alternatives and complements to LIBs due to similar working principles and the abundance of sodium resources. Layered oxide cathode materials (LOCMs) are recognized as one of the most promising practical cathodes for SIBs because of mature synthesis technology and satisfactory energy density. However, the use of nickel in LOCMs for SIBs has raised concerns about environmental pollution during nickel production and the risk of price volatility stemming from the widespread application of high\u2010nickel LOCMs for LIBs. Therefore, developing low\u2010cost nickel\u2010free LOCMs is crucial for enhancing the environmental friendliness and cost advantages of SIBs. For low\u2010cost LOCMs, this review discusses the feasibility of replacing Ni2+/Ni4+ with Fe3+/Fe4+ and Mn3+/Mn4+ for charge compensation in SIBs, and summarizes the resulting critical scientific challenges (Fe migration, Mn dissolution, Jahn\u2010Teller effect, Na deficiency, and thermal instability). Economic efficiency assessment based on cost and electrochemical properties indicates that low\u2010cost LOCMs exhibit the highest cost\u2010performance ratio. Finally, to accelerate the commercialization of cost\u2010effective SIBs technologies, this review outlines promising development pathways of low\u2010cost LOCMs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fe3510967604ab87",
+    "title": "Constructing Integrated Dual\u2010Skin\u2010Layer Porous Membranes via a Bottom\u2010Up Phase Inversion Relay Strategy for Flow Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506085?af=R",
+    "content": "This study reports an integrated dual\u2010skin\u2010layer porous membrane fabricated via a bottom\u2010up relay phase inversion strategy, overcoming the long\u2010standing trade\u2010off in traditional porous membranes. Bilateral skin layers protect the macropore support layer, suppressing fouling and enhancing mechanical robustness. Tunable sub\u2010nanometer pores and an integrated symmetric architecture align well with flow batteries, enabling efficient and durable operation.\n\n\n\n\n\n\n\n\nABSTRACT\nA bottom\u2010up relay strategy is first proposed to fabricate integrated dual\u2010skin\u2010layer porous membranes (macropore layer between bilateral skin layers) by ingeniously introducing a non\u2010solvent carrier. Benefiting from the phase inversion relay process, bilateral skin layers can be tailored freely, where ethylene glycol in the non\u2010solvent carrier effectively regulates the structure of the bottom skin layer by adjusting the ratio of free water to bound water. Thus, a dual\u2010skin\u2010layer membrane is designed and applied in a vanadium flow battery (VFB), that features symmetric skin layers (\u223c600\u00a0nm) with sub\u2010nanometer (\u223c4.5\u00a0\u00c5) pores. The symmetric structure reduces the pressure required for proton migration via the Vehicle mechanism, and the sub\u2010nanometer pores effectively separate vanadium ions from protons by size exclusion, breaking the trade\u2010off in traditional membranes. Moreover, the bilateral skin layers protect the macropore layer against the vanadium fouling and mechanical damage. Furthermore, the formation mechanism and ion transport dynamics of the dual\u2010skin\u2010layer membrane are analyzed by molecular dynamics and multi\u2010physical field simulation. As a result, the optimized membrane enables stable VFB operation for over 6000 cycles at 200\u00a0mA cm\u22122 with energy efficiency of \u223c83.6%. This work provides an effective approach to prepare integrated symmetric membranes with bilateral skin layers.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4d862404f8693348",
+    "title": "[ASAP] The Heterogeneous Charge Transfer Mechanism in Lithium Metal Batteries: Revealing Abnormal Lithiophilicity through the Marcus Theory",
+    "link": "http://dx.doi.org/10.1021/jacs.5c12858",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c12858/asset/images/medium/ja5c12858_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c12858</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8acc3c2457613df0",
+    "title": "[ASAP] Advanced Molecular Tweezers Effectively Target Membranes Lacking Choline Headgroups for Broad-Spectrum Antiviral Efficacy",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19450",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19450/asset/images/medium/ja5c19450_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19450</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "96bffab2cea52480",
+    "title": "[ASAP] A Diazo-free Equivalent of the Unsubstituted Carbyne Cation: Straightforward Synthesis of Naphthalenes and Pyridines via [12/13CH]+ Insertion",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21901",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21901/asset/images/medium/ja5c21901_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21901</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5a5bc4a82146fba4",
+    "title": "[ASAP] Lanthanum-Induced Quasi-Covalent Bonding and Chemical Potential Bridging in Pt3Co Intermetallic Catalysts for Durable Fuel Cells",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16692",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16692/asset/images/medium/ja5c16692_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16692</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "14fe8e928546e420",
+    "title": "[ASAP] Construction of Three-Dimensional Covalent Organic Frameworks for Photocatalytic Synthesis of 2,3-Dihydrobenzofuran Derivatives",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19165",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19165/asset/images/medium/ja5c19165_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19165</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "42450ace7750e179",
+    "title": "[ASAP] Oxidative Peptide Backbone Cleavage by a HEXXH Enzyme during RiPP Biosynthesis",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19246",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19246/asset/images/medium/ja5c19246_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19246</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "daac103e23fad13e",
+    "title": "[ASAP] Correction to \u201cEnantioselective Synthesis of 2,3-Disubstituted Azetidines via Copper-Catalyzed Boryl Allylation of Azetines\u201d",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22357",
+    "content": "<div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22357</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4596536034cb3768",
+    "title": "Guidelines for robust and reproducible point defect simulations in crystals",
+    "link": "https://www.nature.com/articles/s41578-025-00879-y",
+    "content": "<p>Nature Reviews Materials, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41578-025-00879-y\">doi:10.1038/s41578-025-00879-y</a></p>Point defects critically influence material properties and require accurate computational modelling for reliable predictions. This Perspective outlines best practices for defect simulations using supercell approaches, emphasizing methodological transparency, reproducibility and robust reporting to improve consistency and integration with experimental studies.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "d26e680d6bdbce6a",
+    "title": "Collective intelligence for AI-assisted chemical synthesis",
+    "link": "https://www.nature.com/articles/s41586-026-10131-4",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10131-4\">doi:10.1038/s41586-026-10131-4</a></p>Collective intelligence for AI-assisted chemical synthesis",
+    "journal": "Nature"
+  },
+  {
+    "id": "51a83b2e9258f2f9",
+    "title": "Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "link": "https://www.nature.com/articles/s41586-026-10108-3",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10108-3\">doi:10.1038/s41586-026-10108-3</a></p>Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "journal": "Nature"
+  },
+  {
+    "id": "4c618c7e6cd9f0c8",
+    "title": "Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "link": "https://www.nature.com/articles/s41586-025-10080-4",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10080-4\">doi:10.1038/s41586-025-10080-4</a></p>Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "journal": "Nature"
+  },
+  {
+    "id": "f2d7b271b37ce329",
+    "title": "Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "link": "https://www.nature.com/articles/s41586-025-09992-y",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09992-y\">doi:10.1038/s41586-025-09992-y</a></p>Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "journal": "Nature"
+  },
+  {
+    "id": "4071db67aa41b354",
+    "title": "Floating science stations: my month on a research vessel looking after buoys",
+    "link": "https://www.nature.com/articles/d41586-026-00189-5",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00189-5\">doi:10.1038/d41586-026-00189-5</a></p>Physical oceanographer Melina M. Martinez finds ways to gather ocean data off the coast of Argentina.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bccfb78b8b98e662",
+    "title": "\u2018Greed is the iron cage of our times\u2019 \u2014 why nationalism is here to stay",
+    "link": "https://www.nature.com/articles/d41586-026-00186-8",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00186-8\">doi:10.1038/d41586-026-00186-8</a></p>A generation that missed out on economic growth is driving the trends overtaking politics today.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cfcba1d5f9b7eded",
+    "title": "Can \u2018toxic masculinity\u2019 be measured? Scientists try to quantify controversial term",
+    "link": "https://www.nature.com/articles/d41586-026-00144-4",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00144-4\">doi:10.1038/d41586-026-00144-4</a></p>A study has outlined eight indicators of toxic masculinity in heterosexual men \u2014 and finds that \u2018manliness\u2019 is not necessarily a problematic aspect of masculinity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b6ea0522030107eb",
+    "title": "Forget formalism: mathematics was built on infighting and emotional turmoil",
+    "link": "https://www.nature.com/articles/d41586-026-00187-7",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00187-7\">doi:10.1038/d41586-026-00187-7</a></p>A fast-paced book captures how theory and formal proof intertwined with the personal lives of prominent mathematicians.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0233e0f2f2290c1f",
+    "title": "I\u2019m going to halve my publication output. You should consider slow science, too",
+    "link": "https://www.nature.com/articles/d41586-025-04061-w",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04061-w\">doi:10.1038/d41586-025-04061-w</a></p>If we don\u2019t slow down, the research enterprise is going to crash, argues Adrian Barnett.",
+    "journal": "Nature"
+  },
+  {
+    "id": "495f54e274c4b7b3",
+    "title": "Daily briefing: Symbols on ancient pottery could be earliest evidence of mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-00201-y",
+    "content": "<p>Nature, Published online: 16 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00201-y\">doi:10.1038/d41586-026-00201-y</a></p>Painted flowers reveal an understanding of symmetry and spatial division long before written numbers came into use. Plus, travel the vast ocean with sea turtles and what to watch from the Trump administration in 2026.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7da531be2c1e0eec",
+    "title": "Exploring a Scalable Route for Efficient Flexible Perovskite Solar Cells via Amphiphilic Cross-linkable Monomer",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07050C",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07050C, Paper</div><div>Chenfan  Xing, Weifu  Zhang, Hengyu  Zhou, Jiahan Xie, Shuaizhen  Huang, Simeng  Gao, Leixi  He, Zhongqiang Wang, Lin  Xie, Mengjin Yang, Wei Song, Ziyi Ge<br />Flexible perovskite solar cells (f-PSCs) hold great promise for complementing traditional silicon solar cells in portable power applications, but their commercialization depends on the ability to scale-up solution-based deposition. So...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3d632c2e6547d3a3",
+    "title": "Managing the geopolitics of Europe\u2019s fossil-fuel exit",
+    "link": "https://www.nature.com/articles/s41560-025-01957-9",
+    "content": "<p>Nature Energy, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41560-025-01957-9\">doi:10.1038/s41560-025-01957-9</a></p>As Europe gradually phases out its fossil-fuel imports, some producer economies face rising risks. With careful management, the European Union can turn this shift into an opportunity to advance both climate leadership and geopolitical stability.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "a1547bcc512315f7",
+    "title": "Atomistic origins of anharmonic lattice dynamics and thermal expansion in perovskite photovoltaics",
+    "link": "https://www.nature.com/articles/s41560-025-01938-y",
+    "content": "<p>Nature Energy, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41560-025-01938-y\">doi:10.1038/s41560-025-01938-y</a></p>Metal halide perovskites exhibit anharmonic lattice vibrations, which lead to high rates of thermal expansion in solar cells. In this Review, Julian A. Steele links the atomistic origins of these effects to the macroscopic thermo-mechanical properties of the materials and devices.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "dfa4772a6d303306",
+    "title": "Long-range chemical signalling in vivo is regulated by mechanical signals",
+    "link": "https://www.nature.com/articles/s41563-025-02463-9",
+    "content": "<p>Nature Materials, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41563-025-02463-9\">doi:10.1038/s41563-025-02463-9</a></p>Tissue stiffness mediated by Piezo1 is shown to regulate the expression of diffusive guidance cues in the developing Xenopus laevis brain, revealing a crosstalk between mechanical signals and long-range chemical signalling.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "af965636fe3adfd0",
+    "title": "Cell viscosity influences haematogenous dissemination and metastatic extravasation of tumour cells",
+    "link": "https://www.nature.com/articles/s41563-025-02462-w",
+    "content": "<p>Nature Materials, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41563-025-02462-w\">doi:10.1038/s41563-025-02462-w</a></p>The viscosity of tumour cells is shown to govern their ability to disseminate through the bloodstream and extravasate, establishing a key biomechanical factor of metastasis.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "0d741f5d4e09585c",
+    "title": "Taming polyiodide flow with electroactive mediators",
+    "link": "https://www.nature.com/articles/s41557-025-02059-5",
+    "content": "<p>Nature Chemistry, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02059-5\">doi:10.1038/s41557-025-02059-5</a></p>Unlocking the full potential of zinc\u2013iodine batteries requires the prevention of side effects arising from reactive polyiodide intermediates. Now, a synergistic redox-coupling strategy confines the conversion reaction within the cathode, enabling shuttle-free batteries with enhanced reversibility and increased energy density.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "c3818157760faada",
+    "title": "Suppressing Dendrites in Lithium Metal Anodes: A Review of Passivation Layers and Multiscale Computational Approaches",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000462?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Bayan Hijjawi, Michel L. Trudeau</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "cb2dee2fb501e4fd",
+    "title": "\"Acid-in-Alkali\" structure for regulating dynamic evolution of manganese in Zn\u2013Mn batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000474?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xinyu Luo, Haoyu Wang, Mingjun Cen, Tiantian Fang, Shuya Zhang, Rui Yan, Wenchao Peng, Yang Li, Qicheng Zhang, Xiaobin Fan</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b2b90937ddafb07a",
+    "title": "Activating and Stabilizing Anionic Redox via High-Entropy Enhanced Mn\u2013O Hybridization in Superlattice Cathodes for High-Energy Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000450?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Biao Ran, Mingwei Li, Jin Song, Tianshuo Zhao, Wenqi Tang, Boyi Pang, Huanxin Li, Chao Yang, Jiao Zhang, Chaopeng Fu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1088330a7f72f03a",
+    "title": "[ASAP] Regenerative Behaviors of Cokes-Deposited Ferrierite Zeolite during Gas-Phase Fluidized-Bed DME Carbonylation Reaction",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05733",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05733/asset/images/medium/ef5c05733_0004.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05733</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9382c1802847d417",
+    "title": "[ASAP] Electrochemically Mediated Separation of Carbon Monoxide Using a Ni-Based Redox Couple",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04138",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04138/asset/images/medium/nz5c04138_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04138</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b88e4c20e3a6a774",
+    "title": "[ASAP] Regulating Species Transport in Metal\u2013Organic Frameworks for Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04334",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04334/asset/images/medium/nz5c04334_0007.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04334</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5894edefe8d59ffa",
+    "title": "[ASAP] In-Situ Engineered V2CTx MXene/NiO Heterostructure for High-Performance Supercapacitors",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03340",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03340/asset/images/medium/ae5c03340_0006.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03340</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9aad7e20c4334d7c",
+    "title": "[ASAP] LiFSA and Urea/Dimethylurea Eutectic Electrolytes for Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c02275",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c02275/asset/images/medium/ae5c02275_0008.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c02275</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f47c8c7fa30f3f9f",
+    "title": "[ASAP] Fe/Ni2P-Modified Porous Carbon Microtubes as Sulfur Host and Separator Modification Layer for Lithium\u2013Sulfur Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03059",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03059/asset/images/medium/ae5c03059_0008.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03059</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3d24857eea420606",
+    "title": "[ASAP] Controlled Comparative Study of Phase Selectivity, Morphology, and Electrochemical Performance in Vanadium-Based Co and Ni Compounds for Hybrid Energy Storage",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03126",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03126/asset/images/medium/ae5c03126_0010.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03126</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1592257db4ed9a99",
+    "title": "Corrigendum to \u201cRecent progress of halide perovskites for thermoelectric application\u201d [Nano Energy 94 (2022) 106949]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000388?dgcid=rss_sd_all",
+    "content": "<p>Publication date: March 2026</p><p><b>Source:</b> Nano Energy, Volume 149</p><p>Author(s): Yingzhi Zhou, Jing Wang, Dongxiang Luo, Dehua Hu, Yonggang Min, Qifan Xue</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  }
+]
