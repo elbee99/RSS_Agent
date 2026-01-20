@@ -278,5 +278,327 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000388?dgcid=rss_sd_all",
     "content": "<p>Publication date: March 2026</p><p><b>Source:</b> Nano Energy, Volume 149</p><p>Author(s): Yingzhi Zhou, Jing Wang, Dongxiang Luo, Dehua Hu, Yonggang Min, Qifan Xue</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a4f18b54ac608eee",
+    "title": "Anisotropic Strain\u2010Induced Centrosymmetry Breaking in Cubic Formamidinium Lead Iodide (\u03b1\u2010FAPbI3) Thin Films",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506280?af=R",
+    "content": "Centrosymmetry breaking in [001] preferentially oriented cubic formamidinium lead triiodide (\u03b1\u2010FAPbI3) thin films is investigated. Anisotropic strain during film formation induces lattice distortion, leading to static Rashba\u2010type band splitting. This study provides experimental evidence through polarization\u2010dependent spectroscopy, angle\u2010dependent X\u2010ray diffraction, and time\u2010resolved microwave conductivity, offering strategic insights for strain engineering in high\u2010performance perovskite optoelectronics and quantum devices.\n\n\n\n\n\n\n\n\nABSTRACT\nOrganic\u2013inorganic halide perovskites have emerged as promising materials for next\u2010generation optoelectronic devices due to their exceptional photophysical properties. Among them, \u03b1\u2010formamidinium lead tri\u2010iodide (\u03b1\u2010FAPbI3) with a cubic symmetry (space group of Pm3\u00afm$Pm\\bar{3}m$) has garnered attention as a potential absorber in solar cells for its narrow bandgap and superior stability. The fundamental mechanisms governing its high performance have yet to be fully elucidated. In this study, we demonstrate that centrosymmetry breaking in [001] preferentially oriented \u03b1\u2010FAPbI3 thin films (POF) arises from inevitable anisotropic strain during film formation. Using circular polarization\u2010dependent pump\u2010probe transient absorption spectroscopy, we observe Rashba\u2010type band splitting exclusively in POF, indicating symmetry breaking. Angle\u2010dependent X\u2010ray diffraction and photoluminescence (PL) reveal significant residual stress in POF compared to randomly oriented films (ROF), confirming strain\u2010induced lattice distortion. Furthermore, time\u2010resolved PL and microwave conductivity measurements reveal top\u2010back inhomogeneous carrier dynamics and anisotropic charge carrier mobility, supporting the presence of the anisotropic strain\u2010induced symmetry breaking. Our findings provide direct experimental evidence that inevitable strain in POF induces static Rashba effects, offering new insights into strain engineering for high\u2010performance perovskite optoelectronics and potential quantum applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ece1087603b3a5a9",
+    "title": "Structure Disorder\u2010Induced Dynamic Oxophilic Surface Boosting O* Radical Dimerization for Superior Acid Oxygen Evolution",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506570?af=R",
+    "content": "Herein, an amorphous IrMOx electrocatalyst containing a highly oxophilic M component is designed to overcome the issues of the OPM pathway for acid OER: its dynamic reactive sites that are different from traditional crystalline catalyst greatly promote the O*\u2010O* coupling\ufeff\ufeff while the oxophilic M effectively strengthens the metal = O bond, compensating for the weaking of metal = O* bond imposed by O* repulsion.\ufeff\ufeff \ufeff\ufeff\ufeff\ufeff\ufeff\ufeff \n\n\n\n\n\n\n\n\nABSTRACT\nGlobally, the proton exchange membrane water electrolyzers (PEMWEs) already account for approximately 30% of the hydrogen market and are undergoing rapid expansion. However, the commercially used iridium\u2010based anodic oxygen evolution reaction (OER) catalysts in PEMWEs still suffer from notably poor reactivity. At present, the oxide pathway mechanism (OPM) is an important route to achieve both high activity and durability in OER. Nevertheless, the performance of conventional Ir\u2010based crystalline OER catalysts following the OPM pathway remains far below their theoretical limit, which is significantly hindered by two intrinsic limitations. First, their rigid lattice structures prevent the shortening of metal\u2010metal distances, which is essential to facilitate the rate\u2010determining O*\u2500O* dimerization. Second, the repulsion between O* adsorbates during OER inevitably weakens the metal = O* bond and undermines the overall oxygen evolution efficiency. Herein, we report that an amorphous IrMOx catalyst elegantly overcomes the limitations of the OPM pathway by virtue of its dynamic surface structure and strong oxophilicity of M.\u00a0 The dynamic surface structure promotes O*\u2500O* coupling, while the oxophilic nature of M compensates for the inherent weakening of the metal = O* bond during OER. Because of that, the catalyst exhibits outstanding OER performance, along with excellent catalytic durability over 1200 h\u2019 PEM testing.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2ee31c210afde284",
+    "title": "Confined Kirkendall Strain Engineering Promotes Oxygen Evolution on Co3O4 for Proton Exchange Membrane Water Electrolyzer",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506692?af=R",
+    "content": "This study reports a \u201cconfined Kirkendall oxidation\u201d strategy to precisely and continuously tune the strain of Co3O4. By encapsulating cobalt nanoparticles with an atomically thin carbon layer, the lattice expansion of Co3O4 during Kirkendall oxidation is constrained to a controllable strain range of 0.2\u20131.8%. This approach establishes a strain\u2010activity relationship for the oxygen evolution reaction in oxides.\n\n\n\n\n\n\n\n\n\nABSTRACT\nWhile Kirkendall oxidation (KO) facilely fabricates transition metal oxides for oxygen evolution reaction (OER) in proton exchange membrane water electrolyzers (PEMWEs), it concomitantly triggers detrimental lattice expansion. For Co3O4, an appealing IrO2\u2010alternative catalyst, KO generates a free lattice expansion above 2.4%, resulting in suboptimal activity and stability. Here, we design a confined KO approach and coat the precursor Co nanoparticles with atomic carbon layers, enabling controllable lattice expansion of Co3O4 between 0.2% and 1.8%. For the first time, a strain\u2010dependent OER activity of Co3O4 is established in acidic media, with an expansion strain of 1.4% exhibiting the lowest overpotential of 377\u00a0mV at 10\u00a0mA\u00a0cm\u22122. Synchrotron X\u2010ray absorption spectroscopies and theoretical calculations unravel the adjustable lattice strain regulates the d\u2010band center of Co sites and further modifies the oxygenate adsorptions. When integrated into a PEMWE, the 1.4%\u2010strained Co3O4 catalyst sustainably operates at 250\u00a0mA\u00a0cm\u22122 over 100\u00a0h. The reported confined KO provides a new means for strain engineering of transition metal oxides for energy electrocatalysis.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "372c6c0c7a1ef154",
+    "title": "How Particle Size Affects Consolidation Behavior, Strain and Properties of Li6PS5Cl Fast Ionic Conductors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505186?af=R",
+    "content": "The densification process of Li6PS5Cl powders with varying particles size distributions reveals differences in smaller and larger distributions. Higher strain is revealed for the smaller particle size distribution from X\u2010ray diffraction. Discrete element method simulations uncover that the reason for the higher strain is not the particle size itself, but rather the larger inhomogeneity of particles in the sample.\n\n\n\n\n\n\n\n\nABSTRACT\nSolid\u2010state battery fabrication requires the densification of solid electrolytes to achieve optimal cycling performance and high energy density. However, the underlying compaction mechanisms of these electrolytes remain poorly understood. Here, we investigate the effect of pressure consolidation on the ionic conductor Li6PS5Cl with particle size distributions (PSD) ranging from 4 to 40 \u00b5m. Heckel analysis reveals that samples with smaller PSDs exhibit higher compressibility at lower pressures. X\u2010ray diffraction peak profiling shows that applied pressure induces lattice strain, leading to peak broadening, while pair distribution function analysis demonstrates a reduction in coherence length upon pressing. Dark\u2010field X\u2010ray microscopy further provides spatially resolved orientation maps, uncovering intragranular structural variations within individual Li6PS5Cl agglomerates after compression. To better understand the origin of stress fluctuations, we performed discrete element method simulations using the experimental PSDs. The results indicate that smaller particles and broader PSDs experience higher stresses, whereas monodisperse systems do not exhibit significant stress fluctuations with position or particle size. This suggests that the high strain observed cannot be attributed solely to smaller particles, but rather to size inhomogeneity. Overall, these findings highlight that both particle size and its distribution play a critical role in processing solid electrolytes for solid\u2010state batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "acbc806884bc08c8",
+    "title": "Solid Electrolyte Interphase Stabilized Pomegranate SnP2O7@PC Anodes Realized Through Kirkendall Effect of MOF for Durable Potassium/Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505082?af=R",
+    "content": "A pomegranate\u2010inspired SnP2O7@PC anode is engineered via Kirkendall effect\u2010assisted pyrolysis of a MOF precursor. The multi\u2010scale architecture promotes rapid ion diffusion, robust electron transport, and prevent the continuous electrolyte decomposition from repetitive solid electrolyte interphase (SEI) formation while effectively accommodating volume variation. The electrode demonstrates ultralow capacity decay during long\u2010term cycling in both potassium\u2010 and sodium\u2010ion batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nPotassium\u2010ion batteries (PIBs) and sodium\u2010ion batteries (SIBs) are promising next\u2010generation energy storage technologies because of their abundant and low\u2010cost raw materials. However, anodes for PIBs/SIBs often exhibit poor cycling stability, mainly due to particle fragmentation, loss of electrical connectivity, and continuous electrolyte decomposition from repetitive solid electrolyte interphase (SEI) formation. To address these challenges, a biomimetic pomegranate\u2010like core\u2010shell SnP2O7@PC anode (CSP\u2010SnP2O7@PC) is synthesised through pyrolysis\u2010driven Kirkendall effect of tin\u2010based phosphonate metal\u2010organic framework (MOF). This multi\u2010scale design integrates several key features. At the molecular scale, the in situ formation of Sn\u2010P\u2010O bonds reduces K+ diffusion barriers. The nanoscale dispersion of SnP2O7 within conductive carbon matrix promotes efficient electron and ion transport. Furthermore, microscale structural engineering creates pre\u2010reserved voids to accommodate volume expansion, suppress SEI overgrowth, and prevent cracking. The optimised anode demonstrates exceptional cycling stability, exhibiting ultralow capacity decay rate of 0.0015% per cycle over 16\u00a0000 cycles at 5\u00a0A\u00a0g\u22121, and also delivers excellent performance in SIBs. Density functional theory and finite element simulations further reveal beneficial electronic structures and stress distribution, providing fundamental insights for designing durable electrodes through crystal and electronic optimisation. Overall, this study presents an innovative strategy for mitigating volume expansion in high\u2010capacity battery materials.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ff5257b0506ca3fd",
+    "title": "Nitrogen\u2010Directed Ti3C2Tx Enabling Rapid Proton Storage for Printed in\u2010Plane Micro\u2010Pseudocapacitors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505587?af=R",
+    "content": "A nitrogen\u2010directed N300\u2010Ti3C2Tx MXene, featuring both terminal functional group substitution and C\u2010site nitrogen doping, is proposed for application in in\u2010plane proton pseudocapacitors. The nitrogen\u2010directed proton storage mechanism is unraveled, showing that the terminal N groups can preferentially interact with protons and lower the diffusion energy barrier toward adjacent active\u2010sites (\u2013O/\u2013OH), thereby substantially facilitating high\u2010rate pseudocapacitive proton storage.\n\n\n\n\n\n\n\n\nABSTRACT\nMXene\u2010based proton pseudocapacitors are promising candidates for microscale electronic devices due to their superior portability and high\u2010power density, yet their advancement is constrained by the scarcity of efficient electrode materials. Herein, a nitrogen\u2010directed Ti3C2Tx MXene with substitution of terminal functional groups by nitrogen is proposed as a high\u2010efficiency electrode material for proton pseudocapacitors. This strategy introduces multiple surface\u2010active sites and a new pathway for fast proton storage for achieving high specific capacitance. Impressively, a nitrogen\u2010directed proton storage mechanism is unraveled in the terminal N groups can preferentially interact with protons and lower the diffusion energy barrier toward adjacent active\u2010sites, substantially facilitating the storage of protons. As a result, the N300\u2010Ti3C2Tx delivers excellent capacitance retention of 84.48% after 30,000 cycles at 2 A g\u22121. Furthermore, in\u2010plane proton pseudocapacitors are fabricated via direct ink writing, which shows great compatibility with various connection configurations, validating the superior potential in application feasibility of the N\u2010directed Ti3C2Tx on proton storage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f05c783c874b0292",
+    "title": "Harnessing Temperature\u2010Mediated Strain Management to Realize Ultra\u2010Stable Oxide Cathodes in Na\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506239?af=R",
+    "content": "This work reveals a temperature\u2010mediated strain regulation strategy for O3\u2010type layered oxide cathodes in Na\u2010ion batteries. By carefully controlling the thermal conditions, it modulates lattice dynamics and phase evolution, effectively suppresses structural degradation, and enables highly reversible phase transitions, thereby substantially enhancing long\u2010term cycling stability and overall electrochemical performance in Na\u2010ion batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nSodium (Na)\u2010ion batteries (NIBs) are emerging as a promising solution for large scale energy storage applications. Among various cathode chemistries, O3\u2010phase layered transition\u2010metal oxides stand out for their high energy density, yet their practical deployment is restricted by intricate phase transitions that induce lattice distortion, stress accumulation, and particle cracking, leading to rapid performance degradation. Here, we propose a temperature\u2010mediated strain\u2010management strategy to improve the phase reversibility and structural stability of O3\u2010phase oxide cathodes. Comprehensive structural and dynamic analyses reveal that optimal thermal regulation facilitates lattice strain release, mitigates detrimental stress accumulation that drives irreversible phase transitions, and accelerates Na+ diffusion kinetics. As a result, structural degradation, transition\u2010metal dissolution, and capacity fading are effectively suppressed. This work provides a new perspective on employing external fields to overcome the intrinsic structural instability of layered oxides, offering fundamental insights for rational cathode design and reliable operation of practical NIBs for energy storage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1b6149ffeb84cbef",
+    "title": "[ASAP] Unraveling the Steric Effect of Trialkyl Phosphates on the Solvation Sheath and Solid Electrolyte Interphase in High-Efficiency Magnesium Electrolytes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c14645",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c14645/asset/images/medium/ja5c14645_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c14645</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7fa75d0f797b5ab0",
+    "title": "[ASAP] Molecular Weight-Controlled Cationic Polymerization of Tetrahydrofuran Using a Squaramidinium Hydrogen-Bond Donor Catalyst",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18359",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18359/asset/images/medium/ja5c18359_0011.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18359</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a4352817959ebd21",
+    "title": "[ASAP] A Motor-Integrated Three-Dimensional Covalent Organic Framework with Dual-Mode Functionality",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19507",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19507/asset/images/medium/ja5c19507_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19507</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "14fdf9574dffc45d",
+    "title": "[ASAP] Iridium-Catalyzed Stereoselective \u03b1-Alkylation of \u03b1-Hydroxy Ketones with Minimally Polarized Alkenes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19724",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19724/asset/images/medium/ja5c19724_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19724</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6220477b3165d906",
+    "title": "[ASAP] Near-Quantitative Formation of Imines in Water with Allosteric Control",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20524",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20524/asset/images/medium/ja5c20524_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20524</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3b6a8ec4553b75fa",
+    "title": "[ASAP] Uniform Covalent Polymerization of Zirconium\u2013Organic Cages for High-Loading CO2 Separation Membranes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22622",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22622/asset/images/medium/ja5c22622_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22622</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "0f6d7d032e3cb031",
+    "title": "[ASAP] High-Performance Electrochemically Gated Single-Molecule Transistor Enabled by Interfacial Engineering",
+    "link": "http://dx.doi.org/10.1021/jacs.5c12256",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c12256/asset/images/medium/ja5c12256_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c12256</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a2946eb39a569c64",
+    "title": "[ASAP] Radical Electroprecipitation Prolongs \u201cElectro\u201dchemiluminescence of the Tris(2,2\u2019-bipyridyl)ruthenium(II) and Tri-n-propylamine System by a Millionfold",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16512",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16512/asset/images/medium/ja5c16512_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16512</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8ee2690b2008875a",
+    "title": "[ASAP] Siderophore\u2013Pt(IV) Conjugates as Tools to Probe Cytoplasmic Cargo Delivery to Gram-Negative Bacteria",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17001",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17001/asset/images/medium/ja5c17001_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17001</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6cb4c9ef0f0e0bf2",
+    "title": "[ASAP] Doping a Nanographene with a Formal NiIV Center",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18919",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18919/asset/images/medium/ja5c18919_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18919</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c993138d732a62ca",
+    "title": "[ASAP] Delocalization versus Coherence under Vibrational and Environmental Disorder in Photoexcited Supramolecular Aggregates",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20341",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20341/asset/images/medium/ja5c20341_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20341</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8529eae8900e02e7",
+    "title": "[ASAP] Dopamine-Induced Tau Modification Prevents Pathological Phosphorylation and Generates a Distinct Fibril Polymorph",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22156",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22156/asset/images/medium/ja5c22156_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22156</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d5901f58f96657ed",
+    "title": "Why urban recycling is harder than it seems",
+    "link": "https://www.nature.com/articles/s41578-026-00890-x",
+    "content": "<p>Nature Reviews Materials, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41578-026-00890-x\">doi:10.1038/s41578-026-00890-x</a></p>Recycling rarely fails for simple reasons. New York City\u2019s system is a case study in the dynamics and compromises that shape urban recycling, and why cities cannot optimize everything at once.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "6d4457938b7a56b2",
+    "title": "Author Correction: Anthropogenic influences on major tropical cyclone events",
+    "link": "https://www.nature.com/articles/s41586-026-10109-2",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10109-2\">doi:10.1038/s41586-026-10109-2</a></p>Author Correction: Anthropogenic influences on major tropical cyclone events",
+    "journal": "Nature"
+  },
+  {
+    "id": "d23cc3d3490685eb",
+    "title": "How much protein do you actually need?",
+    "link": "https://www.nature.com/articles/d41586-026-00151-5",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00151-5\">doi:10.1038/d41586-026-00151-5</a></p>Super-high protein diets are promoted by influencers, but the science shows that there are limits to how much your body can use.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7d96f6801ef415d9",
+    "title": "To gain public trust, make art central to science communication",
+    "link": "https://www.nature.com/articles/d41586-026-00210-x",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00210-x\">doi:10.1038/d41586-026-00210-x</a></p>To gain public trust, make art central to science communication",
+    "journal": "Nature"
+  },
+  {
+    "id": "8e2031ff12fbca94",
+    "title": "US funding cuts harm aspiring young scientists, too",
+    "link": "https://www.nature.com/articles/d41586-026-00182-y",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00182-y\">doi:10.1038/d41586-026-00182-y</a></p>US funding cuts harm aspiring young scientists, too",
+    "journal": "Nature"
+  },
+  {
+    "id": "d41532845101b779",
+    "title": "Study decision-making to understand how technology will affect behaviour",
+    "link": "https://www.nature.com/articles/d41586-026-00209-4",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00209-4\">doi:10.1038/d41586-026-00209-4</a></p>Study decision-making to understand how technology will affect behaviour",
+    "journal": "Nature"
+  },
+  {
+    "id": "47b825f3095991c2",
+    "title": "Fossil-fuel phase out is not enough: countries must remove atmospheric carbon",
+    "link": "https://www.nature.com/articles/d41586-026-00211-w",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00211-w\">doi:10.1038/d41586-026-00211-w</a></p>Fossil-fuel phase out is not enough: countries must remove atmospheric carbon",
+    "journal": "Nature"
+  },
+  {
+    "id": "6614c58cfb6f9a72",
+    "title": "Mistaken identity and the psychology of human recognition",
+    "link": "https://www.nature.com/articles/d41586-026-00190-y",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00190-y\">doi:10.1038/d41586-026-00190-y</a></p>The accuracy of eyewitness evidence is questioned, and a fossil collection examined when a geological society moves its London home in this week\u2019s pick from the Nature archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dec092ffbced0ffa",
+    "title": "Trump one year on: How six US researchers plan to protect science amid chaos and cuts",
+    "link": "https://www.nature.com/articles/d41586-026-00090-1",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00090-1\">doi:10.1038/d41586-026-00090-1</a></p>From education to pandemic preparedness and public health, the past year has seen huge stress put on US science.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cbf00e37a398f886",
+    "title": "The US is quitting 66 global agencies: what does it mean for science?",
+    "link": "https://www.nature.com/articles/d41586-026-00102-0",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00102-0\">doi:10.1038/d41586-026-00102-0</a></p>The United States is leaving some of the world\u2019s oldest and most influential scientific networks involved in biodiversity research, climate science and conservation. Affected organizations tell Nature that their work continues.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bbf571eb29557914",
+    "title": "US science after a year of Trump: what has been lost and what remains",
+    "link": "https://www.nature.com/articles/d41586-026-00088-9",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00088-9\">doi:10.1038/d41586-026-00088-9</a></p>A series of graphics reveals how the Trump administration has sought historic cuts to science and the research workforce.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1b996701cd20e0dd",
+    "title": "\u2018Shattered\u2019: US scientists speak out about how Trump policies disrupted their careers",
+    "link": "https://www.nature.com/articles/d41586-026-00091-0",
+    "content": "<p>Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00091-0\">doi:10.1038/d41586-026-00091-0</a></p>Researchers lay bare the human toll of lay-offs, funding cuts and attacks on science one year after the president\u2019s return to the White House.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6cc57c4f5dc05bee",
+    "title": "Daily briefing: Gifted dogs have word-learning skills on a par with human toddlers",
+    "link": "https://www.nature.com/articles/d41586-026-00213-8",
+    "content": "<p>Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00213-8\">doi:10.1038/d41586-026-00213-8</a></p>Some dogs can learn words for hundreds of objects just by listening in to human conversations. Plus, the High Seas Treaty has officially entered into force and PhD students inherit their appetite for risk from their supervisors.",
+    "journal": "Nature"
+  },
+  {
+    "id": "14a0d0df1bf25ca7",
+    "title": "Thermal Decomposition Pathways and Interfacial Reactivity in Potassium-Ion Batteries: Focus on Electrolyte and Anode",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE06908D",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE06908D, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Siddhartha  Nanda, Andrei Dolocan, Ayrton  Yanyachi, Saurabh S. Satpute, Doosoo  Kim, Kami Hull, Donal P Finegan, Ofodike  Ezekoye, Hadi Khani<br />Potassium(K)-ion batteries are an attractive alternative to lithium-ion due to their resource abundance, graphite-anode compatibility, manufacturability, and reduced reliance on critical metals. Yet their thermal safety remains poorly defined. Here,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "79f1206dfbcfddb6",
+    "title": "Dynamic Reconfiguration of Hydrogen-Bonded Networks to Modulate Perovskite Crystallization",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07159C",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07159C, Paper</div><div>Jiaxue  Zhai, Hu\u0101n B\u00ec, Shiji  Zhang, Lin Xie, Bin  Wu, Peng Wang, Shifeng Ge, Shafidah Shafian, Jiayan  Chen, Wenhua  Zhang, Yong Zhang, Nam-Gyu Park, Yong Hua<br />Precise control of perovskite crystallization remains challenging because hydrogen bonds (H-bonds), which govern precursor interactions and nucleation pathways, are often treated as static rather than dynamic entities. Here, we propose...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "b3c18cc42e1084ba",
+    "title": "Ligand-field regulation enables high energy-efficiency cathodes for aqueous zinc-ion batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07175E",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07175E, Paper</div><div>Quan Zong, Xuelian Liu, Keyi Chen, Qi-Long Zhang, Haoran Yuan, Shuang Zhou, Guoying Wei, Gongxun Bai, Anqiang Pan<br />Aqueous zinc\u2010ion batteries (ZIBs) are promising candidates for large\u2010scale energy storage owing to their high safety, low cost, and environmental friendliness. However, the practical application of ZIBs remains challenged by...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "c1cdf98ba68ac0d8",
+    "title": "Chemical Bridging in 2D/3D Heterojunction via Dual-Anchoring Functionalized Molecules for Efficient, Stable and Flexible Perovskite Solar Cells",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE03302K",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE03302K, Paper</div><div>Lei Zhao, Jie Zhang, Yikun Hua, Xinyue Song, Chao Wu, Ruiqian Chen, Yang Feng, Haoran Deng, Jiacheng Su, Lei Gu, Hui Wei, Weiyuan Chen, Chunming Yang, Lin Song<br />Constructing two-dimensional/three-dimensional (2D/3D) perovskite heterojunctions has emerged as an effective interfacial engineering strategy to passivate surface defects, optimize energy-level alignment, and suppress ion migration. However, conventional 2D layers are typically...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "2fc359b5f57cb5c0",
+    "title": "Scalable ambient fabrication of perovskite/silicon tandem solar cells via wet-film intervention",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(25)00418-0?rss=yes",
+    "content": "Scalable ambient fabrication of perovskite top cells is promising for advancing perovskite/silicon tandem solar cells, yet uncontrolled environmental humidity challenges high-quality film preparation. Here, an nBASCN wet-film intervention strategy is innovated to achieve well-regulated crystallization and suppress surface degradation, enabling scalable fabrication of high-performance tandem devices in ambient air.",
+    "journal": "Joule"
+  },
+  {
+    "id": "2f37af6e47bd063c",
+    "title": "Higgs mode-driven phase transitions in two-dimensional perovskites",
+    "link": "https://www.nature.com/articles/s41563-025-02472-8",
+    "content": "<p>Nature Materials, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41563-025-02472-8\">doi:10.1038/s41563-025-02472-8</a></p>A study of phase transitions in two-dimensional halide perovskites uncovers distinct thermal and optical pathways through Ginzburg\u2013Landau theory. The work identifies an optically driven metastable tetragonal phase, excited by Higgs phonon modes, offering insights into symmetry-breaking dynamics.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "7f9b69da53a92b09",
+    "title": "Multicomponent Alloy\u2013Engineered Interfaces for Magnetic Regulation of Sodium Deposition in Anode-Free Sodium Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000486?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zewei Hu, Haiying Lu, Liyang Liu, Yunqi Gao, Yuju Qi, Xin Wang, Jiayao Wang, Peng Xie, Chao Han, Weijie Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c601c015bcf36282",
+    "title": "Ultrafast Na Storage Enabled by In-Situ Formed Metal Nanoparticles in a Self-Assembled 3D Na<sub>2</sub>S Framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000498?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Hee-Jae Ahn, Young-Hoon Kim, Hye-Young Cho, Young-Woon Byeon, Yong-Seok Choi, Tae-Hong Kim, Hyo-Jun Ahn, Jae-Chul Lee</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "ce492631fc132569",
+    "title": "[ASAP] Polyphosphoric Acid Modification of Asphalt Colloidal Components: Mechanical Responses and Component-Level Effects",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05805",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05805/asset/images/medium/ef5c05805_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05805</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dd0e0785cd74dea1",
+    "title": "[ASAP] Catalytic Pyrolysis of Lipid-Extracted Microalgae over NaOH-Treated HZSM-5: Porosity\u2013Acidity Synergy in Aromatic Production and Denitrogenation",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05912",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05912/asset/images/medium/ef5c05912_0011.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05912</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c5138d70404da4be",
+    "title": "[ASAP] Development of Oil Sludge Preformed Particle Gels (OS-PPG) for Petroleum Reservoir Conformance Control",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06097",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06097/asset/images/medium/ef5c06097_0016.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06097</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b7f748f966bca295",
+    "title": "[ASAP] Front-Surface Potential of Platinized p-InP Photocathodes Probed by Dual-Working-Electrode Measurements",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04153",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04153/asset/images/medium/nz5c04153_0003.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04153</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a74761dd8b126345",
+    "title": "[ASAP] Nickel-Loaded, MXene-Derived Defective Titanium Dioxide Catalysts for Improved Solar-Driven Photothermal CO2 Methanation",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03426",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03426/asset/images/medium/ae5c03426_0009.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03426</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a91fd67123e4029e",
+    "title": "[ASAP] Molecular-Level Design of Localized High-Concentration Electrolytes for Sodium-Ion Batteries: A Combined DFT and MD Study",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03722",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03722/asset/images/medium/ae5c03722_0009.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03722</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
   }
 ]
