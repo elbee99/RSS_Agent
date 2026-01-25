@@ -2651,5 +2651,89 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S221128552600042X?dgcid=rss_sd_all",
     "content": "<p>Publication date: March 2026</p><p><b>Source:</b> Nano Energy, Volume 149</p><p>Author(s): Yutian Lin, Wenfeng Li, Siyu Zhou, Zexin Dong, Zhiyuan Zhang, Yuqing Yang, Ying Yu, Ping Liu, Xingfu Wang, Zhihong Zhu</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "fe81d10151194914",
+    "title": "Influence of Metal Species and Content of Fe\u2010Ni\u2010Poly(heptazine imides) on their Properties as Electrocatalysts for Zinc\u2010Air Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506308?af=R",
+    "content": "Iron/nickel\u2010modified poly(heptazine imides) are efficient, low\u2010cost bifunctional electrocatalysts for the oxygen reduction and evolution reactions in aqueous zinc\u2013air batteries. Iron enhances oxygen reduction, while nickel single\u2010atoms deliver oxygen evolution activity comparable to RuO2. The combination enables excellent performance and durable cycling stability over 250 charge\u2013discharge cycles, offering a sustainable alternative to noble\u2010metal catalysts.\n\n\n\n\n\n\n\n\nABSTRACT\nAlkaline zinc\u2010air batteries (ZABs) have attracted interest in recent years for their high theoretical energy density and use of low\u2010cost, abundant zinc metal as the anode. In order to overcome the activation energy barrier of the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER), noble metals are commonly used. Within this work, transition metal\u2010functionalized Poly(heptazine imide)s (PHIs) are studied as an alternative and more abundant electrocatalyst, as they offer the homogenous immobilization of metals within their ordered structure. Introducing Fe and Ni into the PHI network enables the formation of single and mixed transition metal PHIs, which show reduced overpotentials for ORR and OER. The formation of Ni single atoms even induces outstanding catalytic activity for the OER during charging of ZAB full cells with performance comparable to that of RuO2. Furthermore, full cell tests show excellent stability over the course of 250 discharge\u2010charge cycles, making it a promising system for sustainable energy storage. This work paves the way for the molecular design of a novel material class as an electrocatalyst for ZAB.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "75087e77d13729a8",
+    "title": "Enhanced Fast\u2010Charging Performance of High\u2010Mass\u2010Loading Mn\u2010Rich Li[Mn1\u2010xFex]PO4 Cathodes via LiF\u2010Less Cathode\u2013Electrolyte Interphase",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506130?af=R",
+    "content": "LiF\u2010rich@LMFP develops a CEI enriched with electronically and ionically insulating LiF that impedes interfacial charge transfer during fast charging. By suppressing interfacial LiF formation, LiF\u2010less@LMFP accelerates Li+ exchange and lowers overpotentials, delivering 1.6\u2010fold higher capacity at 5C and \u223c87% retention after 100 cycles under practical high\u2010mass\u2010loading conditions, with consistently reliable performance under varied current rates.\n\n\n\n\n\n\n\n\nABSTRACT\nMn\u2010rich Li[Mn1\u2010xFex]PO4 (LMFP) cathodes are promising candidates for next\u2010generation lithium\u2010ion batteries due to their structural stability and cost\u2010effectiveness. However, under industrially relevant high\u2010mass\u2010loading conditions, they still suffer from severe performance degradation, particularly during fast charging. In this study, we systematically demonstrate that charge\u2010transfer resistance, rather than bulk Li+ diffusivity, governs the kinetic limitations of LMFP electrodes with an areal capacity of \u223c3.5 mAh cm\u22122 (\u223c23\u00a0mg cm\u22122 mass loading). Surface analyses reveal that the buildup of electronically and ionically insulating LiF at the cathode\u2013electrolyte interphase (CEI) is the primary cause of sluggish charge transfer, highlighting a previously overlooked detrimental role of LiF. Guided by this insight, we implement an interfacial engineering strategy that suppresses LiF formation at the CEI. Remarkably, the resulting high\u2010mass\u2010loading LMFP cathodes deliver a 1.6\u2010fold increase in capacity at 5C and retain \u223c87% of their initial capacity after 100 cycles at 2C. Moreover, operando structural analysis reveals that electrodes with LiF\u2010suppressed CEI maintain a robust single\u2010phase transition during fast cycling, directly linking interfacial LiF suppression to significantly enhanced charge\u2010transfer kinetics. This work highlights the critical importance of CEI engineering in enabling fast\u2010charging Mn\u2010rich olivine cathodes under practical, high\u2010mass\u2010loading conditions.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "07f56eee1356dde1",
+    "title": "Double\u2010Coordination Additives Induced High\u2010Entropy SEI for Stable Anode\u2010Less Sodium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506756?af=R",
+    "content": "A double\u2010coordination electrolyte strategy is developed to engineer a high\u2010entropy, inorganic\u2010rich SEI. This ultrathin (3.7 nm) mechanically robust shield lowers nucleation barriers, enabling uniform sodium deposition with a remarkable average Coulombic efficiency of 99.58%. Consequently, it realizes anode\u2010less batteries delivering a high energy density of 327.54 Wh kg\u22121 with superior stability.\n\n\n\n\n\n\n\n\nABSTRACT\nSodium\u2010ion batteries with abundant resources and cost\u2010effectiveness are promising candidates for energy storage. However, their insufficient energy density impedes deployment in energy\u2010intensive applications. Anode\u2010free configurations maximize energy density by eliminating the initial anode host, while facing critical challenges of irreversible sodium plating/stripping. Here, we present double\u2010coordination electrolyte additives\u2010benzimidazole (BZ) and zinc trifluoromethanesulfonate (ZF) to address these intrinsic limitations. The highly polar ZF pulls out the solvents in the primary solvation sheath for Na+ diffusivity improving. Simultaneously, the ZF\u2010BZ complexes preferentially adsorb and decompose on the Cu foil surface, in situ forming a high\u2010entropy solid electrolyte interphase (ZnF2, NaF, Na2O, Na2CO3, and Na3N). This ultrathin interphase (3.7\u00a0nm) features superior mechanical toughness and a lowered nucleation barrier, thereby facilitating rapid, uniform, and highly reversible sodium plating/stripping. Consequently, the Na||Cu cell using 1\u00a0m NaPF6\u2013diethylene glycol dimethyl\u2013BZ/ZF electrolyte achieved an average Coulombic efficiency of 99.58% for 432 cycles at 3\u00a0mA cm\u22122/3 mAh cm\u22122 and stable cycling stability for 800\u00a0h in Na||Na cell. The assembled anode\u2010less cell delivers a high energy\u2010density of 327.54\u00a0Wh kg\u22121.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ba2fc2b5d88783b9",
+    "title": "[ASAP] C\u2013H Insertion Functionalization of Polyolefins for Versatile Polyolefin-Polyester Compatibilization",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20245",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20245/asset/images/medium/ja5c20245_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20245</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a5bf936664bf8e12",
+    "title": "[ASAP] Ambimodal (2 + 1)/(4 + 1) Pseudopericyclic Transition States in Reactions between Dihalocarbenes and Olefins",
+    "link": "http://dx.doi.org/10.1021/jacs.5c13906",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c13906/asset/images/medium/ja5c13906_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c13906</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c4e1fabb80eeb441",
+    "title": "[ASAP] Correction to \u201cRegio- and Stereoselective Halogenation by an Iron(II)- and 2-Oxoglutarate-Dependent Halogenase in the Biosynthesis of Halogenated Nucleosides\u201d",
+    "link": "http://dx.doi.org/10.1021/jacs.5c23050",
+    "content": "<div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c23050</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cc42760e9083e59c",
+    "title": "Effects of Stripping at Low Temperature on the Subsequent Growth of Lithium Metal",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000589?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 25 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Emma J. Hopkins, Qiushi Miao, Haichen Lin, Ke Zhou, Jaejun Lee, John Holoubek, Ping Liu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b062f333ec6c019c",
+    "title": "Revealing the Stress Signature and Ion Origin of Metal Plating in Rechargeable Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000541?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Amit Chanda, Abdulrahman Alfadhli, Vijay A. Sethuraman, Daniel P. Abraham, Siva P.V. Nadimpalli</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "085825aa07e8a87c",
+    "title": "Strain engineering of particles and interfaces for long-life stable LiNi<sub>0.8</sub>Co<sub>0.1</sub>Mn<sub>0.1</sub>O<sub>2</sub> cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000577?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 January 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ziliang Feng, Xiaohua Guo, Bao Zhang, Yongkang Liu, Enfeng Zhang, Peng Luo, Quanyi Zhang, Peng Dong, Weili Song, Yingjie Zhang, Yannan Zhang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "4d5e1efbcc9a5696",
+    "title": "[ASAP] Quantitative Diagenesis for the Characterization of CCUS Storage in Carbonates",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05345",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05345/asset/images/medium/ef5c05345_0013.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05345</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b0cf2c4834847539",
+    "title": "[ASAP] Recent Advances in Amorphous Electrode Materials for Aqueous Zinc-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03711",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03711/asset/images/medium/nz5c03711_0014.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03711</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4314b0dbfda1be29",
+    "title": "[ASAP] Unraveling Multiple Roles of N-Doped Graphene Quantum Dots Anchoring on 2D \u03b1-SnWO4 Photoanode for Visible-Light Driven Unbiased Water Oxidation",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03820",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03820/asset/images/medium/ae5c03820_0008.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03820</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
   }
 ]
