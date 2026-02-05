@@ -1475,5 +1475,593 @@
     "link": "http://dx.doi.org/10.1021/acsaem.5c04086",
     "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c04086/asset/images/medium/ae5c04086_0009.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c04086</div>",
     "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2cac532ad11dfd9c",
+    "title": "Molecular Engineering of Fluorinated Hybrid Gel Polymer Electrolytes Enables Ultra\u2010Wide\u2010Temperature Operation of High\u2010Voltage Lithium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506074?af=R",
+    "content": "This work develops a fluorinated hybrid gel polymer electrolyte (FHPE) through molecular\u2010scale organic/inorganic hybridization. The FHPE exhibits high Li+ conductivity (3.54 \u00d7 10\u22124 S cm\u22121) at \u221230\u00b0C, and a wide voltage window (>4.7 V). It facilitates the formation of LiF\u2010rich interphases on the Li anode and LiCoO2 cathode. Li/LiCoO2 cells retain 86.7% capacity after 200 cycles at \u221230\u00b0C and 77.9% after 400 cycles at 60\u00b0C.\n\n\n\n\n\n\n\n\nABSTRACT\nThe development of wide\u2010temperature gel polymer electrolytes (GPEs) represents a promising strategy for enhancing the extreme environment tolerance of lithium\u2010metal batteries (LMBs), which requires simultaneously optimizing Li+ transport kinetics at low temperatures and maintaining the thermal and mechanical stability. This work addresses the intrinsic limitations of conventional GPEs by employing a molecular engineering strategy that achieves molecular\u2010scale hybridization of organic and inorganic units. Specifically, a fluorinated hybrid gel polymer electrolyte (FHPE) is fabricated through the in situ crosslinking polymerization of trifluoroethyl acrylate (TFEA) and acryloxypropyl polyhedral oligomeric silsesquioxane (Acry\u2010POSS) within 2,2\u2010difluoroethyl acetate (DFEA). The FHPE displays high Li+ conductivity (3.54 \u00d7 10\u22124 S cm\u22121 at \u221230\u00b0C), broad electrochemical stability window (>4.7\u00a0V), and remarkable mechanical strength (58.7\u00a0MPa). Moreover, the FHPE promotes the formation of LiF\u2010rich interphases on the LiCoO2 cathode and lithium metal anode, thereby effectively mitigating dendrite growth and interfacial side reactions. Consequently, FHPE\u2010based Li/Li coin cells stably cycle for 1500\u00a0h at 0.3\u00a0mA cm\u22122 and \u221230\u00b0C, while Li/LiCoO2 coin cells exhibit 86.7% capacity retention after 200 cycles at \u221230\u00b0C and 77.9% after 400 cycles at 60\u00b0C. Furthermore, Li/FHPE/LiCoO2 pouch cells exhibit stable operation during nail penetration tests, thereby confirming their exceptional safety.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "73e8f3c92f2f7feb",
+    "title": "Investigation of the Lithium Extraction Mechanism from LiNi0.6Mn0.2Co0.2O2 by Using Operando Neutron Diffraction in an All\u2010Solid\u2010State Battery",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506600?af=R",
+    "content": "All\u2010solid\u2010state batteries (ASSB) are promising for high\u2010energy applications. Using a newly designed electrochemical cell, this study demonstrates reversible Li+ insertion/extraction in a thick ASSB and enables operando neutron diffraction. The results reveal structural evolution and H1\u2010H2 phase coexistence in LiNi0.6Mn0.2Co0.2O2 (NMC622), while confirming the stability of the argyrodite solid electrolyte.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010Solid\u2010State Batteries (ASSBs) are promising emerging devices for meeting high\u2010energy demands and an in\u2010depth understanding of the reaction mechanisms occuring during their operation will help in their design for better performance. In this context, neutrons, with their high penetration depth and sensitivity to light elements such as lithium, provide a powerful tool for investigating the structural mechanisms occurring in bulk ASSBs, while the electrochemical operation of large batteries (required for neutron diffraction) remains a challenge. In this study, we demonstrate the reversible electrochemical Li+ extraction/insertion within a 2.5\u00a0mm thick ASSB system comprising 140\u00a0mg of LiNi0.6Mn0.2Co0.2O2 (NMC622) as the positive electrode material (238 mWh energy density), Li5.4PS4.4BrCl0.6 (LPSClBr) as the solid electrolyte and Li0.5In as the negative electrode. Thanks to the use of the newly\u2010designed ILLBAT#5 electrochemical cell, we were able to perform operando neutron powder diffraction (NPD) of the system, which coupled with ex situ diffraction, allowed us to gain valuable insights into the structural evolution of NMC622 within the ASSB as well as to probe the structural stability of the Argyrodite solid electrolyte throughout the initial cycle. Herein, we report on the formation and the co\u2010existence of H1\u2010H2 phases in NMC622, attributed to system inhomogeneity.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d07041c22ae9b375",
+    "title": "How Halide Segregation Governs the Ion Density Evolution and Ionic Performance Losses: From Degradation to Recovery",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503866?af=R",
+    "content": "Halide segregation (HS) in mixed\u2010halide wide\u2010bandgap (WBG) perovskites is key to the stability of perovskite\u2010based tandem cells and a central focus of large\u2010scale research efforts. Here, we find that the underlying reason for the poor stability of cells prone to HS is enhanced ionic losses during operation. Furthermore, we identified irreversible ionic losses as a decisive factor for operational stability.\n\n\n\n\n\n\n\n\nABSTRACT\nHalide segregation (HS) is considered to be one of the most significant hurdles for the commercialization of tandem solar cells. However, despite significant research on this matter, the exact impact of HS on the performance degradation and the ion density evolution is yet to be established. In this work, we investigate the intriguing correlation between HS, ion\u2010induced efficiency losses, and ion density evolution in wide\u2010bandgap (WBG) triple cation perovskite cells. Our results highlight that all three phenomena evolve on similar timescales and follow the same trend across all studied bandgaps. This implies that the poor energy\u2010lifetime product observed for devices prone to halide segregation is a result of enhanced ionic losses rather than, for instance, charge carrier funneling. Furthermore, reminiscent of the recovery of HS observed previously, we demonstrate that ionic losses also recover after light exposure and dark storage, which occurs along with a receding ion density. However, we also observe irreversible ionic losses, especially after prolonged illumination, which are critical for device operation. These findings present an important new understanding of the interplay between halide segregation and ionic processes and provide a rational explanation for the performance and stability of mixed halide WBG perovskites.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2d8891fed0c57e78",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70083?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1fd1c9e6bc98d09a",
+    "title": "Effects of Mechanical Properties of Elastomeric Electrolytes for Stable Operation of Lithium Metal Batteries (Adv. Energy Mater. 5/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70512?af=R",
+    "content": "Lithium Metal Batteries\nIn article number 2503836, Wonho Lee, Jinseok Park, Bumjoon J. Kim, and co\u2010workers investigated the role of the mechanical behavior of elastomeric electrolytes on the performance of lithium metal batteries (LMBs). Their balanced toughness, adhesion energy, and elastic recovery enable superior LMB cycling performance at both ambient and low temperatures.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "eb76aa30b59fe178",
+    "title": "Tandem Takeoff: Powering Tomorrow with Industrial\u2010Grade Perovskite/Silicon Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504478?af=R",
+    "content": "Perovskite/silicon tandem solar cells have recently achieved certified power conversion efficiencies of 34.85%, far exceeding the Shockley\u2010Queisser limit for single\u2010junction silicon and standalone perovskite cells. This review highlights the latest advances in the design, integration, and optimization of perovskite top cells for monolithic tandem architectures, outlining fabrication strategies, interface engineering, and persistent challenges on the pathway to industrial\u2010scale adoption of next\u2010generation photovoltaic technologies.\n\n\n\n\n\n\n\n\nAbstract\nSurpassing the Shockley\u2010Queisser (S\u2010Q) limit to realize photovoltaic efficiencies that significantly exceed those of traditional silicon solar cells (SSCs) remains a fundamental aspiration within the solar energy research community. The advent of multi\u2010junction tandem cells presents a highly promising strategy to achieve this ambitious goal. Owing to their adjustable bandgaps and exceptional power conversion efficiencies (PCEs), perovskite solar cells (PSCs) have emerged as leading candidates for the top cell position in tandem device architectures, thereby advancing the frontier of next\u2010generation photovoltaic technologies. Recent advancements have propelled the certified PCE of two\u2010terminal monolithic perovskite/silicon tandem solar cells (PSTs) to 34.85% as of 2025, significantly surpassing the 27.81% efficiency of single\u2010junction crystalline silicon cells and the 27.3% achieved by standalone PSCs. This review synthesizes recent progress in the design and optimization of perovskite top cells, emphasizing strategies that enable highly efficient and stable monolithic PSTs. Particular attention is given to fabrication techniques that ensure robust integration of perovskite and charge transport layers onto the silicon substrate, whether the silicon surface is polished or textured. The review also examines state\u2010of\u2010the\u2010art approaches for modifying the bulk, surface, and interfaces of functional layers, as well as electrode engineering, all aimed at optimizing carrier transport and reducing recombination losses. Finally, the persistent challenges facing the field are discussed and perspectives and design guidelines are offered to propel future research directions, with the ultimate goal of advancing perovskite/silicon tandem technology toward widespread industrial adoption.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "423c4af0123d8cb0",
+    "title": "Perovskite Oxides for Electrosynthesis of Value\u2010Added Products by Gas\u2010Involving Cathodic Reduction Reactions",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504986?af=R",
+    "content": "This review presents a comprehensive overview of perovskite oxides for the electrosynthesis of value\u2010added products by gas\u2010involving cathodic reduction reactions, including fundamental characteristics of perovskite oxides, fundamental concepts of key reactions, and recent progress in utilizing perovskite oxides for each of these reactions. Meanwhile, viewpoints for development stages and perspectives about future opportunities of this exciting field are also offered.\n\n\n\n\n\n\n\n\nAbstract\nGas\u2010involving cathodic reduction reactions, including hydrogen evolution reaction (HER), carbon dioxide reduction reaction (CO2RR), and nitrogen reduction reaction (NRR), are key reactions for upgrading abundantly available feedstocks (e.g., H2O, CO2, and N2) into value\u2010added products, and are expected to significantly contribute to sustainable energy conversion and storage technologies. However, the sluggish kinetics of these reactions impede their large\u2010scale applications in real\u2010world scenarios. Perovskite oxides, a promising family of electrocatalysts with great compositional and structural flexibility, have exhibited great potential in these gas\u2010involving reduction reactions with unique catalytic advantages. Thus, current research progress in the application of perovskite oxides as electrocatalysts for these cathodic reactions is comprehensively presented in this review. Initially, a brief discussion on the fundamental characteristics of perovskite oxides and the underlying reaction mechanisms of HER, CO2RR, and NRR are presented. Based on the above foundation, a thorough overview of perovskite oxides adopted for these reactions, with emphasis on the advances in activity, selectivity, stability and modification effects, are then presented. Dedicated subsections explore various performance enhancement strategies with representative examples for each reaction. Finally, concluding remarks summarize the gained insights, current challenges, and propose future directions for designing efficient perovskite oxide electrocatalysts for sustainable energy applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "5b8512cad8ceb448",
+    "title": "Research Progress on Electrochemical Oxidation of Aldehydes Coupled With Hydrogen Production From Water Electrocatalysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505386?af=R",
+    "content": "Electrochemical aldehyde oxidation supplants the kinetically sluggish oxygen evolution reaction to enable concurrent hydrogen evolution and value\u2010added chemical synthesis. The review assesses the economic viability of this substitution, distills principles for aldehyde substrate selection and catalyst design, underscores insights from in\u2010situ characterization and computation into reaction mechanisms, and outlines reactor engineering strategies to advance sustainable hydrogen technologies.\n\n\n\n\n\n\n\n\nAbstract\nReplacing the traditional oxygen evolution reaction (OER) in water electrolysis with more energetically favorable electrooxidation reactions offers a valuable alternative for the clean and energy\u2010efficient production of hydrogen (H2). Specifically, the electrocatalytic oxidation of aldehyde molecules, which can produce H2 at the cathode as well as value\u2010added chemicals and fuels at the anode, has garnered widespread attention from researchers. This review briefly examines the economic feasibility of substituting OER with electrocatalytic aldehyde oxidation. It focuses on reviewing the selection of typical aldehyde molecules, activity descriptors, and strategies for catalyst design. Moreover, the role of in situ characterization techniques in elucidating reaction pathways and mechanisms is discussed, and the principles of electrochemical reactor design are emphasized. Finally, the challenges and future prospects in this field are addressed.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b9934428a855873d",
+    "title": "Unraveling Tandem Catalytic Sites for Electrocatalytic Nitrate Reduction to Ammonia",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503822?af=R",
+    "content": "This paper mainly reviews the tandem catalytic sites for NH3 synthesis via NIRR and points out the research progress of NIRR in NO3\u2212 wastewater treatment, NH3 synthesis, and metal\u2010catalyzed battery. It also prospects the prospects and challenges of NIRR in NO3\u2212 wastewater treatment, NH3 synthesis, environmental flow catalytic batteries and other fields.\n\n\n\n\n\n\n\n\nAbstract\nNitrate (NO3\u2212) pollution from industrial and agricultural sources poses significant threats to water quality and human health. The electrocatalytic nitrate reduction reaction (NIRR), which converts NO3\u2212 into high\u2010value ammonia (NH3), offers an efficient approach for treating NO3\u2212\u2010containing wastewater while addressing energy\u2010related challenges. Generally, NIRR is a multi\u2010step reaction, and its core steps\u2010NO3\u2212 activation and hydrogenation\u2010correspond to the NO3\u2212 adsorption sites and hydrogenation sites on the catalyst, respectively. The tandem catalytic sites accelerate reaction kinetics by spatially separating NO3\u2212 adsorption sites from hydrogenation sites and leveraging multifunctional catalytic sites for tandem catalysis. Consequently, tandem catalytic sites have recently emerged as an effective strategy for electrocatalytic NIRR. Nevertheless, a comprehensive understanding of the underlying mechanism remains limited. This review begins by outlining the advantages of tandem catalytic sites and recent advances in representative catalysts. It then highlights in situ characterization techniques used to elucidate reaction intermediates and tandem catalytic sites. Finally, applications and economic analysis in wastewater treatment, sustainable NH3 synthesis, and energy conversion are systematically discussed. The review concludes with a perspective on complex NO3\u2212 wastewater treatment, NH3 purification, environmental catalytic flow battery, and economic feasibility analysis, emphasizing their roles in sustainable energy solutions.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c6de88842bdf533a",
+    "title": "Probing All\u2010Solid\u2010State Batteries with Real\u2010Time Synchrotron and Neutron Techniques",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504045?af=R",
+    "content": "A comprehensive and critical overview of recent in situ and operando studies of all\u2010solid\u2010state batteries (ASSBs) enabled by synchrotron and neutron sources is presented. This review is organized by a problem\u2010oriented structure, which highlights how specific characterization strategies are designed and implemented to address distinct bottlenecks in the development of ASSBs.\n\n\n\n\n\n\n\n\nAbstract\nAll\u2010solid\u2010state batteries (ASSBs) are emerging as a next\u2010generation energy storage technology, offering enhanced safety and energy density compared to conventional lithium\u2010ion batteries. However, critical challenges related to material design and interfacial stability hinder their practical deployment. Advanced synchrotron X\u2010ray and neutron\u2010based techniques have become indispensable for probing the structural, chemical, and morphological evolutions within ASSBs across multiple length scales and under realistic operating conditions. This review provides a comprehensive and critical overview of recent in situ and operando studies of ASSBs enabled by synchrotron and neutron sources. The discussion is organized by the key components and interfaces of ASSBs, highlighting how these techniques elucidate dynamic processes during battery operation. Fundamental principles of the characterization methods are introduced, along with perspectives on future directions. This work aims to guide the rational design of high\u2010performance ASSBs by showcasing how cutting\u2010edge characterization advances can address longstanding challenges.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "0fbfea8197c50bec",
+    "title": "Advancing Seawater Electrolysis: NiFe\u2010LDH\u2010Based Electrocatalysts for the Oxygen Evolution Reaction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504101?af=R",
+    "content": "This review focuses on NiFe\u2010LDH\u2010based electrocatalysts for the oxygen evolution reaction in seawater electrolysis. It encompasses fundamental mechanisms, key challenges including chloride ion competition and corrosion, modification strategies aimed at enhancing activity, chlorine tolerance and stability, as well as design guidelines for industrial\u2010scale implementation and prospective outlooks.\n\n\n\n\n\n\n\n\nAbstract\nDirect electrolysis of seawater has emerged as a promising route for sustainable hydrogen production. While NiFe\u2010layered double hydroxides (NiFe\u2010LDHs) have shown great potential as non\u2010precious oxygen evolution reaction (OER) catalysts due to their high intrinsic activity. However, several challenges hinder their practical implementation, including the sluggish reaction kinetics, complex ionic environment of seawater, and undesirable side reactions that reduce efficiency. This review provides a systematic examination of the fundamental mechanisms and key challenges of NiFe\u2010LDH\u2010based catalysts for OER in seawater. Through a critical analysis of these limitations and established evaluation criteria, essential strategies are highlighted to enhance catalytic activity, chloride corrosion resistance, and structural stability. Furthermore, design principles are outlined to advance NiFe\u2010LDH\u2010based catalysts toward industrial\u2010scale implementation. Finally, perspectives encompass controllable catalyst synthesis, electrolyzer mass transport optimization, and complex electrolyte adaptation, thereby providing actionable pathways to realize cost\u2010effective, high\u2010performance seawater electrolysis for sustainable hydrogen production. This review work not only provides fundamental design insights for NiFe\u2010LDH\u2010based electrocatalysts but also establishes a critical framework to bridge the gap between laboratory\u2010scale research and practical engineering applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2faedc533dbe0c85",
+    "title": "Bridging Organic and Inorganic Domains: Advances and Applications of Hybrid Materials in Electrocatalysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505010?af=R",
+    "content": "Organic\u2010inorganic hybrid materials (OIHMs) couple functional organic components with inorganic domains, enabling tunable electronic structures, abundant active sites, and multiscale architectures. These synergistic features collectively enhance catalytic activity and stability across diverse electrocatalytic systems, including the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), oxygen reduction reaction (ORR), carbon dioxide reduction reaction (CO2RR), and emerging electrocatalytic reactions.\n\n\n\n\n\n\n\n\nAbstract\nOrganic\u2013inorganic hybrid materials (OIHMs) have emerged as a versatile platform for electrocatalysis owing to their tunable structures and the synergistic coupling between organic and inorganic components. Despite rapid advances, a unified understanding that bridges structural configuration regulation with catalytic mechanisms remains insufficient. Distinct from previous reviews that primarily classify materials or focus on specific reactions, this work highlights the intrinsic relationships between structure and function that govern the electrocatalytic behavior of OIHMs. Recent progress in compositional design and structural engineering strategies is first summarized, emphasizing how molecular tailoring and interfacial modulation jointly dictate activity and stability. The catalytic mechanisms are then discussed across representative reactions, including the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), oxygen reduction reaction (ORR), and carbon dioxide reduction reaction (CO2RR), as well as emerging electrocatalytic systems, with particular attention to active site construction, interfacial synergy, and spatial structural regulation. Finally, future opportunities are proposed for the rational design of next\u2010generation hybrid materials, the integration of advanced in situ characterization with theoretical modeling, and the development of sustainable and scalable synthesis approaches to accelerate the practical deployment of OIHMs in advanced electrocatalytic energy systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "0ebe52bc56b89b79",
+    "title": "Mitigating Structural Degradation in O3\u2010Layered Sodium\u2010Ion Cathodes: Insights from Mg Doping in NaNi0.2Fe0.4Mn0.4O2",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503573?af=R",
+    "content": "Selective Mg doping in O3\u2010layered NaNi0.2Fe0.4Mn0.4O2 unlocks fast Na\u207a transport, stable anionic redox, and structural resilience. At 5% substitution, the cathode delivers improved capacity retention and high\u2010rate performance, while suppressing oxygen loss. This strategy offers a scalable route to high\u2010energy, long\u2010life sodium\u2010ion batteries, sparking new possibilities for next\u2010generation grid\u2010scale storage.\n\n\n\n\n\n\n\n\nABSTRACT\nThe long\u2010term viability of sodium\u2010ion batteries (SIBs) hinges on improving cathode stability while maximizing energy density and efficiency. O3\u2010layered cathodes, with high sodium content, are ideal for achieving high capacity, but their long\u2010term structural stability is challenged by the electrochemical conditions in SIBs. Here, the impact of Mg doping on the transition metal site in O3\u2010type NaNi0.2Fe0.4Mn0.4O2 (NFM244) cathodes is investigated, revealing its influence on phase stability, anion redox ability, and Na\u2010ion diffusion kinetics. Experimental and theoretical studies confirmed that Mg2+ preferentially substitutes the Fe3+ sites, mitigating transition metal ions migration and lattice strain while suppressing irreversible oxygen release. Optimal 5% Mg doping maintains a stable O3\u2010layered structure, enhanced capacity, and Na\u2010ion kinetics, improving capacity retention during extended cycling over 200\u00a0cycles. In contrast, excessive Mg substitution causes structural distortion, impeding Na\u2010ion mobility, and results in severe capacity fading during prolonged cycling. In situ online electrochemical mass spectroscopy (OEMS) combined with X\u2010ray photoelectron spectroscopy (XPS) and Raman spectroscopy revealed that Mg doping also suppresses detrimental electrolyte decomposition. These findings provide a strategic pathway for tailoring next\u2010generation sodium\u2010ion cathodes for scalable high\u2010performance energy storage solutions, underscoring the potential of Mg doping in O3\u2010layered cathodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8438997c506a03e8",
+    "title": "Cold\u2010Sublimating Quasi\u2010Solid Additive Enables High Efficiency and Long Operational Stability Binary Organic Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505276?af=R",
+    "content": "Cold\u2010sublimating quasi\u2010solid mDF acts as an in situ\u2010removable transient structuring agent that broadens solvent\u2010removal, accelerates intermediate crystallization, and tightens \u03c0\u2013\u03c0 stacking in PM6:L8\u2010BO OSCs. Offering residue\u2010free morphology control, mDF\u2010treated OSCs enable high efficiency and a markedly extended operational lifetime (T80 = 477 h), highlighting physical\u2010state\u2010engineered ISR additives as a powerful strategy to simultaneously boost efficiency and durability in OSCs.\n\n\n\n\n\n\n\n\nABSTRACT\nControlling activelayer morphology during drying is pivotal for the simultaneous realization of high efficiency and durability in Yseries organic solar cells (OSCs). Here, we uncover how the physical state of in situ removable (ISR) isomeric additives, oDF (liquid), mDF (quasisolid), and pDF (solid), governs film formation, molecular ordering, and device stability in binary OSCs. Among them, quasisolid mDF functions as a coldsublimating transient structuring agent: it widens earlystage solvent removal window yet accelerates intermediate crystallization, tightens \u03c0\u2013\u03c0 stacking, enlarges coherence length, and programs a favorable vertical phase separation, as resolved by in situ UV\u2013vis, GIWAXS, and depthprofiled spectroscopy. mDF interacts most strongly with L8\u2010BO while fully evaporating from the film, minimizing nonradiative losses and avoiding the adverse impact of residual additives on device stability. Consequently, PM6:L8BO devices reach 19.28% PCE with improved carrier mobility and suppressed trapassisted recombination; applying mDF to D18:L8BO yields 20.08%. Under 1sun illumination at 70\u00a0\u00b0C, mDF extends operational stability to T80 = 477 h, outperforming oDF (58 h), pDF (279 h), and additivefree control (103 h). These results establish physicalstateprogrammed ISR additives as a general route to cooptimize efficiency and stability in OSCs and provide mechanistic guidance for scalable, residuefree morphology control.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "5b9be524110ff2af",
+    "title": "Moisture\u2010Tolerant, Lithiophilic Artificial Solid Electrolyte Interphase Enables Ambient\u2010Processable Lithium Metal Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505981?af=R",
+    "content": "Lithium (Li) metal batteries promise unparalleled energy density but face challenges from dendrite growth, unstable interfaces, and reliance on dry room processing. A fluorinated polyethyleneimine\u2010based artificial solid electrolyte interphase integrates lithiophilicity and moisture tolerance, enabling ambient\u2010processable Li metal anodes with fast interfacial kinetics and long\u2010term cycling stability, providing a viable route to high\u2010performance metal batteries without energy\u2010intensive dry room facilities.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium (Li) metal offers exceptional energy density as an anode material, but its uncontrolled electrodeposition and unstable interphase formation during cycling remain critical barriers to practical implementation. In addition, its extreme reactivity toward ambient moisture necessitates highly energy\u2010intensive dry room facilities, substantially increasing the cost and energy footprint of battery manufacturing. Here, we introduce a molecularly engineered artificial solid electrolyte interphase (SEI) that combines moisture tolerance and lithiophilicity to enable ambient\u2010processable Li metal anodes. A polyethyleneimine (PEI) partially substituted with fluoroalkyl moieties is designed as the protective layer, in which the nitrogen\u2010rich backbone guides uniform Li\u207a flux, while the fluorinated side chains impart hydrophobicity to block ambient moisture and simultaneously induce the in situ formation of LiF\u2010rich SEI species. A comprehensive set of analyses during humidity exposure qualitatively elucidates the protective function of the artificial SEI and quantitatively tracks corrosion products in ambient environments. Various electrochemical and depth\u2010resolved post\u2010mortem analyses demonstrate that the fluorinated PEI\u2010based artificial SEI effectively protects Li metal under ambient conditions while enabling fast interfacial kinetics and stable long\u2010term cycling. This work provides a viable pathway toward energy\u2010efficient Li metal battery manufacturing and offers new molecular\u2010level insights into the design of protective artificial interphases.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "93f398bf087ecd15",
+    "title": "Atomic Dispersed Oxophilic Mo\u2010Tailored Core\u2013Shell PdAu@Pd With Intrinsic Tensile Strain Boost Bifunctional Electrocatalysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504496?af=R",
+    "content": "The Mo\u2010modified core\u2013shell PdAu@Pd nanostructure demonstrates enhanced electrocatalytic activity for both ORR and EOR, attributed to its intrinsic tensile strain and incorporation of Mo auxiliary active sites.\n\n\n\n\n\n\n\n\nABSTRACT\nThe rational design of high\u2010performance bifunctional electrocatalysts for oxygen reduction reaction (ORR) and ethanol oxidation reaction (EOR) remains pivotal for advancing direct ethanol fuel cells (DEFCs). Herein, we report Mo\u2010doped core\u2013shell PdAu@Pd nanocrystals (Mo\u2010PdAu@Pd) with intrinsic tensile strain as an exceptional bifunctional catalyst. The synergistic integration of Mo dopants and a PdAu@Pd core\u2013shell architecture optimizes electronic configurations via d\u2010band center downshifting, while oxophilic Mo and lattice strain engineering enhance intermediate adsorption and reaction kinetics. In alkaline media, Mo\u2010PdAu@Pd delivers a record mass activity of 0.992\u00a0A\u00a0mgPd\u22121 at 0.9\u00a0V for ORR, surpassing commercial Pt/C and Pd/C by 8.07\u2010 and 9.92\u2010fold, respectively, with only 4.7% activity loss after 10,000 cycles. For EOR, it achieves 5.95\u00a0A\u00a0mgPd\u22121, outperforming Pt/C and Pd/C by 5.13\u2010 and 5.41\u2010fold, alongside superior durability. In situ Raman spectroscopy and density functional theory (DFT) calculations reveal that the incorporation of oxophilic Mo species acts as auxiliary active sites, promoting O2 adsorption and *OOH formation, while together with the intrinsic tensile strain, the surface electronic state is optimized, which leads to higher ORR activity of Mo\u2010PdAu@Pd. This work provides a universal strategy for engineering strain\u2010modulated, dopant\u2010enhanced catalysts, offering a guideline for the rational design of exceptional bifunctional catalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "19080f245e5f2d29",
+    "title": "Bridging the Gap Between Materials and Engineering: Large\u2010Scale Screening of Metal\u2013Organic Frameworks for Adsorption Cooling From Device Level",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504672?af=R",
+    "content": "Aiming to bridge the gap between advanced metal\u2010organic framework (MOF) materials and thermal engineering, a multiscale evaluation strategy is developed to assess the adsorption cooling performance at the device level. The promising MOF candidates are identified with outstanding adsorption cooling performance. Such an innovative approach revolutionizes MOF evaluation methodologies through multidimensional criteria, advancing cross\u2010disciplinary MOF design paradigms.\n\n\n\n\n\n\n\n\nABSTRACT\nCurrent screening of metal\u2013organic frameworks (MOFs) for adsorption cooling through either experimental or computational approaches is only focused on their adsorption performance from the material level based on the ideal thermodynamic cycle. However, practically potential MOFs for adsorption cooling require not only super adsorption capacity from the material science level but also excellent heat and mass transport performance from the device level. Aiming to bridge the gap between materials and engineering, a multiscale evaluation strategy is developed to assess the adsorption cooling performance of MOFs by integrating their dynamic heat and mass transport performance at the device level. The high accuracy of the predicted coefficient of performance (COP) from the device level highlights the significance of such a multiscale approach. The identified MOF candidates with outstanding gas adsorption and heat transfer performance ensure high\u2010efficiency adsorption\u2010desorption cycles of the adsorption cooling system, fulfilling the high energy and power density requirements. This study bridges the gap between material science and engineering applications by developing a multiscale model that integrates both mass and thermal transport characteristics into the screening of MOFs for adsorption cooling. Such an innovative approach revolutionizes MOF evaluation methodologies through multidimensional criteria, advancing cross\u2010disciplinary MOF design paradigms.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4a17657c1192da35",
+    "title": "Rich Se Vacancies MoxV1\u2010xSe2 Nanosheets with Synergistic Optimization of Electronic and Lattice Structures for Accelerating Sulfur Redox Kinetics in Mg\u2500S Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505028?af=R",
+    "content": "The rich\u2010selenium vacancy MoxV1\u2010xSe2 (x = 0\u22120.1) nanosheets are synthesized as S support via a simple one\u2010step solvothermal methods. Among them, the Mo0.075V0.925Se2 exhibits a thin cross\u2010linked network nanosheet structure, an optimal electronic configuration, and the highest selenium vacancy structure. These can enhances the binding energy with polysulfides, lowers the energy barrier of polysulfides decomposition, and promotes the kinetics of polysulfides conversion. \n\n\n\n\n\n\n\n\nABSTRACT\nRechargeable magnesium\u2013sulfur (Mg\u2500S) batteries are considered promising next\u2010generation energy storage solutions because of their high volumetric energy density. However, they often suffer from severe performance degradation due to the well\u2010known polysulfide shuttle effect and sluggish reaction kinetics. Defective materials are widely employed in metal\u2010sulfur battery systems due to their unique adsorptive and catalytic properties, which effectively address the challenges of polysulfide shuttle and sluggish conversion kinetics during charge\u2010discharge processes. Nevertheless, studies systematically correlating defect concentration with the adsorptive\u2010catalytic properties of electrodes remain scarce. In this study, MoxV1\u2010xSe2 (x = 0\u20100.1) with tunable selenium\u2010vacancy concentrations is employed as a model system to modulate its electronic structure and enhance catalytic performance. A quantitative correlation is further established between selenium\u2010vacancy concentration and adsorption\u2010catalytic properties to regulate sulfur redox kinetics. Experimental and theoretical findings indicate that a higher density of selenium vacancies effectively provides additional active sites and promotes electron accumulation, leading to reduced energy barriers for MgS nucleation/decomposition as well as faster kinetics in polysulfide conversion reactions. Thus, the Mo0.075V0.925Se2 with abundant selenium vacancies concentrations exhibits exceptional performance as a sulfur host, delivering the highest reversible capacity (1127 mAh g\u22121) and remarkable cycling stability (200 cycles with \u223c99.7% capacity retention). This study contributes to advancing the practical implementation of defect engineering with quantitative control for application in Mg\u2500S batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "16f5e83bc5df9a65",
+    "title": "Power\u2010to\u2010Protein: Anion\u2010Exchange\u2010Membrane\u2010Free Solid\u2010State Electrolysis for Efficient Formic Acid Production and Microbial Protein Synthesis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505142?af=R",
+    "content": "An anion\u2010exchange\u2010membrane\u2010free porous SSE reactor is constructed using a cation\u2010infused sandwich GDE and filter paper interlayer. With commercial Bi, it achieves 1.5\u00a0M formic acid, 63.6% Faradaic efficiency, and stable operation over 150\u00a0h. An integrated Power\u2010to\u2010Protein framework couples formic acid synthesis with yeast protein production, demonstrating a scalable, biohybrid route for renewable energy\u2010driven carbon fixation and sustainable protein generation.\n\n\n\n\n\n\n\n\nABSTRACT\nPower\u2010to\u2010Protein, enabled by porous solid\u2010state electrolyte (SSE) reactors, harnesses renewable electricity to drive electrochemical CO2 reduction (CO2RR) for the synthesis of bioconsumable nexus molecules that sustain protein\u2010producing microorganisms. In this study, a cost\u2010effective porous SSE reactor is developed that eliminates the need for expensive prefabricated anion exchange membranes (AEMs) and advanced catalysts. The design integrates a gas diffusion electrode (GDE) with a cation\u2010infused sandwich architecture and incorporates a filter paper interlayer between the GDE and SSE layer to enhance selectivity and stability. With commercial Bi, the reactor achieves a single\u2010pass formic acid concentration of 1.5\u00a0m, a Faradaic efficiency of 63.6%, and a stable operation for 150 h at 100\u00a0mA cm\u22122. Scalability is further demonstrated using a 100 cm2 prototype. In situ electrochemical analyses reveal that the sandwich\u2010structured GDE promotes localized alkalinity, thereby enhancing catalytic activity. An integrated Power\u2010to\u2010Protein framework is also proposed, coupling electrochemical formic acid production with yeast\u2010based protein biosynthesis. These findings underscore the potential of biohybrid systems to couple renewable energy\u2010driven CO2 valorization with sustainable protein production, advancing the development of circular carbon\u2013energy biomanufacturing pathways.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "eed891e683a1e03e",
+    "title": "Ligand\u2010Engineered p\u2010Orbital Occupancy Modulation Activates Lattice Oxygen for Efficient and Selective Urea Electrooxidation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505178?af=R",
+    "content": "A ligand\u2010mediated electron redistribution strategy is proposed to modulate the electronic structure of NiFe\u2010LDH via CF3COO\u2013 intercalation. The strong electron\u2010withdrawing effect of the \u2013CF3 group reduces electron density at metal centers and stabilizes high\u2010valent Ni/Fe species, which suppresses NiOOH formation and mitigates OH\u2013 oversaturation. This electronic redistribution simultaneously activates lattice oxygen reactivity and promotes selective urea oxidation, ultimately leading to superior activity and stability.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrochemical urea oxidation reaction (UOR) offers a promising alternative to oxygen evolution reaction (OER) in water electrolysis, enabling simultaneous energy\u2010efficient hydrogen production and urea\u2010rich wastewater remediation. However, sluggish kinetics and the inevitable competition from OER, especially at high anodic potentials, continue to impede its practical application. Herein, we report a ligand\u2010engineered NiFe layered double hydroxide intercalated with trifluoroacetate (CF3COO\u2013), termed CF3\u2010LDH, to address these limitations. Leveraging the strong electron\u2010withdrawing nature of the \u2013CF3 group, CF3COO\u2013 drives electron transfer from Ni and Fe centers to the ligand, thereby lowering the local electron density, stabilizing high\u2010valent Ni(2+\u03b4)+ and Fe(3+\u03b1)+ species, and unlocking the reactivity of adjacent lattice oxygen sites. In situ spectroscopic analyses reveal that CF3COO\u2013 intercalation suppresses NiOOH formation and mitigates OH\u2013 oversaturation, thus attenuating the parasitic OER pathway and ensuring UOR selectivity. Theoretical calculations further confirm that the lattice oxygen sites with engineered p\u2010orbital occupancy reduce the energy barriers of key UOR steps and optimize the adsorption of critical intermediates. As a result, CF3\u2010LDH exhibits superior UOR activity, requiring only 1.32\u00a0V to reach 10\u00a0mA\u00a0cm\u22122 with a Tafel slope of 29\u00a0mV\u00a0dec\u22121. When integrated into an anion exchange membrane (AEM) electrolyzer, the system delivers 100\u00a0mA\u00a0cm\u22122 at just 1.36\u00a0V at 60\u00b0C and maintains stable operation over 200\u00a0h. This work highlights the efficacy of ligand\u2010directed lattice oxygen activation in promoting pathway\u2010selective UOR and presents a viable strategy for designing high\u2010performance anodes toward integrated clean hydrogen generation and wastewater treatment.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "031cb06faf750792",
+    "title": "Polymer\u2010Assisted Supercooled Lithium Salts: Nonflammable Single\u2010Ion Conducting Liquid Electrolytes for Next\u2010Generation Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505229?af=R",
+    "content": "Deeply supercooled Li salt electrolytes achieve near\u2010unity lithium\u2010ion transference numbers, supporting selective ion transport with minimized concentration polarization. Polymer additives help maintain the supercooled state and improve interfacial robustness. Combined with adhesive properties enabling binder\u2010free cathodes, this strategy integrates ion transport control and electrode engineering for next\u2010generation lithium\u2010metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrolytes that exhibit both high ionic conductivity and a near\u2010unity Li+ transference number (tLi) are essential for next\u2010generation rechargeable batteries. Here, we present solvent\u2010free liquid electrolytes based on polymer\u2010assisted supercooled lithium salts that realize single\u2010ion conduction under ambient conditions. A trace amount of poly(methyl methacrylate) suppresses crystallization, stabilizing low\u2010melting Li salts in a deeply supercooled liquid state while retaining tLi \u2248 1. To further enhance ion transport, we employ a dual\u2010salt strategy, which lowers the glass transition temperature and increases ionic conductivity without compromising the near\u2010unity tLi. Despite moderate conductivity compared with conventional electrolytes, these supercooled salts suppress concentration overpotentials and support stable cycling in Li/LiCoO2 cells. The intrinsic adhesive properties of the electrolytes enable the fabrication of binder\u2010free thick cathodes with high areal capacities, providing a scalable route to high\u2010energy\u2010density batteries. Furthermore, the solvent\u2010free nature of these electrolytes ensures intrinsic nonflammability and promotes the formation of robust inorganic\u2010rich interphases, indicating their potential applicability to lithium\u2010metal batteries. This work establishes polymer\u2010assisted supercooled lithium salts as a new class of nonflammable single\u2010ion conducting liquid electrolytes, bridging the gap between solid\u2010state and conventional liquid systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "5220406f93ec47ef",
+    "title": "Bulletproof\u2010Type Cathode Electrolyte Interphase Enabled by Additive\u2010Guided Solvent Coordination for High\u2010Voltage Sodium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505733?af=R",
+    "content": "A bulletproof\u2010type cathode electrolyte interphase is constructed by an additive\u2010guided solvent coordination strategy to enhance the interfacial stability between the layered oxide cathode and electrolyte. This interphase structure can effectively inhibit the dissolution of transition metal ions and alleviate cathode structure collapse, which provides a suggestion on the design and development of electrolytes for high\u2010voltage sodium metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nLayered oxide cathodes receive extensive attention due to their high energy density, long cycle life, and high safety. However, issues such as irreversible phase transitions, transition metal dissolution, and interfacial instability prevent its application in high\u2010voltage sodium metal batteries. Herein, a bulletproof\u2010type cathode electrolyte interphase is constructed by an additive\u2010guided solvent coordination strategy to enhance the interfacial stability between the layered oxide cathode and electrolyte. The addition of 4\u2010(trifluoromethyl)phenylacetonitrile effectively promotes the entry of more methyl 2,2,2\u2010trifluoroethyl carbonate into the solvation structure of Na+ and reduces the proportion of PF6\u2212 anions in the solvation structure. The robust cathode electrolyte interphase derived from such solvation structure shows high strength on the outer layer and flexibility on the inner layer. Therefore, the layered oxide cathode exhibits enhanced cycling stability and rate performance at a cut\u2010off voltage of 4.2\u00a0V and high temperature of 60\u00b0C. This work provides new insights into the design of robust cathode electrolyte interphases on the layered oxide cathodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3b5e919c1076f3cc",
+    "title": "Effects of Mechanical Properties of Elastomeric Electrolytes for Stable Operation of Lithium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503836?af=R",
+    "content": "The mechanical properties of fluorinated elastomeric electrolytes are independently tuned by adjusting crosslinking density while maintaining high ionic conductivity. Their balanced toughness, adhesion energy, and elastic recovery enable superior cycling performance of lithium metal batteries at both ambient and low temperatures.\n\n\n\n\n\n\n\n\nAbstract\nThe mechanical properties of polymer electrolytes are critical for the stable operation of lithium metal batteries (LMBs), as they accommodate volume changes of the lithium (Li) metal anode, suppress dendrite formation, and maintain interfacial stability. Here, we present a systematic investigation into the role of the mechanical characteristics of fluorinated elastomeric electrolytes (FEEs) in enabling stable cycling of LMBs at ambient and low temperatures. The FEEs consist of bicontinuous elastomer and plastic crystal phases, allowing independent control of mechanical properties by adjusting the crosslinking density of the elastomer phase. Concurrently, FEEs retain the fast ion transport properties of the plastic crystal phase, exhibiting high ionic conductivity of \u22481.1 and \u22480.24 mS cm\u22121 at 25 and \u221210\u00a0\u00b0C, respectively. The optimized FEE demonstrates balanced toughness (140.6\u00a0kJ m\u22123) and adhesion energy (31.4 J m\u22122), along with elastic recovery characteristic, enabling a Li|| LiNi0.8Co0.1Mn0.1O2 full cell to deliver a high initial discharge capacity (153 mAh g\u22121) with 76% capacity retention after 150 cycles at \u221210\u00a0\u00b0C. In contrast, lightly crosslinked FEEs undergo irreversible plastic deformation and loss of interfacial contact, while excessively crosslinked systems suffer from low toughness and are prone to fracture, both resulting in poor cycling performance.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "98c2e52ca2564b56",
+    "title": "Thousandfold Boosting Peak Power Output in Piezoelectric Nanogenerator via Impact Excitation Strategy",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504000?af=R",
+    "content": "This work presents an impact excitation\u2010induced frequency\u2010up conversion strategy to address the crucial issue of frequency mismatch and maximize energy conversion of piezoelectric nanogenerators, significantly elevating output current and power density by 40.0 and 2013.7 times to 1.04 mA cm\u22122 and 322.2 mW cm\u22122, and enabling a 16 cm2 PENG light up 2000 LEDs and nine bulbs in a record\u2010breaking.\n\n\n\n\n\n\n\n\nABSTRACT\nImproving the output power of piezoelectric nanogenerators (PENGs) is currently the most urgent task to promote their practical application toward next\u2010generation flexible electronics and distributed sensor devices for an environmentally sustainable society. Despite considerable performance progress through sophisticated material design and elaborate structure optimization, the frequency mismatch between mechanical energy sources in natural scenario and the PENG device remains a crucial issue causing low energy conversion efficiency. Herein, we propose a unique mechanical excitation pattern that employs a spring\u2010induced impact force applied to electrospun flexible BaTiO3/PVDF nanocomposite film to maximize the output power of PENG. Compared with the conventional compression mode, this instantaneous stress ejection effectively reduces the force response time from 6.0 to 0.5\u00a0ms to achieve frequency up\u2010conversion, as evidenced by a real\u2010time synchronized force\u2010current curve. Moreover, the impact force enhances the separation of positive and negative polarity of the piezoelectric electron cloud and contributes to generating more piezoelectric charges. Consequently, the output current and power density are significantly elevated by 40.0 and 2013.7 times to 1.04\u00a0mA cm\u22122 and 322.2\u00a0mW cm\u22122, respectively, far surpassing recent reported PENG and triboelectric nanogenerators TENG. Surprisingly, a 16 cm2 PENG can light up 2000 LEDs and nine bulbs in a record\u2010breaking, and stable operation with 63\u00a0530 cycles. Finally, a wireless temperature and humidity sensing has been successfully demonstrated through PENG's power supply, proving its actual IoT application capability. This study developed a universal and effective impact excitation strategy to enhance the output power of PENG, which is expected to be integrated with more high\u2010piezoelectric coefficient materials to break through performance bottlenecks in low\u2010frequency energy harvesting, thereby promoting the practical application of PENG's energy technology.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e8ad3f0acf461df2",
+    "title": "SnF2\u2010Modified Thin Composite Electrolyte With Ultra\u2010Stable Interface for Solid\u2010State Sodium Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504169?af=R",
+    "content": "ABSTRACT\nThe unstable Na/electrolyte interface, plagued by Na dendrites and interface degradation, critically hinders solid\u2010state Na batteries. We propose the design of thin poly(ethylene oxide) (PEO)\u2010based composite polymer electrolytes with a stabilized solid electrolyte interphase (SEI). Incorporating SnF2 into PEO and infusing the composite into an ultrathin polyethylene (PE) scaffold (PEO\u2010xSnF2@PE) promotes a stable Na15Sn4/NaF\u2010rich SEI that facilitates uniform Na\u207a deposition, while the PE layer ensures a thin yet mechanically robust structure. Consequently, the optimized composite polymer electrolyte, featuring an ultrathin 20\u00a0\u00b5m thickness, low areal density of 1.9\u00a0mg cm\u22122, and ultrahigh tensile strength of 35\u00a0MPa, demonstrates exceptional dendrite\u2010suppressing capability. Such synergistic effects enable Na symmetric cells employing PEO\u20104SnF2@PE to achieve ultralong cycling exceeding 10800 h (>1 year), alongside a critical current density of 1.0\u00a0mA cm\u22122. Full cells paired with a Na3V2(PO4)3 cathode exhibit exceptional cycling stability, achieving 97.6% capacity retention over 500 cycles. This work demonstrates that combining SnF2 functional additives with a flexible, high\u2010strength supporting layer effectively mitigates interfacial instability and dendrite propagation in solid polymer electrolytes, offering new design principles for long\u2010life solid\u2010state sodium metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b0141c6dbc253c1e",
+    "title": "Mitigating Thermal Runaway in Lithium Metal Batteries With Flame\u2010Retardant Magnesium Hydroxide Nanocomposite Gel Electrolytes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504974?af=R",
+    "content": "Lithium\u2010ion batteries are ubiquitous but pose significant safety risks especially with high\u2010energy\u2010density electrode materials. This study reports a nanocomposite gel electrolyte (NGE) with a flame\u2010retardant magnesium hydroxide (MH) matrix, which offers robust mechanical properties, high ionic conductivity, and enhanced thermal safety. MH\u2010based NGEs improve safety through endothermic decomposition and combustion suppression in addition to being compatible with multilayer architectures.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium\u2010ion batteries are the preeminent energy storage technology in consumer electronics, electric vehicles, and grid\u2010level applications. Nevertheless, they present significant safety hazards including thermal runaway that results in catastrophic failure due to the flammability of carbonate\u2010based electrolytes. The pursuit of enhanced energy density through nickel\u2010rich cathodes and lithium\u2010metal anodes further exacerbates these concerns. To address these challenges, this study reports a nanocomposite gel electrolyte (NGE) incorporating flame\u2010retardant Mg(OH)2 (magnesium hydroxide, MH) nanoplatelets. NGEs using MH nanoplatelets provide robust mechanical properties (>20\u00a0MPa storage modulus) with high room\u2010temperature ionic conductivity (\u22481 mS cm\u22121), while remaining compatible with scalable slurry\u2010based fabrication. Additionally, MH nanoplatelets enhance thermal safety due to endothermic decomposition at elevated temperatures that mitigates thermal runway, release of water vapor as a combustion suppressant, and formation of MgO char that inhibits flame propagation and maintains electrode separation. Moreover, MH NGEs can be configured into bilayer electrolytes, expanding the electrochemical stability window for higher energy densities. Notably, an MH\u2010based bilayer gel electrolyte incorporating diglyme and succinonitrile layers significantly improves cycle life in LFP|Li and NCA|Li cells compared to either layer alone. These results highlight the potential of MH NGEs as safe and scalable electrolytes for next\u2010generation lithium energy storage technologies.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fb377b01a23e1e20",
+    "title": "Restructuring Hydrogen Bond Networks and Enhancing Dehydrogenation Kinetics for Efficient Hydrazine Oxidation\u2010Assisted Electrolytic Hydrogen Production",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504983?af=R",
+    "content": "A dual\u2010functional electrocatalyst Ru/Fe\u2010NiMoO4 with a hollow structure nanorod, is constructed. When Ru/Fe\u2010NiMoO4 is employed as both the cathode and anode in an overall hydrazine\u2010assisted water splitting (OHzS) system, attaining 500\u00a0mA\u00a0cm\u22122 with an exceptionally low cell potential of 0.23\u00a0V. Notably, this configuration results in a remarkable 91.67% reduction in energy consumption at the same current density, highlighting its potential for enhancing the efficiency of hydrogen production.\n\n\n\n\n\n\n\n\nABSTRACT\nHydrazine\u2010assisted water electrolysis provides a viable route toward energy\u2010conservative hydrogen generation while simultaneously addressing the environmental concerns associated with hazardous hydrazine pollutants. Herein, Ru nanoparticles are anchored onto Fe\u2010NiMoO4 hollow nanorods through an etching and solvothermal method, resulting in the formation of Ru/Fe\u2010NiMoO4 as a dual\u2010functional electrocatalyst for both the hydrogen evolution reaction (HER) and the hydrazine oxidation reaction (HzOR). Studies indicate that the introduction of Fe alters the electronic properties around the active species Ru, which alters the electronic properties of the catalyst and optimally tunes the d\u2010band center of Ru/Fe\u2010NiMoO4 to an optimal position. This modification balances the adsorption and desorption of H* at each metal active site and enhances the reaction kinetics of the corresponding hydrazine dehydrogenation. For HER and HzOR, only \u2212167 and 37\u00a0mV working potentials are required to achieve 1000\u00a0mA\u00a0cm\u22122, respectively. Notably, when Ru/Fe\u2010NiMoO4 is employed as both the cathode and anode in an overall hydrazine\u2010assisted water splitting (OHzS) system, attaining 500\u00a0mA\u00a0cm\u22122 with an exceptionally low cell potential of 0.23\u00a0V, while maintaining stable operation for over 100\u00a0h. Additionally, the assembled direct liquid N2H4\u2013H2O2 fuel cell (DHHPFC) delivers a maximum power density of 336\u00a0mW\u00a0cm\u22122 at 80\u00b0C. This work opens new avenues for efficient hydrogen production through hydrazine\u2010assisted processes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1d93db97f60faaeb",
+    "title": "Interfacial Electric Field Sharping by Non\u2010Ionic Halogens Enables Selective CO2\u2010to C2+ Electroreduction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505385?af=R",
+    "content": "Non\u2010ionic halogenated molecules are embedded into the Cu2O matrix to shape interfacial electric fields while eliminating instability from ionic incorporation. The as\u2010fabricated C8H17Cl\u2010Cu2O OIHs delivers an outstanding C2+ Faradaic efficiency of 80.6% with a partial current density of 161.2 mA cm\u22122.\n\n\n\n\n\n\n\n\nABSTRACT\nHalide ions are widely employed to accelerate the electrochemical CO2 reduction reaction (CO2RR), but their practical application is hampered by site blocking and electrode corrosion. Here we present an organic\u2010inorganic hybrid (OIH) strategy that embeds non\u2010ionic halogenated molecules (C8H17X, X = Cl, Br, I) into the Cu2O matrix to shape interfacial electric fields. This design preserves the kinetic benefits of halides while eliminating instability from ionic incorporation. The optimized C8H17Cl\u2010Cu2O OIHs delivers an outstanding C2+ Faradaic efficiency of 80.6% with a partial current density of 161.2\u00a0mA cm\u22122. Spectroscopic and theoretical analyses reveal that non\u2010ionic halogens act as molecular \u201cfield shapers,\u201d generating strong interfacial electric fields that strengthen *CO adsorption and balance atop/bridge configurations. This tailored *CO landscape promotes efficient C\u2013C coupling by simultaneously increasing coverage and dimerization kinetics. Our findings establish non\u2010ionic halogen modifiers as a robust platform for stabilizing and steering interfacial electric fields in CO2RR, offering a general strategy for designing selective and durable electrocatalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c3eab0282864e401",
+    "title": "Potential Posolytes for Aqueous Organic Redox Flow Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202504207?af=R",
+    "content": "This perspective summarizes recent advances in posolyte development for aqueous organic redox flow batteries (AORFBs), with an emphasis on molecular structural design strategies. Key achievements and current challenges are highlighted, and future research directions are provided to advance this field.\n\n\n\n\n\n\n\n\nAbstract\nRenewable energy plays a crucial role in decarbonizing modern society, but the inherent intermittency of renewable energy sources impedes the integration of renewable energy into power grids. Grid\u2010scale energy storage technologies and devices are thus needed to balance the mismatch between power supply and demand. Aqueous organic redox flow batteries (AORFBs) have emerged as the most promising type of long\u2010duration grid\u2010scale energy storage devices. AORFBs offer advantages, including power and energy decoupling, high safety, low cost, scalable design, and vast electrolyte options. However, the development and practical applications of AORFBs are limited by the properties of posolytes, which currently exhibit relatively low stability, low redox potential, limited structural diversity, and low operational flexibility. Here, the development and molecular design of posolytes for AORFBs are summarized. Key achievements and existing challenges are discussed, followed by perspectives for future research in this field.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "607869dfa7cecdaa",
+    "title": "Boron Carbide Supported Ultra\u2010Small Ruthenium Nanoparticles with High\u2010Performance for Hydrogen and Chlor\u2010Alkali Co\u2010Production",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506175?af=R",
+    "content": "B4C as a new non\u2010metal support for anchoring on Ru nanoparticles efficiently regulates the electron structure and electrochemical activity, leading to Ru/B4C@NC which exhibits superior activity and long\u2010term stability for hydrogen and chlor\u2010alkali co\u2010production.\n\n\n\n\n\n\n\n\nABSTRACT\nRuthenium (Ru) is a promising electrocatalyst for hydrogen and chlor\u2010alkali co\u2010production, but suffers from poor water adsorption and hydrogen desorption. To enhance its hydrogen evolution reaction (HER) performance, this study employs density functional theory (DFT) to explore how non\u2010metallic supports (B, C, N) modulate the electronic structure of Ru via metal\u2010support interactions (MSIs). Results reveal B4C as the optimal support, with 1.56 electrons transferred from Ru13 to B4C, shifting the Ru d\u2010band center closer to the Fermi level and synergistically optimizing the adsorption of HER intermediates. The synthesized N\u2010doped carbon\u2010coated Ru/B4C catalyst (Ru/B4C@NC) exhibits outstanding alkaline HER activity, achieving overpotentials of only 5\u00a0mV at 10\u00a0mA\u00a0cm\u22122 and 361\u00a0mV at 1\u00a0A\u00a0cm\u22122, along with stability over 500\u00a0h. Under chlor\u2010alkali conditions, Ru/B4C@NC also maintains high HER activity with overpotentials of 5 and 99\u00a0mV at 10 and 500\u00a0mA\u00a0cm\u22122 and long\u2010term stability for 300\u00a0h. A hybrid electrolysis cell with Ru/B4C@NC (\u2212) //RuO2/IrO2\u2010coated Ti mesh (+) achieves a record low voltage of 2.33\u00a0V at 10\u00a0mA\u00a0cm\u22122 with long\u2010term stability for 100\u00a0h. This work provides valuable insights for designing advanced Ru\u2010based catalysts for integrated hydrogen and chlor\u2010alkali production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d4f54f32c41af476",
+    "title": "[ASAP] Chemoselective 1,2-Sulfonamidoazidation of Styrene via Single-Atom-Site Cobalt Catalysis",
+    "link": "http://dx.doi.org/10.1021/jacs.5c12264",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c12264/asset/images/medium/ja5c12264_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c12264</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "29165f80a2c69278",
+    "title": "[ASAP] Topochemical Oxidation of Ruddlesden\u2013Popper Nickelates Reveals Distinct Structural Family: Oxygen-Intercalated Layered Perovskites",
+    "link": "http://dx.doi.org/10.1021/jacs.5c12712",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c12712/asset/images/medium/ja5c12712_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c12712</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "74e21f1fb8438d91",
+    "title": "[ASAP] Dynamic Roles of Oxygen Vacancies for Surface Hydroxylation in Enhanced Alkaline Hydrogen Evolution",
+    "link": "http://dx.doi.org/10.1021/jacs.5c15670",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c15670/asset/images/medium/ja5c15670_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c15670</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9bcd90af3a4124b7",
+    "title": "[ASAP] Dynamic Interface Engineering via Mechanistic Understanding of Copper Reconstruction in Electrochemical CO2 Reduction Reaction",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16244",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16244/asset/images/medium/ja5c16244_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16244</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f3e35a7e3ba600ba",
+    "title": "[ASAP] Monooxygenase Activity of Indoleamine 2,3-Dioxygenase",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17552",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17552/asset/images/medium/ja5c17552_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17552</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6a6153e71b1b784e",
+    "title": "[ASAP] Shifting Merocyanine-Imine Exchange with Visible Light",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17606",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17606/asset/images/medium/ja5c17606_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17606</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9c1fb8a5f4d90138",
+    "title": "[ASAP] Triangulating a Tightly Bound Lipid on a Membrane Protein by Paramagnetic Solid-State NMR",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22235",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22235/asset/images/medium/ja5c22235_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22235</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b967bf0f42a89a14",
+    "title": "[ASAP] Sculpting Superior Subnanometer Catalysts Directly from Inert Gold",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22389",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22389/asset/images/medium/ja5c22389_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22389</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d611af7a24db5abd",
+    "title": "[ASAP] Low-Dimensional Zeotypes Templated by Stacked Cyclic Benzimidazolium Revealed by Electron Crystallography",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22569",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22569/asset/images/medium/ja5c22569_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22569</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b072290f409b2317",
+    "title": "[ASAP] Electrochemical CO2 Reduction in the Presence of SO2 Impurities on a Nitrogen-Doped Carbon Electrocatalyst",
+    "link": "http://dx.doi.org/10.1021/jacs.5c11790",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c11790/asset/images/medium/ja5c11790_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c11790</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7c0f0bf3ef1b4cd0",
+    "title": "[ASAP] Assembling Ternary Dead-End Complex for Covalent Trapping of Protein Lysine Methyltransferases",
+    "link": "http://dx.doi.org/10.1021/jacs.5c14571",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c14571/asset/images/medium/ja5c14571_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c14571</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e08ec8666a27b5e5",
+    "title": "[ASAP] Transmembrane DNA Nanochannel-Engineered Artificial Receptors for Navigating NK Cell Immunotherapy in Solid Tumors",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16425",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16425/asset/images/medium/ja5c16425_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16425</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c52229c366721701",
+    "title": "[ASAP] De Novo Labile C\u2013N Bonds Enable Dynamic Covalent Chemistry and Reversible Bioimaging",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16437",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16437/asset/images/medium/ja5c16437_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16437</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c69d977e612ac5ad",
+    "title": "[ASAP] Synthesis of the Double Infinite-Layer Ni(I) Phase La3Ni2O5F via Sequential Topochemical Reactions",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16740",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16740/asset/images/medium/ja5c16740_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16740</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "743826878598ee74",
+    "title": "[ASAP] Supramolecular-Based Ion Separation Membranes for Direct Separation of Concentrated Mixed-Salt Solutions",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16874",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16874/asset/images/medium/ja5c16874_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16874</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "0ebaf10aac0b6fce",
+    "title": "[ASAP] Efficient Halogen Radical-Mediated Photosynthesis of Cyclic Carbonates over Perylene Diimide-Grafted Zirconium Metal\u2013Organic Frameworks with Visible Light Irradiation",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17348",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17348/asset/images/medium/ja5c17348_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17348</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f67c5fdec49a666e",
+    "title": "[ASAP] Oxidation of a Dihydrophenazine Molecular Wire Attenuates Molecular Conductance",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18249",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18249/asset/images/medium/ja5c18249_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18249</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4424186d5c33f675",
+    "title": "[ASAP] Discovery of a Human Metabolite That Mimics the Bacterial Quorum-Sensing Autoinducer AI-2",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18527",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18527/asset/images/medium/ja5c18527_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18527</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6ce03e549375488f",
+    "title": "[ASAP] Waveform-Enhanced Alternating Current Electrocatalysis Enables Cu-Catalyzed Carbon\u2013Oxygenation of \u03b2-Keto Carbonyls with Alkenes and Alkynes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19029",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19029/asset/images/medium/ja5c19029_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19029</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "24d4a07a02ba7c47",
+    "title": "[ASAP] Myoglobin-Membrane Association Facilitates Oxygen Release via Active-Site Tuning",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20333",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20333/asset/images/medium/ja5c20333_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20333</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6d8cb0ebd279f1cb",
+    "title": "[ASAP] Concurrent Pressure-Enhanced Magnetic Order and Photoconductivity in Quasi-One-Dimensional Antiferromagnet MnSb2S4",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21160",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21160/asset/images/medium/ja5c21160_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21160</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d959e2c31d231b42",
+    "title": "[ASAP] Proton-Fluid Preintercalation Topochemistry for High-Rate Capacity and Ultralow-Temperature Proton Storage",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21246",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21246/asset/images/medium/ja5c21246_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21246</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3167333400460155",
+    "title": "[ASAP] Synergistic Multiscale Design of Metal\u2013Organic Framework Membrane via Biomineralization-Inspired Templating for High-Efficiency Azeotrope Separation",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21467",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21467/asset/images/medium/ja5c21467_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21467</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "80d658e85b103445",
+    "title": "[ASAP] Surface-Only Nuclear Magnetic Resonance Spectroscopy by Dynamic Nuclear Polarization and 2H-Dephasing",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21534",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21534/asset/images/medium/ja5c21534_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21534</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "72a55474dc7dc8c4",
+    "title": "[ASAP] Protein Electrostatics Tune the Singlet\u2013Triplet Energy Gap in Natural and Engineered Phototropin Light-Oxygen-Voltage (LOV) Domains",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21945",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21945/asset/images/medium/ja5c21945_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21945</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9054d0a18dff27f6",
+    "title": "[ASAP] Transient Salt-Bridge-Based Supramolecular Polymers: Experiments and Theory",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22087",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22087/asset/images/medium/ja5c22087_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22087</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f40ec83ed4bf28c7",
+    "title": "[ASAP] Leveraging Divergent Ligand-to-Metal Charge-Transfer Excited State Pathways for Catalyst Control over Alkoxyl Radical Reactivity",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22609",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22609/asset/images/medium/ja5c22609_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22609</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d0dedeb4f64237f0",
+    "title": "[ASAP] Oxygenation and Oxidation of Lignin Model Dimers by Fungal Ortho-Methoxyphenolases",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22901",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22901/asset/images/medium/ja5c22901_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22901</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e07d33e345087b4b",
+    "title": "Publisher Correction: Colibactin-driven colon cancer requires adhesin-mediated epithelial binding",
+    "link": "https://www.nature.com/articles/s41586-026-10213-3",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10213-3\">doi:10.1038/s41586-026-10213-3</a></p>Publisher Correction: Colibactin-driven colon cancer requires adhesin-mediated epithelial binding",
+    "journal": "Nature"
+  },
+  {
+    "id": "32512f61a2620258",
+    "title": "Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
+    "link": "https://www.nature.com/articles/s41586-026-10202-6",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10202-6\">doi:10.1038/s41586-026-10202-6</a></p>Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
+    "journal": "Nature"
+  },
+  {
+    "id": "0b92bf5c152baaab",
+    "title": "This bonobo had a pretend tea party \u2014 showing make believe isn\u2019t just for humans",
+    "link": "https://www.nature.com/articles/d41586-026-00357-7",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00357-7\">doi:10.1038/d41586-026-00357-7</a></p>In the first demonstration of pretend play in a non-human, the ape favoured a cup filled with imaginary juice over one with its \u2018contents\u2019 emptied.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fd24475b99dda4de",
+    "title": "These mysterious ridges could be the secret to younger skin",
+    "link": "https://www.nature.com/articles/d41586-026-00364-8",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00364-8\">doi:10.1038/d41586-026-00364-8</a></p>Rete ridges could hold the secrets to revitalising skin.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b0b9d4190bbb02fa",
+    "title": "Beetle is locked in to an eternal dance \u2015 with an ant",
+    "link": "https://www.nature.com/articles/d41586-026-00334-0",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00334-0\">doi:10.1038/d41586-026-00334-0</a></p>Evolution has trapped a species of beetle in an inescapable symbiosis with the aggressive velvety tree ant.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c5325f6b1b599c92",
+    "title": "First \u2018practical PhDs\u2019 awarded in China \u2014 for products rather than papers",
+    "link": "https://www.nature.com/articles/d41586-026-00356-8",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00356-8\">doi:10.1038/d41586-026-00356-8</a></p>The programme is designed to train more elite engineers who can help boost the country\u2019s innovation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0e9b2ecb08e698f0",
+    "title": "NASA\u2019s latest telescope is a feat of early-career leadership",
+    "link": "https://www.nature.com/articles/d41586-026-00253-0",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00253-0\">doi:10.1038/d41586-026-00253-0</a></p>The Pandora satellite provides career training grounds while observing exoplanets.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f5b497525c91619d",
+    "title": "Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety",
+    "link": "https://www.nature.com/articles/d41586-026-00346-w",
+    "content": "<p>Nature, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00346-w\">doi:10.1038/d41586-026-00346-w</a></p>Major reforms to the United Kingdom\u2019s national research funding agency are aimed at boosting the nation's economy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "51087fbb8b036b8c",
+    "title": "Daily briefing: More than one-third of cancer cases are preventable",
+    "link": "https://www.nature.com/articles/d41586-026-00371-9",
+    "content": "<p>Nature, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00371-9\">doi:10.1038/d41586-026-00371-9</a></p>Nearly 40% of new cancer cases worldwide are linked to things we can change, such as smoking. Plus, the NIH is rolling back red tape on some types of human research and the unexpected success of ice skates.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4fd48c7b7adbc5a8",
+    "title": "Deprotonated Self-Assembled Molecules as Robust Hole-Selective Layers for Perovskite/Organic Tandem Solar Cells and Photocathodes",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07006F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07006F, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Jung Geon Son, Ha-Eun Koo, Woo Jin  Lee, Dongyoung Kim, Sujung Park, Jina  Roe, Jongdeuk Seo, Jung Min Ha, Heunjeong  Lee, Wangyeon  Lee, Han Young Woo, Shinuk Cho, Dong Suk Kim, Seung-Jae Shin, Jin Young Kim<br />Self-assembled monolayer (SAM)-based hole-selective layers (HSLs) offer a promising route to defect-passivated and energy-aligned interfaces in perovskite organic tandem solar cells (POTSCs). However, their practical implementation remains hindered by weak...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "ed5bf23970c2cde1",
+    "title": "Addressing context-specific energy modelling risks and dynamics in low- and middle-income countries",
+    "link": "https://www.nature.com/articles/s41560-025-01962-y",
+    "content": "<p>Nature Energy, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/s41560-025-01962-y\">doi:10.1038/s41560-025-01962-y</a></p>Low- and middle-income countries face unique challenges when it comes to balancing growing energy needs with broader, long-term development needs. This Perspective argues for innovative, context-specific modelling practices to support these goals.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "eb495143ff8e27ca",
+    "title": "Author Correction: How charge frustration causes ion ordering and microphase separation at surfaces",
+    "link": "https://www.nature.com/articles/s41563-026-02525-6",
+    "content": "<p>Nature Materials, Published online: 05 February 2026; <a href=\"https://www.nature.com/articles/s41563-026-02525-6\">doi:10.1038/s41563-026-02525-6</a></p>Author Correction: How charge frustration causes ion ordering and microphase separation at surfaces",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "ad3a1dcdcfa686aa",
+    "title": "Tailored Material Design and Scalable Integration of 3D-Printed Flexible Batteries for Wearable Electronics: A Comprehensive Review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000991?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Wenting Li, Diquan Xu, Rui Wang, Mohsen Shakouri, Huan Pang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "7ff555d8a21638ec",
+    "title": "Emerging of dual-atom electrocatalysts advancing lithium-sulfur batteries: recent advances, challenges and perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600098X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xuting Li, Zhenxiang Zhao, Shuheng Yuan, Junhao Cheng, Wenshuo Hou, Linrui Hou, Fengwei Liu, Changzhou Yuan</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1bbc34544a2895cd",
+    "title": "A Farewell Message from the Founding Editor-in-Chief, Prof. Hui-Ming Cheng",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726000954?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Hui-Ming Cheng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "96c157c0049e1a8f",
+    "title": "[ASAP] In Situ Synthesization of Porous Polyurethane for Particle Filtration and Fracture Support: Implications to Gas Production from Unconsolidated Formations",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06000",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06000/asset/images/medium/ef5c06000_0012.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06000</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b1f0de80ab92f206",
+    "title": "[ASAP] Microstructural Evolution and Fluid Transport in Gas Diffusion Layers under Compression: A Micro-CT Based Study",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c04354",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c04354/asset/images/medium/ef5c04354_0009.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c04354</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e451ee9da28f3035",
+    "title": "[ASAP] Influence of Fracture Parameters on the Development Performance of In Situ Oil Shale Conversion",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05683",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05683/asset/images/medium/ef5c05683_0022.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05683</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5659f0f619d8dc26",
+    "title": "[ASAP] Toward Sustainable Electrochemical CO2 Valorization",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04160",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04160/asset/images/medium/nz5c04160_0006.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04160</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a8f040d12f519c1d",
+    "title": "[ASAP] Dual-Layer Composite Polymer Electrolyte Enabling Stable Lithium- Ion Transport in Quasi-Solid-State Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03463",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03463/asset/images/medium/ae5c03463_0007.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03463</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a889dfc6afcea2fc",
+    "title": "[ASAP] BN/MgO Bilayer Heterostructures for High-Temperature Energy Storage in Poly(ether imide) Films",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c04107",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c04107/asset/images/medium/ae5c04107_0006.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c04107</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d7b8f06cb3040c52",
+    "title": "[ASAP] Understanding the Optoelectronic Properties of Crown-Ether Perovskites and Their Compositionally Substituted Mixed-Halide Derivatives",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00243",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00243/asset/images/medium/ae6c00243_0004.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00243</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "78d7fc77c4424ef3",
+    "title": "Optimizing CuSCN/photoactive interface towards efficient semitransparent organic solar cell with 55% average visible transmittance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000807?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xin Tan, Fei Xue, Xin Qin, Wei Ma, Han Yan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "de226f1305f94191",
+    "title": "K<sup>+</sup> pre-intercalated octahedral molecular sieves enabling Ag<sup>+</sup>-specific adsorption and ORR electrocatalysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000820?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Qing Tang, Xuemei Zeng, Yaqing Guo, Wenjun Song, Yun Li, Yiner Cai, Jie Xu, Yifei Yuan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d2f931ef2cf28ba1",
+    "title": "Evaporative Hydrogels for High-Performance Ambient Body Heat Harvesting via Thermoelectric",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000844?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zichen Gong, Jinfeng Dong, Soe Ko Ko Aung, Thang Bach Phan, Qi Qian, Tosawat Seetawan, Surasak Ruamruk, Yujie Ke, Bhuvanesh Srinivasan, Zhaogang Dong, Sai Kishore Ravi, Ady Suwardi, Jing Cao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "05eba3d71d7175ff",
+    "title": "Impact of Additive-Induced Nonfullerene Acceptor Aggregation on Photovoltaic Performance in Organic Photovoltaics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526000790?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jihun Jeon, Momoko Urano, Shusuke Bando, Hiroki Ogawa, Hideo Ohkita, Hyung Do Kim</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
