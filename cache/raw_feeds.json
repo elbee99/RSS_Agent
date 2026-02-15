@@ -2385,5 +2385,145 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001011?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 13 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Monica Mead, Nadine Kerner, Roham Talei, Yug Joshi, Guido Schmitz</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "bbcabe22aa7e9546",
+    "title": "Highly Stable and Electrocatalytically Active Microflower\u2010Shaped, Fe2/Ni\u2010Coordinated N\u2010Doped Carbons With Vacancy Sites for Oxygen Redox Reactions",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506668?af=R",
+    "content": "In this work, a new ternary\u2010atom electrocatalyst comprising paired Fe sites and single Ni sites, coordinated to flower\u2010shaped N\u2010doped carbon microparticles with carbon\u2010vacancy sites, is developed. The paired Fe sites, single Ni sites, and carbon vacancy sites enhance reaction kinetics and catalyst stability for reversible oxygen electrocatalysis in zinc\u2010air batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping highly efficient and stable electrocatalysts for both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) is vital for the large\u2010scale deployment of rechargeable zinc\u2010air batteries (ZABs). Herein, a novel ternary\u2010atom catalyst, composed of Fe2\u2010 and Ni\u2010coordinated, flower\u2010shaped, N\u2010doped carbon microparticles containing carbon vacancy sites (Fe2/Ni\u2010N\u2010CCVMFs), is synthesized using a facile two\u2010step heat\u2010treatment strategy. The material possesses Fe2\u2012N6 and Ni\u2012N4 co\u2010structures as well as abundant carbon vacancy sites. These render the material remarkable bifunctional electrocatalytic activity and outstanding stability in alkaline media. Density functional theory simulations indicate that: i) the Fe2\u2012N6 sites stabilize the reaction intermediate *OOH through bidentate adsorption, ii) the Ni\u2012N4 sites favorably modulate the electronic states of Fe2\u2012N6 sites, and iii) the carbon vacancy sites around the metallic species hinder the dissolution of the metallic centers. Furthermore, the catalyst exhibits a high peak power density of 264.4\u00a0mW\u00a0cm\u20122 and excellent long\u2010term cycling stability for 1000\u00a0h in rechargeable ZABs. This work will not only guide the development of robust multi\u2010atom catalysts through the rational modulation of multi\u2010metallic and vacancy sites, but also provide a new approach to optimizing\u00a0the electronic structures of the metal centers in such catalysts to enhance electrocatalytic performance.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "42ee46d7435cc3dc",
+    "title": "Bimolecular Hetero\u2010Spatial Co\u2010Passivation Enables Efficient MA\u2010Free Wide\u2010Bandgap Perovskites for All\u2010Perovskite Tandem Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70755?af=R",
+    "content": "A bimolecular hetero\u2010spatial co\u2010passivation strategy employing PipBr and 3MTPABr synergistically constructs an anchored\u2010gradient passivation region and an ultrathin low\u2010dimensional capping layer on the WBG perovskite surface. This tailored molecular spatial distribution configuration improves surface hydrophobicity, passivates defects, and optimizes energy\u2010level alignment at the perovskite/C60 interface, leading to suppressed non\u2010radiative recombination, promoted charge transport, and enhanced operational stability.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010perovskite tandem solar cells (AP\u2010TSCs) offer the potential to surpass the Shockley\u2013Queisser (S\u2013Q) limit of single\u2010junction perovskite solar cells (PSCs). Nevertheless, the wide\u2010bandgap (WBG) sub\u2010cells suffer from severe open\u2010circuit voltage (VOC) losses induced by surface defects and energy\u2010level mismatch at the WBG perovskite/C60 interface. Herein, we implemented a bimolecular passivation strategy by achieving hetero\u2010spatial distribution of piperazinium bromide (PipBr) and 3\u2010(methylthio) propylamine hydrobromide (3MTPABr) in the WBG perovskite surface layer.\u00a0Pip+ facilitates a reconstruction of the perovskite surface to form an anchored\u2010gradient passivation region, while 3MTPA+ constructs an ultrathin low\u2010dimensional perovskite capping layer atop this reconstructed region. This thumbtack\u2010type spatial distribution of the two molecules effectively passivates surface defects and optimizes the energy\u2010level alignment at the perovskite/C60 interface, achieving suppressed interfacial non\u2010radiative recombination, enhanced charge transport, and improved surface hydrophobicity. Consequently, single\u2010junction gas\u2010quenched MA\u2010free WBG (\u223c1.76\u00a0eV) PSCs achieve a power conversion efficiency (PCE) of 20.80% (with a certified value of 20.02%) and retain 91.1% of their initial PCE after 600\u00a0h of operation under 1.0 sun illumination, demonstrating the importance of spatial molecular distribution in WBG perovskite co\u2010passivation. Notably, the fabricated 2\u2010terminal AP\u2010TSC device attains a PCE of 28.34%, highlighting its considerable potential for AP\u2010TSC applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "eeaee938c9f0da7e",
+    "title": "Three\u2010Dimensional Ag2Se Thermoelectric Network Advances Multimodal Intelligent Perception",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506640?af=R",
+    "content": "This work reports a monolithic bimodal sensor constructed from a 3D Ag2Se thermoelectric network, enabling simultaneous decoupled detection of temperature and pressure signals. The sensor shows high temperature (\u2212122.7 \u00b5V K\u22121) and pressure (\u22122.94% kPa\u22121) sensitivities with fast response times of \u223c0.14 and \u223c0.08 s. Combined with deep learning, it achieves 96% recognition accuracy across nine materials, outperforming single\u2010mode sensing strategies.\n\n\n\n\n\n\n\n\nABSTRACT\nEmbodied artificial intelligence (Embodied AI) depends on the integration of multimodal sensing and physical interaction to achieve autonomous perception and adaptive control in complex environments. However, conventional multimodal sensing systems often rely on separate sensors for each physical stimulus, leading to integration challenges and signal interference. Here, we report a monolithic bimodal sensor based on a 3D Ag2Se thermoelectric network that enables simultaneous and decoupled detection of temperature and pressure within a single device. The sensor demonstrates a high temperature sensitivity of \u2212122.7 \u00b5V K\u22121 with a fast response time of \u223c0.14 s, and a high pressure sensitivity of \u22122.94% kPa\u22121 with a fast response time of about 0.08 s, indicating excellent signal isolation between the two sensing channels. When combined with deep learning, the sensor enables a real\u2010time intelligent sorting system that achieves 96% recognition accuracy across nine materials, outperforming single\u2010mode sensing approaches. This work provides an integrated multimodal sensing solution that advances the deployment of embodied AI in complex environments.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "962d2ef297478519",
+    "title": "Role of Wadsley Defects and Cation Disorder to Enhance MoNb12O33 Diffusion",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506454?af=R",
+    "content": "Wadsley\u2010Roth niobates are high\u2010rate capable and durable anode materials for lithium\u2010ion batteries. Defect\u2010tailoring of MoNb12O33 is shown to substantially enhance lithium diffusion. Computational models were used to separate the effects of cation disorder and Wadsley defects to identify that both led to the occupation of fast diffusion sites at lower extents of lithiation.\n\n\n\n\n\n\n\n\nABSTRACT\nWadsley\u2010Roth (WR) niobates have emerged as high\u2010rate anode materials that can combine rapid ionic diffusion with good electronic conductivity. WR compounds have been defect\u2010enhanced by limited annealing, however, such materials often contain multiple types of defects. In particular, both Wadsley defects (variable block size) and transition metal disorder have the potential to modify transport rates, however the corresponding effects are not well understood mechanistically. Here, MoNb12O33 (MNO) was calcined at two different temperatures to compare a defect\u2010rich condition (MNO\u2010800) with a proximal order\u2010rich condition (MNO\u2010900) as assessed through XRD, XANES, EXAFS, and STEM characterizations. Galvanostatically cycled lithium half cells of MNO\u2010800 exhibited additional capacity (307 mAhg\u22121 at 0.1C, 4.66% higher) and improved high\u2010rate capacity of 200 mAhg\u22121 at 10C. ICI\u2010based overpotential analysis identified solid state diffusion as the dominant rate limiting process where MNO\u2010800 correspondingly exhibited \u223c3X faster capacity\u2010weighted diffusivity. A machine\u2010learning interatomic potential was trained to density functional theory and then applied with molecular dynamics (MLIP\u2010MD) to examine the possible roles of Wadsley defects and transition metal disorder. For both defect\u2010types, Li was found to populate and activate fast diffusion paths from window sites at lower extents of lithiation as compared to the order\u2010rich model.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fd8d5c5eaabe3ea8",
+    "title": "Sulfide\u2010Based Electrolytes for All\u2010Solid\u2010State Sodium Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505208?af=R",
+    "content": "This review covers the structural features and synthesis strategies of sulfide\u2010based solid electrolytes, as well as critical challenges related to conductivity, interfacial and moisture stability, and scaling\u2010up for practical application in Sodium\u2010based All Solid\u2010State Batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010solid\u2010state sodium batteries with abundant resources, low cost, high safety, and high energy density show promising potential for grid\u2010scale energy storage and electric vehicles, positioning them as strong candidates for the post\u2010lithium era. Among them, sulfide\u2010based solid electrolytes stand out due to the high room\u2010temperature ionic conductivity, comparable to that of liquid electrolytes, as well as their superior interfacial compatibility and ease of production, making them a rapidly growing focus of cutting\u2010edge research. Nevertheless, critical challenges persist in current sulfide\u2010based solid electrolytes research, including inadequate ionic conductivity, moisture sensitivity, and interfacial incompatibility, which deteriorate electrochemical performance and hinder practical implementation. Herein, a systematic overview of the structure, properties, and synthesis methods of several representative sulfide\u2010based solid electrolytes is provided. Next, the key challenges and current optimization strategies are comprehensively summarized. Additionally, the assembly and battery performance of sulfide\u2010based solid electrolytes in sodium systems, along with the long\u2010overlooked safety risks and technical bottlenecks for industrial production, are discussed. Finally, a summary and recommendations for the identified and potential challenges of sulfide\u2010based solid electrolytes for future research are proposed.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2cfd01e1ec0a0ec6",
+    "title": "[ASAP] Aromatic Ionizable Lipids Enhance mRNA Delivery via Coordinating Multiple Mechanisms",
+    "link": "http://dx.doi.org/10.1021/jacs.5c16971",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c16971/asset/images/medium/ja5c16971_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c16971</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cc47b563c5f37c35",
+    "title": "[ASAP] Enantioselective C\u2013H Arylation for Axially Chiral Tetra-ortho-Substituted Heterobiaryl N-Oxides",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19147",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19147/asset/images/medium/ja5c19147_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19147</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a3c86c734fa8a427",
+    "title": "[ASAP] Acquiring Focus on Paramagnetic Single-Atom Sites with Fast Magic-Angle Spinning NMR",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20153",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20153/asset/images/medium/ja5c20153_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20153</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "20e784c5d8e5933d",
+    "title": "[ASAP] The Catalytic Asymmetric Mukaiyama\u2013Michael Reaction of Silyl Ketene Acetals with Cyclic Enones: Short Routes to Jasmonates",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20804",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20804/asset/images/medium/ja5c20804_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20804</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1efc6bdb059d9145",
+    "title": "[ASAP] Electric Field-Driven Competitive Ionic\u2013Molecular Coordination in the Helmholtz Plane Enables High-Voltage and High-Temperature Sodium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21008",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21008/asset/images/medium/ja5c21008_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21008</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8aabe1d0d3611e36",
+    "title": "[ASAP] Tailoring the Electrical Double Layer and Interfacial Electric Field with Diverse Configurational Entropy-Driven Electrolyte for Ultrastable Zinc Metal Anodes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21156",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21156/asset/images/medium/ja5c21156_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21156</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "953929853756a1d2",
+    "title": "[ASAP] Pseudo\u2013Jahn\u2013Teller Distortion in a One-Dimensional \u03c0-Conjugated Polymer",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21950",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21950/asset/images/medium/ja5c21950_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21950</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "879f13af09ace67c",
+    "title": "[ASAP] Synthesis of Spiro Carbocycles via Methyl \u03b2-C(sp3)\u2013H Functionalization of Cyclic Aliphatic Acids",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01021",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01021/asset/images/medium/ja6c01021_0011.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01021</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "75f4f040613a8946",
+    "title": "Interfacial Engineering of sNCM811 Cathodes with P3HT Coatings for Enhanced Ion/Electron Transport and Oxygen Stability in Sulfide-Based All-Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726001261?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jiatao Wu, Wenjin Li, Cheng Liu, Rui Wang, Puxi An, Hong Yu, Kang Wang, Beisen Chen, Shiming Huang, Kaiyuan Deng, Ruonan Zhang, Qingmei Xiao, Lei Yao, Guangliang Gary Liu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "462ce7a5c20b6abe",
+    "title": "Enabling Ultra-High-Loading LiFePO<sub>4</sub> Cathodes via a Conductive Binder Architecture with Minimized Inactive Content",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726001200?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Eunhwan Noh, Seongeun Oh, Hyeri Kang, Miseung Kim, Jee Ho Ha, Ho-Jeong Ji, Won-Jin Kwak, Eunji Lee, Se Hun Joo, Seok Ju Kang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "4aa0e0cbbae1d3d0",
+    "title": "Gradient <em>4f-2p-3d</em> orbital coupling activates interfacial asymmetric Co-O-Ce sites towards enhanced bidirectional catalysis in Li-CO<sub>2</sub> batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600125X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Qinghua Deng, Tianyu Wang, Yong Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "433c42a5e4e134b7",
+    "title": "[ASAP] Influence of Pb Bonding and Speciation on the Pyrolysis Products of Contaminated Biomass",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05968",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05968/asset/images/medium/ef5c05968_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05968</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "24f8176f5015a557",
+    "title": "[ASAP] Waste-Based Volatile Fatty Acids for Fuel and Chemical Production",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c04340",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c04340/asset/images/medium/nz5c04340_0006.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c04340</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dc35d16f34f1e69e",
+    "title": "Transition-metal doping induced electronic structure modulation of FeTe for enhanced electromagnetic wave absorption",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001126?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Ziyang Guo, Liyuan Qin, Longyi Fu, Ruibin Liu, Jiadong Zhou</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d93f8be74d5ee1ba",
+    "title": "Gate-Coupling-Enhanced Triboelectric-Triggered Proximity Sensory Memory in Ferroelectric Heterostructure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001059?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zhihao Li, Liuqi Cheng, Keteng Zhang, Yichen Wei, Yixuan Fu, Jiaxiang Chen, Rui Gu, Jiahong Yang, Zhong Lin Wang, Qijun Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
