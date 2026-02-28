@@ -2532,5 +2532,194 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001394?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 26 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hongshi Ren, Ying Li, Yancheng Chen, Ruilai Wei, Dan Kuang, Zhongming Wei, Guozhen Shen</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b4382fb55ac9d26a",
+    "title": "Exsolved Alloy\u2010Perovskite Heterostructure Enables Efficient and Robust CH4\u2010CO2 Solid Oxide Fuel Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202505267?af=R",
+    "content": "A novel RhFe (RF) alloy\u2010decorated perovskite anode is synthesized via in situ exsolution for dry reforming of methane (DRM) solid oxide fuel cells (SOFCs). The resulting alloy\u2010perovskite heterostructure with strong metal\u2010support interaction achieves a high peak power density of 0.86 W cm\u22122 at 800\u00b0C with exceptional long\u2010term stability for over 200 h.\n\n\n\n\n\n\n\n\nABSTRACT\nCarbon deposition on conventional Ni\u2010based cermet anodes remains a critical challenge, severely compromising the efficiency and durability of solid oxide fuel cells (SOFCs) operating via dry reforming of methane (DRM). Herein, we report a novel RhFe (RF) alloy\u2010decorated perovskite anode, synthesized through in situ exsolution from Sr1.9Fe1.5\u2010xMo0.5RhxO6\u2212\u03b4 (x = 0.1, 0.2, and 0.3, denoted as SFMR10, SFMR20, and SFMR30, respectively). This architecture combines the high DRM activity of the alloy\u2010perovskite heterointerface with the structural stability conferred by the embedded heterostructure. At 800\u00b0C, with a CH4\u2010CO2 (1:1) feed, the optimized RF@SFMR20 anode\u2010based single cell achieves a peak power density of 0.86\u00a0W cm\u22122 and maintains stable output for over 200\u00a0h, rivaling most previously reported anodes for DRM\u2010SOFCs. Combined experimental and theoretical analyses reveal that the RF alloy\u2010SFMR perovskite heterostructure, featuring a strong metal\u2010support interaction, exhibits a lower energy barrier for DRM compared to pristine Sr2Fe1.5Mo0.5O6(SFM). These findings demonstrate a strongly coupled alloy\u2010perovskite heterostructure as a promising strategy for enabling sustainable operation of DRM\u2010SOFCs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f829f041969783b4",
+    "title": "Addressing Bottlenecks to Achieve High\u2010Energy Sodium\u2010Ion Cells Using Tin Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202600009?af=R",
+    "content": "The challenges in coupling high voltage cathode with Sn\u2010alloying anode or in anode\u2010free cell, using glyme based electrolytes to realize high energy Na\u2010ion cells are reported. Surface protection strategy such as SnO coating on Sn or trapping the parasitic species from poisoning the anode, helps improving the cyclability, with \u223c100% capacity retention achieved after 200 cycles in NVPF/Na\u2010trap/Sn\u2010HC cells.\n\n\n\n\n\n\n\n\nABSTRACT\nSodium\u2010ion batteries (NIBs), as a complementary energy storage device for Li\u2010ion batteries, are swiftly making their way into high\u2010power applications market. However, further progress in NIBs requires high energy density. This requires a shift from commonly used hard carbon (HC) anodes to alloy anodes such as Bi, Sn, Sb, etc., while overcoming the problems these materials pose, with regard to volume changes and interfacial reactivity. Although ether\u2010 and glyme\u2010based electrolytes mitigate anode reactivity, their poor oxidative stability limits compatibility with high\u2010voltage cathodes such as Na3V2(PO4)2F3 (NVPF). Here, we identify glyme oxidation by\u2010products and detail their cross\u2010talk\u2013induced poisoning in NVPF|Sn\u2010HC cells using operando, ex situ, and post\u2010mortem (electro)chemical characterizations. Based on these insights, we explore mitigation strategies (i) by reducing the Sn\u2010poisoning via protective SnO coating and (ii) arresting the cross\u2010talk phenomenon using a chemical trap such as Na\u2010metal, Na15Sn4, or NaxC between the separators. Both approaches improve cell performance, albeit not fully suppressing electrolyte oxidation, with later enabling to reach near 100% capacity retention over 200 cycles at C/5, also giving some hope for achieving anode\u2010free Na\u2010ion cells. Although still present some shortcomings, these strategies offer promising directions for materials design, cell engineering, and electrolyte development toward high\u2010energy sodium\u2010ion batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6e3f00aed5ec078b",
+    "title": "Recent Progress on Non\u2011Biomass Carbon\u2011Based Anodes for Sodium\u2011Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70769?af=R",
+    "content": "The paper presents an overview of non\u2010biomass\u2010based carbon anodes in sodium\u2010ion batteries (SIBs), including such critical materials as hard carbon, soft carbon, graphene, and carbon nanotubes (CNTs). It talks about new advanced synthesis techniques, such as pyrolysis, CVD, and template carbonization as well, and the most important aspects of performance, such as porosity, surface functionalization, and cycling stability, as to how they influence their sodium storage efficacy and performance maintenance.\n\n\n\n\n\n\n\n\nABSTRACT\nThis review identify itself by concerning exclusively on synthetic non\u2011biomass carbon anodes. Providing a holistic investigation that connected fundamental sodium (Na) storage mechanisms to scalable synthesis strategies for performance optimization. The most promising anode material in Na\u2010ion batteries (SIBs) is hard carbon (HC), which is cost\u2010effective. Its wide\u2010scale application is however, limited due to difficulty in the comprehension and optimization. Particularly, initial coulombic efficiency (ICE) and long run durability. This review developing a comprehensive model that connects the atomic structure and surface chemistry to the electrochemical behavior of HC anodes. The discussion starts with the reconsideration of the basic imperfection of Na+ storage by adsorption, interlayer intercalation, nanopore filling assisted. Then, further study considers the development of carbons derived as non\u2010biomass. These are graphene\u2010based composites and carbon nanotubes (CNTs), the dynamics of capacity and reversibility being controlled by doping, pore engineering, and surface functionalization. Specific focus is put on defect management, solid\u2010electrolyte interphase (SEI) stabilization and structural hierarchy role in plateau contribution and ICE improvement. New synthesis methods are discussed as scalable ways of assembling high\u2010performance, mechanically stable carbon structures. Lastly, the review summarizes the future research direction bridging material design with full cell performance requirements.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "73e150da862e68b0",
+    "title": "Assessing Mesoscale Heterogeneities in Hard Carbon Electrodes Through Deep Learning\u2010Assisted FIB\u2010SEM Characterization, Manufacturing and Electrochemical Modeling",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506765?af=R",
+    "content": "A combination of discrete and finite element method models for the current collector deformation and electrochemical performance analysis, respectively. The models are calibrated and validated with electrochemical and imaging data of hard carbon electrodes. These electrodes were manufactured with different parameters (slurry solid contents of 35 and 40 % SC, and calendering compressions of 0 % and 30 % of the initial electrode thickness).\n\n\n\n\n\n\n\n\nABSTRACT\nWith sodium\u2010ion batteries (SIBs) entering\u00a0the energy market, optimizing their performance has become a key research focus. At the electrode level, the parameters selected during their\u00a0manufacturing\u00a0process influence their electrodes\u00a0microstructure and, consequently, the electrochemical performance. Here, we address different manufacturing conditions of hard carbon (HC) negative electrodes by varying the solid content in the slurry (35 and 40 % SC) and the calendering degree applied to the electrodes (uncalendered and 30 % calendered). The 3D microstructure of each sample is acquired using a focused ion beam (FIB) and scanning electron microscopy (SEM) technique, from which the real shape of HC particles is extracted and used to generate input microstructures for a discrete element method (DEM) calendering model designed to address the mechanical electrode behavior and its effects on current collector deformation. Also, the 3D electrode microstructures are used in a finite element method (FEM) model to obtain the electrochemical performance for C\u2010rates ranging from C/50 to C/2, and to compare these results with experimental ones. Furthermore, the DEM predicted microstructures are also\u00a0injected into the FEM model to validate the electrochemical performance and compare it with the performance of microstructures reconstructed with FIB\u2010SEM. We demonstrate a novel approach combining experimentation and advanced mesoscopic modeling, to address\u00a0how manufacturing parameters influence the performance of HC electrodes, providing an important guideline for optimizing their production for SIB applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ab28523cac20bd16",
+    "title": "[ASAP] Aromatic Interactions Select for Homodimeric Assembly in a Quadruply Hydrogen-Bonded DADA 1,2-Azaphosphinine Dimer",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20238",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20238/asset/images/medium/ja5c20238_0012.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20238</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a69273518e534f09",
+    "title": "[ASAP] Dynamic Covalent Boronate Chemistry for In Situ Formation, Interfacial Stabilization, and Cytomimetic Optimization of Coacervates",
+    "link": "http://dx.doi.org/10.1021/jacs.5c17688",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c17688/asset/images/medium/ja5c17688_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c17688</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c2b28d1191d58dbd",
+    "title": "[ASAP] Adsorption-Driven Symmetry Lowering in Single Molecules Revealed by \u00c5ngstrom-Scale Tip-Enhanced Raman Imaging",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18593",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18593/asset/images/medium/ja5c18593_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18593</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "75023daf88d83949",
+    "title": "[ASAP] Understanding the Performance Gap between Polycrystalline and Single-Crystal Nickel-Rich Layered Oxide Cathodes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18922",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18922/asset/images/medium/ja5c18922_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18922</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "19f6deb925441ef1",
+    "title": "[ASAP] Influence of the Size and Shape of Palladium Nanoparticles on Their Electrochemical Hydrogen Sorption Capacity",
+    "link": "http://dx.doi.org/10.1021/jacs.5c19692",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c19692/asset/images/medium/ja5c19692_0012.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c19692</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2787e49a66b25100",
+    "title": "[ASAP] A Mixed-Valent and High-Spin Vanadium Phosphide",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20647",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20647/asset/images/medium/ja5c20647_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20647</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "01fb0838b236189f",
+    "title": "[ASAP] Structural Colors of Cyclic Diblock Copolymers Enabled by Topology-Driven Structural Ordering and Tuned by Blending with Constituent Cyclic Polymers",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21376",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21376/asset/images/medium/ja5c21376_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21376</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4a5188b3bff20817",
+    "title": "[ASAP] Surface Polarons for Synergistic Kinetic and Thermodynamic C\u2013H Bond Oxidation",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21530",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21530/asset/images/medium/ja5c21530_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21530</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d2eb6b910d78d534",
+    "title": "[ASAP] Scintillon\u2013Mimicking Mechanoluminescence for Theranostic Applications",
+    "link": "http://dx.doi.org/10.1021/jacs.5c21878",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c21878/asset/images/medium/ja5c21878_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c21878</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "4faa282cc6e17bfd",
+    "title": "[ASAP] Homocentric Chirality and Magnetism Enable Strong NIR Magneto-Optical Activity in a Chiral DyFe3 Cluster",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22065",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22065/asset/images/medium/ja5c22065_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22065</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1cb041eac9253c22",
+    "title": "[ASAP] Engineering Polymer\u2013Lipid Integrated Nanoparticles with Quantitative Design Principles for Organ-Selective mRNA Delivery",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22504",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22504/asset/images/medium/ja5c22504_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22504</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "891cf2ee697d78b4",
+    "title": "[ASAP] Orthogonal Biosynthesis of Pyrrolamides through Dehydration by a Pathway-Specific Glycoside Hydrolase-Like Enzyme in Gram-Positive Bacteria",
+    "link": "http://dx.doi.org/10.1021/jacs.5c23027",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c23027/asset/images/medium/ja5c23027_0011.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c23027</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1b0c5aab1d9b156c",
+    "title": "[ASAP] Solution-Phase Synthesis of Nanostructured AgSbTe2: Glass-like Thermal Conductivity and High Thermoelectric Performance",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00040",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00040/asset/images/medium/ja6c00040_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00040</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "76bc0e7ea18bb8de",
+    "title": "[ASAP] Total Synthesis of the Glycoside Antibiotic Paulomycin A",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00331",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00331/asset/images/medium/ja6c00331_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00331</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8d0fb4b3a9b66a73",
+    "title": "[ASAP] Vicinal Dicarbonyl Reprogramming via Molybdenum-Catalyzed Formal C(O)\u2013C(O) Bond Cleavage",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00571",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00571/asset/images/medium/ja6c00571_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00571</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b8f07aef5a17a3f3",
+    "title": "[ASAP] Sedimentology and Geochemistry of Gas Hydrate-Bearing Sands in the Greater Prudhoe Bay Area, Alaska North Slope: Insights from HYDRATE-02 Geo Data Well Core Analyses",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c04943",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c04943/asset/images/medium/ef5c04943_0010.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c04943</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "90f97751cec145ca",
+    "title": "[ASAP] Predicting the Solubility of Impure Carbon Dioxide in Brine Using Hybrid Machine Learning",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05807",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05807/asset/images/medium/ef5c05807_0015.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05807</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "fe31d33b8693dfd9",
+    "title": "[ASAP] In Situ Micro-CT Study of Nanoemulsion for Enhanced Oil Recovery in Low-Permeability Reservoirs",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06146",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06146/asset/images/medium/ef5c06146_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06146</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "664d9e16c322e502",
+    "title": "[ASAP] Battery Research at IIT Bombay: From Fundamental Electrochemistry to Scalable Energy Storage",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.6c00404",
+    "content": "<div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.6c00404</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "db1e87186f8f03ca",
+    "title": "[ASAP] Optimizing Polybenzimidazole Binders for High-Temperature Proton Exchange Membrane Fuel Cells",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03879",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03879/asset/images/medium/ae5c03879_0007.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03879</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a1bc544dc6dcaeae",
+    "title": "Deciphering the Interfacial Instability Electro-Chemo-Mechanical Mechanism of Si-Based All-Solid-State Batteries: A Three-Dimensional Multiphysics Coupled Approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001461?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Chunhao Yuan, Jing Wu, Wenjing Zhang, Yihan Liu, Xiaotong Wang, Xiang Gao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a5d199e2b40e0c40",
+    "title": "Electromagnetic radiation from a magnet-based mechanical antenna",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001412?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jie Zhu, Xiaoxin Pan, Yishi Shi, Bobo Sun, Zhi-Bin Zhang, Liming Ding, Zhong Lin Wang, Jiajia Shao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "755180f9bc9f0718",
+    "title": "Synergistic Regulation of Piezo-Phototronic Effect and Ferroelectricity on Photoresponse of NbOI<sub>2</sub>/CuInP<sub>2</sub>Se<sub>6</sub> van der Waals Heterostructures and Its Automatic Obstacle Avoidance Application",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526001436?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 February 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Wenbo Peng, Xingyu Zhang, Mingyang Bai, Yuhao Chen, Yaju Zhang, Liya Yang, Hao Xu, Yushuo Zhi, Yuanzheng Zhang, Haiwu Zheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
