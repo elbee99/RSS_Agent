@@ -2203,5 +2203,208 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002521?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 9 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jing Ren, Wei Zhao, Yunlei Zhou, Xuxu Chen</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "81cf4296eba835f0",
+    "title": "Ultramicropore Engineering Bridges the Capacity\u2013Kinetics Gap in Hard Carbon for Sodium\u2010Ion Battery",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70935?af=R",
+    "content": "To design a high\u2010power hard carbon anode, we introduce rich ultramicropores onto the surface. These ultramicropores not only shorten the diffusion pathways for Na+, promote the desolvation of Na+ at the electrode interface, but also enhance pseudocapacitance capacity in the plateau region, which effectively resolves the contradiction between high capacity and low kinetics in the plateau region.\n\n\n\n\n\n\n\n\nABSTRACT\nAlthough, hard carbon (HC), is an ideal anode for sodium\u2010ion batteries, its major capacity contribution in the plateau region is often hindered by sluggish kinetics, which limits the use in high\u2010power applications. In this work, lignin is introduced into the cellulose precursor to modify the pyrolysis pathway and results in abundant C\u2550O functional groups, optimized graphite domains, and a tailored pore system rich in both closed pores and ultramicropores. Crucially, ultramicropores play a pivotal role in resolving the trade\u2010off between plateau capacity and kinetics, as they facilitate rapid sodium adsorption, inhibit the decomposition of the electrolyte within the pores, and partially contribute to the capacity of the plateau region. The optimized HC exhibits a high reversible capacity of 353.9 mAh g\u22121 with an initial coulombic efficiency of 86.3%, excellent rate performance, and stable long\u2010term cycling at room temperature (82.1% retention after 2500th at 1 A g\u20121) and \u221240\u00b0C (80.9% retention after 100th at 37.2\u00a0mA g\u20121). Based on the electrochemical performance and in situ characterization, the \u201cadsorption\u2010intercalation\u2010pore filling\u201d mechanism of HC anodes is confirmed, and the role of the ultramicropores in enhancing transport kinetics is demonstrated, which provides novel insights for designing high\u2010power anodes of sodium\u2010ion batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ebacea784d4785bc",
+    "title": "Mn\u2010Mediated Phase Engineering for Efficient Cd\u2010Free Cu2ZnSnS4 Solar Cells on Transparent Electrode",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70931?af=R",
+    "content": "This work identifies the SnS2 secondary phase formed in FTO\u2010substrate CZTS solar cells originating from FTO\u2010S contact reaction and introduces Mn doping to suppress it via blocking S transport liquid channels toward FTO substrate, and first achieves a record 9.32%\u2010efficiency Cd\u2010free CZTS solar cells with optimized heterojunction band alignment by further substituting toxic buffer layer CdS with Zn1\u2010xSnxO (ZTO).\n\n\n\n\n\n\n\n\nABSTRACT\nFluorine\u2010doped tin oxide (FTO) as a back electrode in Cu2ZnSnS4 (CZTS) solar cells holds significant potential for building\u2010integrated photovoltaics (BIPV) and tandem cell applications. However, severe SnS2 secondary phase degrades device performance. Here, we report a Mn doping strategy to mitigate CZTS absorber phase purity. The results show that the formation of a large amount of SnS2 comes from reaction between FTO and vertical liquid SnS2 channel delivered S. The formation of MnS in doped film disrupts the liquid channel, which prevents back contact reaction. The mitigation of the detrimental secondary phase and incorporation of Mn into the lattice of CZTS (by occupying Zn site) greatly reduce defect concentration within absorber bulk and at heterojunction interface, leading to remarkably increased fill factor and open\u2010circuit voltage and an efficiency of 7.95% at doping concentration of 2.5%. Over Mn doping not only hinders grain growth but left undesirable MnS in the film, severely reducing film quality and device performance. Furthermore, wide bandgap Zn1\u2010xSnxO (ZTO) buffer layer was deposited to replace CdS, constructing a favorable \u201cspike\u2010like\u201d energy band alignment at the heterojunction with effectively suppressed interface recombination, first achieving a Cd\u2010free CZTS device on transparent substrate with an efficiency of 9.32%.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f4940caaf38821b8",
+    "title": "Geometrically Gradient Cathode Architecture Overcomes Reaction Heterogeneity for Practical Lithium\u2013Sulfur Pouch Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70919?af=R",
+    "content": "This work proposed a tailor\u2010designed gradient cathode (GC) architecture with a gradual mass loading decrement from the edge to the center to overcome reaction heterogeneity in practical Li\u2013S pouch cells. The innovative design of GC surpasses the conventional cathode (CC) with constant mass loading, featuring an electrolyte reservoir at the center for an elevated capacity release and harmonizing electrolyte consumption with replenishment for an enhanced cycle life.\n\n\n\n\n\n\n\n\nABSTRACT\nThe unsatisfactory cycle life of lithium\u2010sulfur pouch cells has significantly hindered their practicality, whose early failure is linked to the reaction heterogeneity caused by the premature lean electrolyte state at the cathode center. To address this issue, we proposed a tailor\u2010designed gradient cathode architecture with gradually decreased mass loading from the edge to the center. This design aligns with the gradient electrolyte distribution, enabling the maintenance of a consistent electrolyte\u2010to\u2010active\u2010material ratio (E/AM) throughout the cathode. This innovative architecture serves two primary functions: storing electrolyte at the center for an elevated capacity release and harmonizing electrolyte consumption with replenishment for an enhanced cycle life. Its positive effectiveness lies in ensuring uniform electrolyte distribution, which enables homogeneous reaction and consequently achieves uniform pressure distribution, ultimately creating a virtuous cycle. These merits were validated through various advanced techniques, including surface analysis, in situ ultrasound imaging, and in situ pressure analysis. By utilizing the gradient cathode instead of flat conventional cathode in pouch cells, we achieved impressive dual\u2010high energy densities of 390 Wh/kg and 880 Wh/L, and simultaneously extended the cycle life from only 4 cycles to 50 (conventional capacity retention standard) and 45 cycles (more rigorous and informative coulombic efficiency \u2265 80% standard).",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "44743338891d4251",
+    "title": "Defect\u2010Driven Multimetal Synergy Enables Electrocatalytic Amine Valorization and Hydrogen Co\u2010Generation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70921?af=R",
+    "content": "We are developing an innovative hybrid acid/alkali flow electrolyzer employing FeCoNiMnWS2/NF as the anode catalyst. By exploiting the pH gradient, the operating voltage is being remarkably reduced to 0.55\u00a0V at 10\u00a0mA cm\u22122, while outstanding stability is maintained over 350 h of continuous operation, achieving the co\u2010production of benzonitrile and hydrogen and opening a sustainable pathway for the electrochemical synthesis of fine chemicals.\n\n\n\n\n\n\n\n\nABSTRACT\nSustainable nitrile synthesis remains a formidable challenge due to the high energy demands and environmental burden of conventional routes. Here, we present a defect\u2010engineered high\u2010entropy sulfide catalyst (FeCoNiMnWS2/NF) that drives the electrooxidation of benzylamine to benzonitrile with 99% Faradaic efficiency and complete conversion. Operando studies reveal that atomic vacancies induce dynamic surface reconstruction, generating a heterogeneous catalytic interface composed of WS2 domains, Fe(Co/Ni)OOH, and W\u2013O species, which facilitate N\u2013H and C\u2013H dehydrogenation. Machine\u2010learning\u2010assisted first\u2010principles calculations combined with microkinetic modeling show that WS2 edge sites dominate the catalytic activity, while adjacent oxyhydroxide and oxide species modulate the electronic structure through interfacial interactions. When integrated into a hybrid acid/alkali flow electrolyzer, the system achieves 10\u00a0mA cm\u22122 at 0.55\u00a0V, simultaneously yielding benzonitrile and high\u2010purity hydrogen with nearly quantitative efficiency. This work introduces a high\u2010entropy catalyst platform that couples amine valorization with energy co\u2010generation, charting a sustainable path toward electrified fine chemical synthesis.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "377d53d4b03dcc90",
+    "title": "[ASAP] Enzyme-Triggered Self-Immobilization of an NIR Prodrug for Tumor-Selective Cancer Vaccination",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20321",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20321/asset/images/medium/ja5c20321_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20321</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "92c794685fd2d05b",
+    "title": "[ASAP] Iron-Catalyzed Cross-[2 + 2] Cycloaddition of Butadiene and \u03b1,\u03c9-Dienes for Ductile and Chemically Recyclable Poly(oligocyclobutanes)",
+    "link": "http://dx.doi.org/10.1021/jacs.5c23398",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c23398/asset/images/medium/ja5c23398_0012.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c23398</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "73887233ffd65971",
+    "title": "[ASAP] Probing Mesoscopic Solvation Dynamics via Comparable-Sized Nanomolecular Clusters",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00260",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00260/asset/images/medium/ja6c00260_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00260</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "541e36258159fc0b",
+    "title": "[ASAP] Bifunctional Lipid\u2013Protein Cross-linking Efficiency and Reaction Products",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01205",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01205/asset/images/medium/ja6c01205_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01205</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dbc72e80da317730",
+    "title": "[ASAP] Machine-Learning-Guided Discovery of CH4 Combustion Catalysts Operating in the Presence of SO2",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01560",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01560/asset/images/medium/ja6c01560_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01560</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b0a4e1b7b031c6e5",
+    "title": "[ASAP] Endurance from Structural Distortion and Conservation of Adsorption Ability of Moisture-sensitive Metal\u2013Organic Frameworks (CPM-33x)",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02020",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02020/asset/images/medium/ja6c02020_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02020</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "73d7af077d55e9da",
+    "title": "[ASAP] Biocatalytic Production of a Key Chiral Intermediate of the HIV Capsid Inhibitor Lenacapavir",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02519",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02519/asset/images/medium/ja6c02519_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02519</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7d7243ea20c21858",
+    "title": "[ASAP] Harnessing FBXO31 with Terminal Amide-Functionalized Molecules for Targeted Protein Degradation",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02580",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02580/asset/images/medium/ja6c02580_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02580</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6be8f501d03911c0",
+    "title": "[ASAP] Reactive Hydrogen-Driven Dehydroxylation of Hydroxyapatite Enables Anti-Ostwald Ripening of Ag Nanoparticles for Ethanol Valorization to Aromatics",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03225",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03225/asset/images/medium/ja6c03225_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03225</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c1fba21402599bca",
+    "title": "[ASAP] From Anisotropic Aluminum-MOF Rods to Oriented Membranes: Stepwise Coordination-Editing for Geometry-Governed Isomer Separation",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03494",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03494/asset/images/medium/ja6c03494_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03494</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "73e05cd5de51e0d5",
+    "title": "Quantifying capital-energy trade-offs in bipolar membrane electrodialysis for atmospheric and oceanic carbon removal",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00108-X?rss=yes",
+    "content": "Bipolar membrane electrodialysis presents an electrified CO2 regeneration method. However, the cost of its integration with direct air and ocean capture under dynamic electricity prices is still underexplored. By utilizing power, process, and techno-economic models and by leveraging real-world and simulated electricity and carbon intensity datasets, this work identifies capital-energy trade-offs and elucidates the effects of grid emission accounting on the cost of CO2 removal.",
+    "journal": "Joule"
+  },
+  {
+    "id": "d682b36d32ff5f42",
+    "title": "Advances and Challenges in Electrolyte Design for High-Performance Lithium Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600245X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Chong Xu, Rui Wu, Shuang Liu, Gong Cheng, Guang Ma, Yan Jia, Yongfeng Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "4321d2b108543eb7",
+    "title": "Mineral-Based Stabilization Chemistry for Aqueous Zinc Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002412?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Lei Liu, Liping Qin, Shan Guo, Zijie Xu, Guozhao Fang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2a6c7a7516693272",
+    "title": "Time-Sequence Autogenous Shrinkage Engineering Toward Hard Carbon Anodes with Dominant Closed Porosity for High-Performance Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002400?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Shendong Xu, Peiyao Wang, Bangchuan Zhao, Xiaojun He, Xingqiao Wu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5ac5aea9411d33f0",
+    "title": "[ASAP] Effect of Plasticizers on Performance in Single-Ion Conducting Polymer Electrolytes: Implications for Lithium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00725",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00725/asset/images/medium/ef6c00725_0009.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00725</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2da166b38e0a0017",
+    "title": "[ASAP] Acoustic Stimulation for Enhanced Oil Recovery: A Review and Future Directions",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c05419",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c05419/asset/images/medium/ef5c05419_0015.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c05419</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "502629b6b0f72b92",
+    "title": "[ASAP] Pd\u2013Bi Bimetallic Alloy on ZIF-8-Derived ZnO Semiconductor for Accelerated Photocatalytic CO2 to Methanol Production",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06070",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06070/asset/images/medium/ef5c06070_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06070</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3411a506a27b1bfb",
+    "title": "[ASAP] Gravity Drainage of Heavy Oil into a Flowing n-Alkane Layer in Porous Media",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00098",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00098/asset/images/medium/ef6c00098_0016.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00098</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "0f89019897b1a8b0",
+    "title": "[ASAP] Identifying Coal Body Structure in Unbalanced Logging Data: Random Forest Model Integrating k-Means and ADASYN",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00340",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00340/asset/images/medium/ef6c00340_0013.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00340</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c113a314cc1605ce",
+    "title": "[ASAP] Tailoring Co3O4-Embedded Nitrogen-Doped 2D Carbon Sheets via Water-Induced ZIF-9 Phase Transition for Oxygen Electrocatalysis",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00512",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00512/asset/images/medium/ef6c00512_0011.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00512</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "67f8062167d4358e",
+    "title": "[ASAP] Rebuilding Hydrogen Bond Network and Adjusting pH by Electrolyte Additives for Stabilizing Zinc Anode",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00935",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00935/asset/images/medium/ef6c00935_0006.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00935</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5431c77d7322d030",
+    "title": "[ASAP] Lab-on-Chip Insights: Chemical Alternating Gas (CAG) Injection to Improve CO2 Conformance and Oil Recovery in Heterogeneous Reservoirs",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c01410",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c01410/asset/images/medium/ef6c01410_0022.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c01410</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "717f7b5c2266a748",
+    "title": "[ASAP] Tuning Self-Assembled Monolayers of Me-4PACz with Bisphosphonic Acid Groups to Improve Temperature and Cycling Stability of Perovskite Photovoltaics",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.5c03637",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.5c03637/asset/images/medium/nz5c03637_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.5c03637</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f2682d3d6219492a",
+    "title": "[ASAP] Synergistic Solvation Structure Modulation in Ether-Based Electrolytes for High-Performance Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00707",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00707/asset/images/medium/ae6c00707_0005.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00707</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cbd5ac435d6ebb1b",
+    "title": "Delocalized electronic engineering by ionic potential enabling fluorophosphates cathode towards ultrahigh rate capacity and stability for sodium-ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002545?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Qingbo Zhou, Yuhang Xin, Chang Sun, Bojian Fan, Yingshuai Wang, Hui Zhou, Yunfei Shen, Feng Wu, Hongcai Gao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
