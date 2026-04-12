@@ -2406,5 +2406,40 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002545?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 10 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Qingbo Zhou, Yuhang Xin, Chang Sun, Bojian Fan, Yingshuai Wang, Hui Zhou, Yunfei Shen, Feng Wu, Hongcai Gao</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "7b25c85a4215237b",
+    "title": "Benzoxazine Chemistry\u2010Directed Closed\u2010Pore Engineering in Microspheric Hard Carbon toward Ultrafast Sodium Energy Storage",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70934?af=R",
+    "content": "This study introduces a benzoxazine chemistry\u2010directed multi\u2010site cross\u2010linking strategy to optimize the polybenzoxazine precursor network toward spontaneous closed\u2010pore engineering in derived microspheric hard carbon. The well\u2010developed closed pores together with expanded layer spacing and rich N\u2010doped pseudo\u2010graphic domains bestow the hard carbon microspheres with boosted initial Coulombic efficiency and exceptional high\u2010rate sodium storage capability.\n\n\n\n\n\n\n\n\nABSTRACT\nThe enhancement of sodium\u2010storage plateau capacity through closed\u2010pore engineering remains a crucial challenge in high\u2010performance hard carbon anodes. Herein, \u1ea1 benzoxazine chemistry\u2010directed cross\u2010linking strategy is proposed to synthesize polybenzoxazine\u2010based polymer spheres (G\u2010FT) through the polymerization of monomers among natural tea polyphenol, glutamic acid, and formaldehyde. We unveil that the dicarboxylic amine\u2010structured glutamic acid can simultaneously trigger in\u2010situ Mannich reaction and esterification with tea polyphenols through a multi\u2010site linkage mechanism. Such highly cross\u2010linked and unique Mannich bridge frameworks in the polybenzoxazine\u2010based precursors facilitate the ordered growth of graphitic microdomains during subsequent carbonization process, resulting in abundant nanoscale closed pores within the derived hard carbon microspheres (G\u2010FT\u2010HC). For sodium\u2010ion storage, G\u2010FT\u2010HC delivers a boosted initial Coulombic efficiency (90.6%) and a high capacity (325.7 mAh g\u22121) along with 68.2% plateau capacity contribution. Meanwhile, the optimized carbon microstructure and inorganic\u2010rich solid\u2010electrolyte interphase endow the G\u2010FT\u2010HC with superb high\u2010rate capability (78.9 mAh g\u22121 at 15 A g\u22121, \u224816 s to full charge or discharge). Theoretical calculations reveal that in the G\u2010FT\u2010HC, nitrogen\u2010doped pseudo\u2010graphitic domains together with expanded carbon layers and moderate planar defects favor rapid Na+ diffusion kinetics, while the formed closed\u2010pore structure promotes Na cluster aggregation, thereby enhancing the Na\u2010storage at low\u2010voltage plateau.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8687d9c847310c7b",
+    "title": "[ASAP] Rhodium-Catalyzed Desymmetric Addition of Boronic Acids to Malononitriles",
+    "link": "http://dx.doi.org/10.1021/jacs.5c23045",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c23045/asset/images/medium/ja5c23045_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c23045</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "34460d5163908250",
+    "title": "[ASAP] Diffusion-Mediated Synthesis of Durable High-Entropy Sulfide Nanocrystals: Le Chatelier-Driven and Electron Configuration Effects",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02607",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02607/asset/images/medium/ja6c02607_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02607</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "19ad69b316e85316",
+    "title": "[ASAP] Site-Specifically Modified Circular Ribonucleic Acid Serves as Multitarget miRNA Sponge with Low Immunogenicity",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04991",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04991/asset/images/medium/ja6c04991_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04991</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1140695c28eb2629",
+    "title": "[ASAP] Evaluating the Cyclic CO2 Capture Performance of NaX and NaY Zeolites Synthesized from Blast Furnace Slag under Sulfur-Containing Flue Gas",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00978",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00978/asset/images/medium/ef6c00978_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00978</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
   }
 ]
