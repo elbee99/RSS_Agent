@@ -824,5 +824,670 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002570?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 13 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jihui Yin, Chengyuan Zhou, Ruoshui Liu, Hengyu Li, Ningning Zhou, Le Gu, Zheng Yang, Yunpeng Cao, Tinghai Cheng, Xiaojun Cheng</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9fab7861f78bd2e0",
+    "title": "Multiscale Perspectives on Perovskite Instability: From Atomistic Deformation to Device Degradation in Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506810?af=R",
+    "content": "Multiscale perspectives on how excess charges in soft lead halide perovskites induce operational instability in photovoltaic devices are presented. Localized carriers formed under thermodynamic non\u2010equilibrium states modify atomistic interactions and drive lattice distortions, accelerating device degradation. A systematic understanding of excess carrier effects under operation conditions provides pathways to relieve the instability issues in perovskite photovoltaics.\n\n\n\n\n\n\n\n\nABSTRACT\nThis review elucidates where the operational instability of perovskite\u2010based optoelectronic devices originates from by comprehensively exploring degradation phenomena from atomistic interactions to device scale. At thermodynamic equilibrium, the intrinsic stability of halide perovskites is reasonably good when considering the balance of intramolecular Asite covalent bonds, intermolecular A\u2013X hydrogen bonds, and mixed ionic\u2013covalent B\u2013X bonding. Under operation, however, photoexcited or injected carriers become localized via trapping at surface and ionic defects and/or polaron formation in the soft Pb\u2013halide framework, which induce Coulombic force to distort the crystal lattice and change atom\u2010to\u2010atom distances. Such effects lower ion migration barriers, enhance lattice distortion, and accelerate atmospheric reactions with ambient species, leading to quick degradation of perovskite crystals. In terms of device\u2010level stability, holerich conditions and interfacial charge accumulation in heterostructured architectures are identified as particularly detrimental, directly linking carrier localization to device\u2010level degradation. Based on these insights, we discuss composition engineering toward favorable large\u2010polaron formation, defect passivation to suppress trap\u2010assisted localization, and interfacial engineering within the heterostructured device. At the end, we propose advanced operation protocols that effectively relieve charge accumulation as key routes to realize durable perovskite optoelectronic devices.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6dc7e041b32acf6e",
+    "title": "Two\u2010Dimensional Template Induced Ultradense Solid Polymer Electrolytes for High\u2010Performance Solid\u2010State Lithium Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70943?af=R",
+    "content": "Negatively charged Ti0.87O2 monolayer nanosheets suppress the phase separation and guide the formation of an ultradense PVDF\u2010HFP electrolyte with enhanced mechanical properties. The strong interaction between nanosheets and Li+ enables rapid Li+ migration, resulting in high ionic conductivity and a stable interface. Remarkably, solid state pouch cell with a high energy density of 386 Wh kg\u22121 works without any liquid addition.\n\n\n\n\n\n\n\n\nABSTRACT\nSolid polymer electrolytes based on PVDF\u2010HFP (SPEs) hold great promise in the application of solid\u2010state Li metal batteries (SSLMBs). However, phase\u2010separation\u2010induced inadequate mechanical robustness and compromised Li+ transport kinetics significantly hinder their industrial application. Herein, negatively charged Ti0.87O2 monolayer nanosheets were introduced as an interconnected template to suppress phase separation and guide the formation of an ultradense PVDF\u2010HFP electrolyte (UDSPE) with enhanced mechanical properties. Besides, the strong interaction between Ti0.87O2 nanosheets and Li+ enables the rapid Li+ migration through the interface, resulting in high ionic conductivity (0.87 mS cm\u22121). The homogeneously dispersed LiTFSI facilitates the formation of an inorganic solid electrolyte interphase, thus effectively suppressing interfacial side reactions and enhancing the interface stability. Consequently, the symmetric cell exhibits a 2300\u00a0h stable cycling, and the Li||LiFePO4 full cell with UDSPE demonstrates a stable cycling performance for more than 2000 cycles. Remarkably, Ah level solid state pouch cell with a high energy density of 386\u00a0Wh kg\u22121 was assembled and worked without any liquid addition. This work provides a rational strategy for designing high\u2010aspect\u2010ratio nanosheet templates to achieve homogeneous polymer electrolytes and enable high\u2010performance SSLMBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ae8fd28ae6be35ad",
+    "title": "[ASAP] The Salting-Out Effect Enables Highly Selective Electrochemical Ammoxidation of Aldehydes to Nitriles",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01267",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01267/asset/images/medium/ja6c01267_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01267</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a2d2b29202094ab0",
+    "title": "[ASAP] Effective CO2 Photoreduction Synergistically Boosted by Built-In Electronic Field and Coplanar Covalent Triazine Frameworks",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01282",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01282/asset/images/medium/ja6c01282_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01282</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a95da610e401fc77",
+    "title": "[ASAP] Inverse Design of Ag\u2013Cu Bimetallic Alloys: Tuning C1+ Selectivity during CO2 Electroreduction",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01296",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01296/asset/images/medium/ja6c01296_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01296</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e2569ef59eca9435",
+    "title": "[ASAP] Full-Dimensional Differentiation and Pathway-Wide Transformation in a Homologous Covalent Organic Framework Family",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02577",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02577/asset/images/medium/ja6c02577_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02577</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b5f7b6c306b93038",
+    "title": "[ASAP] Direct Partial Oxidation of Methane at Plasma-Catalyst-Liquid Interfaces",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04425",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04425/asset/images/medium/ja6c04425_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04425</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c434de8482b3c1d9",
+    "title": "[ASAP] Localized Deep Eutectic Electrolytes for Durable 4.8 V Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04977",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04977/asset/images/medium/ja6c04977_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04977</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "de85718425f8c89d",
+    "title": "[ASAP] Quantifying Outer- and Inner-Coordination Sphere Effects Using Uranium Redox Chemistry in Molten Salt Solutions",
+    "link": "http://dx.doi.org/10.1021/jacs.5c20789",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c20789/asset/images/medium/ja5c20789_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c20789</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "0c97f279394c99c0",
+    "title": "[ASAP] From Trimers to Chains: Growth and Defect Dynamics in Anisotropic Tellurium Films",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01496",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01496/asset/images/medium/ja6c01496_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01496</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "74d36fbe38ccb6c8",
+    "title": "[ASAP] Proton Relay Mediated by Atomic Sn Lewis-Acidic Sites for Accelerating Oxygen Reduction Kinetics in Fe\u2013N\u2013C Catalysts",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01888",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01888/asset/images/medium/ja6c01888_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01888</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5143b4d50d2df49e",
+    "title": "[ASAP] Seven-Step Total Synthesis of Conidiogenone B Enabled by Radical Cyclizations",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02334",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02334/asset/images/medium/ja6c02334_0003.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02334</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c71f56e487c395c5",
+    "title": "[ASAP] Crystalline Diboryldiazomethane: Synthesis and Reactivities",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02361",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02361/asset/images/medium/ja6c02361_0010.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02361</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "80c53db40fed0aea",
+    "title": "[ASAP] \u03c0-Bridge-Engineered Near-Infrared Schaap\u2019s Chemiluminescent Probes for Precise Tumor Diagnosis and Imaging-Guided Surgery",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03574",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03574/asset/images/medium/ja6c03574_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03574</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e6c610ec7c469e47",
+    "title": "[ASAP] Identification of Solid-Electrolyte Interphase Species by Joint Characterization of Li-Ion Battery Chemistry by Mass Spectrometry and Electrochemical Reaction Networks",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04755",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04755/asset/images/medium/ja6c04755_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04755</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "36cf08eedfe425cb",
+    "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
+    "link": "https://www.nature.com/articles/s41586-026-10513-8",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10513-8\">doi:10.1038/s41586-026-10513-8</a></p>Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
+    "journal": "Nature"
+  },
+  {
+    "id": "107fc74e99e69186",
+    "title": "Retraction Note: The hidden fitness of the male zebra finch courtship song",
+    "link": "https://www.nature.com/articles/s41586-026-10483-x",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10483-x\">doi:10.1038/s41586-026-10483-x</a></p>Retraction Note: The hidden fitness of the male zebra finch courtship song",
+    "journal": "Nature"
+  },
+  {
+    "id": "d3f85773ac568556",
+    "title": "Editorial Expression of Concern: Creation of human tumour cells with defined genetic elements",
+    "link": "https://www.nature.com/articles/s41586-026-10504-9",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10504-9\">doi:10.1038/s41586-026-10504-9</a></p>Editorial Expression of Concern: Creation of human tumour cells with defined genetic elements",
+    "journal": "Nature"
+  },
+  {
+    "id": "b58db040678e8e91",
+    "title": "Author Correction: HER2 expression identifies dynamic functional states within circulating breast cancer cells",
+    "link": "https://www.nature.com/articles/s41586-026-10519-2",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10519-2\">doi:10.1038/s41586-026-10519-2</a></p>Author Correction: HER2 expression identifies dynamic functional states within circulating breast cancer cells",
+    "journal": "Nature"
+  },
+  {
+    "id": "93284931a1bb6ece",
+    "title": "Carbonyl swapping converts cyclic ketones to saturated heterocycles",
+    "link": "https://www.nature.com/articles/s41586-026-10508-5",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10508-5\">doi:10.1038/s41586-026-10508-5</a></p>Carbonyl swapping converts cyclic ketones to saturated heterocycles",
+    "journal": "Nature"
+  },
+  {
+    "id": "82abd7bc61832d95",
+    "title": "Giant cancer study reveals effectiveness of \u2018off label\u2019 treatments",
+    "link": "https://www.nature.com/articles/d41586-026-01241-0",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01241-0\">doi:10.1038/d41586-026-01241-0</a></p>Genomics-guided trial could increase options for people undergoing cancer therapy \u2014 plus, a landmark ancient-genome study reveals natural selection in hundreds of human genes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7575de3dee19bc8d",
+    "title": "Monolithic 3D integration of tantalum pentoxide nonlinear photonics",
+    "link": "https://www.nature.com/articles/s41586-026-10379-w",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10379-w\">doi:10.1038/s41586-026-10379-w</a></p>Monolithic three-dimensional (3D) integration of tantalum pentoxide on a lithium niobate substrate enables scalable, multifunctional photonic systems and the incorporation of nonlinear optics directly into existing and emerging photonics infrastructure.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2456f9a830f18b89",
+    "title": "Linear RAG scanning mediates editing of Ig\u03ba variable region repertoires",
+    "link": "https://www.nature.com/articles/s41586-026-10362-5",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10362-5\">doi:10.1038/s41586-026-10362-5</a></p>Studies explaining the secondary Igk recombination mechanism are described and Cer/Sis deletion and/or displacement is implicated as a developmental switch converting the rearrangement mechanisms from two-loop-based diffusional primary Igk into one-loop-based linear scanning secondary mechanisms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "628185b399d488ae",
+    "title": "Identifying the topographic signature of early Martian oceans",
+    "link": "https://www.nature.com/articles/s41586-026-10381-2",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10381-2\">doi:10.1038/s41586-026-10381-2</a></p>Shelves rather than shorelines may be better topographic indicators of oceans on Earth and Mars.",
+    "journal": "Nature"
+  },
+  {
+    "id": "48e6d2d24ca730fd",
+    "title": "Brainwide blood volume reflects opposing neural populations",
+    "link": "https://www.nature.com/articles/s41586-026-10350-9",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10350-9\">doi:10.1038/s41586-026-10350-9</a></p>Combined functional ultrasound imaging and Neuropixels recording of mouse brains identify two neuronal populations with opposing arousal-related activity and distinct haemodynamic response functions, that occur throughout the brain.",
+    "journal": "Nature"
+  },
+  {
+    "id": "566df7b576ab771e",
+    "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
+    "link": "https://www.nature.com/articles/s41586-026-10358-1",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10358-1\">doi:10.1038/s41586-026-10358-1</a></p>Analysis of 15,836 ancient West Eurasian genomes reveals hundreds of instances of directional selection, showing that sustained changes in allele frequency were widespread, rather than being rare over this period as previously assumed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "94ec04d61e5291ae",
+    "title": "Tumour promotion through the lens of evolution",
+    "link": "https://www.nature.com/articles/s41586-026-10386-x",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10386-x\">doi:10.1038/s41586-026-10386-x</a></p>This Review revisits tumour initiation and promotion in light of clonal diversity and the presence of cancer driver mutations in normal tissues, aiming to understand mechanisms that enable environmental and endogenous factors to expand tumorigenic clones.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cf9decbc243eaf7c",
+    "title": "mRNA vaccines engage unconventional pathways in CD8<sup>+</sup> T cell priming",
+    "link": "https://www.nature.com/articles/s41586-026-10353-6",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10353-6\">doi:10.1038/s41586-026-10353-6</a></p>mRNA\u2013lipid-nanoparticle vaccines do not require type 1 conventional dendritic (cDC1) cells or the WDFY4-dependent cross-presentation pathway for CD8+ T cell priming but, instead, engage both cDC1 and cDC2 cells redundantly.",
+    "journal": "Nature"
+  },
+  {
+    "id": "30f66fda5856eb10",
+    "title": "Prospective evaluation of genomics-guided off-label treatment",
+    "link": "https://www.nature.com/articles/s41586-026-10405-x",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10405-x\">doi:10.1038/s41586-026-10405-x</a></p>Evaluation by the Drug Rediscovery Protocol of off-label use of 37 approved cancer drugs on 1,610 patients showed modest activities overall, although subgroups of responders suggest that off-label drug use could be beneficial in tandem with more stringent biomarker selection.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ba84f64bce6dd597",
+    "title": "Cell-type-targeted mitochondrial transplantation rescues cell degeneration",
+    "link": "https://www.nature.com/articles/s41586-026-10391-0",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10391-0\">doi:10.1038/s41586-026-10391-0</a></p>MitoCatch is a cell-type-specific mitochondrion-targeting system that links mitochondria and the cell surface by protein binders and delivers mitochondria into the target cell.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4c4dbff5f6def267",
+    "title": "A spatial atlas of the healthy human liver from live donors",
+    "link": "https://www.nature.com/articles/s41586-026-10377-y",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10377-y\">doi:10.1038/s41586-026-10377-y</a></p>A human spatial atlas of gene expression in liver based on live donors shows marked porto\u2013central zonation of hepatocytes and non-parenchymal cells, and transcriptomic changes in early steatosis.",
+    "journal": "Nature"
+  },
+  {
+    "id": "25374e77f8409dce",
+    "title": "A mechanism for adaptive genome regulation in cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10269-1",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10269-1\">doi:10.1038/s41586-026-10269-1</a></p>In this Perspective article, a theoretical framework for how the AP-1 family of transcription factors mediates cellular adaptation in cancer drug resistance is proposed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dfb3c2f9227eda20",
+    "title": "Molecular basis for methylation-sensitive editing by Cas9",
+    "link": "https://www.nature.com/articles/s41586-026-10384-z",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10384-z\">doi:10.1038/s41586-026-10384-z</a></p>ThermoCas9, a genome-editing enzyme that is sensitive to the DNA methylation status of the target locus, is characterized and shows promise for targeting hypomethylated DNA regions in cancer cells.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3cabd14cc61f2867",
+    "title": "Emergence of oncofetal plasticity is ubiquitous in early colorectal cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10344-7",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10344-7\">doi:10.1038/s41586-026-10344-7</a></p>Metastasis-associated oncofetal cell states emerge at the earliest stages of colorectal cancer and spatial profiling shows stereotypic patterning of fibroblast subtypes resembling normal tissue architecture, resulting in distinct regional microenvironments that dictate the timing and positioning of oncofetal plasticity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8c1afedd0c85974b",
+    "title": "Template-driven scaffolding of SCF<sup>FBXO42</sup> regulates PP2A degradation",
+    "link": "https://www.nature.com/articles/s41586-026-10368-z",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10368-z\">doi:10.1038/s41586-026-10368-z</a></p>The E3 ligase SCFFBXO42 degrades holoenzyme-free PP2Ac in complex with the coiled-coil protein CCDC6 to maintain cancer cell fitness",
+    "journal": "Nature"
+  },
+  {
+    "id": "2005e32f09b9643f",
+    "title": "Continuously tunable coherent pulse generation in a semiconductor laser",
+    "link": "https://www.nature.com/articles/s41586-026-10387-w",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10387-w\">doi:10.1038/s41586-026-10387-w</a></p>A monolithic mode-locked semiconductor laser with a continuously and widely tunable repetition rate is achieved by using a microwave driving signal that induces a spatiotemporal gain modulation along the entire laser cavity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9d4498f95112a269",
+    "title": "The neural mechanisms supporting the rise and fall of maternal aggression",
+    "link": "https://www.nature.com/articles/s41586-026-10354-5",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10354-5\">doi:10.1038/s41586-026-10354-5</a></p>In mice, female aggression is governed by an amygdala\u2013to\u2013medial hypothalamus circuit that is strengthened during pregnancy and is dynamically amplified by oxytocin during lactation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "41f8f312279b0df1",
+    "title": "Language models transmit behavioural traits through hidden signals in data",
+    "link": "https://www.nature.com/articles/s41586-026-10319-8",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10319-8\">doi:10.1038/s41586-026-10319-8</a></p>During model distillation, large language models can subtly transmit traits unrelated to the training data.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e782708ee627a422",
+    "title": "Pixelated quantum-dot superlattice LEDs",
+    "link": "https://www.nature.com/articles/s41586-026-10392-z",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10392-z\">doi:10.1038/s41586-026-10392-z</a></p>Scalable fabrication of ordered perovskite quantum dot superlattices enables high-efficiency, ultrahigh-resolution LEDs and active-matrix displays with greatly improved brightness, stability and device lifetime.",
+    "journal": "Nature"
+  },
+  {
+    "id": "15da6c45de613785",
+    "title": "300-unit-per-second roll-to-roll manufacturing of visible metalenses",
+    "link": "https://www.nature.com/articles/s41586-026-10369-y",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10369-y\">doi:10.1038/s41586-026-10369-y</a></p>This work demonstrates industrial-scale roll-to-roll fabrication of high-efficiency visible metalenses using nanoimprinting and TiO2 coating, achieving low cost, high throughput and uniform performance, enabling commercialization of metasurfaces.",
+    "journal": "Nature"
+  },
+  {
+    "id": "10343a64358c237c",
+    "title": "Imaging interface-controlled bulk oxygen spillover",
+    "link": "https://www.nature.com/articles/s41586-026-10324-x",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10324-x\">doi:10.1038/s41586-026-10324-x</a></p>In situ microscopic single-particle imaging demonstrates the significance of rationally engineered metal\u2013support interfaces for activating the oxygen in bulk catalyst, helping elucidate reaction pathways in catalytic conversions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5e9592b938ba158e",
+    "title": "Mapping convergent regulators of melanoma drug resistance by PerturbFate",
+    "link": "https://www.nature.com/articles/s41586-026-10367-0",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10367-0\">doi:10.1038/s41586-026-10367-0</a></p>PerturbFate is a high-throughput, cost-effective, single-cell platform that systematically profiles CRISPR interference perturbations to reveal common regulatory nodes and convergent phenotypic states across diverse genetic alterations linked to vemurafenib resistance in melanoma cells.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e014e9b1d31adf0e",
+    "title": "EBV strain interacts with host HLA to drive nasopharyngeal carcinoma risk",
+    "link": "https://www.nature.com/articles/s41586-026-10416-8",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10416-8\">doi:10.1038/s41586-026-10416-8</a></p>A genome-to-genome association study identifies host and viral risk factors that interact to drive nasopharyngeal carcinoma endemicity in southern China.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6763c86f20394937",
+    "title": "Composable neural emulators accelerate thermoelectric generator design",
+    "link": "https://www.nature.com/articles/s41586-026-10223-1",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10223-1\">doi:10.1038/s41586-026-10223-1</a></p>A composable neural network emulator is described for speeding up thermoelectric generator design, demonstrating the ability to predict generator performance with >99% accuracy while taking only 0.01% of the time compared with commercial finite-element solvers.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8ab1379c34fd2bb5",
+    "title": "What China\u2019s Great Green Wall can teach the world",
+    "link": "https://www.nature.com/articles/d41586-026-01195-3",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01195-3\">doi:10.1038/d41586-026-01195-3</a></p>Efforts to boost tree cover and restore degraded land globally need stable funding and time to learn from failure.",
+    "journal": "Nature"
+  },
+  {
+    "id": "371c33a9fe129fa9",
+    "title": "Four rising stars shaping the future of cancer research",
+    "link": "https://www.nature.com/articles/d41586-026-00688-5",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00688-5\">doi:10.1038/d41586-026-00688-5</a></p>Meet the creative minds that aim to improve cancer detection and treatment.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a82c9adc5a200d2a",
+    "title": "AI speeds up design of devices that turn waste heat into electricity",
+    "link": "https://www.nature.com/articles/d41586-026-00907-z",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00907-z\">doi:10.1038/d41586-026-00907-z</a></p>An artificial-intelligence system bypasses complex equations to predict the performance of thermoelectric generators.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4fce340782dfdd74",
+    "title": "Here are the top locations for cancer research in the Nature Index",
+    "link": "https://www.nature.com/articles/d41586-026-00690-x",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00690-x\">doi:10.1038/d41586-026-00690-x</a></p>A breakdown of publications in the database also reveals the cancer types with the highest output.",
+    "journal": "Nature"
+  },
+  {
+    "id": "61a7aabe78d02c46",
+    "title": "I was set to lead an undergraduate research trip abroad. Then my visa was denied",
+    "link": "https://www.nature.com/articles/d41586-026-00403-4",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00403-4\">doi:10.1038/d41586-026-00403-4</a></p>Through flexibility, problem-solving and the generosity of colleagues, I shepherded students through fieldwork remotely.",
+    "journal": "Nature"
+  },
+  {
+    "id": "55fcbc615dca5dd1",
+    "title": "Improving cancer survival rates will require hard policy choices",
+    "link": "https://www.nature.com/articles/d41586-026-00686-7",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00686-7\">doi:10.1038/d41586-026-00686-7</a></p>Integrated care and prevention strategies are key, but without careful planning \u2014 and sustainable funding \u2014 they risk falling short.",
+    "journal": "Nature"
+  },
+  {
+    "id": "147c0b68e63bc376",
+    "title": "Molecular profiling of gene-edited cells reveals shared drug-resistance mechanisms",
+    "link": "https://www.nature.com/articles/d41586-026-01181-9",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01181-9\">doi:10.1038/d41586-026-01181-9</a></p>A platform for tracking the changes in gene expression and chromatin accessibility that follow interference with specific genes has been developed. The platform, called PerturbFate, was applied to skin-cancer cells and showed that different genetic perturbations associated with tumour resistance push cells into a shared dedifferentiated state.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dbe7be172e53b529",
+    "title": "AI models \u2018subliminally\u2019 transmit biases when training other systems",
+    "link": "https://www.nature.com/articles/d41586-026-01224-1",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01224-1\">doi:10.1038/d41586-026-01224-1</a></p>Using artificial-intelligence to teach other models can be cheaper and faster than building them from scratch, but this approach can introduce unwanted traits.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c7f971049a750d5a",
+    "title": "Global cancer rates are rising. How are countries reacting?",
+    "link": "https://www.nature.com/articles/d41586-026-00689-4",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00689-4\">doi:10.1038/d41586-026-00689-4</a></p>Denmark and South Korea stand out for their strong cancer strategies while England seeks to get back on track.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f8bc155fc7d4a122",
+    "title": "A guide to the Nature Index",
+    "link": "https://www.nature.com/articles/d41586-026-00691-w",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00691-w\">doi:10.1038/d41586-026-00691-w</a></p>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3354ca4eacb96547",
+    "title": "Therapeutic mitochondria transplants made more efficient with targeting tool",
+    "link": "https://www.nature.com/articles/d41586-026-00910-4",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00910-4\">doi:10.1038/d41586-026-00910-4</a></p>A system of protein binders directs energy-generating organelles to targeted cells, potentially improving ways to treat mitochondrial dysfunction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "100c819130cb8898",
+    "title": "Bad influence: LLMs can transmit malicious traits using hidden signals",
+    "link": "https://www.nature.com/articles/d41586-026-00906-0",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00906-0\">doi:10.1038/d41586-026-00906-0</a></p>A large language model that is trained using AI outputs can inherit undesirable behaviours, even if they are not directly referenced in the training data.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f81cca792d802548",
+    "title": "A picture of health: gene-expression maps of the human liver from living donors",
+    "link": "https://www.nature.com/articles/d41586-026-01187-3",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01187-3\">doi:10.1038/d41586-026-01187-3</a></p>A high-resolution atlas of the healthy human liver has been assembled using gene-expression profiling and spatial mapping of cells in samples from living donors. The atlas reveals human-specific patterns of gene expression in different zones and uncovers spatially resolved adaptations in liver cells from individuals with the disease steatosis.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f7f8d2f702df04c5",
+    "title": "Can China\u2019s Great Green Wall shape efforts to keep the world\u2019s deserts at bay?",
+    "link": "https://www.nature.com/articles/d41586-026-01102-w",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01102-w\">doi:10.1038/d41586-026-01102-w</a></p>Grand anti-desertification schemes often fail when trees die and funding dries up \u2014 yet one project has broken the mould.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f8b019238afce0b1",
+    "title": "Early-onset cancer fuels calls for wider screening \u2014 but at what cost?",
+    "link": "https://www.nature.com/articles/d41586-026-00687-6",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00687-6\">doi:10.1038/d41586-026-00687-6</a></p>As some countries lower the screening age for breast, colorectal and other cancers, scientists warn that it could cause more harm than good.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1afd65c49ce82a34",
+    "title": "Why more fossil fuels won\u2019t fix the Iran energy crisis",
+    "link": "https://www.nature.com/articles/d41586-026-01197-1",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01197-1\">doi:10.1038/d41586-026-01197-1</a></p>Climate-friendly technologies are the best way to stymie rising inflation \u2014 and will get better and cheaper over time.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5b8dad82d26e75a0",
+    "title": "How effective is the personalized off-label use of targeted cancer treatment?",
+    "link": "https://www.nature.com/articles/d41586-026-00911-3",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00911-3\">doi:10.1038/d41586-026-00911-3</a></p>If general cancer treatment fails, a tumour-type-specific therapy might be tried for other cancers with genetic changes in the targeted pathway. How well does this work?",
+    "journal": "Nature"
+  },
+  {
+    "id": "a86bfcbc19abd18a",
+    "title": "Dozens of AI disease-prediction models were trained on dubious data",
+    "link": "https://www.nature.com/articles/d41586-026-00697-4",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00697-4\">doi:10.1038/d41586-026-00697-4</a></p>The models are designed to predict someone\u2019s risk of diabetes or stroke. A few might already have been used on patients.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6eea4d88f8d926d0",
+    "title": "Ozymandias undead",
+    "link": "https://www.nature.com/articles/d41586-026-01065-y",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01065-y\">doi:10.1038/d41586-026-01065-y</a></p>Nothing beside remains.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b4d1204bc9100a35",
+    "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+    "link": "https://www.nature.com/articles/d41586-026-01204-5",
+    "content": "<p>Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01204-5\">doi:10.1038/d41586-026-01204-5</a></p>Data from more than 15,000 ancient people reveal natural selection of hundreds of genes linked to immunity, skin tone, behaviour and other traits.",
+    "journal": "Nature"
+  },
+  {
+    "id": "084d0ec143100e71",
+    "title": "Grid access and electricity for refugees",
+    "link": "https://www.nature.com/articles/s41560-026-02033-6",
+    "content": "<p>Nature Energy, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41560-026-02033-6\">doi:10.1038/s41560-026-02033-6</a></p>Sarah Rosenberg-Jansen is a senior research fellow at the Stockholm Environment Institute, where she conducts research on UN institutional policies and private-sector practices on sustainable energy and climate within humanitarian systems and refugee camps. She speaks to Nature Energy about refugee grid and electricity access in forced displacement settings.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "294f84a59e9f5f46",
+    "title": "Turning excitons to the dark side",
+    "link": "https://www.nature.com/articles/s41563-026-02577-8",
+    "content": "<p>Nature Materials, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41563-026-02577-8\">doi:10.1038/s41563-026-02577-8</a></p>Hubbard excitons capture the many-body correlations of Mott insulators. Using ultrafast light, their quantum wavefunction can be coherently rotated, opening a path towards optical quantum control and sensing in strongly correlated materials.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "ade1f1577652aeb1",
+    "title": "Rapid sintering of ultrafine-grained refractory metals under mild conditions",
+    "link": "https://www.nature.com/articles/s41563-026-02587-6",
+    "content": "<p>Nature Materials, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41563-026-02587-6\">doi:10.1038/s41563-026-02587-6</a></p>The introduction of liquid metals to refractory metals weakens metal bonding, which enables rapid, low-temperature fabrication of refractory metal bulk materials with ultrafine grains, high strength and tunable composition.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "57d72a1bfa175593",
+    "title": "Minimally invasive bioelectronic implants",
+    "link": "https://www.nature.com/articles/s41563-026-02576-9",
+    "content": "<p>Nature Materials, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41563-026-02576-9\">doi:10.1038/s41563-026-02576-9</a></p>Minimally invasive medical procedures are widely used in clinical practice. This Review discusses recent advances in bioelectronic devices that can be implanted using minimally invasive technologies, highlighting innovations in the materials and design to engineer personalized bioelectronic systems.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "e494db2f85f96948",
+    "title": "Efficient and reversible chirality induction between protein and achiral plasmonic assemblies",
+    "link": "https://www.nature.com/articles/s41563-026-02586-7",
+    "content": "<p>Nature Materials, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41563-026-02586-7\">doi:10.1038/s41563-026-02586-7</a></p>Mechanical modulation of protein conformation enables the reversible induction of strong plasmon-coupled circular dichroism in otherwise achiral plasmonic assemblies.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "7f24d13c6c32f3fa",
+    "title": "KDM3A catalyses the oxidation of acetyl-lysine to hydroxyacetyl-lysine on histone H3K9",
+    "link": "https://www.nature.com/articles/s41557-026-02112-x",
+    "content": "<p>Nature Chemistry, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41557-026-02112-x\">doi:10.1038/s41557-026-02112-x</a></p>Histone modifications, such as N\u03b5-lysine acetylation and methylation, play critical roles in regulating eukaryotic transcription. Now, the oxidation of acetyl-lysine to hydroxyacetyl-lysine of a select histone has been identified as a distinct modification catalysed by the human JmjC histone demethylase KDM3A, which plays a role in the cellular hypoxic response.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "f0b5a5334a618d78",
+    "title": "Rational Design of Li-Rich Hybrid Cathodes with Stiff Redox-Active Interstitial Networks Enabling Local Environment Engineering for Reversible Oxygen Redox",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002540?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jianan Hao, Jinyang Dong, Yibiao Guan, Yun Lu, Huiquan Che, Yiling Ren, Yiya Wang, Xinbai He, Yujia Wu, Teng Yang, Ning Li, Yuefeng Su, Lai Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "345d98f9188b381e",
+    "title": "Visualizing lithium deposition stabilized by indium interlayer in anode-less solid-state batteries via laboratory X-ray computed tomography",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002321?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Amna Rafique, Margherita Martini, Lorenzo Fallarino, Montserrat Galceran, Manar Cheddadi, Eric Maire, Arnaud Demorti\u00e8re, Montse Casas-Cabanas, Michel Armand, Pedro L\u00f3pez-Aranguren</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "805b31b3c7bd2a72",
+    "title": "Breaking Kinetic Bottlenecks: A Full-Range Kinetic Analysis to Accelerate Industrial-Scalable Ultrahigh-Nickel Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002539?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yifan Bao, Shaochen Ji, Lipeng Yang, Jia Gao, Xianghao Ru, Liubin Wang, Gaoqiang Mao, Xiao Li, Jixue Shen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "ffe52d97b4a87e9a",
+    "title": "Single-Crystal Low-Defect Manganese-Based Prussian Blue for Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002552?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ling Li, Jialong Shen, Zhen Li, Yixuan Wang, Zhihao Chen, Hong Kang, Wei Jiang, Yu Yao, Xiaojun Wu, Xianhong Rui, Hai Yang, Yan Yu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "04c1fba99a2d3ce9",
+    "title": "Structural and Interfacial Stabilization of Sodium-deficient O3-type Layered Oxide Cathodes via Optimized Lithium Doping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726002515?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 April 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Arun Krishnan, Akanksha Joshi, Nicole Leifer, Ayan Mukherjee, Sankalpita Chakrabarty, Malachi Noked</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "002853205a5ff852",
+    "title": "[ASAP] A Robust Composite Solid Polymer Electrolyte with LLTO Filler for Long-Life Solid-State Lithium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00323",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00323/asset/images/medium/ef6c00323_0006.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00323</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "92078f1b18465978",
+    "title": "[ASAP] Upgrading Distillation Residue from Hydrothermal Liquefaction Biocrude by Slurry Hydrocracking",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06039",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06039/asset/images/medium/ef5c06039_0009.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06039</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "20991b201363e983",
+    "title": "[ASAP] Eco-Friendly Hybrid System Combining Smart Water and Natural Surfactants for Enhanced Oil Recovery in Carbonate Reservoirs",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06261",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06261/asset/images/medium/ef5c06261_0022.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06261</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5216f80525889080",
+    "title": "[ASAP] Advancing CO2 Storage in Shale: Mechanistic Insights and Experimental Validation of the Novel Dzeti\u2013Zaheer (D\u2013Z) Isotherm",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.5c06383",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.5c06383/asset/images/medium/ef5c06383_0014.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.5c06383</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d52ffe5b1a3c52b2",
+    "title": "[ASAP] Regenerable Light Olefin Production via Steam-Enhanced Catalytic Cracking of n-Dodecane on P-ZSM-5 Extrudate",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00286",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00286/asset/images/medium/ef6c00286_0012.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00286</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f024ef2852f56361",
+    "title": "[ASAP] Synergistic MgO Promotion and Binder Effects on the Stable Hydrotreating of Renewable Oils over PtSn/ZSM-5 Catalysts",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00681",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00681/asset/images/medium/ef6c00681_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00681</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "280aa1b1137884dc",
+    "title": "[ASAP] Interfacial Reconstructions and Engineering in III\u2013V@II\u2013VI Core\u2013Shell Quantum Dots",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.6c00422",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.6c00422/asset/images/medium/nz6c00422_0005.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.6c00422</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cda4207c996cbd81",
+    "title": "[ASAP] Scalable Copper\u2013Silver Foam Electrocatalysts with Tunable Porosity for Selective CO2 Reduction to CO",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00319",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00319/asset/images/medium/ae6c00319_0011.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00319</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3e1ff7e7205ee625",
+    "title": "[ASAP] Comparing NiCoFe Hydroxides and Layered Double Hydroxides on the Performance and Stability of Anion Exchange Membrane Water Electrolysis Anode Catalyst Layers",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00347",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00347/asset/images/medium/ae6c00347_0011.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00347</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "3a8148dfa50cea23",
+    "title": "[ASAP] Stability Assessment of Large-Area (1 cm2) Organic Solar Cells via Correlated Electronic, Morphological, and Interface-Induced Instability",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00027",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00027/asset/images/medium/ae6c00027_0006.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00027</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c584201100fe9154",
+    "title": "[ASAP] Lithium-Metal Batteries with Ternary Cathode-Supported NASICON-Type Composite Solid Electrolytes Enabling High-Rate Capability and Excellent Cyclic Performance",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00222",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00222/asset/images/medium/ae6c00222_0009.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00222</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "eca6d2b9302b0db2",
+    "title": "[ASAP] Flame-Spray-Pyrolyzed Ultrafine Li4Ti5O12 Nanochains Enable Multilayer Coatings for a Stable Interface of Nickel-Rich Cathodes in Long-Life Lithium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00274",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00274/asset/images/medium/ae6c00274_0006.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00274</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "f03e9a1b774c22d4",
+    "title": "[ASAP] Correction to \u201cHybridizing Acid-Treated PEDOT:PSS with AgSbTe2: A Promising Strategy for Enhancing Thermoelectric Performance of AgSbTe2-Based Materials\u201d",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c01054",
+    "content": "<div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c01054</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d6b4b04e804d9f50",
+    "title": "Faradaic Electrode-Driven Interfacial Charge Transfer for Direct-Current Droplet Generators",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002648?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Se-Jin Kim, Sang-Hyun Sohn, Geon-Ju Choi, Il-Kyu Park</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ad368df747c4ca6c",
+    "title": "Atomistic Simulation Derived Insight on the Li-Ion Transport Mechanisms in Grain-Boundary and Composite Interfaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002661?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xiao Fu, Qifan Yang, Xuhe Gong, Jingchen Lian, Zibin Wang, Ruijuan Xiao, Hong Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ad1a8dd63500af5c",
+    "title": "Solvation\u2013substitution coupling enables rigid, self-healable zwitterionic eutectogels for transparent, load-bearing ionotronic interfaces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002612?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yanhao Bi, Yufan Wang, Yi Yang, Zhenchuan Yu, Jiqiang Wang, Kai Dong</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "aae70df918355c14",
+    "title": "Unlocking Charge Transport in Dion-Jacobson Perovskite Solar Cells through Rational Spacer Design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002600?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 15 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Farzad Zahedi, Siming Huang, Vahid Ramazani, Mojtaba Abdi-Jalebi</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "2e043f10c441ce02",
+    "title": "Elucidating the critical role of dual electrode interface in stabilizing high-energy lithium batteries with iron fluoride-based conversion cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600265X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Gayea Hyun, Ki Hwan Koh, Myeong Hwan Lee, Duc Tran, Zeyu Hui, Anthony U. Mu, Sicen Yu, Shen Wang, Shatila Sarwar, Taehee Kim, Jianbin Zhou, Zheng Chen, Ping Liu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "408fa93798357584",
+    "title": "Polarization-perceptual Protonic-chitosan/anisotropic-ReS<sub>2</sub> Heterojunction Transistor with Enhanced Performance for Visual Reproduction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002533?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yanran Li, Kaiyun Gou, Yingwei Wang, Han Huang, Jun He, Liang Chu, Leyong Jiang, Jie Jiang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b55d05c6d0adc589",
+    "title": "Highly oxophilic Cr-Single-Atom-induced strong PtRu nanocluster-Support Interaction for Robust Hydrogen Oxidation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002636?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 April 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yurao Chen, Hongyu Zhao, Lei Gong, Wei Guo, Yiwen Li, Mengxiao Wang, Fanjie Xia, Weihao Zheng, Ang Lv, Shichun Mu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
