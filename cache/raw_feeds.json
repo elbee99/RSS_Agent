@@ -2371,5 +2371,103 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526002752?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 1 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Fei Peng, Zhichao Liang, Zhoutao Yang, Jiaqing Deng, Yijia Chen, Meijia Qiu, Peng Sun, Wenjie Mai, Chuanxi Zhao</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1e4ab0ab26c98a6b",
+    "title": "Transition Metal Oxide Catalysts for Acidic Oxygen Evolution: Current Status and Key Strategies Toward Efficient PEM Water Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71024?af=R",
+    "content": "This review examines recent progress in transition metal oxide catalysts for the acidic oxygen evolution reaction in proton exchange membrane water electrolysis. It discusses fundamental reaction mechanisms, representative oxide systems, and key structure\u2010property relationships, highlighting rational design strategies to balance catalytic activity and durability for cost\u2010effective and sustainable hydrogen production.\n\n\n\n\n\n\n\n\nABSTRACT\nProton exchange membrane water electrolysis (PEMWE) is a promising technology for green hydrogen production due to its high efficiency, compact design, and flexible operation. However, the reliance on noble metal\u2010based anode catalysts significantly increases hydrogen production costs. Transition metal oxides have emerged as alternatives for the acidic oxygen evolution reaction (OER) because of their diverse compositions, tunable structures, and lower cost. This review summarizes recent advances in transition metal oxide catalysts beyond pure IrO2, RuO2, and their mixtures. Fundamental OER mechanisms, including the adsorbate evolution mechanism, lattice oxygen mechanism, and oxide pathway mechanism, are introduced, with emphasis on their roles in regulating catalytic activity and stability. Representative catalyst systems such as spinels, perovskites, pyrochlores, dioxides, and high entropy oxides are systematically reviewed, highlighting performance enhancement strategies including heterostructure construction, elemental doping, and defect engineering. Emerging concepts such as reaction pathway engineering, corrosion suppression, and dynamic structural stability are discussed as effective approaches to overcoming the trade\u2010off between activity and stability. Finally, current challenges and future perspectives are outlined, with emphasis on artificial intelligence\u2010assisted catalyst design, characterization optimization, scalable synthesis, and standardized industrial evaluation, to accelerate the practical deployment of advanced acidic OER catalysts in sustainable hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "76f87fe5dd7ff6ff",
+    "title": "Carbon\u2013Sulfur Moiety Induced Molecular Asymmetry in Perylene Diimide for Efficient Photocatalytic Water Oxidation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71022?af=R",
+    "content": "The introduction of a C\u2550S moiety breaks the molecular symmetry of the perylene diimide photocatalyst. Kinetically, it generates a large dipole moment to form a strong internal electric field that facilitates charge separation, and thermodynamically favors water oxidation by lowering the reaction energy barrier, leading to efficient photocatalytic water oxidation.\n\n\n\n\n\n\n\n\nABSTRACT\nThe efficiency of photocatalytic overall water splitting is largely limited by the inefficient water oxidation reaction. While perylene diimide (PDI)\u2010based photocatalysts show promise for water oxidation, their performance is hindered by rapid charge recombination and sluggish oxygen evolution reaction kinetics. Herein, a symmetry\u2010broken PDI photocatalyst is designed through partially replacing C\u2550OC\u2550 with C\u2550S moiety, which exhibits superior water oxidation performance, reaching an oxygen evolution rate of 5.74 mmol g\u22121 h\u22121 under visible light (\u03bb \u2265\u00a0420\u00a0nm) without a cocatalyst. Further loading Co(OH)2 as cocatalyst yields an enhanced photocatalytic oxygen evolution rate of 19.19 mmol g\u22121 h\u22121, accompanied with an apparent quantum yield of 14.60% at 550 nm. It is revealed that the introduction of C\u2550S moiety breaks the molecular symmetry of PDI, which kinetically facilitates charge separation by generating a strong internal electric field and thermodynamically favors water oxidation by lowering the reaction energy barrier, thereby leading to efficient photocatalytic water oxidation. This study highlights molecular symmetry breaking as a promising strategy for designing efficient supramolecular photocatalysts for solar\u2010to\u2010fuel conversion.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ae298b8a0479dc1a",
+    "title": "Engineering Pathways Toward Stable and Efficient Flexible Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70997?af=R",
+    "content": "Flexible perovskite solar cells are limited by coupled challenges in crystallization, interfacial stability, and mechanical reliability. This review presents an integrated framework encompassing crystallization kinetics, substrate engineering, perovskite layer optimization, and self\u2010healing strategies, highlighting key design principles and scalable pathways toward mechanically robust, high\u2010efficiency, and industrially viable flexible photovoltaics.\n\n\n\n\n\n\n\n\nABSTRACT\nFlexible perovskite solar cells (F\u2010PSCs) have emerged as a forefront technology in next\u2010generation photovoltaics, combining lightweight design, mechanical flexibility, and low\u2010temperature solution processability. Over the past decade, their power conversion efficiency (PCE) has dramatically improved from 2.62% to beyond 26%. This review provides a comprehensive summary of these developments. We begin by analyzing the crystallization kinetics of perovskite thin films, focusing on both homogeneous and heterogeneous nucleation pathways as interpreted through the LaMer growth model. Subsequently, we discuss substrate engineering, emphasizing polymeric and novel flexible substrates that dictate film quality and mechanical reliability. Perovskite layer optimization strategies are then examined, including microstructure regulation, defect passivation, and stress\u2010management approaches achieved via grain boundary modulation and multifunctional interfacial buffer layers. Furthermore, we highlight the emerging self\u2010healing concept, which leverages both physical mechanisms and chemical strategies to enhance durability under repeated mechanical deformation. Finally, we evaluate recent progress in device integration and large\u2010area scalable manufacturing, outlining key opportunities and remaining challenges for commercialization. By consolidating these insights, this review establishes a coherent framework for improving the structural resilience, operational stability, and scalability of F\u2010PSCs, thereby advancing their transition toward practical, flexible, and wearable energy applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "827760e362610357",
+    "title": "Asymmetric Multi\u2010Site Ion Exchange in Porous Carbon Electrodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71010?af=R",
+    "content": "A lognormal\u2010distribution 2D EXSY NMR framework uncovers the full spectrum of ion dynamics in hierarchical porous carbons, bridging fast surface exchange and confined in\u2010pore transport\u2014establishing structure\u2013transport relationships for next\u2010generation energy storage, gas storage, and ion removal materials.\n\n\n\n\n\n\n\n\nABSTRACT\nIon transport in porous carbon electrodes underpins the performance of electrochemical energy storage and separation technologies, yet exchange dynamics within heterogeneous pore networks remain difficult to quantify. Here, we present a rigorous analytical framework for extracting quantitative ion\u2010exchange kinetics from two\u2010dimensional exchange spectroscopy (2D EXSY) NMR, explicitly accounting for asymmetric ion populations, relaxation effects, and microscopic reversibility. By describing exchange using a lognormal rate distribution, the framework captures intrinsic dynamic heterogeneity and overcomes limitations of conventional discrete\u2010site models. Applied to aqueous LiTFSI electrolytes confined in mesoporous CMK\u20103 and hierarchically structured ST\u2010CMK\u20103 carbons, the method resolves ion\u2010exchange processes spanning fast near\u2010surface exchange to slow in\u2010pore diffusion in two\u2010 and three\u2010site systems. We report, to the best of our knowledge, the first observation of three\u2010site ion exchange in porous electrodes, revealing direction\u2010dependent ion mobility and enhanced effective diffusion at interconnected micro\u2013mesopore boundaries. These findings establish direct, quantitative links between pore architecture and ion\u2010transport efficiency. Importantly, the extracted exchange\u2010rate distributions reflect underlying pore network topology and transport heterogeneity rather than discrete exchange processes. This framework provides a generalizable route to identifying rate\u2010limiting pathways and guiding the design of porous carbons for high\u2010rate supercapacitors, capacitive deionization, and gas\u2010storage applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "507db0633a456bb1",
+    "title": "Sustainable Lignin\u2010Liquid Metal Photothermal Coating for Highly Efficient Solar Thermoelectric Generation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71027?af=R",
+    "content": "A scaleable lignin\u2010liquid metal photothermal coating exhibited superior broadband light absorption, absorptivity, and photothermal conversion efficiency. Based on this, the developed metre\u2010scale flat\u2010panel solar thermoelectric generation device achieved outstanding electricity generation, cost\u2010effectiveness, and environmental benefits.\n\n\n\n\n\n\n\n\nABSTRACT\nHarvesting sunlight into electricity presents an attractive prospect. Solar thermoelectric generation (STEG) relying on complexity and compactness of optical absorbers and mechanical equipment is only applied in large\u2010scale power plants. Here, we develop a gradient nanostructured coating based on lignin and liquid metal (LM) that serves as a scalable and recyclable optical absorber. Density differences and surface coordination interactions are used to induce stable, gradient sedimentation of LM within the lignin matrix. This gradient nano\u2010structure exhibits synergetic mechanism of non\u2010radiative relaxation and localized surface plasmon resonance, leading to a high and broadband absorption of 96.0% from ultraviolet to near\u2010infrared region (250\u20132500\u00a0nm), surpassing most renewable and nonrenewable absorbers. Our lignin\u2010derived coating achieves hundreds kilograms\u2010scale production. A sequentially aligned stacking strategy is created for a meter\u2010scale flat\u2010panel STEG device, to offer a 64.7\u00a0V output voltage in outdoor conditions. Environmental and energy assessments further demonstrate that our lignin valorization mode achieves high green electricity productivity and establishes a carbon\u2010negative process, resulting in annual reduction of 489.63\u00a0kg CO2 equivalent per 1000 m2. Our proposed \u201clignin\u2010liquid metal synergic photothermal enhancement\u201d strategy represents a sustainable path in transforming industrial lignin into high\u2010performance and scalable energy conversion materials.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "281cfa9f9b53431e",
+    "title": "[ASAP] Cryogenic Bottom-up Formation of the Benzene Cation from Acetylene in Helium Nanodroplets",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04278",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04278/asset/images/medium/ja6c04278_0004.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04278</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6156f1003c21527e",
+    "title": "Electronic-ionic polymer composite with proton-coupled electron transfer reaction: From low N/P ratio to high zinc utilization for aqueous zinc ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003193?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 3 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yanghyun Cho, Nayeon Jung, Jongha Hwang, Minhee Park, Won Bo Lee, Chi Keung Song, Wonseok Yang, Yong Min Lee, Hyun Ho Kim, Ga Young Jeong, Bumjoon Seo, Myung-Jun Kwak, Woo-Jin Song</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "f1345f008ac69d57",
+    "title": "Revealing the effect mechanism of texture engineering on potassium-ion storage of micron-sized carbon anodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003065?dgcid=rss_sd_all",
+    "content": "<p>Publication date: May 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 88</p><p>Author(s): Kai Yu, Di Hu, Yun Wu, Nan Xiao, Xuedan Song, Yu Jiang, Shuo Liu, Renqing Chu, Jieshan Qiu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "92e65d5dd6c79d6a",
+    "title": "Chemo-mechanical interfacial stabilization using elastic ion-conductive polymers in sulfide-based all-solid-state batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003028?dgcid=rss_sd_all",
+    "content": "<p>Publication date: May 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 88</p><p>Author(s): Juhyoung Kim, Hyo Won Bae, Jungdon Suk, Ho Seok Park, Seong-Ju Hwang, Dong Wook Kim</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "60a0e01c954d56d4",
+    "title": "[ASAP] Physics-Informed Temporal Former with Empirical Degradation Prior for State-of-Health Estimation of Lithium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00543",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00543/asset/images/medium/ef6c00543_0019.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00543</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a46a0830869b54bb",
+    "title": "[ASAP] Polarons in Oxide Photoelectrocatalysts: Hidden Quasi-Particles Governing Solar-to-Fuel Conversion",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.6c00836",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.6c00836/asset/images/medium/nz6c00836_0009.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.6c00836</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e9d35a92804e8639",
+    "title": "[ASAP] Photochemical Iodine Immobilization for Stabilizing Wide-Bandgap Perovskite Solar Cells",
+    "link": "http://dx.doi.org/10.1021/acsenergylett.6c01038",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsenergylett.6c01038/asset/images/medium/nz6c01038_0006.gif\" /></p><div><cite>ACS Energy Letters</cite></div><div>DOI: 10.1021/acsenergylett.6c01038</div>",
+    "journal": "ACS Energy Letters: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b2322e9831466487",
+    "title": "Dynamic Mosaic Structure SEI Derived from Boron Nitride-Graphene Oxide Nanosheets Enable Regulated Zn<sup>2+</sup> Deposition in Aqueous Zinc-Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003058?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Weihang Li, Feng Ouyang, Yuanlang Wan, Jinghan Meng, Yijiang Wang, Yiman Xie, Anqiang Pan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "443bea240b1d219c",
+    "title": "Demethylated Lignin Coated Cellulose Nanofibers Supramolecular Unit Enables Tough, Adhesive, and Environment-tolerant Eutectogels for Multimodal Flexible Electronics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003071?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zhanhao Du, Chao Wang, Lupeng Shao, Changyou Shao, Guihua Yang, Jiachuan Chen, Xingxiang Ji</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
