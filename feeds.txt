@@ -51,3 +51,6 @@ https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
 
 # Nano Energy
 https://rss.sciencedirect.com/publication/science/22112855
+
+# Small Methods
+https://onlinelibrary.wiley.com/journal/23669608#
