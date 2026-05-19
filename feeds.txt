@@ -53,4 +53,4 @@ https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
 https://rss.sciencedirect.com/publication/science/22112855
 
 # Small Methods
-https://onlinelibrary.wiley.com/journal/23669608#
+https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2366-9608
