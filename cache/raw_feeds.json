@@ -1559,5 +1559,355 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70731?af=R",
     "content": "Surfactant\u2010free monoalcohol syntheses are advantageous in that they yield colloidal nanostructures that are free of persistent shape\u2010directing agents but at the expense of realizing only spherically\u2010shaped nanoparticles. In this work, this limitation is overcome using a low\u2010complexity light\u2010driven synthetic protocol yielding periodic arrays of gold nanoplates.\n\n\n\n\n\n\n\n\nABSTRACT\nIncorporating shape\u2010directing additives in colloidal syntheses has proved critical in exerting architectural control over noble metal nanostructures, but these same additives can prove problematic in downstream processing and applications. This deficiency has led to the emergence of a class of synthetic protocols, referred to as surfactant\u2010free syntheses, that mitigate these issues by using reagents that realize nanoparticle surfaces that are unencumbered by persistent shape\u2010directing agents. Polyol\u2010 and monoalcohol\u2010based growth solutions have proven highly effective in this regard; however, shape\u2010control in the absence of additives has proved elusive. Herein, a seed\u2010mediated photochemical synthesis is demonstrated that can form arrays of highly faceted gold nanoplates in a room\u2010temperature growth solution of HAuCl4, water, and a monoalcohol. Wavelength\u2010dependent characterization and first\u2010principles density functional theory (DFT) calculations provide insights into the photoredox and shape\u2010control mechanisms responsible for the unexpected emergence of nanoplates. It is demonstrated that the illumination of the growth solution is the key driver of nanoplate growth. DFT calculations indicate that two\u2010dimensional growth stems from the {111} surface\u2010selective co\u2010adsorption of the monoalcohols and chlorine. Taken together, this work establishes the viability of a shape\u2010controlled monoalcohol\u2010based synthesis and advances the mechanistic framework needed to direct nanometal growth trajectories along pathways yielding planar geometries.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "048d9b7cb6bad299",
+    "title": "Bifunctional Sn/NaF Interlayer Enables Stable Solid State Sodium Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71103?af=R",
+    "content": "A bifunctional NaxSn/NaF interphase is introduced at the Na/Na3.4Zn0.1Zr1.9Si2.2P0.8O12 (NZZP) interface, significantly enhancing the interfacial contact and dendrite suppression capability, thus realizing a four times higher critical current density of NZZP to 11.6\u00a0mA\u00a0cm\u22122 under 60\u00b0C. Besides, the Na3V2(PO4)3@PEG/NZZP@NaF@Sn/Na batteries display excellent cyclic performances, showing 68.8% and 67.6% retention at 1C and 3C after 10\u00a0000 cycles, respectively.\n\n\n\n\n\n\n\n\nABSTRACT\nThe practical application of sodium superionic conductor (NASICON) electrolytes in solid\u2010state sodium batteries is restricted by poor interfacial compatibility between the solid electrolyte and Na anode, as well as continuous dendrite growth. Herein, a bifunctional Sn/NaF interlayer is introduced at the Na/Na3.4Zn0.1Zr1.9Si2.2P0.8O12 (NZZP) interface to improve wettability and suppress dendrite formation. Experimental and computational results confirm that NaF with a band gap of 6.1\u00a0eV can significantly enhance the electron transport barrier to prevent Na nucleation on the side of NZZP. Moreover, the in situ formed NaxSn alloys at Na/NaF@NZZP interface possess excellent electronic conductivity, fast Na+ migration kinetics, and low interfacial energy of 14.05\u00a0meV\u00a0\u00c5\u22122 with Na, effectively improving interfacial contact and facilitating uniform Na plating. Benefiting from the NaxSn/NaF interphase, the critical current density of NZZP increased from 2.7 to 11.6\u00a0mA\u00a0cm\u22122 under 60\u00b0C. The assembled Na3V2(PO4)3@PEG/NZZP@NaF@Sn/Na solid state batteries show a high initial reversible discharge capacity of 92.0\u00a0mAh\u00a0g\u22121 with a capacity retention of 88.9% at 0.5C after 1000 cycles. Even at 1C and 3C, the batteries still maintain stable cycling for 10\u00a0000 cycles with capacity retention of 68.8% and 67.6%, respectively.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "91dfe0d09987b2ba",
+    "title": "Regulation of Crystallization Kinetics via Zwitterionic Additive for Efficient and Operationally Stable Formamidinium Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71105?af=R",
+    "content": "This study introduces a zwitterionic additive, Cl\u2010PPS, to regulate crystallization kinetics and passivate defects in formamidinium\u2010based perovskite solar cells. Cl\u2010PPS promotes direct \u03b1\u2010phase formation, minimizes necessary MACl loading, and induces highly crystalline, vertically oriented grains. The resulting devices achieve a remarkable 26.61% power conversion efficiency and retain 97.1% of initial performance after 1200 h of operation at 65\u00b0C.\n\n\n\n\n\n\n\n\nABSTRACT\nFormamidinium (FA)\u2010based perovskite absorbers possess near\u2010ideal bandgaps for high\u2010performance solar cell applications; however, controlling their crystallization kinetics remains a critical bottleneck toward unlocking their full potential. Conventionally, methylammonium chloride (MACl) is introduced as a volatile crystallization additive to promote desired \u03b1\u2010phase formation despite severe drawbacks, including rapid nucleation, residual impurities, and associated defects. Here we introduce a zwitterionic additive, 2\u2010chloro\u20101\u2010(3\u2010sulfopropyl)pyridinium (Cl\u2010PPS), that controls perovskite crystallization through cooperative coordination and hydrogen\u2010bonding interactions within the perovskite precursor solution. Cl\u2010PPS induces a uniform colloidal network that enables controlled nucleation, promotes direct \u03b1\u2010phase transformation, and passivates bulk and interfacial defects. The resulting films exhibit enhanced crystallinity, preferential vertical orientation, and a homogeneous potential landscape. Consequently, devices incorporating Cl\u2010PPS achieve a power conversion efficiency of 26.61%. Furthermore, the encapsulated devices retain 97.1% of their initial efficiency after 1200 h of continuous MPPT operation at 65\u00b0C in air.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "89db6ad143f6d05c",
+    "title": "Constructing an Ultra\u2010Efficient Carrier Transport Pathway Through Dual\u2010Targeted Anchoring for High\u2010Performance Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71111?af=R",
+    "content": "A dual\u2010targeted anchoring strategy based on a rationally designed NiOx\u2010RbF nanocomposite is proposed to construct an ultra\u2010efficient and stable carrier transport pathway in inverted perovskite solar cells (PVSCs). F\u2212 anions can passivate uncoordinated Ni2+ cations in the hole transport layer, while self\u2010diffusion Rb+ ions fill A\u2010site vacancies in the perovskite absorber layer, thereby improving the performance of PVSCs.\n\n\n\n\n\n\n\n\nABSTRACT\nPhotovoltaic performance of perovskite solar cells (PVSCs) is fundamentally governed by charge\u2010carrier transport processes across their multiple functional layers. However, achieving simultaneous enhancement of both hole and electron extraction remains a significant challenge. Herein, we present a dual\u2010targeted anchoring strategy based on a rationally designed NiOx\u2010RbF nanocomposite to concurrently improve carrier transport and extraction capabilities for high\u2010performance PVSCs. The engineered NiOx\u2010RbF nanocomposite can not only passivate uncoordinated Ni2+ cations in the hole transport layer through F\u2212 anions, but also provide additional self\u2010diffusion Rb+ ions to fill the notorious A\u2010site vacancies in perovskite absorber layer, thereby constructing an ultra\u2010efficient and stable carrier transport pathway in inverted structured PVSCs. As a result, the optimized inverted PVSCs achieve a power conversion efficiency (PCE) of 26.62% and exhibit excellent operational stability, retaining 90% of the initial efficiency after 520 h of continuous operation at the maximum power point under ambient conditions (ISOS\u2010L\u20101). Moreover, the NiOx\u2010RbF nanocomposite facilitates the scalable fabrication of large\u2010area perovskite modules, achieving a PCE of 20.55% (active area = 651 cm2). This study unambiguously presents a novel and effective approach to anchoring engineering for high\u2010performance and stable perovskite photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ad26944ce128a186",
+    "title": "Interfacial Donor\u2010Acceptor Complex Engineering Boosts Hot Hole Extraction in Tin Halide Perovskite Indoor Photovoltaics",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71097?af=R",
+    "content": "A novel fluorene\u2010core SAM molecule (2Br\u2010PAFa) with dual phosphonic acid anchors was developed as hole transport layer for tin\u2010based perovskite IPVs. The 2Br\u2010PAFa can form a donor\u2010acceptor complex with perovskite, enhancing charge carriers spatial separation, accelerating hot carrier extraction. 2Br\u2010PAFa\u2010treated devices achieved a champion PCE of 21.08% under 1000 lux, ranking one of the highest values of lead\u2010free perovskites IPVs.\n\n\n\n\n\n\n\n\nABSTRACT\nTin\u2010based perovskites have long hot\u2010carrier lifetimes, holding great potential for developing high\u2010efficiency lead\u2010free indoor photovoltaics (IPVs). However, the severe hot carriers dissipation remains a major energy loss channel in tin\u2010based perovskite indoor photovoltaic devices. Here, we synthesized a novel self\u2010assembled monolayer (SAM) to extract the hot\u2010carrier energy in tin\u2010based perovskite, ((2,7\u2010dibromo\u20109H\u2010fluorene\u20109,9\u2010diyl)bis(propane\u20103,1\u2010diyl))bis(phosphonic acid) (2Br\u2010PAFa), with a fluorene core and dual phosphonic acid anchoring groups. The fluorene\u2010contained SAM characterized with disrupted\u2010conjugation structure possesses a deeper highest occupied molecular orbital (HOMO) level (\u22125.97\u00a0eV), which facilitates the formation of donor\u2010acceptor (D\u2010A) complexes with perovskite. The complex enhances the spatial separation of charge carriers and suppress interfacial recombination, thus accelerate the capture of excess energy in the hot carrier. Femtosecond transient absorption spectroscopy confirmed that the 2Br\u2010PAFa/perovskite system demonstrates an ultrafast hot hole extraction time within femtosecond timescale and reduced cooling time of 41\u00a0ps. These advancements result in a champion power conversion efficiency (PCE) of 21.08% under 1000 lux illumination, ranking among the highest for lead\u2010free perovskite IPVs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8454ea9a23264cff",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70773?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "717a994eb3df11dd",
+    "title": "Streamlined Y6\u2010Analogs Enabling Efficient Ambient\u2010Air\u2010Processed Organic Solar Cells (Adv. Energy Mater. 19/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70951?af=R",
+    "content": "Organic Solar Cells\nStreamlined molecular engineering of Y6 analogs enables efficient organic solar cells processed entirely under ambient\u2010air conditions. By simplifying the acceptor backbone while preserving favourable intermolecular interactions, the active layer exhibits balanced charge transport, reduced energetic disorder, and enhanced photo\u2010conversion efficiency. This work demonstrates that rational structural simplification can simultaneously improve efficiency and processing tolerance, advancing practical and sustainable organic photovoltaics. More in article number e05110, Doo Kyung Moon and co\u2010workers.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b2f9f240aa7f450c",
+    "title": "[ASAP] Ligand-Controlled Pd(II)-Catalyzed \u03b1,\u03b2-Unsaturation and \u03b2-Arylation of Long-Chain Acids",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00988",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00988/asset/images/medium/ja6c00988_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00988</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "78a9e7495af7faff",
+    "title": "[ASAP] Pressure Tuning of the Low-Frequency Raman Response in Spin-Crossover Networks",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03325",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03325/asset/images/medium/ja6c03325_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03325</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a64861eb2bebd979",
+    "title": "[ASAP] Covalent Organic Frameworks with Deep Eutectic Linkages for Low-Concentration Carbon Capture",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03472",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03472/asset/images/medium/ja6c03472_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03472</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5dff5df8c601dcd9",
+    "title": "[ASAP] Strategic Applications of Single-Atom Skeletal Editing in Natural Product Synthesis",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04423",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04423/asset/images/medium/ja6c04423_0012.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04423</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2b12dc4232551786",
+    "title": "[ASAP] Hydrophobic Solvation-Driven Stabilization of the Fluorenone Radical for the Anolyte of All-Organic Flow Batteries under Benign pH Conditions",
+    "link": "http://dx.doi.org/10.1021/jacs.5c18473",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c18473/asset/images/medium/ja5c18473_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c18473</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "cb912ae538982ef3",
+    "title": "[ASAP] Heteroatom-Engineered Covalent Organic Frameworks Break the CO2 Separation Trade-Off in Mixed Matrix Membranes",
+    "link": "http://dx.doi.org/10.1021/jacs.5c23169",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c23169/asset/images/medium/ja5c23169_0008.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c23169</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "85697047ce53d457",
+    "title": "[ASAP] Ketal-Bridged Rhodamines as a New Scaffold for Near-Infrared Chemigenetic Indicators with Enhanced Fluorogenicity",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00412",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00412/asset/images/medium/ja6c00412_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00412</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d1f50bdc18d35d20",
+    "title": "[ASAP] Floquet States of Chemoselective Alternating Current Electrosynthesis",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02569",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02569/asset/images/medium/ja6c02569_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02569</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "784eeea53ef78455",
+    "title": "[ASAP] Discovery and Cryo-EM-Guided Development of a Neuropilin-2-Binding Aptamer for Receptor Antagonism",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03590",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03590/asset/images/medium/ja6c03590_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03590</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "23b9921b968db52d",
+    "title": "[ASAP] Excited-State Symmetry Breaking Dynamics Driven by Mode-Resolved Jahn\u2013Teller Distortion in Luminescent Tris(2,4,6-trichlorophenyl)methyl Radicals",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03595",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03595/asset/images/medium/ja6c03595_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03595</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6103992447c317e0",
+    "title": "[ASAP] Molecular Structure of a Doubly Ring-Slipped Ruthenocene Intermediate",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04198",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04198/asset/images/medium/ja6c04198_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04198</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "06a03cdc307951cf",
+    "title": "[ASAP] Unwrapping the Dodecaborane Core: Structure, Electronic Properties, and Chemical Reactivity Across the Complete [B12In]\u2212 Series (n = 11\u20131)",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04725",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04725/asset/images/medium/ja6c04725_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04725</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "a30df98c4f1c3767",
+    "title": "[ASAP] London Dispersion Governs Stereochemistry, Stability, and Self-Sorting in a System of M4L4 Cages",
+    "link": "http://dx.doi.org/10.1021/jacs.6c05686",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c05686/asset/images/medium/ja6c05686_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c05686</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6803617a0e596fcd",
+    "title": "Vanishing tongues and life on Mars: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-01655-w",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01655-w\">doi:10.1038/d41586-026-01655-w</a></p>Andrew Robinson reviews five of the best science picks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4446fa77f686b05f",
+    "title": "Major Ebola outbreak is escalating: what happens next",
+    "link": "https://www.nature.com/articles/d41586-026-01660-z",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01660-z\">doi:10.1038/d41586-026-01660-z</a></p>Nature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e7b7b17aa3a2c836",
+    "title": "Neuroflix",
+    "link": "https://www.nature.com/articles/d41586-026-01087-6",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01087-6\">doi:10.1038/d41586-026-01087-6</a></p>It\u2019s just a game \u2014 isn\u2019t it?",
+    "journal": "Nature"
+  },
+  {
+    "id": "2e6cd0de4e0a498f",
+    "title": "AI cracks 80-year-old mathematics challenge \u2014 researchers are astonished",
+    "link": "https://www.nature.com/articles/d41586-026-01651-0",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01651-0\">doi:10.1038/d41586-026-01651-0</a></p>The late Hungarian mathematician Paul Erd\u0151s thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.",
+    "journal": "Nature"
+  },
+  {
+    "id": "995e9fc0906738f5",
+    "title": "Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus",
+    "link": "https://www.nature.com/articles/d41586-026-01392-0",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01392-0\">doi:10.1038/d41586-026-01392-0</a></p>Cell biologist and crime novelist Frances Brodsky says writing fiction has taught her perseverance and improved her manuscripts.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d66773d34769453d",
+    "title": "Stress impairs your brain\u2019s ability to link memories \u2014 dampening insight",
+    "link": "https://www.nature.com/articles/d41586-026-01644-z",
+    "content": "<p>Nature, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01644-z\">doi:10.1038/d41586-026-01644-z</a></p>Imaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f68504b9e18cf324",
+    "title": "Daily briefing: Wearable robot could help kids with neuromuscular disease stand",
+    "link": "https://www.nature.com/articles/d41586-026-01656-9",
+    "content": "<p>Nature, Published online: 21 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01656-9\">doi:10.1038/d41586-026-01656-9</a></p>A robotic device helps children with spinal muscular atrophy build up strength in their knees. Plus, a tough peer-review process could lead to a more-cited paper and chemists\u2019 mission to replace \u2018forever chemicals\u2019.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1aaf0cc2da57c9e2",
+    "title": "Synergistic boosting electrical output of moisture-electric generator based on CCNF-LiCl-PAM hydrogel",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00528D",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE00528D, Paper</div><div>Xinpeng Zhang, Jiaxuan Liu, Xinyuan Qu, Ao Shen, xin Wang<br />Moisture-electric generators (MEGs) that convert chemical potential energy of atmospheric moisture into electricity through directional ion diffusion have held great promise in the development of sustainable energy. However, current MEGs...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "defd828ab5a58591",
+    "title": "Engineering Interfacial Built-In Electric Fields for Accelerated and Stable Sodium-Ion Storage",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02318E",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02318E, Paper</div><div>Huachao Yang, Yong Zhao, Hongfei Zheng, Runyi Zhou, Xiaodong Li, Jianhua Yan, Kefa Cen, Jun Lu, Bo Zheng<br />Engineering interfacial built-in electric fields (BEF) has emerged as a powerful strategy to boost the electrochemical performance of sodium-ion batteries (SIBs), yet the controllable amplification of BEF intensity remains a...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3717c1eeeb77d398",
+    "title": "Supramolecular hosts for high-performance and sustainable perovskite optoelectronics",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02642G",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02642G, Review Article</div><div>Guo Yang, Ying Tan, Yuxuan Fang, Wenhuai Feng, Kaiying Chen, Gengling Liu, Xueqing Chang, Wu-Qiang Wu<br />Metal halide perovskites have revolutionized the field of optoelectronics with their exceptional optoelectronic properties and low-cost processability, enabling remarkable progress in solar cells, light-emitting diodes, and other optoelectronic technologies. However,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "b8dd837fe6ff48bf",
+    "title": "Composition-Invariant Strain Engineering of Metal Sulfides for Efficient Hydrogen Evolution",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01630H",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01630H, Paper</div><div>Hongfang Du, Ke  Wang, Song He, Boxin Li, Wei Ai<br />Lattice strain engineering offers an effective route to regulate the electronic structures of transition-metal sulfides (TMSs) and enhance their catalytic kinetics, yet the intrinsic relationship between strain and activity remains...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "9207bd7a8caad6fa",
+    "title": "Hydrogen-driven thermoelectric trigeneration for sustainable homes: Electricity, water, and heat",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02588A",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02588A, Paper</div><div>Guoneng Li, Xiao-Lei Shi, Hongkun  Lv, Hongyi  Tang, Ya  Wang, Wenwen Guo, Shaojun Liu, Dan Zhao, Zhi-Gang Chen<br />Hydrogen is widely regarded as a pivotal energy carrier for deep decarbonization, yet its residential deployment remains limited by the absence of integrated systems capable of fully exploiting its high-grade...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "fed51fc2547a4bc1",
+    "title": "Observed constrained expansion and diminished affordability under the EU\u2019s tariffs on Chinese electric vehicles",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00170-4?rss=yes",
+    "content": "This study compares European battery electric vehicles market dynamics under tariff shocks across countries and vehicle classes, revealing short-term affordability pressures that may hinder electrification pace. The findings suggest complementary policies, such as greater tariff flexibility and supply chain measures.",
+    "journal": "Joule"
+  },
+  {
+    "id": "1ab099104adea1f3",
+    "title": "Solar-driven green ethylene for sustainable petrochemical manufacturing",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00165-0?rss=yes",
+    "content": "Direct solar-driven catalysis provides a mild and low-carbon route to green ethylene production, representing a significant opportunity to decarbonize one of the largest petrochemical value chains. This perspective evaluates the potential of different feedstocks for solar-driven ethylene production, examines the underlying mechanisms, advantages, energy demands, and practical challenges of direct solar-driven routes, and outlines strategies to accelerate their industrial implementation.",
+    "journal": "Joule"
+  },
+  {
+    "id": "21fc808457591b45",
+    "title": "Outperforming water electrolysis through catalyst layer structuring with defective 2D mesoporous carbon",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00162-5?rss=yes",
+    "content": "Two-dimensional mesoporous carbon with engineered defects enables efficient hydrogen production by enhancing catalyst stability and transport pathways. By integrating interfacial metal\u2013carbon bonding with optimized catalyst layer structuring, this work demonstrates high-performance water electrolysis under practical operating conditions with low noble metal loading.",
+    "journal": "Joule"
+  },
+  {
+    "id": "557319def136a9d8",
+    "title": "A thin and robust polymer electrolyte membrane with dynamic metal-ion crosslinking",
+    "link": "https://www.nature.com/articles/s41560-026-02061-2",
+    "content": "<p>Nature Energy, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/s41560-026-02061-2\">doi:10.1038/s41560-026-02061-2</a></p>Dynamic copper-ion crosslinking of polybenzimidazole yields a thin yet mechanically robust polymer electrolyte membrane. Fuel cells incorporating this membrane achieve a high peak power density and exhibit good stability at elevated temperatures.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "4d522ffc7c937568",
+    "title": "Additive-assisted liquid medium annealing relieving strains in perovskite solar cells for improved stability",
+    "link": "https://www.nature.com/articles/s41560-026-02072-z",
+    "content": "<p>Nature Energy, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/s41560-026-02072-z\">doi:10.1038/s41560-026-02072-z</a></p>The annealing process introduces strain into the perovskite and undermines the stability of the solar cells. Xiaofeng Gao et al. address this issue by using a meltable additive, 1,4-butanesultam, to relieve strain and improve operational stability.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "591863efd7d2ef0e",
+    "title": "A New Paradigm for Flowless Zn\u2013Br<sub>2</sub> Aqueous Cathodes: Fast Kinetics and Stability via Entrapped Phosphonium Bromides",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003776?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Elad Ballas, Khorsed Alam, Amit Ohayon, Keren Barchichat, Moriah Perry, Yogendra Kumar, Dan Thomas Major, Guoxiu Wang, Doron Aurbach, Malachi Noked</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1191d77d44459ba1",
+    "title": "[ASAP] Strain-Dependent Catalytic Hydrotreatment of Chlorella Microalgae HTL Biocrudes Assessed by FT-ICR Mass Spectrometry",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00496",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00496/asset/images/medium/ef6c00496_0006.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00496</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1997380a53d8c209",
+    "title": "[ASAP] Chalcogenide Vacancy Engineering on Tungsten Dichalcogenides for Selective Ammonia Synthesis via Electrocatalytic Nitrate Reduction Reaction",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00554",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00554/asset/images/medium/ef6c00554_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00554</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "b70b8dc4eeef1ebc",
+    "title": "[ASAP] First-Principles Study of Dual-Ion Substitutions in SnS2: Lattice Softening and Anion Dimerization Leading to Ultralow Thermal Conductivity",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c01045",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c01045/asset/images/medium/ae6c01045_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c01045</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "13cfbc42f0efbc73",
+    "title": "[ASAP] Improving the Photoelectrochemical Water-Splitting Performance of CuWO4 under the Synergistic Effect of Zn & V Double Doping and Oxygen Vacancies",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c03444",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c03444/asset/images/medium/ae5c03444_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c03444</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "5cd1ff51a5eb9701",
+    "title": "[ASAP] Synthesis of Hyperbranched Polyelectrolyte/Polyimide Polymer Electrolyte Membranes for Lithium-Ion Batteries",
+    "link": "http://dx.doi.org/10.1021/acsaem.5c04145",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.5c04145/asset/images/medium/ae5c04145_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.5c04145</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "87a684cabdbb92b9",
+    "title": "[ASAP] A-Site Cs+ Doping toward High-Performance Cobalt-Free PrBaFe2O5+\u03b4 Cathodes for Intermediate-Temperature Solid Oxide Fuel Cells",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00452",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00452/asset/images/medium/ae6c00452_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00452</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "94e509240ed86530",
+    "title": "[ASAP] A Broadband High-Output Acoustoelectric Transducer Based on Electrospun BTO/PVDF-HFP Nanofiber",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00574",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00574/asset/images/medium/ae6c00574_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00574</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "dbf60e6dfb22aba6",
+    "title": "[ASAP] Solid Electrolyte Interphase Formation Reactions on Lithium Metal with Ether-Based Electrolytes",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00648",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00648/asset/images/medium/ae6c00648_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00648</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "737f89630e8f3a77",
+    "title": "[ASAP] Tuning Band Degeneracy and Lattice Thermal Conductivity in CuInTe2 via Strain and Nanostructuring",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00895",
+    "content": "<div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00895</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "7f146057e92b0e04",
+    "title": "A biomechanical-responsive hydrogel with synergistic piezo-photocatalytic therapy and motion-feedback sensing for intelligent wound management",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003642?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 21 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Baoying Dai, Hao Zhang, Jiangjiang Yan, Xiaoye Li, Ao He, Xinyue Wang, Wenxuan Qie, Heng Dong, Yannan Xie</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b7ecd301775bd770",
+    "title": "Mechanical Energy\u2010Harvesting Piezo\u2010Biocatalytic Heterojunction for Sustainable Marine Antifouling",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70733?af=R",
+    "content": "A mechanical energy\u2010harvesting piezo\u2010biocatalytic system for sustainable marine antifouling is presented, by leveraging a Ce\u2010BTO heterojunction with a synergistic triple\u2010catalytic mechanism.\n\n\n\n\n\n\n\n\nABSTRACT\nMarine biofouling represents a persistent threat to sustainable ocean industries, elevating operational costs and accelerating infrastructure degradation. While conventional biocide\u2010releasing coatings demonstrate antifouling efficacy, their environmental toxicity necessitates the development of eco\u2010friendly alternatives. Herein, we present a mechanical energy\u2010harvesting piezo\u2010biocatalytic system for sustainable marine antifouling, leveraging a CeO2\u2010BaTiO3 (Ce\u2010BTO) heterojunction with a synergistic triple\u2010catalytic mechanism. The integration of piezoelectric BaTiO3 and CeO2 nanozyme not only enhances charge separation and suppresses recombination to boost piezocatalytic reactive oxygen species (ROS) generation, but also exploits an electron injection effect to augment haloperoxidase\u2010like activity, enabling in situ production of biocidal hypobromous acid (HOBr) in seawater. Furthermore, Ce\u2010BTO exhibits DNA hydrolase\u2010like activity that specifically degrades extracellular DNA (eDNA)\u2014a key structural component of extracellular polymeric substances\u2014thereby disrupting biofilm integrity. This concerted action of ROS/HOBr\u2010mediated biocidal effects and eDNA hydrolysis confers Ce\u2010BTO with potent, broad\u2010spectrum anti\u2010microbial and anti\u2010algal performance, while remaining non\u2010toxic to non\u2010target marine organisms. In a six\u2010month marine field test, coatings incorporating Ce\u2010BTO achieved superior antifouling performance, markedly surpassing a commercial Cu2O\u2010based antifouling paint. By harnessing renewable ocean mechanical energy and green catalytic chemistry, this piezo\u2010biocatalytic strategy offers a promising and sustainable pathway for next\u2010generation antifouling technologies.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "16e1796c2264ec33",
+    "title": "Cryo\u2010FIB Lift\u2010Out and Electron Tomography Workflow for Bacteria\u2013Nanopillar Interface Imaging Under Native Conditions: Investigating Dragonfly Inspired Bactericidal Titanium Surfaces",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70715?af=R",
+    "content": "A correlative cryo\u2010microscopy workflow enables targeted extraction and cryo\u2010electron tomography of bacteria\u2013nanopillar interfaces under fully hydrated, near\u2010native conditions. By overcoming limitations of conventional imaging, this approach allows direct structural interrogation of bacteria\u2013nanostructure interactions in situ, providing a methodological foundation to investigate adhesion and bactericidal mechanisms on bioinspired antimicrobial surfaces.\n\n\n\n\n\n\n\n\n\nABSTRACT\nDragonfly\u2010 and cicada\u2010wing\u2010inspired titanium nanostructured surfaces exhibit promising bactericidal properties. However, direct visualization of the bacteria\u2013material interface under hydrated conditions remains limited, restricting experimental interrogation of how bacteria interact with nanostructured surfaces. This limitation reflects a long\u2010standing methodological gap, as visualization of bacteria\u2013nanostructure interfaces has largely relied upon indirect or dehydrated imaging approaches. Cryo\u2010electron tomography (cryo\u2010ET) enables 3D visualization of cellular ultrastructure in a native hydrated environment, but imaging bacteria attached to metallic nanostructures by cryo\u2010ET requires preparation of thin electron\u2010transparent lamellae. Obtaining such lamellae from vitrified bacteria on titanium substrates is technically challenging because cryo\u2010focused ion beam (cryo\u2010FIB) milling must simultaneously section soft biological material and hard metal whilst bacteria embedded in vitreous ice are not directly visible. Here, we establish a correlative cryogenic workflow enabling targeted extraction and cryo\u2010ET imaging of defined bacterium\u2013nanopillar interfaces. Individual bacteria interacting with titanium nanopillars are identified by correlative cryo\u2010fluorescence microscopy, followed by targeted cryo\u2010FIB lift\u2010out, transfer to a receiver grid, and thinning into electron\u2010transparent lamellae. The data presented demonstrate that bacteria\u2013nanostructure interfaces can be targeted, extracted, and structurally analysed in situ under fully hydrated conditions. This workflow provides a methodological framework for future cryo\u2010ET studies of bacteria\u2013nanotopography interactions.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "1df6d779390e8aa8",
+    "title": "Concentration Gradient\u2010Controlled Electrochemical Etching: A Universal Strategy for Nanoelectrodes with Tunable Geometries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70723?af=R",
+    "content": "A concentration gradient\u2010controlled electrochemical etching strategy is developed for the deterministic fabrication of nanoelectrodes. By leveraging diffusion confinement in micro\u2010capillary sleeves, stable axial gradients are established to regulate etching kinetics. This method enables precise tuning of tip cone angles (6\u00b0\u201340\u00b0), offering a versatile platform for minimally invasive single\u2010cell sensing and high\u2010precision micro\u2010fabrication.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010fidelity intracellular sensing necessitates minimally invasive nanoelectrodes with precisely controlled tip geometries to mitigate cellular trauma and enhance signal stability. However, conventional etching techniques often struggle with the reproducible modulation of tip morphology, particularly the cone angle. In this work, we report a concentration gradient\u2010controlled electrochemical etching (CG\u2010CEE) strategy that facilitates the deterministic fabrication of carbon fiber nanoelectrodes with tailored geometries. By leveraging spatial confinement within a micro\u2010capillary sleeve to restrict etchant diffusion, CG\u2010CEE establishes a stable axial concentration gradient, enabling spatially regulated etching kinetics. Modulating the sleeve diameter allows for the precise adjustment of the concentration profile, thereby enabling the controlled fabrication of tip angles ranging from 6\u00b0 to 40\u00b0. This robust and highly reproducible method not only provides specialized nanoelectrodes for real\u2010time intracellular sensing but also exhibits exceptional versatility, as demonstrated by the fabrication of high\u2010precision tungsten needles. The CG\u2010CEE approach offers a powerful platform for the customized preparation of various nanotip electrodes in bioanalytical chemistry and micro\u2010fabrication.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
