@@ -1909,5 +1909,299 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70723?af=R",
     "content": "A concentration gradient\u2010controlled electrochemical etching strategy is developed for the deterministic fabrication of nanoelectrodes. By leveraging diffusion confinement in micro\u2010capillary sleeves, stable axial gradients are established to regulate etching kinetics. This method enables precise tuning of tip cone angles (6\u00b0\u201340\u00b0), offering a versatile platform for minimally invasive single\u2010cell sensing and high\u2010precision micro\u2010fabrication.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010fidelity intracellular sensing necessitates minimally invasive nanoelectrodes with precisely controlled tip geometries to mitigate cellular trauma and enhance signal stability. However, conventional etching techniques often struggle with the reproducible modulation of tip morphology, particularly the cone angle. In this work, we report a concentration gradient\u2010controlled electrochemical etching (CG\u2010CEE) strategy that facilitates the deterministic fabrication of carbon fiber nanoelectrodes with tailored geometries. By leveraging spatial confinement within a micro\u2010capillary sleeve to restrict etchant diffusion, CG\u2010CEE establishes a stable axial concentration gradient, enabling spatially regulated etching kinetics. Modulating the sleeve diameter allows for the precise adjustment of the concentration profile, thereby enabling the controlled fabrication of tip angles ranging from 6\u00b0 to 40\u00b0. This robust and highly reproducible method not only provides specialized nanoelectrodes for real\u2010time intracellular sensing but also exhibits exceptional versatility, as demonstrated by the fabrication of high\u2010precision tungsten needles. The CG\u2010CEE approach offers a powerful platform for the customized preparation of various nanotip electrodes in bioanalytical chemistry and micro\u2010fabrication.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "e4afc52da7b905d4",
+    "title": "A Coordination\u2010Regulated Anti\u2010Solvent\u2010Free Strategy by Sulfolane for High\u2010Performance Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71113?af=R",
+    "content": "Sulfolane is introduced into a 2\u2010methoxyethanol\u2010based perovskite precursor to coordinate with Pb2+, stabilize PbI3\u2212\u2010 related iodoplumbate species, and modulate crystallization kinetics. This coordination regulation promotes compact film formation and defect passivation, leading to reduced nonradiative recombination and improved efficiency and stability in anti\u2010solvent\u2010free perovskite solar cells.\n\n\n\n\n\n\n\n\nABSTRACT\nAnti\u2010solvent quenching has been widely adopted to fabricate high\u2010efficiency perovskite solar cells (PSCs). However, this strategy suffers from poor process tolerance and limited scalability, motivating the development of anti\u2010solvent\u2010free methods. Here, we report a coordination\u2010regulated anti\u2010solvent\u2010free strategy by introducing sulfolane as an additive into a 2\u2010methoxyethanol (2ME)\u2010based perovskite precursor. Owing to the weak coordination capability of 2ME toward Pb2+, conventional 2ME processing often leads to uncontrolled intermediate\u2010phase evolution and needle\u2010like morphology. However, the interaction between sulfolane and Pb effectively regulates the perovskite precursor environment, stabilizes the iodoplumbate coordination complex, particularly PbI3\u2212\u2010related species, and thereby modulates perovskite crystallization dynamics. In addition, the residual sulfolane is shown to passivate the defects and traps in the perovskite films. Consequently, the perovskite films exhibit compact and uniform morphology with enhanced grain packing and reduced pinholes. Our resulting champion device with sulfolane additive achieves significantly improved efficiency from 15.03% to 26.02%, with an open\u2010circuit voltage (Voc) of 1.18\u00a0V. Moreover, the device with sulfolane additive maintains over 87% of its initial efficiency after 2000\u00a0h under N2 atmosphere at 25\u00b0C. This work highlights the effectiveness of coordination engineering in enabling scalable and reproducible perovskite fabrication by an anti\u2010solvent\u2010free method.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "10559f03ebd40e0a",
+    "title": "Impacts of the Particle Geometric Heterogeneity on Battery Degradation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71108?af=R",
+    "content": "Efficiently parsing principles behind massive data creates bottlenecks in experimental subjects. A typical objective is to decode the battery aging mechanism. This work develops AI visual imaging to address interference from variable crack scales, directly observing unseeable microregion environment\u2010crack\u2010stress evolution. Providing a general method for decoding the energy\u2010sector failure behaviors.\n\n\n\n\n\n\n\n\nABSTRACT\nDecoding the hidden scientific principles in massive and complex data causes bottlenecks in experimental science. A typical objective is to analyze the causes of battery aging through the local geometric environment. Here, we deployed visually aware virtual probes to see the hidden chemical fingerprints in active particles, decoding invisible stochastic microscopic events into visualized ensemble quantization behavior. By developing a deep learning architecture with hierarchical interaction perception, we break the detection bottleneck triggered by crack scale variability and decipher the multiscale aging code of massive particle microregions. The significant geometric mismatch effects in chemical microregions drive the Li+ cross\u2010phase transport traps. This behavior leads to elevated contact stress, which ignites a degradation cascade reaction in batteries. Further, the electrode was reprogrammed according to the electrode microarchitecture engineering, extending the pouch cell life by 25%. Our approach, utilizing computer vision to analyze the hidden scientific laws behind the phenomena, guides the design of failure immunity in other energy systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "40e08a46cf151dbb",
+    "title": "Modulating Buried Interfaces via Co\u2010Assembled Monolayers With Siloxane\u2010Mediated Intermolecular Interactions for Perovskite/Silicon Tandem Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71107?af=R",
+    "content": "Co\u2010assembly of MeO\u20104PACz with siloxanes regulates intermolecular interactions, homogenizing its distribution at the NiOx/perovskite interface. Progression from physical mixing to specific hydrogen bonding to covalent bridging enhances molecular coverage, passivates interfacial defects, and optimizes energy\u2010level alignment. The optimal covalent\u2011bridged Co\u2011SAMs deliver a certified 33.37% efficiency in perovskite/silicon tandem solar cells, with negligible degradation after 4000\u202fh dark storage and 87.12% retention after 1000\u202fh MPPT.\n\n\n\n\n\n\n\n\nABSTRACT\nConventional phosphonic acid\u2010based SAMs, exemplified by [4\u2010(3,6\u2010dimethoxy\u20109H\u2010carbazol\u20109\u2010yl)butyl]phosphonic acid (MeO\u20104PACz), readily aggregate, leading to non\u2010uniform buried\u2010interface coverage and constrained device output. Here, we engineer co\u2010assembled SAMs (Co\u2010SAMs) by co\u2010assembling MeO\u20104PACz with trimethoxysilane\u2010anchored terminal siloxanes\u2014epoxy (GOPS), thiol (TMSPT) and isocyanate (IPTMS)\u2014to homogenize the NiOx/perovskite contact. The resulting Co\u2010SAMs form denser and more uniform interfacial layers on NiOx, boosting the open\u2010circuit voltage (Voc) and fill factor (FF) of 1.68\u00a0eV wide\u2010bandgap perovskite solar cells, with IPTMS\u2010based Co\u2010SAMs delivering the largest improvement. Performance correlates with a distinct evolution of siloxane\u2010mediated intermolecular interactions. We demonstrate that the evolution of intermolecular interactions from physical blending (MeO4\u2010GOPS) and specific hydrogen bonding (MeO4\u2010TMSPT) to covalent bridging (MeO4\u2010IPTMS) significantly enhances interfacial quality. Specifically, the phosphonate\u2013carbamate covalent bridge formed in MeO4\u2010IPTMS most effectively suppresses aggregation and delivers synergistic defect passivation. Leveraging this strategy, monolithic perovskite/silicon tandem cells deliver a champion power conversion efficiency (PCE) of 33.74% (certified 33.37%). Furthermore, the devices exhibit exceptional stability, showing negligible degradation after 4000 h of dark storage and retaining 87.12% of their initial PCE after 1000 h of maximum power point tracking (MPPT) under continuous one\u2010sun illumination, highlighting the potential of this interfacial strategy for highly stable tandem photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c6e1d7a993175740",
+    "title": "Sputtering Mechanism of an Unsintered Organic\u2013Inorganic Sputtering Target for Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71109?af=R",
+    "content": "An unsintered MAPbI3 sputtering target fabricated via a mechanochemical route enables large\u2010area vacuum deposition of perovskite absorber layers, while revealing an ion\u2013photon coupled decomposition mechanism that governs target erosion and film composition under RF plasma exposure. This work establishes a physical and process\u2010level foundation for realizing fully sputtered perovskite solar cells.\n\n\n\n\n\n\n\n\nABSTRACT\nVacuum\u2010based deposition of hybrid organic\u2013inorganic perovskites (HOIPs) remains a critical yet unresolved challenge for enabling scalable, solvent\u2010free manufacturing of perovskite optoelectronics. Here, tetragonal methylammonium lead iodide (\u03b2\u2010MAPbI3) single\u2010phase crystals with high structural uniformity are synthesized via an antisolvent vapor\u2010assisted crystallization process and utilized as feedstock for a 3\u2010inch unsintered MAPbI3 sputtering target fabricated through mechanochemical processing and low\u2010temperature consolidation. The resulting target exhibits sufficient compactness and mechanical integrity to sustain RF magnetron sputtering without macroscopic fracture while retaining its \u03b2\u2010phase crystallographic signature under plasma exposure. However, sputtered films derived from this target consistently exhibit PbI2\u2010dominant characteristics. Correlative analysis of target surface evolution and film composition indicates a progressive loss of organic and iodine species during sputtering, leading to a compositionally altered sputtered flux. Such behavior can be reasonably attributed to the combined effects of energetic ion bombardment and photon irradiation intrinsic to RF plasma environments. Consequently, direct sputter deposition does not readily preserve MAPbI3 stoichiometry, even when high\u2010quality single\u2010phase crystal\u2010derived targets are employed, suggesting that post\u2010deposition reconstruction strategies may be required to restore the perovskite phase. This work provides fundamental insights into plasma\u2013perovskite interactions and establishes a foundation for sputtering\u2010based routes toward scalable perovskite photoabsorber fabrication.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7f684f3ae0dc93cb",
+    "title": "Zinc Sulfide Enabling Remarkable Surface Passivation of Crystalline Silicon",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71100?af=R",
+    "content": "Polycrystalline ZnS films capped by Al2O3 provide outstanding surface passivation performance. The excellent lattice agreement between c\u2010Si and ZnS combined with a hydrogenation step result in extremely low interface state density (\u2248 1\u00d71010 cm\u22122 eV\u22121) and recombination current pre\u2010factor (1.0 fA/cm2), revealing a new passivation strategy for crystalline silicon surfaces. \n\n\n\nAbstract\nThe development of future crystalline silicon (c\u2010Si) solar cell technologies requires innovative surface passivation layers. Sulfides are a somewhat unexplored class of passivation materials, despite previous reports showing that sulfurization of the c\u2010Si surface enhances surface passivation. Herein, we report a novel transparent passivation stack composed of ZnS/Al2O3, sequentially deposited by atomic layer deposition (ALD). This stack exhibits remarkable surface passivation, reaching a recombination current pre\u2010factor J0 as low as 1.0 fA/cm2 and implied open\u2010circuit voltages iVoc > 730\u00a0mV for a wide range of deposition and annealing conditions. Capacitance\u2013voltage measurements reveal an extremely low interface state density of \u2248 1\u00d71010 cm\u22122 eV\u22121, on par with state\u2010of\u2010the\u2010art Si\u2010based passivation layers such as SiO2 and a\u2010Si:H, together with a moderate positive fixed charge. A close lattice match between c\u2010Si and ZnS suggests potential epitaxial growth, which could explain the low interface state density and outstanding surface passivation, despite the observation of a polycrystalline bulk structure. These results establish ZnS as an important new material for c\u2010Si surface passivation, with the potential to enable future innovations either as an interlayer for passivating contacts or as a dielectric passivation layer in c\u2010Si solar cells.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fa99946ac48cdfae",
+    "title": "[ASAP] A Rapid Binder Discovery Workflow for Engineering Mini-Protein Degraders",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00146",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00146/asset/images/medium/ja6c00146_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00146</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e54fe2ec519cc3ea",
+    "title": "[ASAP] Solar-Driven Dehalogenation and Upcycling of Brominated Plastic Waste",
+    "link": "http://dx.doi.org/10.1021/jacs.6c00406",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c00406/asset/images/medium/ja6c00406_0011.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c00406</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8939cfb0633e5354",
+    "title": "[ASAP] Ordered\u2013Disordered Ionic Cocrystalline Solid-State Electrolytes for Rapid Ion Migration in Sodium Metal Batteries",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01095",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01095/asset/images/medium/ja6c01095_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01095</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "49d99f44f6de5b54",
+    "title": "[ASAP] A Nonenzymatic Analogue of the Biosynthesis of Pyridoxal Vitamers",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01677",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01677/asset/images/medium/ja6c01677_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01677</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "1e54ba21906303c7",
+    "title": "[ASAP] \u03c0\u2013\u03c0 Interaction Promoting Kinetic Resolution Copolymerization of rac-Epoxides and Isocyanates",
+    "link": "http://dx.doi.org/10.1021/jacs.6c05391",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c05391/asset/images/medium/ja6c05391_0007.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c05391</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8564c2d234afc89d",
+    "title": "[ASAP] Linker-Flexibility-Induced Triangular Antiprism Nodes in a Three-Dimensional Covalent Organic Framework",
+    "link": "http://dx.doi.org/10.1021/jacs.6c06539",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c06539/asset/images/medium/ja6c06539_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c06539</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "e8e611285b879c14",
+    "title": "Revealing failure mechanisms of lithium-ion batteries under dynamic three-point bending: Experiments and simulations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600382X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zi-xuan Huang, Xin-chun Zhang, Yu-hang Zhou, You-yun Zou, Zong-lin Yuan, Li-xiang Rao, Li-qiang An</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "aa36f59b7da3f301",
+    "title": "Dual Anchoring <em>via</em> Lewis Acid Sites and Hydrogen Bonds Enables Synergistic Performance Optimization of Lithium Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003818?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Rundong Chen, Qiuya Wang, Linlin Wang, Yuyang Wang, Kai Wang, Cheng Liu, Le Xu, Shigang Lu, Luyang Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c455971bedd2530a",
+    "title": "Data-driven design of high-energy-density disordered rock-salt cathode via a physically informed graph neural network",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003806?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yujian Sun, Xiaoyu Zhou, Sichen Jiao, Rui Liu, Zhengyan Lun, Huican Mao, Xiqian Yu, Hong Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1397836c6ff4b89e",
+    "title": "Bridging Theory and Experiment: Theoretical Insights into Cathode Materials for Advanced Alkali Metal-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600379X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zirui Song, Hongyi Chen, Dengyi Xiong, Hongshuai Hou, Wentao Deng, Guoqiang Zou, Xiaobo Ji</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5cef5da1ddfb3ea9",
+    "title": "Nonflammable Thermal-Responsive Electrolyte Enabling High Safety Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003788?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Li Du, Tiantian Dong, Bin Xie, Jialiang Wang, Qi Zhang, Shitao Wang, Jianjun Zhang, Gang Zhou, Gaojie Xu, Guanglei Cui</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c1eaa4ccde1e9802",
+    "title": "[ASAP] Effects of Horizontal Well Placement on Gas Production and Methane Leakage during Depressurization in Unsealed Hydrate Reservoirs",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00772",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00772/asset/images/medium/ef6c00772_0014.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00772</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6a1527f5ac39bda0",
+    "title": "[ASAP] Graphene Oxide for Enhanced Oil Recovery: A Review of Recent Advances, Interfacial Regulation Mechanisms, and Future Perspectives",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c00794",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c00794/asset/images/medium/ef6c00794_0010.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c00794</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "001ddf1f953833b8",
+    "title": "[ASAP] Molecular-Sieve-Like MOF-Glass Interphase Enabling Predesolvation for Ultra-High Nickel Cathodes",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c01001",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c01001/asset/images/medium/ef6c01001_0006.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c01001</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c11f668774541bef",
+    "title": "[ASAP] Recent Advances in CaO/Ca(OH)2 Thermochemical Energy Storage: Materials, Reactors, and System Integration",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c01396",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c01396/asset/images/medium/ef6c01396_0057.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c01396</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "d1659f59de6f0027",
+    "title": "[ASAP] Nickel Oxynitride Bifunctional Catalyst with Nitrogen-Induced Defect for Efficient Ammonia Splitting toward Hydrogen Production",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00004",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00004/asset/images/medium/ae6c00004_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00004</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "973b995496144689",
+    "title": "[ASAP] Alloy vs Single-Metal Exsolution in Layered Double Perovskite PrBaMn2O5+\u03b4 Anodes for Solid Oxide Fuel Cells",
+    "link": "http://dx.doi.org/10.1021/acsaem.6c00758",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acsaem.6c00758/asset/images/medium/ae6c00758_toc.gif\" /></p><div><cite>ACS Applied Energy Materials</cite></div><div>DOI: 10.1021/acsaem.6c00758</div>",
+    "journal": "ACS Applied Energy Materials: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "ebc3171b174729a7",
+    "title": "Advances in Self-powered Electro-controlled Liquid: Driving Mechanisms and Applications Based on Triboelectric Effects",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003617?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jianfeng Sun, Yuanlin Fu, Yonghang Li, Siqi Gong, Zeng Mo, Hong Jiang, Jie Chen, Hengyu Guo, Lingjun Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ceb9adc0067090f2",
+    "title": "Helmholtz-Resonator Triboelectric Nanogenerator with Trapezoidal Neck and Flexible End-Sealing for Enhanced Low-Frequency Acoustic Energy Harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003629?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Fatemeh Irannejad, Parham Soltani, Mohsen Shanbeh, Ali Loghmani, Saeed Ziaei-Rad</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "09d39a7d49e1e7fc",
+    "title": "Droplet-Driven Self-Powered Interfacial Electrocatalysis for Efficient Wastewater Treatment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003460?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yingying Li, Xianchun Jin, Lili Xing, Xinyu Xue</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9a82ee0a55e44dd3",
+    "title": "Dual Soft\u2010Gel Electrodes Enabling Near\u2010Practical and Deployable Aqueous Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70732?af=R",
+    "content": "This study presents a dual soft\u2010gel electrode battery enabled by a water\u2010competition effect between sulfate and water\u2010soluble species. This confines anodic and cathodic redox species within soft\u2010gel phases. Systematic studies reveal that cation hydration regulates soft\u2010gel water content and cycling stability. The soft\u2010gel electrode concept is successfully scaled to a cylindrical battery with stable operation under practical charging conditions.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous batteries offer strong potential for large\u2010scale energy storage owing to their intrinsic safety and low cost, yet their development remains constrained by the fundamental limitations of solid\u2010 and liquid\u2010state electrode architectures. Here, we report a dual soft\u2010gel electrode aqueous battery enabled by a water competition effect between sulfate anions and water\u2010soluble polymers. By confining redox\u2010active 1,8\u2010bis(2\u2010(2\u2010(2\u2010hydroxyethoxy)\u2010ethoxy)ethoxy)anthracene\u20109,10\u2010dione and iodide within the anode and cathode soft\u2010gel phases, respectively, together with an electronically conductive network, a dual\u2010soft\u2010gel electrode battery configuration is realized. This architecture delivers stable electrochemical operation while maintaining effective ionic and electronic transport. Importantly, the concept is further validated in a cylindrical cell with substantially increased electrode dimensions, which exhibits consistent cycling behavior, highlighting the potential of dual soft\u2010gel electrodes as a deployable platform for practical aqueous batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "f6530643b9d250bd",
+    "title": "Probing Into the NiO Segregation Mechanism for Optimized Synthesis of High\u2010Capacity Sodium\u2010Ion Layered Cathodes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70725?af=R",
+    "content": "The NiO impurity in the Ni\u2010rich Na\u2010ion layered cathode is separated from the bulk during the high\u2010temperature annealing due to Na volatilization. A low\u2010temperature annealing coupled with an excessive amount of Na is introduced into the solid\u2010state synthesis process to enable reincorporation of precipitated NiO back into the lattice, which helps to inhibit NiO segregation and yield a phase\u2010pure high\u2010capacity layered cathode.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping high\u2010capacity transition\u2010metal layered oxide cathodes is crucial for building high\u2010energy sodium\u2010ion batteries. Increasing the redox\u2010active nickel content in O3\u2010type layered cathodes effectively boosts the output capacity, yet a high Ni content (>40%) accounts for the formation of NiO impuritie during the high\u2010temperature solid\u2010state synthesis and compromises the reversible capacity of the cathode. Herein, we revealed the underlying mechanism of NiO formation during sintering, which was driven by the lattice sodium volatilization at an elevated temperature. We further proposed a low\u2010temperature annealing method coupled with an excessive amount of Na to eliminate NiO impurities in the layered cathodes. The optimized NiO\u2010free NaNi0.41Zn0.01Fe0.11Mn0.32Ti0.1Al0.05O2 cathode delivers a high reversible capacity of 156 mAh g\u22121 at 0.1C and 144 mAh g\u22121 at 1C in a voltage range of 2.0\u20134.2\u00a0V vs. Na+/Na, with a capacity retention of 91.3% after 100 cycles, showing promise to practically realize high\u2010energy Na\u2010ion batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4f5f65ffe08675dd",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70638?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ee25a6c5ec5c8949",
+    "title": "Nano\u2010Therapeutics for In Vivo Immune Cell Engineering (Small Methods 10/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70637?af=R",
+    "content": "Front Cover\nIn article number e01973, Haochen Yao, Shixian Lv, Yu Tao, Mingqiang Li, and co\u2010workers review recent advances in nano\u2010therapeutics for in vivo immune cell engineering, an approach offering significant advantages over ex vivo methods, including lower cost, reduced manufacturing time, and simplified procedures. They summarize the latest progress and therapeutic applications of these strategies across various diseases, discuss critical challenges such as targeting specificity and safety, and explore potential solutions to accelerate clinical translation and broaden patient access. This review provides a timely roadmap for advancing in vivo engineering towards broader clinical translation.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "929b2a301db308fc",
+    "title": "Nano\u2010Therapeutics for In Vivo Immune Cell Engineering",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202501973?af=R",
+    "content": "In vivo immune cell engineering offers significant advantages over ex vivo approaches for treating various diseases, especially cancers, including reduced cost, manufacturing time, and procedural complexity. This review summarizes recent progress in nano\u2010therapeutics for in vivo immune cell engineering, their therapeutic applications, the key challenges encountered, and potential solutions to accelerate future research and clinical translation for broader patient benefit.\n\n\n\n\n\n\n\n\nABSTRACT\nImmune cell engineering, exemplified by chimeric antigen receptor T (CAR\u2010T) cell therapy, has revolutionized the treatment of various diseases, particularly cancers. While significant advancements have been made in ex vivo immune cell editing, progress in in vivo engineering has been comparatively slower despite its substantial potential advantages, such as reduced manufacturing complexity and cost. However, in vivo approaches face critical challenges, including insufficient targeting specificity, limited editing efficiency, and uncertain long\u2010term safety profiles. These limitations necessitate the exploration of nano\u2010strategies to overcome biological barriers. This review summarizes the advantages of in vivo over ex vivo immune cell engineering, discusses the latest research progress in nano\u2010therapeutics for in vivo immune cell engineering, and highlights applications across diverse diseases. Finally, we examine critical barriers hindering clinical translation and offer perspectives on future developments.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "862488f33d1de42d",
+    "title": "Atomistic\u2010to\u2010Device Understanding of Oxygen Reduction Using Redox\u2010Active Lanthanide\u2010Coupled Carbon Nitride Nanoparticles for Bio\u2010Electrochemical Power Generation in Microbial Fuel Cells",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502313?af=R",
+    "content": "A unified experimental\u2010computational approach reveals how redox\u2010active rare\u2010earth ions (Ce3+/Gd3+) incorporated into graphitic carbon nitride (g\u2010C3N4) nanoparticles create defect enriched, spin\u2010active architectures that enhance oxygen reduction kinetics. These catalysts bridge atomic\u2010level electronic modulation with bio\u2010electrochemical energy conversion, enabling high\u2010performance and durable microbial fuel cells for sustainable energy\u2010water applications.\n\n\n\n\n\n\n\n\nABSTRACT\nEfficient oxygen reduction at the cathode remains a critical bottleneck in advancing bio\u2010electrochemical energy conversion, necessitating integrated experimental and atomistic\u2010level understanding. 2D polymeric nanomaterials offer stable, nitrogen\u2010rich frameworks as sustainable alternatives to platinum catalysts. However, their poor conductivity and low active\u2010site density hinder oxygen reduction reactions (ORR), create an inefficient two\u2010electron pathway, and limit the use of bio(electrochemical) devices for power generation. Lanthanide incorporation, owing to their unique redox and electronic properties, offers a promising route to overcome these shortcomings. In this investigation, lanthanides (RE) were incorporated into graphitic carbon nitride nanoparticles (g\u2010C3N4 NPs) via one\u2010pot synthesis, resulting in structural and electronic modifications confirmed by experiments and simulations, thereby enhancing their suitability for bio(electrochemical) systems. High\u2010resolution TEM (HR\u2010TEM) shows lattice distortion and nanosheet corrugation after lanthanide incorporation. X\u2010ray photoelectron spectroscopy (XPS) confirms mixed RE3+/RE4+ states and valence\u2010band modulation, which agrees well with density of states (DOS) calculations indicating Ce/Gd 4f\u2010\u03c0 hybridization near the Fermi level. Density functional theory (DFT) charge\u2010density and adsorption analyses reveal that lanthanide sites stabilize key ORR intermediates and lower the reaction overpotential, favoring a four\u2010electron pathway. This is consistent with the experimentally observed electron transfer number of n \u2248 3.9. Electrochemical tests show improved ORR activity for Gd\u2010g\u2010C3N4 NPs, with an onset potential of 0.81 V vs RHE and performance approaching Pt/C. When used as a microbial fuel cell cathode, Gd\u2010g\u2010C3N4 NPs deliver higher power output and COD removal, along with low peroxide yield, good stability, and strong methanol tolerance. When Gd\u2010g\u2010C3N4 NPs are used in microbial fuel cells (MFCs) as cathode catalysts, they achieve a peak power density of 447 mW m\u22122 and 83% chemical oxygen demand (COD) removal, outperforming both pristine and Ce\u2010based variants. The catalyst also demonstrated a low peroxide yield (< 5%), excellent stability, and superior methanol tolerance compared with Pt/C. This investigation offers mechanistic insights from integrated experimental and computational approaches to advance efficient electrocatalysts for power generation in MFCs and clean energy and water systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "538737d03c7b1b1b",
+    "title": "Interface Engineering of Ultrathin Bimetallic Metal\u2013Organic Layers on \u03b1\u2010SnWO4 Nanoplate Photoanode for Remarkable Visible\u2010Light\u2010Driven Photocurrent in Water Splitting",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70630?af=R",
+    "content": "Ultrathin 2D CoFe bimetallic organic layers were grafted onto SnWO4 nanoplates via a facile interface\u2010directed strategy to enhance visible\u2010light\u2010driven water splitting. Interfacial electronic reconstruction and type\u2010II\u2010like band alignment improve charge separation and suppress recombination, delivering a photocurrent density of 1.21 mA cm\u22122 and a surface charge\u2010separation efficiency of > 94%. Bimetallic Co\u2013Fe sites further accelerate OER kinetics by lowering the overpotential for water oxidation.\n\n\n\n\n\n\n\n\nABSTRACT\nIn this study, a facile bottom\u2010up interface\u2010directed strategy was developed to graft ultrathin 2D CoFe bimetallic organic layers (MOLs) onto SnWO4 nanoplates to enhance visible\u2010light\u2010driven water splitting. Several studies reveal that CoFe\u2010MOLs play a multifunctional role in improving the photoelectrochemical (PEC) performance of the hybrid photoanode by enhancing light\u2010harvesting capability, internal quantum efficiency, and charge\u2010separation dynamics. Electronic reconstruction at the CoFe\u2010MOLs/SnWO4 interface suppresses the formation of SnO2 surface defects that act as photocarrier recombination centers. The CoFe\u2010MOLs also induce a substantial built\u2010in photovoltage and type\u2010II\u2010like interfacial band alignment, facilitating efficient charge separation and transport. Interface engineering enables the hybrid photoanode to achieve a surface charge\u2010separation efficiency exceeding 94% at 1.23\u00a0V versus the reversible hydrogen electrode (RHE), along with a remarkable photocurrent density of 1.21\u00a0mA.cm\u22122 and an applied\u2010bias photon\u2010to\u2010current efficiency of 0.22%. The presence of bimetallic Co\u2013Fe sites acts as dual catalytic centers, serving as hole traps and active OER sites, thereby reducing the water oxidation overpotential and accelerating reaction kinetics. This work presents an innovative interface\u2010engineering strategy for facial grafting ultrathin bimetallic organic layers onto semiconductor photoanodes to enable visible\u2010light\u2010driven water splitting.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c3029254e52e7d0f",
+    "title": "Solvent\u2010Programmable ZnS Colloidal Coatings for Large\u2010Area and Durable Structural Colors",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70644?af=R",
+    "content": "This study presents a facile and cost\u2010effective stamp\u2010inspired patterning approach for fabricating durable multicolor colloidal structural color coatings, which holds substantial potential for applications in decorative coatings, advanced printing, and optical anti\u2010counterfeiting.\n\n\n\n\n\n\n\n\nABSTRACT\nFade\u2010resistant coloration based on the structural color of colloidal nanoparticles offers a promising alternative to conventional colorants. However, such ordered nanostructures suffer from two critical limitations inherent mechanical fragility and the difficulty of achieving precise patterning without complex surface modifications. To address these issues, we develop a robust strategy based on zinc sulfide (ZnS)/epoxy resin (EP) composites and rod\u2010coating process. By spatially modulating the coating composition using customized filter\u2010paper templates and localized solvent evaporation driven by capillary forces, we successfully program the refractive\u2010index contrast, which strongly influences color expression according to the Bragg principle and enables on\u2010demand patterning of structural colors. This localized solvent evaporation programming (LSEP) approach allows for the high\u2010precision fabrication of complex dual\u2010color patterns with excellent stability against abrasion, pH changes, and temperature variations. The proposed method is straightforward, environmentally friendly, and overcomes the limitations of traditional techniques, thereby opening new avenues for the scalable production of customized patterned structural color materials in displays, anti\u2010counterfeiting, packaging, and decorative applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "7517078cf5432cc5",
+    "title": "Guiding the Formation of Surface\u2010Confined 2D Metal\u2013Organic Coordination Networks by Variation of Constituent Landing Energy in Electrospray Deposition of an Iron(II) Grid Complex",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202501525?af=R",
+    "content": "Electrospray ion beam deposition (ES\u2010IBD) of an Fe(II) [2 \u00d7 2] grid complex onto Ag(111) reveals landing energy\u2010dependent fragmentation and self\u2010assembly. At higher landing energies, novel coordination networks emerge. This study highlights the unique potential of ES\u2010IBD in creating diverse metal\u2013organic architectures on surfaces.\n\n\n\n\n\n\n\n\nABSTRACT\nThe combination of electrospray ionization with ion beam deposition in ultra\u2010high vacuum has opened new opportunities to research non\u2010sublimable molecules on solid surfaces in recent years. An Fe(II) [2 \u00d7 2] grid complex was deposited on Ag(111) and investigated by scanning tunneling microscopy. Low landing energies (< 3\u00a0eV\u00a0z\u22121) resulted in clusters and single structures with potentially intact coordination bonds. Higher landing energies (> 3\u00a0eV\u00a0z\u22121) led to coordination bond cleavage and a rich variety of self\u2010assembled surface networks formed spontaneously by the grid fragments. Applying established on\u2010surface synthesis methodology employing the constituents of these networks (ligands and Fe atoms) reproduced only a part of them. It is thus proposed that electrospray ion beam deposition is a different route to on\u2010surface coordination network synthesis.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "031332a35d414182",
+    "title": "Brain Pericytes and Wnt/\u03b2\u2010Catenin Signaling Induce Functional Blood\u2013Brain Barrier Phenotype in Human iPSC\u2010Derived Model",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502114?af=R",
+    "content": "This study shows that human iPSC\u2010derived endothelial cells acquire a functional blood\u2013brain barrier phenotype when co\u2010cultured with brain pericytes and stimulated with CHIR\u201099021, a Wnt/\u03b2\u2010catenin activator. This model recapitulates key barrier properties, inflammatory responses, and transcriptomic features of the native human BBB, offering new opportunities for drug screening, disease modeling, and understanding human BBB development.\n\n\n\n\n\n\n\n\nABSTRACT\nThe blood\u2013brain barrier (BBB), formed by brain microvascular endothelial cells (BMECs), restricts vascular permeability through tight junctions, selective transporters, and low transcytosis. BBB dysfunction contributes to cerebrovascular and neurodegenerative disease, yet current human in vitro models recapitulate only a subset of BMEC features. Here, we describe a strategy generate BMECs (hiBMECs) from human induced pluripotent stem cell\u2010derived endothelial cells by co\u2010culture with isogenic brain pericytes and activation of Wnt/\u03b2\u2010catenin signaling. The resulting hiBMECs display barrier properties, active efflux transporters, and appropriate inflammatory responses. Transcriptomic profiling revealed convergence of pericyte\u2010derived cues and Wnt/\u03b2\u2010catenin activation on ETS1, SMAD3/4, and PPAR\u03b3 transcriptional networks, establishing a gene signature closely matching the adult human BBB. Downstream analysis revealed that hiBPC cues engaged sphingosine\u20101\u2010phosphate, TGF\u2010\u03b2, and angiopoietin/Tie2 pathways, which were further regulated by canonical Wnt activation. These findings uncover a synergistic mechanism by which brain pericytes and Wnt/\u03b2\u2010catenin signaling orchestrate BMEC differentiation and function, providing mechanistic insight into human BBB development and an improved hiPSC\u2010derived BBB model for future drug screening and disease modeling.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "916dc27e1194cc80",
+    "title": "Tailoring the Interfacial Behavior to Stabilize Iron Oxalate Anode for Boosting Ultrahigh Lithium Storage",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502133?af=R",
+    "content": "A carbonyl\u2010rich carbon coating derived from carboxymethyl cellulose (CMC) enhances the conductivity, regulates the SEI composition, and improves the reaction kinetics of iron oxalate anodes, thereby enabling ultrahigh reversible capacity and excellent rate performance.\n\n\n\n\n\n\n\n\nABSTRACT\nIron (II) oxalate has attracted considerable attention for energy storage and conversion applications, particularly as a low\u2010cost, high\u2010capacity anode material for lithium\u2010ion batteries. However, its poor electronic conductivity and the loss of active components during cycling severely limit its lithium storage performance. Here, we propose a facile and universal surface functionalization strategy that inhibits direct contact between electrode particles and electrolyte, thereby mitigating the loss of active components. This is achieved by carbonizing carboxymethyl cellulose (CMC) to generate a carbon layer enriched with carbonyl functional groups. Benefiting from the regulation of SEI formation by the carbonyl\u2010rich layer and the improved adsorption of reaction intermediates, the optimized composite delivers a high reversible capacity of 1652 mAh g\u22121 at 0.5 A g\u22121 and retains 517 mAh g\u22121 even at an ultrahigh current density of 15 A g\u22121. This strategy not only significantly enhances the lithium storage capability of iron oxalate but also provides a general approach for engineering the surface chemistry of oxalate\u2010based materials toward high\u2010performance electrochemical energy storage.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "18ca8e2c9917d221",
+    "title": "Nanodefect\u2010Stabilized Pd Nanoparticles on CuO Nanosheets Enable Efficient C2+ Production in Electrochemical CO2 Reduction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502423?af=R",
+    "content": "A nano\u2010defect\u2010stabilized strategy was developed to anchor Pd nanoparticles in electrochemically generated pits on CuO. This configuration enables a high C2+ Faradaic efficiency of 70.3%, more than doubling the performance of bare CuO, while maintaining stable operation.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping efficient electrocatalysts for selective CO2\u2010to\u2010C2+ conversion remains challenging due to the kinetic limitations of C\u2013C coupling and catalyst stability issues. In this work, we report a nano\u2010defect\u2010stabilized approach where Pd nanoparticles are immobilized in electrochemically generated nanoscale pits on CuO nanosheets, forming a stable CuO\u2212Pd interface. The optimized catalyst achieves 70.30% Faradaic efficiency for C2+ products at \u22121.5\u00a0V versus RHE, outperforming bare CuO by over two\u2010fold, while maintaining stable performance over 17\u00a0h. In situ spectroscopic studies reveal that the Pd\u2010enhanced interface promotes\u00a0CO coverage and stabilizes C\u2013C coupling intermediates (*COCO and *COCHO). Theoretical calculations validate that the Pd\u2013Cu interaction facilitates CO adsorption and reduces the energy barrier for C\u2013C coupling. This nano\u2010defect\u2010stabilized strategy, which utilizes in situ\u2010formed nano\u2010defects to stabilize active metal sites, provides a generalizable design strategy for developing robust bimetallic CO2 reduction electrocatalysts.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "08583e6a00a96264",
+    "title": "Claw\u2010Like Macromolecular Engineering for Stabilizing Zinc Anodes Under High\u2010Current Operation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70629?af=R",
+    "content": "Select tris(3,6\u2010dioxaheptyl)amine (TDA\u20101) with a 3D claw\u2010like structure as an additive for 2 M ZSO electrolyte, stabilize EEI under high current densities via large steric hindrance and ether bond rotational flexibility, suppress side reactions, and enable uniform fast Zn2+ diffusion.\n\n\n\n\n\n\n\n\nABSTRACT\nThe mismatch between high\u2010current operation and limited mass transport induces steep concentration gradients at the electrode surface, leading to non\u2010uniform zinc deposition and undesirable side reactions. Here, we propose an electrolyte modification strategy that leverages the claw\u2010like structure of Tris(3,6\u2010dioxaheptyl)amine (TDA\u20101) to stabilize the electrolyte/electrode interface (EEI) under high\u2010current conditions. Theoretical calculations and experimental results reveal that the abundant polar groups on the three branched chains of TDA\u20101 strongly anchor to the zinc surface, thereby reconstructing the electric double layer (EDL). The TDA\u20101 additive reduces the Zn2+ desolvation energy barrier and extends the ion migration pathway, enabling rapid and uniform zinc deposition and diffusion. The Zn||Zn symmetric batteries with the TDA\u20101 additive deliver stable cycling for 1000\u00a0h at a current density of 20 mA\u00b7cm\u22122, whereas the Zn||VNNC full batteries exhibit markedly improved capacity retention after 500 cycles at an N/P ratio of 4.29. This study highlights the potential of macromolecular additives, which exploit claw\u2010like spatial structures and abundant functional groups, to enhance the zinc anodes' stability under high\u2010current conditions.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9f76778463e67e1b",
+    "title": "Interfacial Chirality Transfer Induced by Vortices inside Microdroplets",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70643?af=R",
+    "content": "A dual\u2010driven microfluidic strategy generates controllable vortices in confined droplets and enables interfacial chirality transfer. Regulated flow\u2010rate difference and interfacial\u2010tension difference induce stable mirror\u2010image circular dichroism and enhanced chiroptical signals. The results reveal that microscale flow fields govern chiral assembly and provide a simple platform for constructing tunable chiral materials.\n\n\n\n\n\n\n\n\nABSTRACT\nChiral materials have broad applications in optics. Precise regulation of the chiral signal, however, remains highly challenging. Herein, a microfluidic strategy is proposed in which the cooperative action of dual driving forces regulates vortical flow inside droplets. The flow rate and interfacial tension are adjusted to induce ordered Marangoni convection and shear flow within microdroplets. Under these conditions, chiral signals are transmitted both within droplets and across the liquid\u2010liquid interface. Tetrakis(4\u2010sulfonatophenyl)porphyrin and phenethylamine are employed as a supramolecular co\u2010assembly pair to probe the relation between vortex strength/distribution and chiral\u2010signal transfer. Assemblies obtained under microdroplet vortex fields exhibit markedly enhanced and nearly mirror\u2010image circular dichroism (CD) responses in comparison with those prepared under conventional magnetic stirring. These observations confirm that vortical flow efficiently promotes chiral amplification and enantioselective supramolecular assembly. Flow\u2010field visualization by micro\u2010particle image velocimetry (\u03bc\u2010PIV), combined with hydrodynamic analysis, reveals the formation mechanism and evolution of microvortices under the dual driving forces. Overall, this study demonstrates a practical approach to modulating supramolecular chiroptical signals via vortexes in confined environments.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "84883f5a9e649181",
+    "title": "Versatile Eutectogel Sensor With Tunable Mechanical Properties for Monitoring of Human Bioelectromechanical Signals",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502362?af=R",
+    "content": "The versatile eutectogel sensor, composed of polyvinyl alcohol (PVA) and deep eutectic solvents (DES), offers tunable mechanical properties and multifunctionality. It serves as a safe, economical, and eco\u2010friendly alternative to traditional conductive gels, with applications in health monitoring such as breathing, temperature, joint movement, and ECG detection.\n\n\n\n\n\n\n\n\nABSTRACT\nFurther development of wearable and implantable devices is constrained by the adaptive limitations of flexible gels sensors, which require robust mechanical properties, high electrical conductivity, strain sensitivity, and biocompatibility. Compared to traditional conductive gels, eutectogels based on deep eutectic solvents (DES) offer a safe, economical, environmentally friendly, and easily scalable alternative. Here, we report a green economic strategy to fabricate two multifunctional conductive gels with tunable mechanical and electrical properties and multifunction from polyvinyl alcohol (PVA) and DES (PD). By varying the component ratio and preparation methods, we precisely regulate the PD's mechanical and conductive properties while introducing antibacterial and biocompatibility functions, significantly broadening its application scope. The obtained PD gel exhibits excellent biosafety and antibacterial properties, alongside an exceptionally broad mechanical range, with Young's modulus ranging from 0.84 to 10.22\u00a0MPa and a maximum elongation of 718%. It demonstrated sensitive strain sensing (GF = 2.05) and a favorable anti\u2010freezing ability (\u221210\u00b0C). The Young's modulus of PD Hydrogel ranges from 4.26 to 1.98\u00a0kPa. It illustrated outstanding efficacy in replacing commercially available electrocardiogram (ECG) electrode gels, joint deformation, and temperature and humidity monitoring sensors. This simple, additive\u2010free, and environmentally friendly PD eutectogel offers significant application potential in next\u2010generation health monitoring.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "894b24b9217d17a1",
+    "title": "A Defect\u2010Engineered Vacuum Evaporation Strategy for High\u2010Efficiency Indoor Perovskite Mini Solar Modules",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70654?af=R",
+    "content": "Fully vacuum\u2010evaporated perovskite solar cells achieve record indoor efficiencies of 41.60% via a sequential evaporation strategy. Incorporating PbCl2\u2010assisted conversion and a CsI interlayer suppresses defects and stabilizes the photoactive phase, enabling scalable mini\u2010modules with over 38% efficiency for high\u2010performance, self\u2010powered indoor electronic systems.\n\n\n\n\n\n\n\n\nABSTRACT\nFully vacuum\u2010evaporated perovskite solar cells (PSCs) offer a solvent\u2010free, scalable platform for indoor photovoltaics, yet performance is often limited by incomplete phase conversion and high defect densities. Here, we report a sequential vacuum\u2010evaporation strategy that enables the formation of high\u2010quality perovskite absorbers specifically optimized for low\u2010intensity indoor light harvesting. By co\u2010evaporating PbI2 with a controlled fraction of PbCl2, the dense stacking characteristic of thermally deposited PbI2 is effectively disrupted, promoting homogeneous organic\u2013inorganic interdiffusion and near\u2010complete perovskite phase conversion. Additionally, a thin CsI interlayer introduced prior to thermal annealing stabilizes the photoactive phase and suppresses defect formation at both the bulk and interfacial levels. Consequently, the optimized fully evaporated PSCs deliver record indoor power conversion efficiencies of 41.60% at 900 lux and 41.22% at 300 lux under TL84 illumination. Transient photovoltage and photocurrent analyses reveal prolonged carrier lifetimes and accelerated charge extraction, indicative of substantially reduced nonradiative recombination. Importantly, the devices exhibit markedly enhanced operational stability and enable a perovskite mini module (3.9 cm2), achieving over 38% efficiency at 900 lux under indoor lighting. Collectively, this work establishes a practical and industrially compatible pathway toward high\u2010performance, scalable, fully evaporated perovskite photovoltaics, advancing their deployment in next\u2010generation self\u2010powered indoor electronic systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "fcd863d3e96343b1",
+    "title": "Automated Identification of Thermal Transitions in Conjugated Material Thin Films Using In Situ Optical Spectroscopy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502209?af=R",
+    "content": "This study demonstrates the effectiveness of in situ UV\u2212vis coupled with automated data analysis, namely, ATLAS, for fast and reliable identification of multiple thermal transition in conjugated polymer thin films. This ATLAS method will significantly accelerate the understanding of the phase behavior of D\u2010A polymers with important implications for structure\u2010morphology\u2010property relationships in organic electronics.\n\n\n\n\n\n\n\n\nABSTRACT\nThe thermal transitions of organic semiconductors have important implications for morphological and thermomechanical properties of electronic devices. Here we show that in situ UV\u2013vis spectroscopy coupled with automated data analysis is a facile tool to determine the numerous thermal transitions that can exist in organic semiconductor thin films. Thermal transitions are automatically identified through employing linear segment detection of the semilogarithmic normalized deviation metric (NDM) as well as the spectral changes using piecewise linear regression. Furthermore, by comparing the in situ UV\u2013vis with other thermal measurement methods we observe the temperature dependent absorbance can be used to discern the type of thermal transitions including liquid crystal transitions, glass transitions, and melting temperatures. This approach is used to characterize five well\u2010known conjugated polymers and a small molecule semiconductor, each with distinct thermal phase behavior, where we show good agreement with other thermal characterization methods. Thus, the method we introduce, which we refer to as Automated Thermal transition identification using Linear regression analysis of the Absorbance Spectra (ATLAS), is shown to be an effective and simple screening tool to identify multiple thermal transitions in thin films. This is a high\u2010throughput thermal analysis approach that will assist in advancing structure\u2010morphology\u2010function relations in organic electronics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
