@@ -2203,5 +2203,103 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502209?af=R",
     "content": "This study demonstrates the effectiveness of in situ UV\u2212vis coupled with automated data analysis, namely, ATLAS, for fast and reliable identification of multiple thermal transition in conjugated polymer thin films. This ATLAS method will significantly accelerate the understanding of the phase behavior of D\u2010A polymers with important implications for structure\u2010morphology\u2010property relationships in organic electronics.\n\n\n\n\n\n\n\n\nABSTRACT\nThe thermal transitions of organic semiconductors have important implications for morphological and thermomechanical properties of electronic devices. Here we show that in situ UV\u2013vis spectroscopy coupled with automated data analysis is a facile tool to determine the numerous thermal transitions that can exist in organic semiconductor thin films. Thermal transitions are automatically identified through employing linear segment detection of the semilogarithmic normalized deviation metric (NDM) as well as the spectral changes using piecewise linear regression. Furthermore, by comparing the in situ UV\u2013vis with other thermal measurement methods we observe the temperature dependent absorbance can be used to discern the type of thermal transitions including liquid crystal transitions, glass transitions, and melting temperatures. This approach is used to characterize five well\u2010known conjugated polymers and a small molecule semiconductor, each with distinct thermal phase behavior, where we show good agreement with other thermal characterization methods. Thus, the method we introduce, which we refer to as Automated Thermal transition identification using Linear regression analysis of the Absorbance Spectra (ATLAS), is shown to be an effective and simple screening tool to identify multiple thermal transitions in thin films. This is a high\u2010throughput thermal analysis approach that will assist in advancing structure\u2010morphology\u2010function relations in organic electronics.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c8c76eca5516542d",
+    "title": "Multiscale Kinetics\u2010Enhanced and Interphase\u2010Stabilized Hierarchical Architecture Design Enables Fast\u2010Charging and Longevous Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71059?af=R",
+    "content": "This work devises a previously unexplored microstructured bismuth@carbon composite anode for sodium\u2010ion batteries, characterized by highly dense Bi nanoparticles (90 nm, 91 wt.%) fully encapsulating within the sheet\u2010like frameworks of nitrogen\u2010doped carbon microrods, achieving exceptional fast\u2010charging capability and long\u2010term durability. The origins of the performance enhancement are comprehensively elucidated by detailed material characterizations and electrochemical evidences.\n\n\n\n\n\n\n\n\nABSTRACT\nAchieving ultrafast chargeability and long\u2010term durability in sodium (Na) ion battery (SIB) anodes is highly sought after, but intrinsically limited by their sluggish Na+ transport kinetics and aggressive interfacial degradation. Here, we proposed a rationally designed bismuth\u2010confined micro\u2010rod@nitrogen\u2010doped carbon (Bi\u2010MR@NC) composite to address these limitations. The engineered structure achieves full encapsulation of ultrahigh nano\u2010Bi content (90\u00a0nm, 91 wt.%) in a sheet\u2010assembled carbon microrod (8\u201312\u00a0\u00b5m) architecture, enabling dense electrode construction while maintaining rapid ion/electron transport kinetics, and robust interfacial stability during long\u2010term cycling, as ascertained by detailed material characterizations and electrochemical evidences. Therefore, Bi\u2010MR@NC anode delivers exceptional long\u2010term cyclability of 82.4% capacity retention over 25\u00a0000 cycles at 10 A g\u22121, ultrafast charging capability (220 A g\u22121, charge/discharge completed in 9.2 s), and practically relevant areal capacity of 2.4 mAh cm\u22122 after 1000 cycles at 8.97\u00a0mA cm\u22122. Remarkably, full cells with a practical high\u2010mass\u2010loading Na3V2(PO4)3 (NVP) cathode (19.48\u00a0mg cm\u22122) sustain 1.56 mAh cm\u22122 with 86.9% capacity retention after 1000 cycles at 3.9\u00a0mA cm\u22122. Pouch cell tested under 10 C fast\u2010charging condition demonstrates long\u2010lasting cyclability over 3000 cycles with only 0.01% capacity fading per cycle. This work establishes a generalizable architectural strategy for fast\u2010charging and long\u2010life alloy anodes in next\u2010generation batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4f5197137b057dbd",
+    "title": "Toward Sustainable Urea Synthesis: Materials Design and Mechanistic Perspectives in Electrocatalytic and Photo(electro)Catalytic Systems",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71106?af=R",
+    "content": "Electro\u2010, photo\u2010, and photoelectrocatalytic urea synthesis has emerged as a sustainable route by coupling carbon dioxide reduction with nitrogen activation. This Review provides a comparative and mechanistic perspective across electro\u2010, photo\u2010, and photoelectrocatalytic systems, integrating reaction pathways, catalyst and microenvironment engineering, performance benchmarking, and critical challenges, to guide the rational design of next\u2010generation urea production platforms.\n\n\n\n\n\n\n\n\nABSTRACT\nThe rapidly increasing global demand for urea, coupled with the energy\u2010intensive and environmentally detrimental Bosch\u2010Meiser process, underscores the urgent need for sustainable production alternatives. Electrocatalytic (EC), photocatalytic (PC), and photoelectrocatalytic (PEC) pathways have emerged as promising green strategies to synthesize urea under ambient conditions by coupling carbon dioxide reduction with nitrogen activation. Central to the success of these approaches is the rational design of functional materials that can simultaneously promote C\u2500N coupling and suppress competing reactions. In this review, recent advances in catalyst and system engineering, including size regulation, morphology engineering, alloying, defect engineering, crystal facet control, surface tailoring, heterojunction construction, and local environment regulation, are systematically summarized. We highlight that while universal design principles exist, the requirements to achieve optimal performance differ significantly among EC, PC, and PEC systems. In addition, prevailing mechanistic hypotheses, state\u2010of\u2010the\u2010art catalytic materials, and verification methodologies are critically evaluated before outlining key challenges and opportunities for future research. This work provides a timely and comprehensive overview that deepens understanding of sustainable urea synthesis and offers guidance for the rational design of next\u2010generation catalytic systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ec41b18d1b914245",
+    "title": "Hydrogen Bond\u2010Mediated Molecule\u2010Cation Passivation Pair for Efficient Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71112?af=R",
+    "content": "By constructing a hydrogen bond\u2010mediated molecule\u2013cation passivation pair, a universal strategy that is compatible with diverse cationic passivators is developed to improve surface passivation efficacy and lateral homogeneity. Impressively, the perovskite solar cells with phenylethylammonium chloride and propane\u20101,3\u2010diammonium diiodide as the passivators achieve efficiencies of 25.89% and 26.77%, respectively.\n\n\n\n\n\n\n\n\nABSTRACT\nHomogeneous and efficient surface passivation is crucial for achieving the high photovoltaic performance in perovskite solar cells (PSCs). In this work, we engineered a universal passivation strategy by constructing a hydrogen bond\u2010mediated molecule\u2010cation passivation pair for widely used ammonium cations (phenethylammonium (PEA+), propane\u20101,3\u2010diammonium (PDA2+), (2\u2010(cyclohex\u20101\u2010en\u20101\u2010yl) ethan\u20101\u2010aminium (CHEA+)). This strategy disperses the ammonium passivators by leveraging the hydrogen bond\u2010mediated interactions between 4\u2010amino\u20103,5\u2010difluorobenzonitrile (AFBN) and ammonium cations, mitigating their disordered accumulation on the perovskite surface and enabling a laterally homogeneous passivation. Besides, the cyano moieties of AFBN interact with undercoordinated Pb2+, complemented by the amino groups, which engage in hydrogen bonding with I\u2212 sites, delivering effective passivation of multiple defects through combining the traditional ammonium salt. Consequently, the p\u2010i\u2010n devices treated with AFBN/PEACl and AFBN/PDAI2 achieved remarkable power conversion efficiencies (PCEs) of 25.89% and 26.77%, respectively. Furthermore, the AFBN/CHEAI pair enabled a high efficiency of 25.88% in n\u2010i\u2010p PSC. Moreover, the unencapsulated HMPP\u2010PSCs also exhibit an enhanced device stability, maintaining 91.5% and 87.5% of their initial efficiencies after nearly 2500\u00a0h of aging in ambient air and heat soaking at 65\u00b0C for 800 h.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "9ae2017494dadf9b",
+    "title": "[ASAP] Wetting as an Emergent Property of Water: Reformulating Young\u2019s Equation on Molecular Grounds",
+    "link": "http://dx.doi.org/10.1021/jacs.6c01106",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c01106/asset/images/medium/ja6c01106_0003.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c01106</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9c4a79e4ecd229e8",
+    "title": "[ASAP] How Fe(II)/2-Oxoglutarate Oxygenase Chooses Chlorination over Hydroxylation: Electric Field-Driven Ligand Exchange Governs C\u2013Cl Formation",
+    "link": "http://dx.doi.org/10.1021/jacs.5c22369",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.5c22369/asset/images/medium/ja5c22369_0013.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.5c22369</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9fee940b5b2adfd4",
+    "title": "[ASAP] Discovery of a Robust Ru1\u2013O\u2013Ce Single Atom Catalyst for Coke-Free Dry Reforming of Methane",
+    "link": "http://dx.doi.org/10.1021/jacs.6c02336",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c02336/asset/images/medium/ja6c02336_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c02336</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "8238fc48be6e6eaf",
+    "title": "[ASAP] Strong Dipole\u2013Dipole Interaction Promotes Electrocatalytic Acetylene Semihydrogenation over Symmetric Organo-Electrocatalysts",
+    "link": "http://dx.doi.org/10.1021/jacs.6c03900",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c03900/asset/images/medium/ja6c03900_0005.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c03900</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "6a5368df2448c255",
+    "title": "[ASAP] Organic-Solvent-Free Weakly Solvating Electrolytes Enable Durable Ah-Scale Zn\u2013Iodine Batteries under Diverse Harsh Operating Conditions",
+    "link": "http://dx.doi.org/10.1021/jacs.6c04647",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c04647/asset/images/medium/ja6c04647_0009.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c04647</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "940f9bc42a9a4212",
+    "title": "[ASAP] O-Vinylhydroxylamines for De Novo Pyrrole Synthesis",
+    "link": "http://dx.doi.org/10.1021/jacs.6c06697",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/jacs.6c06697/asset/images/medium/ja6c06697_0006.gif\" /></p><div><cite>Journal of the American Chemical Society</cite></div><div>DOI: 10.1021/jacs.6c06697</div>",
+    "journal": "Journal of the American Chemical Society: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "2f1b94d7010006c5",
+    "title": "Waste-to-Hybrid Supercapacitors: Materials, Mechanisms, and Circular Economy Approach for Next-Gen Energy Storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003831?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Imran Zada, Manab Kundu, Sumreen Asim, Almudena Gonz\u00e1lez Gonz\u00e1lez, Juan M. P\u00e9rez, Yao Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "661394d53b713b4c",
+    "title": "Toward Data-Driven Lithium Metal Batteries: Machine Learning for Materials Design, Mechanistic Insight, and Autonomous Optimization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003843?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yu Lou, Hongyang Zhao, Junfeng Li, Wenxuan Xu, Chaocang Weng, Jinliang Li, Likun Pan</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "90d599d4b081f92a",
+    "title": "[ASAP] Oat Hull Valorization: Integrated Biofuel and Hydrochar Production via Hydrothermal Processing",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c01055",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c01055/asset/images/medium/ef6c01055_0009.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c01055</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "9a2fbcb76c31e751",
+    "title": "[ASAP] Magnetically Responsive Functionalized V2O5 Nanobelt for Sustainable and Energy-Efficient Crude Oil\u2013Water Separation",
+    "link": "http://dx.doi.org/10.1021/acs.energyfuels.6c01381",
+    "content": "<p><img alt=\"TOC Graphic\" src=\"https://pubs.acs.org/cms/10.1021/acs.energyfuels.6c01381/asset/images/medium/ef6c01381_0008.gif\" /></p><div><cite>Energy &amp; Fuels</cite></div><div>DOI: 10.1021/acs.energyfuels.6c01381</div>",
+    "journal": "Energy & Fuels: Latest Articles (ACS Publications)"
+  },
+  {
+    "id": "c10d883eb62f6fcf",
+    "title": "Corrigendum to \u201cKirigami engineered recyclable milk carton for droplet driven contact-separation triboelectric energy harvesting and self-powered environmental monitoring\u201d [Nano Energy 147 (2026) 111580]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003575?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Mingxia Chen, Rui Gu, Jiahong Yang, Chao Liu, Siqi Sun, Dongseong Lee, Chao Hu, Yang Liu, Tao Jiang, Zhong Lin Wang, Qijun Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
