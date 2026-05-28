@@ -1433,5 +1433,194 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70727?af=R",
     "content": "An engineered CRISPR/Cas12a2 nanoprobe was developed for precise in situ mRNA imaging in living cells. The RNA blocking strand restores CRISPR/Cas12a2 activity upon GSH stimulation, enabling the detection of tumor\u2010specific mRNAs. This nanoprobe effectively distinguishes tumor cells from normal cells and achieves successful fluorescence imaging at tumor sites in vivo.\n\n\n\n\n\n\n\n\nABSTRACT\nMessenger RNA (mRNA) imaging in tumor cells plays a crucial role in monitoring the occurrence and development of tumors. However, achieving highly specific and sensitive mRNA imaging remains a significant challenge due to the complex intracellular environment and high background signal. Here, we engineered a CRISPR/Cas12a2 system with an RNA blocking strand that binds to CRISPR RNA (crRNA). After glutathione (GSH) stimulation, the RNA blocking strand is cleaved, allowing the release of crRNA and restoring the capability of CRISPR/Cas12a2 ribonucleoprotein (RNP). Furthermore, we developed a nanoprobe (termed eRNP\u2010FHR) by converging engineered Cas12a2 RNP (eRNP) with framework\u2010hotspot reporters (FHR). FHR features four vertices that modify the sgc8 aptamer to specifically target the protein tyrosine kinase 7 receptor on the surface of tumor cell membranes, link to the eRNP by hybridizing with crRNA, and incorporate fluorescence quenching groups. The eRNP\u2010FHR precisely targets tumor cells through aptamer\u2010mediated endocytosis, specifically recognizes mRNA upon GSH stimulation, and simultaneously cleaves FHR to release a significant fluorescent signal. Excitingly, eRNP\u2010FHR successfully achieved imaging of baculoviral IAP repeat\u2010containing 5 mRNA in pancreatic tumor cells, accurately distinguishing pancreatic tumor cells from normal cells. In a murine pancreatic tumor model, eRNP\u2010FHR exhibited excellent mRNA imaging, highlighting significant potential for precise tumor diagnosis.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "19b02d43654f7f86",
+    "title": "Restraining Mechanochemical Failure in High\u2010Voltage Ni\u2010Rich Cathode by Coupling Bulk Lattice Pinning With Interphase Self\u2010Reconstruction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71110?af=R",
+    "content": "Synergistic bulk lattice pinning and a self\u2010reconstructing interphase simultaneously regulate anisotropic lattice strain and interfacial reactivity, effectively suppressing both intra\u2010 and intergranular cracking in ultrahigh\u2010nickel layered cathodes under harsh operating condition.\n\n\n\n\n\n\n\n\nABSTRACT\nUltrahigh\u2010nickel layered oxides deliver exceptional energy and power densities for lithium\u2010ion batteries (LIBs). However, they suffer from severe intra\u2010 and intergranular cracking driven by accumulated intragranular strain and intergranular parasitic reactions. Herein, a synergistic strategy coupling bulk lattice pinning with interphase self\u2010reconstruction is proposed to simultaneously suppress these cross\u2010scale mechanochemical degradation. A coherently grown LiTaO3 phase stabilizer is introduced into the layered lattice, markedly reducing anisotropic strain by suppressing unit\u2010cell volume and c\u2010axis fluctuations through a pinning effect. This stabilized framework further promotes finer and elongated primary particles with eliminated intergranular voids, thereby restraining intragranular cracking and preserving bulk structural integrity. Concurrently, a self\u2010reconstructing interphase is in situ generated via H+\u2010donor decomposition during cycling, forming robust LiF and Li3PO4 inorganic maskants that shield parasitic reactions and inhibit intergranular cracking under high voltage. This dual bulk\u2010interphase synergistic stabilization enables the cathode superior mechanochemical stability and reaction homogeneity under harsh conditions (4.8\u00a0V, 60\u00b0C, and 5 C). Consequently, the cathode achieves 94.3% capacity retention after 200 cycles at 4.6\u00a0V, while practical pouch cells maintain 83.1% capacity over 600 cycles. By fundamentally arresting multi\u2010scale mechanochemical failure, this strategy enables durable, high\u2010voltage Ni\u2010rich cathodes for safe, long\u2010life LIBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3f70a32c99f9cae3",
+    "title": "Expression of Concern: Exceptional Visible\u2010Light\u2010Driven Cocatalyst\u2010Free Photocatalytic Activity of g\u2010C3N4 by Well Designed Nanocomposites with Plasmonic Au and SnO2",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71082?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b486afeab5290e26",
+    "title": "High\u2010Performance Elastomeric Lithium Metal Anodes Enabled by a Lithiophilic Monolayer\u2010Assembled Nano\u2010Crumpled Micro\u2010Concave Architecture",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71104?af=R",
+    "content": "We report an elastomeric lithium metal anode integrating hierarchical nano\u2013micro architectures with uniformly assembled lithiophilic amine functionalities. This design enables synergistic stress and interfacial regulation, effectively suppresses dendritic growth, and ensures stable cycling, highlighting elastomeric anodes as a promising platform for durable and safe lithium metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nLi metal batteries are promising next\u2010generation energy storage systems due to their high theoretical energy density and low redox potential. However, their practical application is limited by Li dendrite formation during repeated cycling, which compromises safety and shortens cycle life. Herein, we introduce a flexible elastomeric Li metal anode that integrates a lithiophilic monolayer\u2010assembled nano\u2010crumpled surface with microscale concave architectures. This hierarchical design was realized by densely assembling metal nanoparticles onto thiol\u2010functionalized elastomer, followed by Ni electroplating and subsequent assembly with lithiophilic amine\u2010terminated molecular linkers. The resulting elastomeric anode effectively reduced Li nucleation overpotential and promotes mossy Li deposition. As a result, symmetric cells exhibited excellent cycling stability for over 2,100\u00a0h at 3\u00a0mA cm\u22122/3 mAh cm\u22122. Moreover, Li||LiFePO4 full cells retained \u223c90.2% capacity after 1,000 cycles at 1C, demonstrating the potential of chemically and structurally engineered elastomeric anodes for durable and safe Li metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3c2ffb9321c4ecd5",
+    "title": "Correction to \u201cMolecular Bottom\u2010Up Design of Single\u2010Site Copper\u2010Palladium Catalysts for Selective Glycerol Electro\u2010Oxidation\u201d",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71055?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "485c2704caa26062",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70764?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "017cf393c7f910c1",
+    "title": "Scalable Atmospheric Water Harvesting Paper Enable Rapid and Continuous Water Collection (Adv. Energy Mater. 20/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70960?af=R",
+    "content": "Atmospheric Water Harvesting\nIn article number e70889, Lin Dai, Wenshuai Chen, Chenyu Li, Chuanling Si, and co\u2010workers report a hygroscopic and photothermal paper that can rapidly adsorb and release moisture, produced by industrial paper\u2010making processes. The developed crawler\u2010type harvester with flexibly optimized rotating speed enables continuous atmospheric water harvesting and high productivity of water. This strategy provides new insights for scalable atmospheric water\u2010generation systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4375d2696ac76750",
+    "title": "High-Performance LiFePO4 Regeneration through Na-Induced Lattice Activation and Conductivity Rewiring",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02323A",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02323A, Paper</div><div>Jiale Zhang, Shaofeng Li, Yan Yan, Jiexiang Li, Zeyu  Dong, Peng  Ge, Yue Yang, Jie Zeng<br />The recycling of spent LiFePO4 (LFP) is crucial for the sustainable development of Li-ion batteries. However, conventional lithium-replenishment repair merely restores the material to its original state, falling short of...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "e171da80f870b523",
+    "title": "Octahedral distortion-induced defect formation leads to Sn(II) oxidation in perovskite tandem solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00179-0?rss=yes",
+    "content": "All-perovskite tandems offer efficient, thermally stable photovoltaics, but Sn2+ oxidation limits narrow-band-gap Cs(Sn, Pb)I3 devices. We identify lattice distortion as the structural origin of Sn2+ oxidation, phase separation, and defect formation. Dimethylammonium incorporation stabilizes the tetragonal phase, suppresses distortion-driven degradation, and enables 19.3% steady-state efficiency in two-terminal tandems.",
+    "journal": "Joule"
+  },
+  {
+    "id": "ac7ddf29d200e5a4",
+    "title": "Solar cell efficiency tables: Version 68",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00178-9?rss=yes",
+    "content": "Solar cells and modules are rated on a standardized basis with performance referenced to a standard temperature and to a solar spectrum with a prescribed sunlight energy distribution. Historically, performance has improved generally through small increments, with independent measurement early established as necessary to claim improvements. This paper reports the highest certified performance for a range of solar cell and module technologies meeting guidelines, ensuring measurement consistency, especially focusing on new results since January 2026.",
+    "journal": "Joule"
+  },
+  {
+    "id": "9bdd0543be9aa2c8",
+    "title": "Homogeneously distributed self-assembled molecules for efficient and scalable perovskite/silicon tandem solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00176-5?rss=yes",
+    "content": "Scaling device area is essential for perovskite tandem solar cells, yet non-uniform SAM distribution at the bottom interface remains a key limiting factor. To mitigate this, we leveraged molecular twisting within the SAM skeleton to boost its substrate dispersibility, thereby achieving enhanced performance in large-area perovskite solar cells.",
+    "journal": "Joule"
+  },
+  {
+    "id": "7da4222a496e28cb",
+    "title": "Disentangling ion migration from artifacts in high-fidelity ToF-SIMS depth profiling of perovskite solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00172-8?rss=yes",
+    "content": "Time-of-flight secondary ion mass spectrometry (ToF-SIMS) probes buried interfaces in perovskite solar cells but can be misleading in multilayer architectures. We deliver a statistically validated depth profiling framework, identify sputter-induced artifacts mimicking ion migration, and provide direct chemical evidence of buried SAM redistribution under ambient aging.",
+    "journal": "Joule"
+  },
+  {
+    "id": "7bdd63d65ee61cd4",
+    "title": "Cross-material catalyst discovery via deep learning",
+    "link": "https://www.nature.com/articles/s41563-026-02622-6",
+    "content": "<p>Nature Materials, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41563-026-02622-6\">doi:10.1038/s41563-026-02622-6</a></p>A deep-learning framework unites knowledge from distinct catalyst families to predict an unexplored class of water-splitting catalysts, revealing an active single-atom catalyst that outperforms both the training and predicted material classes.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "e4377fce2de3cb7f",
+    "title": "In-plane anomalous Hall effect in a low-dimensional system",
+    "link": "https://www.nature.com/articles/s41563-026-02611-9",
+    "content": "<p>Nature Materials, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41563-026-02611-9\">doi:10.1038/s41563-026-02611-9</a></p>A gate-tunable magnetization-driven in-plane anomalous Hall effect is realized in a low-symmetry heterostructure of TaIrTe4 and layered ferromagnetic insulator Cr2Ge2Te6.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "e419bbee5705b7e9",
+    "title": "Reversible self-assembly of polymeric solid electrolyte enables lithium battery recycling",
+    "link": "https://www.nature.com/articles/s41557-026-02154-1",
+    "content": "<p>Nature Chemistry, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41557-026-02154-1\">doi:10.1038/s41557-026-02154-1</a></p>Solid-state batteries offer safe high-energy storage but are difficult to recycle. Now, a supramolecular electrolyte that forms a solid during operation and reverts to molecules afterwards combines electrochemical performance and recoverability \u2014 a combination of properties rarely achieved in battery technology.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "95e8625e0379c7e0",
+    "title": "Molecular rotation and large polarization in charge-transfer ferroelectric cocrystals",
+    "link": "https://www.nature.com/articles/s41557-026-02168-9",
+    "content": "<p>Nature Chemistry, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41557-026-02168-9\">doi:10.1038/s41557-026-02168-9</a></p>Organic ferroelectrics typically exhibit modest polarization and high coercive fields, which limit their performance. Now a donor\u2013acceptor cocrystal in which V-shaped donor molecules assemble into a gear-like packing motif has been developed; this architecture enables low-barrier in-plane molecular rotations that enhance polarization while substantially lowering the coercive field.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "cad329a36fbcb3fc",
+    "title": "A photoexcited triplet state germylene with a half-life of hours at room temperature",
+    "link": "https://www.nature.com/articles/s41557-026-02153-2",
+    "content": "<p>Nature Chemistry, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41557-026-02153-2\">doi:10.1038/s41557-026-02153-2</a></p>Triplet tetrylenes are typically too short-lived for detailed investigation. Now a triplet germylene with a 14-h half-life at 25\u2009\u00b0C has been generated through photoexcitation of a germylene compound, enabling spectroscopic characterization and probing of its reactivity.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "1b3dc57b1f2f9a8b",
+    "title": "Adsorption-bonding modulation metallizing 2H-MoS<sub>2</sub> for high-rate potassium storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600396X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Tong Zhou, Xiang Jiang, Jinglin Mu, Shugang Tan, Peibo Gao, Shuang Tian, Pengfei Zhou, Zhichao Miao, Jin Zhou, Feng Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "65b2c44d058cc225",
+    "title": "Developing a Vacancy-Regulated Integrated Cathode for Catalysis\u2013Mass Transfer Coupling Optimization and Interfacial Kinetics Enhancement in Air Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003971?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jicai Hu, Bintao Luo, Kangwei Guan, Jie Shi, Shulin Gao, Sujuan Hu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "68e0f84f748f4ccf",
+    "title": "Interlayer-Enhanced Thermal Management in Lithium-Ion Batteries: A Review on State-of-the-Art Modeling Approaches",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003922?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Esmaeil Yousefi, Mohammad Kohestanian, Mehdi Mehrali, Ahmad Arabkoohsar</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "088bb3bdca3addec",
+    "title": "Polar Electrolyte-Derived Dissolution-Resistant Interfaces on Hard Carbon Anodes for Stable Cycling of Sodium-Ion Batteries at 60\u00b0C",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003910?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ziyong Li, Zhijun Wu, Xiangjie Li, Shengnan He, Yunpeng Ouyang, Renheng Tang, Hongge Pan, Min Zhu, Renzong Hu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "262d369675af1946",
+    "title": "Innovative Chromium\u2212Bromide Flow Batteries: Enabling High\u2212Capacity Energy Storage with Superior Electrochemical Efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003892?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Mingjun Nan, Qizhen Cui, Jiaying Yan, Shujie Gao, Wendi Jin, Xinyu Guo, Wanyao Sun, Xiangkun Ma</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1dab173625231c3e",
+    "title": "Unlocking Anion Redox in the Solid State: The Path to High-Energy All-Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003909?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Shuo Sun, Jingchen Yuan, Zhiqiang Liu, Shuo Song, Henghua Yi, Meng Yang, Chuan Ding, Teng Zhai, Xiangyu Zhao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "41505d6a484ca7fb",
+    "title": "Dry-Processing of Ceramic-Infilled Composite Electrolyte Membrane for Solid-State Lithium Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003946?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Behrouz Bazri, Ghufira Ghufira, JinKiong Ling, Yi-Shiuan Wu, Wen-Tse Huang, Liang-Yin Kuo, Jeng-Kuei Chang, Rajan Jose, Chun-Chen Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "f480a5619a6fcade",
+    "title": "Disorder and Entropy Engineering in Solid-State Electrolytes for Fast Li\u207a and Na\u207a Transport",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003958?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 27 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Tarekegn Heliso Dolla, Thabo Matthews, Usman Muhammad Tukur, Jiexi Wang, Nithyadharseni Palaniyandy, Nobanathi Wendy Maxakato, Peter Ramashadi Makgwane, Mkhulu Kenneth Mathe</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "efbd628f9983737e",
+    "title": "Programmable Dielectrophoretic Assembly of Carbon Nanotube Arrays for Multidirectional Strain Sensor",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70749?af=R",
+    "content": "Structured electric fields enable programmable dielectrophoretic assembly of aligned CNT arrays for high\u2011performance anisotropic strain sensing. The optimized assembly efficiency (<90 s) produces a conductive network with a sensitivity ratio of 16.52 and durability over 2000 cycles. A right\u2011angle sensor array demonstrates unambiguous 180\u00b0 in\u2011plane direction recognition for soft electronics applications.\n\n\n\n\n\n\n\n\nABSTRACT\nProgrammable and precise assembly of low\u2010dimensional nanomaterials is the long\u2010standing bottleneck for fabricating anisotropic flexible electronics, which provides physical support for sensing both strain magnitude and direction, and are critical for soft robotics and human\u2010machine interfaces. However, existing strategies suffer from low alignment efficiency, poor spatial programmability, and complex fabrication. Here, a programmable dielectrophoretic (DEP) assembly methodology is reported, leveraging structured electric fields and serrated electrodes to achieve spatially selective, oriented deposition of carbon nanotubes (CNTs). Through theoretical analysis of the CNTs' motion behavior and impedance testing to quantify alignment degree, the electric field parameters are optimized. Meanwhile, combining with the design of a serrated electrode, the assembly efficiency of CNTs is also significantly improved (<90 s). As a proof\u2010of\u2010concept, the fabricated anisotropic strain sensor exhibits a sensitivity ratio of 16.52 between parallel and perpendicular directions and maintains robust durability over 2000 cycles. To demonstrate the utility of this programmable assembly, the CNTs are configured as a right\u2010angle sensor array, which is capable of detecting the magnitude and direction of strain within the 180\u00b0 range. This work not only extends the development of dielectrophoresis in the manufacturing of anisotropic composites but also offers new avenues for developing high\u2010performance, multifunctional flexible electronics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "63484f1df484eb14",
+    "title": "Defect Passivation on SnO2/Perovskite Interface Using Oxalate\u2010Based Passivators for Efficient and Stable Perovskite Solar Cells",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70748?af=R",
+    "content": "Lithium difluoro(oxalato)borate and lithium bis(oxalato)borate are introduced as interfacial modifiers to regulate the buried SnO2/perovskite interface. The coordinated interactions effectively passivate interfacial defects, suppress metallic Pb formation, and promote high\u2010quality perovskite crystallization. As a result, modified devices achieve a power conversion efficiency 25.12% while retaining their excellent operational stability over 2000 hours.\n\n\n\n\n\n\n\n\nABSTRACT\nTin oxide (SnO2) is a popular electron transport layer (ETL) in n\u2010i\u2010p structured perovskite solar cells, with its excellent charge mobility and longer chemical stability. However, Interfacial defects at the SnO2/perovskite interface are still a major bottleneck limiting the efficiency and stability of perovskite solar cells (PSCs). Herein, we introduced lithium difluoro(oxalato)borate (LiDFOB) and lithium bis(oxalato)borate (LiBOB) as interfacial modifiers to regulate the SnO2/perovskite interface and control perovskite crystallization, resulting in larger grain sizes and reduced grain boundaries. Spectroscopic analysis confirms strong interfacial interactions and effective defect passivation at both the electron transport layer and the buried perovskite interface, leading to reduced trap density and suppressed metallic Pb formation. The resulting films exhibit lower trap density and suppressed nonradiative recombination, which are reflected in improved charge transport, reduced leakage current, and enhanced conductivity. Consequently, the optimized devices achieve a champion power conversion efficiency of 25.12%, significantly higher than the control (23.42%), along with excellent operational stability, retaining 98% and 95% of initial efficiency under ambient and thermal (85 \u00b0C) conditions over 2000\u00a0h. This work demonstrates an effective strategy for simultaneously optimizing interfacial chemistry and film quality to achieve highly efficient and stable perovskite solar cells (PSCs).",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "b2d63a2c27cdaf2b",
+    "title": "Hot Injection Synthesis of Ultrathin Bi2Se3 Nanosheets With Controllable Dimensions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70738?af=R",
+    "content": "Graphic of hot\u2010injection method for synthesizing Bi2Se3${\\rm Bi}_2{\\rm Se}_3$ nanoplatelets of controlled shape, thickness, and lateral size. The ultra\u2010thin regime is achievable, which is interesting for studying topological phase transitions.\n\n\n\n\n\n\n\n\nABSTRACT\nIn this work, a synthesis method for colloidal nanoplatelets (NPLs) of the topological insulator Bi2Se3${\\rm Bi}_2{\\rm Se}_3$ is presented. This method is based on the hot injection of a bismuth precursor into a selenium solution to achieve precise control over both the thickness and lateral dimensions of the NPLs. Through time\u2010resolved aliquot studies, three growth stages are identified: (i) an initial nucleation stage where \u201cbaby platelets\u201d are formed, already having the final platelet thickness, (ii) a rapid, reaction\u2010limited lateral growth phase, and (iii) a second lateral growth phase slowed down by precursor depletion. By adapting the reactivity of the bismuth precursor in the nucleation stage, the NPL thickness can be tuned from 7 to 1 quintuple layers, largely independent of lateral size. The NPL lateral dimensions can be altered by adjusting the growth time in stage (ii) or (iii), by adapting the injection temperature, or by injecting additional precursor once the slow growth stage has been reached. This synthesis method, combined with mechanistic insights, can be used to synthesize tailored platelets for future studies on topological\u00a0insulators.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
