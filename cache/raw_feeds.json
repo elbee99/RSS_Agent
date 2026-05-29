@@ -1622,5 +1622,215 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70738?af=R",
     "content": "Graphic of hot\u2010injection method for synthesizing Bi2Se3${\\rm Bi}_2{\\rm Se}_3$ nanoplatelets of controlled shape, thickness, and lateral size. The ultra\u2010thin regime is achievable, which is interesting for studying topological phase transitions.\n\n\n\n\n\n\n\n\nABSTRACT\nIn this work, a synthesis method for colloidal nanoplatelets (NPLs) of the topological insulator Bi2Se3${\\rm Bi}_2{\\rm Se}_3$ is presented. This method is based on the hot injection of a bismuth precursor into a selenium solution to achieve precise control over both the thickness and lateral dimensions of the NPLs. Through time\u2010resolved aliquot studies, three growth stages are identified: (i) an initial nucleation stage where \u201cbaby platelets\u201d are formed, already having the final platelet thickness, (ii) a rapid, reaction\u2010limited lateral growth phase, and (iii) a second lateral growth phase slowed down by precursor depletion. By adapting the reactivity of the bismuth precursor in the nucleation stage, the NPL thickness can be tuned from 7 to 1 quintuple layers, largely independent of lateral size. The NPL lateral dimensions can be altered by adjusting the growth time in stage (ii) or (iii), by adapting the injection temperature, or by injecting additional precursor once the slow growth stage has been reached. This synthesis method, combined with mechanistic insights, can be used to synthesize tailored platelets for future studies on topological\u00a0insulators.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c79881e47d7fc4fe",
+    "title": "Fe Single Atom Enabled Ni Dual Sites Unlock the Oxide Pathway for Efficient Oxygen Evolution",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71143?af=R",
+    "content": "The incorporation of the Fe\u2013O4 motif induces geometric and electronic modulation in Ni2\u2010Fe centers, alleviating steric repulsion and reducing *O electrophilicity, thereby steering the OER pathway from the adsorbate evolution mechanism toward the oxide path\u2010dominated mechanism with accelerated reaction kinetics.\n\n\n\n\n\n\n\n\nABSTRACT\nActivating the oxide path mechanism (OPM) at Ni sites toward oxygen evolution reaction (OER) is particularly challenging due to the strict geometric and electronic requirements for *O\u2500*O radical coupling. Here, we designed paired Ni atom centers (Ni2) and Ni2\u2010Fe dual centers to elucidate and regulate the OER pathway. Both catalysts possess a Ni2(N/O)6 moiety, while the incorporation of a neighboring Fe atom in Fe\u2500O4 coordination induces steric and electronic modulation. This modification enables the adjacent Ni site to couple with an *O species on the other Ni, forming Ni\u2500O\u2500O\u2500Ni intermediates that unlock the OPM\u2010dominant behavior. Such a mechanism weakens Ni\u2500O bonds, promotes coordination switching, and significantly lowers the reaction barriers. Benefiting from this effect, Ni2\u2010Fe requires only 232\u00a0mV to reach 10\u00a0mA cm\u22122 at an ultra\u2010low Ni loading of 3.75\u00a0\u00b5g cm\u22122, achieving a record\u2010high mass activity of 25780 A g\u22121 at 300\u00a0mV. Electrolyzer tests at 60\u00b0C further demonstrate a low operation voltage of 1.91\u00a0V at 1000\u00a0mA cm\u22122 and stable durability for 200\u00a0h at 200\u00a0mA cm\u22122. This work establishes a single\u2010atom Fe modulation strategy to trigger the OPM pathway at Ni sites, providing new mechanistic insights and design principles for advanced OER electrocatalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b17c6e364db829fc",
+    "title": "Labile Semi\u2010Cage Solvation Structures Enable Efficient Ion Transport in Solid Polymer Electrolytes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71128?af=R",
+    "content": "Salt and additive engineering enables labile semi\u2010cage solvation structures in PEO\u2010based solid polymer electrolytes. By weakening rigid Li+\u2010EO coordination and promoting rapid ligand exchange, these dynamic solvation environments accelerate structural diffusion, improve ionic conductivity, and offer a molecular design principle for high\u2010performance solid polymer electrolytes.\n\n\n\n\n\n\n\n\nABSTRACT\nSolid polymer electrolytes (SPEs) offer a promising pathway toward safer, higher\u2010energy\u2010density lithium metal batteries, yet their room\u2010temperature ionic conductivity remains limited by the strong coupling between Li+ transport and polymer segmental motion. Here, we reveal the intrinsic solvation chemistry in poly(ethylene oxide) (PEO)\u2010based electrolytes using enhanced metadynamics sampling combined with 7Li nuclear magnetic resonance spectroscopy. Rigid cage\u2010like solvation structures impose a key thermodynamic constraint on Li+ mobility. By contrast, targeted salt and additive engineering enables the construction of a labile semi\u2010cage solvation structure that markedly enhances ion transport. At a Li: ether oxygen (EO) ratio of 0.10, Li+ transitions from tightly bound PEO cages to semi\u2010cage structures by overcoming a moderate activation barrier of 19.88\u00a0kJ\u00a0mol\u22121. As Li+\u2010EO coordination is weakened through competitive coordination with anions and additives, the ionic conductivity increases from 9.57\u00a0\u00d7\u00a010\u22123 to 2.91\u00a0\u00d7\u00a010\u22122\u00a0mS\u00a0cm\u22121 at 30\u00b0C. Furthermore, tuning the donor number of solvent additives reveals that intermediate donor strength promotes rapid ligand exchange within semi\u2010cage structures, thereby accelerating local segmental relaxation through structural diffusion. This work establishes labile semi\u2010cage solvation as a rational design principle beyond conventional plasticization strategies for optimizing the transport properties of next\u2010generation SPEs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "489fd1358cb66932",
+    "title": "A Focused Review on the Current Collector to Enable High\u2010Performance Soft\u2010Gel Electrode Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71138?af=R",
+    "content": "This review redefines current collectors as active regulators rather than passive supports in battery systems. It demonstrates how geometry, surface chemistry, and multifunctional design govern ionic migration, interfacial stability, and reaction homogeneity. A unified, parameter\u2010driven framework is proposed to guide the rational design of current collectors, enabling high\u2010performance soft\u2010gel electrode batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nCurrent collectors are traditionally regarded as passive electronic substrates in batteries, with roles limited to electron transport and mechanical support. Recent studies, however, demonstrate that current collectors actively regulate electrochemical kinetics, reaction distribution, and interfacial stability, particularly under transport\u2010limited conditions. This review reframes current collectors as dynamic regulators of electrochemical processes and summarizes recent advances from four interconnected perspectives of geometric engineering, interfacial and surface chemistry engineering, multifunctional integration, and parameter\u2010driven/theory\u2010guided design. We show that collector geometry governs ionic migration pathways and reaction homogeneity, while surface chemistry, philicity, and electronic structure at the collector interface dictate metal nucleation behavior and charge\u2010transfer kinetics. Emerging multifunctional current collectors further integrate transport regulation, mechanical buffering, chemical stabilization, and safety\u2010related functions. The implications of these advances are discussed in the context of soft\u2010gel electrode batteries, where electrochemical behavior is highly sensitive to collector\u2010induced boundary conditions. This review establishes a unified framework for current collector design and outlines future directions toward high\u2010performance and durable battery systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "212f8a0c81b64171",
+    "title": "Molecular design for high-performance organic photosensitizers",
+    "link": "https://www.nature.com/articles/s41578-026-00930-6",
+    "content": "<p>Nature Reviews Materials, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41578-026-00930-6\">doi:10.1038/s41578-026-00930-6</a></p>Organic photosensitizers enable diverse light-driven processes in biomedicine, energy, environment and synthetic photochemistry. This Review outlines molecular design strategies and photosensitization pathway modulation across type II, type I and oxygen-independent mechanisms and discusses machine-learning approaches for predictive and data-driven photosensitizer discovery.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "c1da6054968b522f",
+    "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
+    "link": "https://www.nature.com/articles/s41586-026-10717-y",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10717-y\">doi:10.1038/s41586-026-10717-y</a></p>Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
+    "journal": "Nature"
+  },
+  {
+    "id": "1c4bee3b4dd4e050",
+    "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+    "link": "https://www.nature.com/articles/s41586-026-10605-5",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10605-5\">doi:10.1038/s41586-026-10605-5</a></p>Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+    "journal": "Nature"
+  },
+  {
+    "id": "7b87fe174b58ec8c",
+    "title": "Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant",
+    "link": "https://www.nature.com/articles/s41586-026-10665-7",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10665-7\">doi:10.1038/s41586-026-10665-7</a></p>Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant",
+    "journal": "Nature"
+  },
+  {
+    "id": "6023e1a125b8ab12",
+    "title": "Surgeons in imperial China used anaesthetics \u2014 in careful doses",
+    "link": "https://www.nature.com/articles/d41586-026-01669-4",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01669-4\">doi:10.1038/d41586-026-01669-4</a></p>Traces on tweezers and surgical scissors suggest liquid medication was applied to the skin of patients.",
+    "journal": "Nature"
+  },
+  {
+    "id": "60fe21866801f447",
+    "title": "Gold keeps glittering courtesy of surface chemistry",
+    "link": "https://www.nature.com/articles/d41586-026-01671-w",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01671-w\">doi:10.1038/d41586-026-01671-w</a></p>Hexagonal patterns on the surface of gold crystals are an unfavourable environment for reactions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "25aeb0d21721c774",
+    "title": "Briefing Chat: When to trust eyewitness memory \u2014 according to science",
+    "link": "https://www.nature.com/articles/d41586-026-01736-w",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01736-w\">doi:10.1038/d41586-026-01736-w</a></p>Nature staff discuss memory in the legal system plus the benefits of Registered Reports.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c2f00a6a1a2994f7",
+    "title": "How common bacteria fasten their armour",
+    "link": "https://www.nature.com/articles/d41586-026-01668-5",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01668-5\">doi:10.1038/d41586-026-01668-5</a></p>Analysis reveals the enzyme that allows some microorganisms to anchor their outer membrane to their cell wall.",
+    "journal": "Nature"
+  },
+  {
+    "id": "849619104a2df35d",
+    "title": "Bespoke immune cells stave off ravages of cirrhosis",
+    "link": "https://www.nature.com/articles/d41586-026-01670-x",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01670-x\">doi:10.1038/d41586-026-01670-x</a></p>Death and the need for liver transplant were delayed in people with cirrhosis who received macrophage therapy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0d85e6c50a1d262a",
+    "title": "Sarcophagus",
+    "link": "https://www.nature.com/articles/d41586-026-01091-w",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01091-w\">doi:10.1038/d41586-026-01091-w</a></p>Safety measures.",
+    "journal": "Nature"
+  },
+  {
+    "id": "233e7d4310af16bc",
+    "title": "What it will take to stop the spiraling Ebola outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-01692-5",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01692-5\">doi:10.1038/d41586-026-01692-5</a></p>Cases in central Africa are rising at an alarming pace, but lessons from past epidemics could help to contain the current spread of infection.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2923bae55e4b0f80",
+    "title": "How jazz boosts my creativity in physics",
+    "link": "https://www.nature.com/articles/d41586-026-01393-z",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01393-z\">doi:10.1038/d41586-026-01393-z</a></p>Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.",
+    "journal": "Nature"
+  },
+  {
+    "id": "61c0da301fc10cba",
+    "title": "First pig liver and kidneys transplanted into a person \u2014 could ease organ shortages",
+    "link": "https://www.nature.com/articles/d41586-026-01708-0",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01708-0\">doi:10.1038/d41586-026-01708-0</a></p>Organs from genetically modified pigs are being used in trials in China and the US.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9e439b891525c311",
+    "title": "Ebola can be stopped \u2014 but only if world leaders prioritize public health",
+    "link": "https://www.nature.com/articles/d41586-026-01630-5",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01630-5\">doi:10.1038/d41586-026-01630-5</a></p>The deadly disease was identified half a century ago in the Democratic Republic of the Congo. It is unacceptable that it continues to take lives.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e4fab5c8f70fd31c",
+    "title": "Science sleuths uncover more than 100 suspicious images in Thermo Fisher antibody catalogue",
+    "link": "https://www.nature.com/articles/d41586-026-01706-2",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01706-2\">doi:10.1038/d41586-026-01706-2</a></p>Scientists have long worried about the reliability of commercial antibodies, and the latest findings have sparked fresh concerns.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f90dccaee765d91b",
+    "title": "Blue Origin rocket explosion rattles NASA\u2019s mission to put humans back on the Moon",
+    "link": "https://www.nature.com/articles/d41586-026-01732-0",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01732-0\">doi:10.1038/d41586-026-01732-0</a></p>Failure will likely delay US space agency\u2019s efforts to beat China to the lunar surface.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8e4e3ed6f7844944",
+    "title": "Share the highs and lows of your career in science: take <i>Nature</i>\u2019s global survey",
+    "link": "https://www.nature.com/articles/d41586-026-01589-3",
+    "content": "<p>Nature, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01589-3\">doi:10.1038/d41586-026-01589-3</a></p>Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1e56f23c5042f26a",
+    "title": "Bridget Ogilvie obituary: parasitologist who championed biomedical labs and scientific evidence",
+    "link": "https://www.nature.com/articles/d41586-026-01733-z",
+    "content": "<p>Nature, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01733-z\">doi:10.1038/d41586-026-01733-z</a></p>As a director of the Wellcome Trust and charity founder, the labs she built sequenced the human genome and more.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8529e8fbbf6d95b7",
+    "title": "Gene therapies to fix failing hearts gain steam after years in the doldrums",
+    "link": "https://www.nature.com/articles/d41586-026-01598-2",
+    "content": "<p>Nature, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01598-2\">doi:10.1038/d41586-026-01598-2</a></p>Treatments aim to bulk up failing hearts to restore their vigour \u2014 but can the field move on from past controversy?",
+    "journal": "Nature"
+  },
+  {
+    "id": "2d3f560862c997aa",
+    "title": "Daily briefing: The known protein universe just got a lot bigger",
+    "link": "https://www.nature.com/articles/d41586-026-01713-3",
+    "content": "<p>Nature, Published online: 27 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01713-3\">doi:10.1038/d41586-026-01713-3</a></p>A new AI tool has generated an atlas of more than one billion predicted protein structures. Plus, a biology lab run by ten robots and whether we can truly trust eyewitness accounts during criminal trials.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f632b928e09a2a17",
+    "title": "Membrane-free osmotic power generators with high-performance energy conversion",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01945E",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01945E, Paper</div><div>Shengyang Zhou, Dehua Huang, Guangpeng  Ma, Xuanyi  Tong, Yang  Liu, Linsen  Yang, Tianchi  Liu, Xiang-Yu Kong, Liping Wen<br />Osmotic energy between two solutions with salinity gradients, is sustainable and converted generally into electricity through membrane-based processes. However, high membrane resistance limits extremely output power densities to 10 W...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "ba35fc8b883f042f",
+    "title": "Aligning global shipping climate policies with life cycle perspective",
+    "link": "https://www.nature.com/articles/s41560-026-02080-z",
+    "content": "<p>Nature Energy, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41560-026-02080-z\">doi:10.1038/s41560-026-02080-z</a></p>The IMO Net-Zero Framework promotes adoption of low climate impact marine fuel through combination of pricing mechanism and fuel standard; however, fuel choice depends on competition for clean energy across sectors. Policies must consider life cycle perspective to avoid shifting impacts to the fuel supply chain and address wider environmental impacts, including land use and mineral resource depletion.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "5d575bf4dcc52bae",
+    "title": "Marine fuel choices and related life-cycle environmental impacts under global shipping policies",
+    "link": "https://www.nature.com/articles/s41560-026-02079-6",
+    "content": "<p>Nature Energy, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41560-026-02079-6\">doi:10.1038/s41560-026-02079-6</a></p>Shipping is a hard-to-decarbonize sector that is competing for energy and requires effective policies to cut emissions. This study shows that combining fuel standards and levies speeds up the adoption of low-carbon fuels such as ammonia but may increase other environmental impacts.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "6b842a1b0f7fb2db",
+    "title": "Cobalt-free and high-rate stable 5V lithium nickel manganese oxide spinel cathodes enabled via surface oxygen vacancies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003879?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Varad Mahajani, Rohit M. Manoj, Matthew G. Boebinger, Joy Datta, Apurva Anjan, Vrindha Pongalat, Vrushali R. Varude, Somya Jain, Alex L. Lai, Dibakar Datta, Nikhil Koratkar</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2ed911a72797d0e0",
+    "title": "Gradient Interphase for synergistic optimization of dendrite-free Zn anode and anti-corrosion halogen cathode to enable long-cycling aqueous Zn-iodine battery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003733?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yating Zhao, Ke Ye, Ruimin Li, Chaoyang Wang, Lang Su, Huanxuan Lin, Zixuan Guo, Jinsong Wan, Shangyu Liu, Qilin Gu, Zhenghui Pan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9b06c33ee21224c4",
+    "title": "Ultrabroadband UV-IR Self-Power Stokes Polarization Detection and Imaging based on CsFAMA/Metasurface heterojunction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003757?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yifan Li, Yangyue Meng, Jiamin Hu, Chenyu Luo, Cunguang Lou, Yinghui Wu, Long-Biao Huang, Jianquan Yao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b7abe739bfc41064",
+    "title": "Coupled Interfacial Desolvation Regulation and LiF-Rich SEI for Fast-Charging Lithium Metal Batteries in Carbonate Electrolytes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003770?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yu Zhao, Xinyue Zhao, Honghao Wang, Meng Li, Zeen Wu, Zeping Liu, Zhaoyu Chen, Yu Zhang, Yu Gu, Naiqing Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
