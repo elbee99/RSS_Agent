@@ -1832,5 +1832,110 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003770?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 28 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yu Zhao, Xinyue Zhao, Honghao Wang, Meng Li, Zeen Wu, Zeping Liu, Zhaoyu Chen, Yu Zhang, Yu Gu, Naiqing Zhang</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "fd9569480f93bd79",
+    "title": "Pyridine\u2010Isomerism\u2010Driven Spin Engineering at a COP\u2010Fe3O4 Interface for High\u2010Performance Oxygen Reduction Electrocatalysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71130?af=R",
+    "content": "Strategically adjusting the pyridine nitrogen position in the polymer matrix (pyridine isomerism) intensifies its interaction with embedded Fe3O4 nanocrystals. This enhanced interaction induces a spin\u2010state transition in Fe from low\u2010spin to intermediate\u2010spin, accompanied by refined d\u2010orbital properties. Consequently, the oxygen reduction reaction activity, kinetics, and stability of the meticulously designed Fe3O4\u2010polymer composite are simultaneously improved.\n\n\n\n\n\n\n\n\nABSTRACT\nThe oxygen reduction reaction (ORR) activity of earth\u2010abundant transition\u2010metal (TMOs) oxides is limited by inefficient interfacial charge transfer and unfavorable surface adsorption. Here, we report pyridine\u2010isomerism\u2010driven interfacial spin\u2010engineering in covalent organic polymer (COP)\u2010Fe3O4 hybrids, where molecularly defined pyridinic environments program the electronic/spin structure of Fe3O4 nanocrystals. Using 2,3\u2010 and 3,4\u2010diaminopyridine as isomeric building blocks, we construct pyridinic\u2010rich COPs that anchor Fe3O4 and selectively tune metal\u2010polymer interaction. The 2,3\u2010COP positions the pyridinic N adjacent to the \u2500C\u2550C\u2500N\u2500 linkage, strengthening COP\u2010Fe3O4 interactions, enhancing interfacial electron withdrawal, and inducing a low\u2010 to intermediate\u2010spin transition of Fe species. Spectroscopic analysis corroborates this reconfiguration, which upshifts the Fe d\u2010band center, enriches unpaired electrons, and optimizes Fe\u2010O covalency, thereby lowering the barrier for OOH* activation and promoting a selective four\u2010electron ORR pathway with improved stability. Consequently, the designed 2,3\u2010COP\u2010Fe3O4 electrocatalyst exhibits a stable half\u2010wave potential of 0.890\u00a0V in alkaline electrolyte, outperforming the noble\u2010metal benchmark. Moreover, when implemented in aqueous Zn\u2010air batteries, it delivers a maximum power density of 315.4\u00a0mW\u00a0cm\u22122 and maintains stable operation for over 800\u00a0h at 10\u00a0mA\u00a0cm\u22122, exceeding most reported systems. These findings establish pyridine\u2010isomerism\u2010directed spin\u2010engineering as a versatile and scalable platform for designing applicable high\u2010performance TMO\u2010based electrocatalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "58f5c506ef79caaf",
+    "title": "Battery Safety: Mechanisms, Monitoring, and Machine Intelligence",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71093?af=R",
+    "content": "Battery safety is no longer viewed as an isolated materials or monitoring problem. An integrated framework links failure mechanisms, intrinsic safety, system\u2010level design, and machine intelligence, showing how multiphysics understanding, cloud\u2013edge monitoring, and AI\u2010enabled management together support more proactive, interpretable, and scalable safety control across battery chemistries, applications, and operating conditions.\n\n\n\n\n\n\n\n\nABSTRACT\nBatteries constitute the foundation of electronic devices and electrified transportation. Nevertheless, aging and sudden faults can precipitate thermal runaway, making battery safety a global concern. This review elucidates failure triggering and evolution from the perspectives of multiphysics coupling and multiscale failure propagation, with emphasis on chemistry\u2010specific heterogeneity in next\u2010generation battery systems. To mitigate these risks, intrinsic\u2010safety materials and structural designs are systematically examined, together with a graded evaluation of their maturity. System\u2010level active protection is further discussed, highlighting the role of cloud\u2010based Battery Management Systems in data governance and cloud\u2010edge collaborative monitoring and control. Building on this architecture, an artificial intelligence\u2010empowered monitoring and control framework is synthesized across four dimensions: (1) perception, which uses multimodal fusion to overcome the limitations of single\u2010variable monitoring and enable holistic mapping of internal states; (2) algorithms, which adopt data\u2010efficient paradigms such as self\u2010supervised learning to address data scarcity in extreme fault scenarios; (3) mechanisms, which integrate physics\u2010informed neural networks and digital twins to enhance interpretability and physical consistency; and (4) deployment, which leverages edge computing and federated learning to enable cloud\u2010edge collaboration and swarm intelligence under privacy constraints. Finally, this review outlines prospects for next\u2010generation safety testing standards, autonomous closed\u2010loop safety management, self\u2010healing technologies, and cross\u2010domain safety management.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2ce0728386c59a1a",
+    "title": "Synergistic Electrochemical and Mechanical Enhancement in Structural Batteries based on a Porous Resin",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71140?af=R",
+    "content": "A two\u2010step structural battery electrolyte (SBE) is employed to fabricate high\u2010performance structural battery composites (SBs). This porous\u2010resin SBE effectively preserves both the structural rigidity and Li+ transport within the SB during cycling. The mechanism by which the porous resin SBE enhances electro\u2010mechanical performance is elucidated, offering valuable insights for the future development and design of SB configurations.\n\n\n\n\n\n\n\n\nABSTRACT\nStructural batteries (SBs) show promising potential for mobile intelligent equipment, as they can simultaneously bear mechanical loads and store energy, but are limited by high interfacial impedance, low ionic conductivity, and poor cycling stability. Herein, we develop a rigid structural battery electrolyte (SBE) with high ion\u2010transport efficiency, in which a porous resin skeleton absorbs liquid electrolyte, to fabricate SBs via vacuum\u2010assisted resin transfer molding. This design enables the uniform distribution of interconnected porous resin channels throughout the electrodes and separator, facilitating efficient lithium\u2010ion transport while maintaining high structural rigidity and a stable solid electrolyte interphase (SEI), as verified by microscopic and electrochemical analyses. Consequently, the fabricated SB achieves an outstanding energy density of 46.6\u00a0Wh kg\u22121 at 0.1 C and retains 86% capacity after 100 cycles at 0.2 C, while exhibiting a tensile strength and modulus of 214\u00a0MPa and 24\u00a0GPa, respectively. Notably, by optimizing the electrode mass loading and carbon fiber current collector, the mechanical properties can be further enhanced to 270 and 357\u00a0MPa. This work provides a promising strategy to simultaneously enhance the electrochemical\u2010mechanical properties of SBs while showing the practical scalability and design flexibility.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "98909980d6345416",
+    "title": "Reversibility\u2010Driven Degradation Mechanisms and Targeted Modulation Strategies for Anode\u2010Free Sodium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71135?af=R",
+    "content": "Anode\u2010free sodium metal batteries (AFSMBs) suffer from serious anode\u2010side capacity degradation. This review classifies sodium consumption reactions by theoretical reversibility and explains core degradation mechanisms based on microscopic Na+ behaviors, which include nucleation thermodynamics, growth kinetics, and irreversible SEI formation and regeneration. Critical strategies for regulating sodium deposition and SEI properties are discussed, with recent progress and future outlooks highlighted.\n\n\n\n\n\n\n\n\nABSTRACT\nAnode\u2010free sodium metal batteries (AFSMBs) forgo the excess metallic sodium anode, thus offering a compelling route to simultaneously enhance energy density and simplify manufacturing. However, their practical deployment is fundamentally limited by the irreversible depletion of active sodium, a consequence of inherently unstable interfacial chemistry and the stringent constraint of finite sodium inventory. In this review, we introduce theoretical reversibility as a unifying criterion to categorize the dominant sodium loss pathways. By integrating thermodynamic principles with kinetic analysis, we systematically deconvolute the intricate mechanisms of capacity degradation by tracking the migration and deposition behavior of Na+ ions. Furthermore, we present a comprehensive taxonomy of state\u2010of\u2010the\u2010art strategies for mitigating capacity fade, which are anchored in the dual pillars of uniform Na nucleation/growth and regulated solid electrolyte interphase (SEI) formation/evolution. Special emphasis is placed on stacking stress, a critical yet underappreciated factor that dictates the morphological evolution of sodium deposits. Finally, we delineate the current fundamental bottlenecks and outline promising avenues for future research to accelerate the development of high\u2010performance AFSMBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f8506cc0c8865a34",
+    "title": "A Long-Cycling, High-Voltage Phenanthroline-dione Cathode for Li-Organic Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600406X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yue Zhang, Yanke Fan, Haoyu Zhang, Jixing Yang, Yuesheng Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "95c565fa0e3e2ecb",
+    "title": "Interface-Compatible Halide-Sulfide Bilayer Electrolyte Films Coupled with Process-Streamlined Cathode-Electrolyte Integrated Architecture for High-Energy All-Solid-State Li-Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004009?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xiang Qi, Gang Wu, Peng Lei, Meng Wu, Hong Liu, Wanqing Ren, Yang Li, Yang Huang, Lei Gao, Ce-Wen Nan, Li-Zhen Fan</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "9a004a9249a2f468",
+    "title": "Functional nanostructures for supercapacitors: metal-ion modulation, interface engineering, and hybridization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004046?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Fazal Ul Nisa, Shahzad Safdar, Muhammad Tahir, Mizna Naseem, Waheed Ahmad, Muhammad Ammar, Dan Lu, Bushra Fayyaz, Mehrun Nisa, Maria Ahmed, Sheeza Musarrat, Abdul Haseeb Bhatti, Zhen Peng, Iram Abdul Ghafar, Shameem Ramzan, Umar Ali, Jun Dai, Liang He</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "fe7d98c941c2b098",
+    "title": "Upcycling NCM Cathodes by Tailoring Superexchange Interaction for Ultrastable Energy Storage Properties",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003995?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Chao Zhu, Zizhou Gan, Zong Guo, Tuofu Li, Hai Lei, Zihao Zeng, Yue Yang, Haibei Wang, Wei Sun, Peng Ge</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c2d16ddf2e043580",
+    "title": "Self-evolving solid electrolyte interphase from Bi<sub>2</sub>O<sub>2</sub>CO<sub>3</sub> current collector enabling dense electrodeposition for anode-free lithium metal batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004010?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 29 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Junkai Li, Kaizhao Wang, Jin Shi, Zhengyang Xiong, Zhe Chen, Kaijun Wang, Jin Hu, Shizhao Xiong</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "f939882a08ef6ca9",
+    "title": "Retraction notice to \u201cInterface and structural modulation stabilization strategies for layered transition metal oxide cathodes in sodium-ion batteries\u201d Energy Storage Materials 84 (2026) 104863",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726003983?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 29 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Laraib Habib, Guoquan Suo, Jiarong Li, Chuanjin Lin, Xuanchi Luo, Guanglong Yang, Zhanar K. Kalkozova, Kashif Naseem</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1fb116ea79453ac1",
+    "title": "Unveiling Intrinsic Dicing-induced Edge Loss Mechanisms in Silicon Solar Cells via Microscale Photoelectric Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003769?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Chunfang Xing, Tianyu Lan, Qian Ran, Yusheng Wang, Baoquan Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ca122e0a185ea97f",
+    "title": "A Single-element Multimodal Tactile Interface with Geometric Signal Encoding for Robust Robotic Material and Slip Intelligence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003800?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Junling Zhang, Tianci Huang, Junyi Ren, Jiaying Zhang, Zuqing Yuan, Guozhen Shen</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "caf3478633f3e61d",
+    "title": "Strain\u2013Engineered Method for Atomically Sharp Interfaces in 2D TMDC Lateral Heterostructures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202600003?af=R",
+    "content": "ABSTRACT\nWhile strain is widely used to tune the properties of two\u2013dimensional transition\u2013metal dichalcogenides (TMDCs), its role in controlling chalcogen exchange and alloy formation at interfaces of lateral heterostructures (LHSs) needs further exploration. Here, we demonstrate that the tensile strain in monolayer WSe2 controls the atomic sharpness of interfaces formed during subsequent MoS2 growth. Using a two\u2010step chemical vapor deposition (CVD) process on Al2O3 (0001), highly tensile\u2010strained WSe2 suppresses chalcogen intermixing, whereas strain\u2010relaxed WSe2 promotes alloy\u2010mediated interfacial evolution. Density functional theory (DFT) calculations reveal how tensile strain modifies vacancy formation, substitutional energetics, and alloy stability, while high\u2010resolution scanning transmission electron microscopy (HR\u2013STEM) confirms the sharp atomic interfaces in high\u2010strain WSe2. Together, these results establish tensile strain as a control parameter for lateral interface formation in TMDC heterostructures and provide a generalizable strain\u2013engineering strategy for scalable fabrication of precise 2D LHSs for electronic and optoelectronic applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "f016637bc33613f4",
+    "title": "Continuous Synthesis of Optimized Ni3(HITP)2 With Broad Spectrum of Morphologies via Automated Microfluidic Ammonia Manipulation Platform",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70746?af=R",
+    "content": "Programmable ammonia permeation in a microfluidic PRISMM platform enables continuous, automated, and reproducible synthesis of morphology\u2010tunable Ni3(HITP)2 and Pt@Ni3(HITP)2. Dynamic control over deprotonation and nucleation generates porous nanosheet architectures, improves Pt incorporation, accessibility, and mass transport, and delivers efficient ammonia borane dehydrogenation, highlighting morphology\u2010directed MOF design.\n\n\n\n\n\n\n\n\nABSTRACT\nThe morphology of metal\u2013organic frameworks (MOFs) critically governs their electronic, catalytic, and transport performance. However, continuous synthesis of morphology\u2010tunable MOFs remains challenging because scaffold formation is influenced by and highly sensitive to subtle reaction condition variations, involving temperature, concentration, mixing rate, and pH. Here, we present a programmable reactor for iterative synthesis of MOFs via Microfluidics (PRISMM) that enables precise and continuous synthesis of Ni3(HITP)2 and Pt\u2010decorated Ni3(HITP)2 with a broad spectrum of morphologies, ranging from disordered aggregates to well\u2010defined nanosheets, thereby allowing a wide distribution of porosity. By independently regulating ammonia permeation through microfluidic chips and dynamically adjusting synthesis parameters, this platform achieves fine control over ligand deprotonation kinetics and nucleation in a continuous and reproducible manner. The resulting Ni3(HITP)2 exhibits optimized morphology and enhanced porosity, while incorporation of platinum maximizes Pt accessibility and exposure, facilitates rapid mass transfer, and improves active\u2010site utilization. In ammonia borane dehydrogenation, Pt@Ni3(HITP)2 delivers 3 equivalents of hydrogen with over 99% purity, yielding a turnover frequency of 2323 min\u22121. This work establishes an automated pathway for MOF morphology manipulation, thereby demonstrating the strong potential of programmable microfluidic synthesis for morphology\u2010directed design of MOFs in energy, catalytic, and broader applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9e194e67817217dd",
+    "title": "OSTE Superhydrophobic Synthetic Paper (SUSP) with Superior Plastron Stability by Capillary Effect",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70747?af=R",
+    "content": "Inspired by lotus root aerenchyma, a superhydrophobic synthetic paper (SUSP) is engineered with capillary\u2010driven air replenishment. It achieves sub\u2010second plastron self\u2010recovery, sustains underwater superhydrophobicity for over 12 h, and enables bubble transport and drag reduction, offering a passive, energy\u2010free strategy for durable submerged gas management.\n\n\n\n\n\n\n\n\nABSTRACT\nInspired by the air transport system in submerged lotus roots, we develop a superhydrophobic synthetic paper (SUSP) based on an off\u2010stoichiometry thiol\u2010ene (OSTE) polymer, capable of sustaining a stable underwater plastron through spontaneous capillary\u2010driven air replenishment. The material is fabricated by coating a lithographically patterned interlocked micropillar array (synthetic paper) with a hydrophobic spray, yielding a porous, low\u2010cost surface with a water contact angle of 155.2\u00b0 \u00b1 1.6\u00b0 and a sliding angle of 3.8\u00b0 \u00b1 0.3\u00b0. When partially exposed to air, SUSP rapidly restores a depleted plastron in sub\u2010second timescales (e.g., 0.23 s for a 0.5\u00a0cm wide sample) and maintains full plastron coverage for over 12 h in degassed water, significantly outperforming fully submerged controls. Parametric studies reveal that plastron recovery kinetics depend on capillary width, immersion depth, and liquid surface tension. SUSP also demonstrates practical functionalities: it enables efficient underwater bubble collection, directional transport, and reduces hydrodynamic drag by up to 4.3% by preserving a continuous air layer under flow. Even in mud\u2010rich environments, SUSP retains its superhydrophobicity, highlighting its robustness for applications in marine antifouling, drag reduction, and underwater gas management. This work presents a biomimetic, passive strategy for achieving durable and self\u2010replenishing superhydrophobicity in submerged conditions.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
