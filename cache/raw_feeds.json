@@ -1937,5 +1937,75 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70747?af=R",
     "content": "Inspired by lotus root aerenchyma, a superhydrophobic synthetic paper (SUSP) is engineered with capillary\u2010driven air replenishment. It achieves sub\u2010second plastron self\u2010recovery, sustains underwater superhydrophobicity for over 12 h, and enables bubble transport and drag reduction, offering a passive, energy\u2010free strategy for durable submerged gas management.\n\n\n\n\n\n\n\n\nABSTRACT\nInspired by the air transport system in submerged lotus roots, we develop a superhydrophobic synthetic paper (SUSP) based on an off\u2010stoichiometry thiol\u2010ene (OSTE) polymer, capable of sustaining a stable underwater plastron through spontaneous capillary\u2010driven air replenishment. The material is fabricated by coating a lithographically patterned interlocked micropillar array (synthetic paper) with a hydrophobic spray, yielding a porous, low\u2010cost surface with a water contact angle of 155.2\u00b0 \u00b1 1.6\u00b0 and a sliding angle of 3.8\u00b0 \u00b1 0.3\u00b0. When partially exposed to air, SUSP rapidly restores a depleted plastron in sub\u2010second timescales (e.g., 0.23 s for a 0.5\u00a0cm wide sample) and maintains full plastron coverage for over 12 h in degassed water, significantly outperforming fully submerged controls. Parametric studies reveal that plastron recovery kinetics depend on capillary width, immersion depth, and liquid surface tension. SUSP also demonstrates practical functionalities: it enables efficient underwater bubble collection, directional transport, and reduces hydrodynamic drag by up to 4.3% by preserving a continuous air layer under flow. Even in mud\u2010rich environments, SUSP retains its superhydrophobicity, highlighting its robustness for applications in marine antifouling, drag reduction, and underwater gas management. This work presents a biomimetic, passive strategy for achieving durable and self\u2010replenishing superhydrophobicity in submerged conditions.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "aa65c8eee5fe3ddf",
+    "title": "Navigating the Kinetic\u2010Transport Trade\u2010Off in Transient Water Electrolysis via Physics\u2010Informed Impedance Analysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71153?af=R",
+    "content": "This work develops a dynamic equivalent circuit model derived from electrochemical impedance spectroscopy to resolve transient behaviors in alkaline water electrolysis under fluctuating renewable power. By decoupling kinetic factors from bubble\u2010induced transport losses, the approach reduces specific energy consumption by 8%\u201315% and carbon intensity by 12%, providing a physics\u2010based control framework that turns renewable intermittency into an optimization parameter for green hydrogen production.\n\n\n\n\n\n\n\n\nABSTRACT\nCoupling offshore renewable energy with water electrolysis is critical for sustainable hydrogen production, yet power intermittency challenges system stability and efficiency. Existing control methods often fail to account for rapid microscopic changes at the electrode interface during dynamic operation.\u00a0Here, we develop a dynamic equivalent circuit model derived from electrochemical impedance spectroscopy to resolve these transient behaviors under fluctuating loads.\u00a0Our approach quantitatively separates kinetic factors from transport losses induced by bubble shielding and pore occlusion. This distinction allows for the precise identification of catalyst degradation and membrane performance mechanisms that are typically obscured during unsteady states. By leveraging these descriptors, we construct a dynamic regime map to guide the system from transport\u2010limited zones toward an optimal operational window. Consequently, we achieve a reduction in specific energy consumption of 8 to 15 percent and a 12 percent decrease in carbon intensity without requiring hardware modifications. These insights facilitate the deployment of physics\u2010based control protocols that turn renewable intermittency from a stability risk into an optimization parameter for industrial hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2ea4780207f44631",
+    "title": "Synergistic Enhancement to Polysulfide Catalytic Conversion and Lithium Dendrite Resistant by 3D Cross\u2010Linked Fe\u2010N4\u2010GCs for Stable Lithium\u2010Sulfur Batteries of Low\u2010N/P\u2010Ratio",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71134?af=R",
+    "content": "Atomically dispersed Fe\u2010N4 moieties anchored on 3D cross\u2010linked N\u2010doped graphene\u2010like porous carbon nanosheets (Fe\u2010N4\u2010GCs) as efficient LiPSs catalyst and Li regulator for high\u2010performance LSBs is reported, which achieves efficient and stable operation of lithium\u2010sulfur batteries with a low N/P ratio. \n\n\n\n\n\n\n\n\nABSTRACT\nThe severe shuttle effect and sluggish reaction kinetics of lithium polysulfides (LiPSs) as well as Li dendrite growth are still the key issues for lithium\u2010sulfur batteries (LSBs). Herein, atomically dispersed Fe\u2010N4 moieties anchored on 3D cross\u2010linked N\u2010doped graphene\u2010like porous carbon nanosheets (Fe\u2010N4\u2010GCs) as efficient LiPSs catalyst and Li regulator for high\u2010performance LSBs is reported. Serving as sulfur host, Fe\u2010N4\u2010GCs provide abundant adsorption sites and effectively catalyze LiPSs conversion. As separator coating, they form uniform Li+ transport channels, promote fast ion diffusion, and guide stable Li plating/stripping to suppress dendrite growth. With S/Fe\u2010N4\u2010GCs cathode (2.5\u00a0mg\u00a0cm\u22122\u00a0S) and Fe\u2010N4\u2010GCs/PP separator, LSB delivers a high initial capacity of 1045.6\u00a0mAh\u00a0g\u22121 at 1.0\u00a0C, along with stable cycling over 1000 cycles with a low decay of 0.023% per cycle. At a high S loading of 7.2\u00a0mg\u00a0cm\u22122, an areal capacity of 6.6\u00a0mAh\u00a0cm\u22122 is achieved. Remarkably, a full cell using Cu@Li anode (27\u00a0\u00b5m Li layer) with a low N/P ratio of 1.3 retains a high capacity of 1025.8\u00a0mAh\u00a0g\u22121 at 1.0\u00a0C and stable cycling over 400 cycles with a low decay of 0.026% per cycle. This work offers an effective strategy toward high\u2010energy, long\u2010life LSBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "09c2305b3df1f13e",
+    "title": "Stepwise Elemental Screening of High\u2010Entropy Oxides as Zero\u2010Strain and High\u2010Capacity Anode in LIBs",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71144?af=R",
+    "content": "This study proposes a gradient screening strategy based on formation energy and volume change to design high\u2010entropy anodes. The predicted zero\u2010strain oxide exhibits an ultra\u2010low cell volume change (0.38%) and negligible capacity decay after 3000 cycles. This work provides reliable insights for accelerating the discovery of structurally stable, high\u2010capacity energy storage materials.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010entropy oxides (HEOs) have attracted much attention as advanced anode materials for LIBs due to their potential for synergistic optimization of specific capacity, rate capability, and cycling stability, due to the multi\u2010component cocktail effect. However, due to the complexity of multi\u2010component systems and the lack of theoretical frameworks, the exploration of HEOs is costly and time\u2010consuming. This study proposes a stepwise element screening strategy centered on formation energy and lithium\u2010embedded volume change as core evaluation metrics, through data statistics of previous literature and materials calculations. A novel zero\u2010strain anode material (CoFeMnNiZnMgLi)3O4 was predicted and prepared. Electrochemical tests and characterizations at lattice, particle, and electrode scales confirm the feasibility of the presented elemental screening. The well\u2010designed HEOs achieved a specific capacity of 890 mAh/g at 0.1 A/g and exhibited almost no capacity decay after 3000 cycles at 5 A/g. Meanwhile, its maximum c\u2010axis strain and volume change of the unit cell during Li+ insertion//extraction are as low as \u223c0.13% and \u223c0.38%, respectively. Most importantly, the presented high\u2010efficiency approach based on an entropy\u2010mediated mechanism holds great promise for developing host materials for various ions with low\u2010strain and high\u2010capacity.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "08211818f4702fc0",
+    "title": "Redox-neutral ketone\u2013olefin coupling enabled by mild ketone-to-ketyl-type radical conversion",
+    "link": "https://www.nature.com/articles/s41557-026-02166-x",
+    "content": "<p>Nature Chemistry, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41557-026-02166-x\">doi:10.1038/s41557-026-02166-x</a></p>Ketones are versatile, but converting them to ketyl radicals typically requires harsh conditions. Now a mild method using a bifunctional silyl reagent has been shown to generate ketyl-type radicals through a radical translocation strategy, enabling redox-neutral Pd-catalysed ketone\u2013olefin couplings to give diverse alkenylation and allylation products without requiring organometallic reagents.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "b7b1d8250e1e5b62",
+    "title": "Suppressing Polysulfide Shuttling via A Supporting Electrolyte Concentration-Asymmetric (SEC-Asym) Design based on Electrolyte Ionic Strength for Stable Promoted Na\u2013Polysulfide Redox-Flow Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004071?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Wenda Wu, Fuead Hasan, Yawei Gao, Chanho Kim, Inyoung Jang, Yuanshun Li, Michelle Lehmann, Harry M Meyer, Cheng Lei, Christopher M. Bejger, Guang Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "907028437f8e00f9",
+    "title": "Particle-wide cation anchoring enables strain-suppressed high-voltage stability in Co-free Ni-rich cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004034?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jiwoong Oh, Joon Ha Chang, Seunghye Jang, Songhun Yoon, Changshin Jo</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "7370e6283eab47d1",
+    "title": "Artificial solid electrolyte interphase sustaining persistent lithiophilicity for long-lived lithium metal electrodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004058?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jong Hwan Lim, Jin-Hyuk Kang, Hyun Kyong Shon, Jin Gyeong Son, Ju Hwang Kim, Jaewoo Lee, Jin-hee Bae, Seung-Wook Baek, Ho Won Jang, Hyeokjun Park, Sun Hwa Park</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e768abefbca29367",
+    "title": "Decoupling the mechano-electro-thermal trilemma through multiscale synergistic design of polymer electrolytes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004022?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Wenhao Xu, Libo Li, Suo Li, Hang Yang, Zhixuan Wang, Xiangrui Deng, Wenyi Lu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "bbd0d651df8fd0f4",
+    "title": "Antisolvent-induced multiscale \u03b2-glycine for preparing flexible piezoelectric films",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003794?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yuan Bai, Qiao Yu, Cong Li, Xi Cui, Juwei Yang, Meng Xiao, Laipan Zhu, Xiongxin Luo, Zhi Luo, Di Wu, Yudong Hou, Wenlong Xu, Dongjie Jiang, Hongyu Meng, Zhou Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "250223cd0d8f28f9",
+    "title": "2D Thermal Imaging of Large-Format Batteries Using Distributed Optical Fiber Sensing and Physics-Informed Neural Networks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003678?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 30 May 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xiaoqiang Zhang, Yunlong Shang, Yuhao Zhu, Xiangjun Li, Yunhong Che</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
