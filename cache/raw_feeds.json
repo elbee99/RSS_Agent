@@ -1,0 +1,226 @@
+[
+  {
+    "id": "852bf46c074a0c3c",
+    "title": "Enhanced Performance of Optoelectronic Devices Using Metal Chalcogenide Complex Ligands\u2010Capped InAs/ZnSe Quantum Dots as Electron Transport Layers",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71142?af=R",
+    "content": "Thin\u2010shell InAs/ZnSe quantum dots functionalized with metal chalcogenide ligands were employed as electron transport layers in organic optoelectronic devices, yielding optimized conduction band alignment and film morphology. Consequently, the devices achieved enhanced charge transport, a detectivity of \u223c1013 Jones, and a power conversion efficiency of 16.05%.\n\n\n\n\n\n\n\n\nABSTRACT\nElectron transport layers (ETLs) play a crucial role in determining the performance of optoelectronic devices by facilitating the smooth flow of electrons. While metal oxide semiconductors like ZnO, TiO2, and SnO2 are commonly used as ETL materials, their charge\u2010transporting properties require improvement to achieve high device performance. In this study, we propose the utilization of surface\u2010modified InAs quantum dots (QDs) to overcome the limitations of metal oxide ETLs. This approach involves passivating surface defects of InAs QDs using a thin\u2010shell coated ZnSe monolayer and replacing the original long\u2010chain ligands with metal chalcogenide complex ligands. The incorporation of a mixed ETL layer comprising ZnO and surface\u2010modified InAs QDs resulted in enhanced electron mobility, improved film roughness, and effective bandgap alignment. Furthermore, we demonstrate the practical utilization of InAs QDs as ETLs by fabricating near\u2010infrared (NIR) organic solar cells (OSCs) and organic photodetectors (OPDs). The performance of InAs QDs\u2010based optoelectronic devices exhibits significant enhancements, with OSCs achieving a power conversion efficiency (PCE) of 16.05 %, self\u2010power condition OPDs exhibiting detectivity of 4.00 \u00d7 1013 Jones, and extraction condition OPDs showing detectivity of 1.02 \u00d7 1013 Jones at \u22120.5\u00a0V",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2b10e6871632f737",
+    "title": "Biomimetic Zwitterionic Hydrogel Electrolyte Enables Highly Reversible Zn Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71152?af=R",
+    "content": "This study designs a biomimetic zwitterionic PAMC hydrogel electrolyte for high\u2010performance Zn\u2010based batteries. It modulates Zn2+ solvation, restricts free water to form bound water layer, inhibits HER and Zn corrosion/dendrite growth, enables uniform Zn deposition and markedly boosts the cycling stability and solar\u2010battery integration efficiency.\n\n\n\n\n\n\n\n\nABSTRACT\nZn\u2010based batteries are promising candidates for sustainable, large\u2010scale energy storage. However, their practical deployment is hindered by dendritic Zn growth, parasitic side reactions and sluggish interfacial Zn2+ transport. Inspired by phospholipid membranes, we introduce a biomimetic zwitterionic hydrogel electrolyte (PAMC) to integrate 2\u2010methacryloyloxyethyl phosphorylcholine, polyacrylamide and trace acrylic acid into a mechanically robust network featuring strong electrode adhesion and hierarchical Zn2+ pathways. The zwitterionic moieties regulate the primary Zn2+ solvation structure by partially replacing water ligands, thereby reducing the desolvation energy barriers and homogenize Zn2+ flux at the electrode interface. Consequently, PAMC delivers a high ionic conductivity of 44.94 mS cm\u22121 and a record Zn2+ transference number of 0.75, enabling dendrite\u2010free Zn deposition and suppressed hydrogen evolution. Symmetric Zn||Zn cells exhibit stable cycling for over 2200 h, while Zn||Cu cells maintain highly reversible Zn plating/stripping for more than 2000 h. Furthermore, full cells with activated carbon, NaV3O8 and I2 cathodes demonstrate outstanding cycling stability and rate capability. When integrated with a perovskite solar cell, the Zn||I2 battery achieves an overall conversion efficiency of 13.3%, representing the highest reported to date for this category. This biomimetic electrolyte design establishes a universal platform for highly reversible Zn anodes and sustainable energy\u2010storage systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4ff4f11951628830",
+    "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+    "link": "https://www.nature.com/articles/s41586-026-10692-4",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10692-4\">doi:10.1038/s41586-026-10692-4</a></p>Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+    "journal": "Nature"
+  },
+  {
+    "id": "10490d78629d9e82",
+    "title": "Passive heart-rate monitoring during smartphone use in everyday life",
+    "link": "https://www.nature.com/articles/s41586-026-10507-6",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10507-6\">doi:10.1038/s41586-026-10507-6</a></p>A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.",
+    "journal": "Nature"
+  },
+  {
+    "id": "efd01337130e7675",
+    "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
+    "link": "https://www.nature.com/articles/d41586-026-01688-1",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01688-1\">doi:10.1038/d41586-026-01688-1</a></p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "142a1441e4e26138",
+    "title": "How long can humans live? We simply don\u2019t know",
+    "link": "https://www.nature.com/articles/d41586-026-01728-w",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01728-w\">doi:10.1038/d41586-026-01728-w</a></p>Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ac2b91a7110ac65f",
+    "title": "Science fiction: nine lab-life novels for your holiday reading",
+    "link": "https://www.nature.com/articles/d41586-026-01730-2",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01730-2\">doi:10.1038/d41586-026-01730-2</a></p>With a summer break looming for many researchers, Nature\u2019s careers team suggests science-themed page-turners.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e4c3c4ac02600f1c",
+    "title": "Why it\u2019s time to bin recommendation letters in science job applications",
+    "link": "https://www.nature.com/articles/d41586-026-00507-x",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-00507-x\">doi:10.1038/d41586-026-00507-x</a></p>If hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a7a565789e6df30e",
+    "title": "Robust projections of risks to the Amazon rainforest",
+    "link": "https://www.nature.com/articles/d41586-026-01158-8",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01158-8\">doi:10.1038/d41586-026-01158-8</a></p>Amazonian deforestation is altering atmospheric moisture transport; as a result, even low levels of global warming could trigger dieback of most of the remaining forest.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e1d5579fed226f40",
+    "title": "Smartphone camera takes users\u2019 pulse passively during device use",
+    "link": "https://www.nature.com/articles/d41586-026-01488-7",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01488-7\">doi:10.1038/d41586-026-01488-7</a></p>A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1406764dd5274ed2",
+    "title": "Poor supervision is pushing young researchers out of academia",
+    "link": "https://www.nature.com/articles/d41586-026-01693-4",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01693-4\">doi:10.1038/d41586-026-01693-4</a></p>A survey finds that academic supervisors can have a huge impact on their students\u2019 mental health.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c9642d953ddad4dd",
+    "title": "Obesity doesn\u2019t equate to ill health: why the \u2018disease\u2019 label doesn\u2019t always fit",
+    "link": "https://www.nature.com/articles/d41586-026-01729-9",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01729-9\">doi:10.1038/d41586-026-01729-9</a></p>Excess body weight affects individuals\u2019 health differently. Taking this variation into account is crucial for effective health care, policy and research.",
+    "journal": "Nature"
+  },
+  {
+    "id": "de996fbf70a2b067",
+    "title": "Feynmann's solved \u2018restaurant dilemma\u2019 50 years ago \u2014 now a study confirms his mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-00821-4",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-00821-4\">doi:10.1038/d41586-026-00821-4</a></p>An experiment with 2,520 participants backs Richard Feynman\u2019s answer to every diner\u2019s dilemma: do I want to try something new?",
+    "journal": "Nature"
+  },
+  {
+    "id": "a3d6d7aa9a124c64",
+    "title": "Landmark cancer trial shows success against \u2018undruggable\u2019 cancer \u2014 raising hopes for future treatments",
+    "link": "https://www.nature.com/articles/d41586-026-01760-w",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01760-w\">doi:10.1038/d41586-026-01760-w</a></p>Unprecedented results against a stubbornly hard-to-treat cancer are boosting optimism that other challenging tumours will be next.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9413f03c1125005f",
+    "title": "Daily briefing: Pigeons might find their way by following their liver",
+    "link": "https://www.nature.com/articles/d41586-026-01768-2",
+    "content": "<p>Nature, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01768-2\">doi:10.1038/d41586-026-01768-2</a></p>Magnetic immune cells in a homing pigeon\u2019s liver might help it to navigate. Plus, the first clinical trial of a gene therapy to restore heart muscle and an unusual reptile museum in Ecuador.",
+    "journal": "Nature"
+  },
+  {
+    "id": "21f2e16b60a44613",
+    "title": "Daily briefing: Gene-activity \u2018clock\u2019 predicts biological ageing",
+    "link": "https://www.nature.com/articles/d41586-026-01734-y",
+    "content": "<p>Nature, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01734-y\">doi:10.1038/d41586-026-01734-y</a></p>The new tool can predict ageing in rodents and monkeys \u2014 and time to death in people. Plus, zebrafish sleep in stages, similarly to humans, and the race to intercept lung cancer before it starts.",
+    "journal": "Nature"
+  },
+  {
+    "id": "15b3a1ceaa89d112",
+    "title": "Insight and regulation of interfacial coordination chemistry of high-voltage LiCoPO4 cathode via functionalized carbon layer anchoring for robust surface passivation",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00077K",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EB00077K, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Moohyun Woo, George P. Demopoulos<br />Lithium cobalt phosphate (LiCoPO<small><sub>4</sub></small>, LCP) is a high-voltage (high-V) polyanionic compound, of critical importance for high energy density. However, LCP\u2019s application has been hampered by inferior Coulombic efficiency and capacity...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "7468c7657219e474",
+    "title": "Unlocking congested 3D molecular architectures for drug discovery",
+    "link": "https://www.nature.com/articles/s41557-026-02173-y",
+    "content": "<p>Nature Chemistry, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02173-y\">doi:10.1038/s41557-026-02173-y</a></p>A strategy is developed that merges triplet nitrene-mediated ring expansion with titanium-catalysed cyanylation for the diastereoselective synthesis of vicinal tetrasubstituted cyclobutane amino nitriles. This strategy unlocks highly functionalized and congested three-dimensional cyclobutanes that could provide scaffolds for drug discovery but have previously been difficult to access.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "7d8ac8213a3c23e0",
+    "title": "Cation-directed assembly and sequential functionalization enable superprotonic polyanion\u2013organic frameworks for high-power fuel cells",
+    "link": "https://www.nature.com/articles/s41557-026-02169-8",
+    "content": "<p>Nature Chemistry, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02169-8\">doi:10.1038/s41557-026-02169-8</a></p>Achieving simultaneous gains in power density and operational stability in proton-exchange membranes remains a formidable challenge. Now it has been shown that cation-directed assembly and sequential functionalization enable superprotonic polyanion\u2013organic frameworks to serve as multifunctional fillers, delivering both high performance and durability in hybrid membranes for next-generation fuel cells.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "7ed6beae3bfbdc93",
+    "title": "Free-standing ultrathin two-dimensional peptide crystals",
+    "link": "https://www.nature.com/articles/s41557-026-02158-x",
+    "content": "<p>Nature Chemistry, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02158-x\">doi:10.1038/s41557-026-02158-x</a></p>Ultrathin single-crystalline 2D peptide structures are widespread in nature but challenging to construct synthetically. Now it has been shown that a metal-directed \u03b2-sheet-like assembly strategy enables the generation of free-standing ultrathin 2D peptide crystals\u2014with programmable sequence, chirality and side-chain chemistry\u2014that can be used to stereoselectively bind glucocorticoids and chiral pharmaceutical molecules.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "c01688d214cdc8f2",
+    "title": "Modular diastereoselective synthesis of hindered cyclobutane amino nitriles through triplet nitrene-mediated ring expansion",
+    "link": "https://www.nature.com/articles/s41557-026-02156-z",
+    "content": "<p>Nature Chemistry, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02156-z\">doi:10.1038/s41557-026-02156-z</a></p>The availability of sterically hindered vicinal tetrasubstituted amino acids has long been a formidable challenge in medicinal chemistry due to their rigid structures. Now it has been shown that leveraging triplet nitrene reactivity and combining it with titanium catalysis enables access to these valuable building blocks from abundant carbonyls.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "785b17cd0cbe5358",
+    "title": "Designing Physico-Chemisorptive Cations to Stabilize Aqueous Zinc\u2013Iodine Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004125?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Changmin Lee, Kyungjae Shin, Suhyeong Park, Jiyun Heo, Hee-Tak Kim</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "496277a973cb8ecb",
+    "title": "Diluent-modulated localized weakly solvating electrolytes for high-efficiency lithium metal batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004137?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yilu Wu, Qinghui Zhang, Jiaqian Chen, Daize Mo, Kuirong Deng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "a7083c899896e25d",
+    "title": "Sustainable and non-destructive separation of spent lithium-ion battery electrodes: fundamentals, emerging technologies, and closed-loop recycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004149?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Bo Zhang, Pengwei Li, Junqing Li, Yinyi Gao, Dianxue Cao, Kai Zhu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "68d3e28cab5257ec",
+    "title": "Toward All-Climate High-Energy Lithium-Ion Batteries: Nickel-Rich Cobalt-Free Layered Oxide Cathodes and Wide-Temperature Electrolyte Engineering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004150?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ziyin Yang, Yu Li, Xueying Lu, Huanyu Li, Ripeng Zhang, Ying Bai, Chuan Wu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5189347be731d511",
+    "title": "Advanced Co-free Li-rich Mn-based cathodes towards next-generation Li-ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004113?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Kai Chen, Ruicong Pan, Mingyuan Zhang, Wenfeng Li, Chaoyue Wang, Zhijia Sun, Xiaoman Cao, Hao Ge</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "613c0699f5dee923",
+    "title": "Zr/W Dual-Cation Doping Enabling Simultaneous Interfacial and Bulk Stabilization for High-voltage Stability Single-Crystal Ni-Rich Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004083?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Hancheng Shi, Jianchun Wu, Fenghua Zheng, Mingru Su, Ahmad Naveed, Panpan Zhang, Hongqiang Wang, Ding Wang, Hailong Wang, Shu Hong, Yike Liu, Yu Zhou, Yunjian Liu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "0d66ba50151db9e2",
+    "title": "Towards sustainable battery management: Developing battery health estimation models from only incomplete charging curve",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004095?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Liang Ma, Jinpeng Tian, Tieling Zhang, Qinghua Guo, Ruohan Guo, Weixiang Shen, Yang Lu, C.Y. Chung</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "61cc092d0461266e",
+    "title": "Ultrafast air-flash pore engineering of coal tar pitch-derived porous carbon for high-performance zinc-ion capacitors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003824?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Chensong Yang, Fanjun Zeng, Yakun Tang, Yue Zhang, Mengyao Dai, Jiafeng Zhu, Yujia Huang, Lang Liu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "4acdbe6739c99098",
+    "title": "Amorphous silicon/phosphorus nanocomposites with multifunctional iron matrixes for ultrafast and durable lithium storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003848?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Mengnan Wu, Wei Xiao, Menglin Zhang, Xuan Yang, Xuexia Song, Mengfei Lv, Huijing Zhao, Ming Li, Changhai Liu, Jian Qin, Huijuan Yang, Xiaolan Tan, Hong Yang, Xianfeng He, Jingjing Wang, Xifei Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b9b444eaf521f562",
+    "title": "Customized solvation of gel polymer electrolyte with fluoroacetonitrile solvent for wide temperature solid-state lithium metal battery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003812?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Quanhui Yu, Jian Li, Haiying Nie, Long Wan, Xin Zeng, Tiandu Sheng, Shili Gan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "731d062c63f7eb37",
+    "title": "Stress-Dissipative, Ambient-Compatible Prelithiation Protocol for Dry-Processed Si Anodes at Extremely High Areal Capacities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003836?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Helin Wang, Yisheng Hu, Fei Xu, Fu Liu, Jiangan Wang, Zhaohui Wang, Ahu Shao, Min Zhang, Qiurong Jia, Zhiqiao Wang, Jiacheng Liu, Lu Cheng, Jiawen Tang, Ting Liu, Yue Ma</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  }
+]
