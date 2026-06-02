@@ -222,5 +222,257 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003836?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Helin Wang, Yisheng Hu, Fei Xu, Fu Liu, Jiangan Wang, Zhaohui Wang, Ahu Shao, Min Zhang, Qiurong Jia, Zhiqiao Wang, Jiacheng Liu, Lu Cheng, Jiawen Tang, Ting Liu, Yue Ma</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "5046783ce26235ed",
+    "title": "Thermal Fusion of Lithium\u2010Philic Fluorinated Bi2O2CO3 to Derive Heterogeneous SEI and Dendrite\u2010Free Li Plating for the First Ah\u2010Level Fluoride Conversion Pouch Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71139?af=R",
+    "content": "The thermal fusion of fluorine\u2010incorporated Bi2O2CO3 with lithium metal is proposed to construct a lithium\u2010philic artificial solid electrolyte interface that evolves into a LiF/Li2CO3\u2010dominated heterostructure during cycling, enabling dendrite\u2010free lithium deposition. The first Ah\u2010level FeF3//Li pouch cell is successfully assembled and operated.\n\n\n\n\n\n\n\n\nABSTRACT\nThe artificial solid electrolyte interface (ASEI) is regarded as a simple yet highly effective approach to enhance both the electrochemical and mechanical stability of the anode\u2010electrolyte interface. In this study, we propose the thermal fusion of fluorine\u2010incorporated Bi2O2CO3 (F\u2010BOC) with lithium metal to construct a lithium\u2010philic ASEI functioning as an interface rectifier to regulate lithium\u2010ion deposition and stripping. The introduction of fluorine promotes the Li adsorption capability of F\u2010BOC, and the formation of an isotropic and compact structure that blocks TFSI\u2212 anions outside the ASEI layer. Under sustained electrochemical operation, a heterogeneous LiF\u2010Li2CO3 conductive nanodomain region is generated from F\u2010BOC, facilitating the lithium\u2010ion transport across the LiF\u2010Li2CO3 interface, which effectively suppresses lithium dendrite growth and electrode expansion. The F\u2010BOC\u2010modified LiNi0.8Co0.1Mn0.1O2 full cells demonstrate excellent cycling stability, with a high capacity retention of 85.88% over 600 cycles at 1 C and a capacity retention of 90.3% over 120 cycles under high active material loading 20 mg cm\u22122. Moreover, the modified thin lithium anodes (60 \u00b5m in thickness) achieve stable cycling in 15\u2010layer pouch cells based on high\u2010capacity FeF3, delivering a capacity of nearly 1 Ah, which is the highest level for fluoride conversion reaction batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "23931237f7e456b4",
+    "title": "All\u2010MXene Co\u2010Design Enables Fast Iodine Redox and Ultrastable Zinc Anode in Aqueous Zn\u2013I2 Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71127?af=R",
+    "content": "An all\u2010MXene synergistic strategy was developed for zinc\u2010iodine batteries. The fluorine\u2010rich MXene simultaneously not only accelerates the iodine redox conversion kinetics on the cathode side, but also effectively suppresses dendrite growth on the anode side. This dual\u2010action synergy enables the system to achieve exceptional electrochemical durability, maintaining stable operation for over 60\u00a0000 cycles. \n\n\n\n\n\n\n\n\nABSTRACT\nAqueous zinc\u2013iodine (Zn\u2013I2) batteries combine intrinsic safety with low cost and attractive energy density, but progress is limited by polyiodide shuttling at the cathode and unstable zinc deposition at the anode, which together drive self\u2010discharge and poor cycle life. Herein, an all\u2010MXene synergistic strategy is proposed that co\u2010engineers both electrodes using fluorine\u2010rich MXenes (i.e., Nb2C\u2010F and V2C\u2010F) synthesized via HF vapor etching. The Nb2C\u2010F serves as the iodine host with its expanded galleries, and fluoride nanodomains immobilize polyiodides and catalyze the I\u2212/I2 conversion, suppressing the shuttle effect and accelerating kinetics. Meanwhile, the V2C\u2010F forms a fluoride\u2010rich substrate that homogenizes Zn2+ flux and nucleation and promotes an in situ inorganic hybrid SEI interwoven with ZnF2 network and ZnS/\u2010SO3 components, thereby enabling uniform and stable zinc deposition. The Zn\u2013I2 full cell, leveraging the coordination of Nb2C\u2010F@I2 cathode and V2C\u2010F@Zn anode, delivers a high capacity of 220.7\u00a0mAh\u00a0g\u22121 at 0.2\u00a0A\u00a0g\u22121, maintains 105.8\u00a0mAh\u00a0g\u22121 at 5\u00a0A\u00a0g\u22121, alongside an exceptional cycling stability of 72.8% capacity retention over 60\u00a0000 cycles, with a Coulombic efficiency approaching 100%. This work establishes an All\u2010MXene synergistic strategy in which co\u2010design of the iodine host and zinc interface enables durable, high\u2010rate aqueous Zn\u2010I2 batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "65993816a914eae3",
+    "title": "Open\u2010Structured Zinc Hydroxide Sulfate Formation via Integrated Cathode Design Enabling Highly Reversible Ah\u2010Level Zn\u2010MnO2 Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71141?af=R",
+    "content": "To overcome the limitations of conventional suppressing strategies in scaled\u2010up systems, this work introduces a Bi2O3 regulation strategy that leverages its weak sulfate adsorption to guide open\u2011structure zinc hydroxide sulfate formation. Combined with beneficial Bi3+ doping, it ensures fast kinetics and stable interfaces, enabling high\u2011performance Ah\u2011level Zn\u2013MnO2 batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nThe practical deployment of Ah\u2010level aqueous Zn\u2010MnO2 batteries (AZMBs) is hindered by the rampant deposition of insulating zinc hydroxide sulfate (Zn4SO4(OH)6\u00b7xH2O, ZHS). Due to the inhomogeneous consumption of additives, conventional strategies for ZHS suppression exhibit limited effectiveness in scaled\u2010up systems, making the goal of complete ZHS elimination both impractical and unnecessary. Herein, a practical paradigm shift from ZHS inhibition to morphological management is presented. A Bi2O3\u2010modified MnO2 cathode (20BEMD) is synthesized via a one\u2010step high\u2010energy ball milling (HEBM) process. Electrochemically inert Bi2O3 regulates the interfacial environment through weak adsorption of SO42\u2212, promoting a sparse ZHS growth that lowers charge transfer resistance. Simultaneously, Bi3+ doping is achieved through the HEBM process, resulting in bandgap narrowing and oxygen vacancy generation, which enhances electrical conductivity and ion diffusion kinetics. The optimized 20BEMD cathode delivers a reversible capacity of 338.2\u00a0mAh\u00a0g\u22121 at 0.1\u00a0A\u00a0g\u22121, and maintains 90% capacity retention after 500 cycles at 0.5\u00a0A\u00a0g\u22121. An Ah\u2010level pouch cell demonstrates stable operation over 22 days in deep charge/discharge operation, and exhibits practical applicability in photovoltaic energy storage, supporting the feasibility of this approach for scalable AZMBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "82ba9c66619f2067",
+    "title": "Dual\u2010Doping Induced Synergistic Functionality in a Perovskite Air Electrode for Balanced Performance and Durability in Reversible Protonic Ceramic Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71157?af=R",
+    "content": "A dual\u2011functional synergistic doping strategy is designed by simultaneously introducing Ti4+ and Nb5+ into the B\u2011site of PrBaCo2O5+\u03b4. Combined with the density functional theory calculations and experimental characterizations, the dual\u2010doped PrBaCo1.8Ti0.1Nb0.1O5+\u03b4 moderately sacrifices partial oxygen vacancy formation energy to achieve comprehensive improvement in oxygen reduction and oxygen evolution reaction activity, proton conductivity, and surface reaction kinetics.\n\n\n\n\n\n\n\n\nABSTRACT\nThe development of high\u2010performance air electrodes for reversible protonic ceramic cells (RPCCs) is constrained by the inherent trade\u2010off between electrocatalytic activity and operational stability. To address this challenge, a dual\u2010doping strategy was employed to dop Ti and Nb into PrBaCo2O5+\u03b4, resulting in a novel triple\u2010conducting (H+/O2\u2212/e\u2212) perovskite air electrode, PrBaCo1.8Ti0.1Nb0.1O5+\u03b4 (PBCTN). The comprehensive characterization study demonstrates that the PBCTN oxide exhibits outstanding stability under high\u2010temperature and high\u2010humidity environments and show a polarization resistance as low as 0.06 \u03a9 cm2 at 700\u00b0C. Density functional theory calculations reveal that optimized hydration energy, a more favorable O 2p band center, and accelerated surface reactions enhance the oxygen reduction and evolution kinetics. Through this design, the RPCC with the PBCTN air electrode achieves a peak power density of 1.12\u00a0W cm\u22122 at 700\u00b0C in fuel cell mode and a current density of 3.1 A cm\u22122 at 1.3\u00a0V in electrolysis mode, along with stable operation for over 380\u00a0h. This work provides insights into concurrently enhancing both activity and stability in electrocatalysts for advanced energy conversion technologies.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d4ab3d11ac07e740",
+    "title": "Photothermally Enhanced Hydrogel\u2010Based Thermoelectrochemical Cells for Stable, Passive Harvesting of Low\u2010Grade Heat",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71155?af=R",
+    "content": "A photothermally enhanced hydrogel\u2010based thermoelectrochemical cell enables passive conversion of low\u2010grade heat and solar energy into electricity. The quasi\u2010solid device achieves high thermopower and stable long\u2010term operation under passive conditions. Pulsed operation mitigates diffusion limitations, enhancing performance, while scalable arrays demonstrate practical energy harvesting for self\u2010powered and distributed electronic systems.\n\n\n\n\n\n\n\n\nABSTRACT\nLow\u2010grade waste heat (<100\u00b0C) is an abundant yet underutilized energy resource due to its low exergy and the inefficiency of conventional conversion technologies under small temperature gradients and passive operation. Here, a photothermally enhanced thermoelectrochemical cell (PTEC) is reported, enabled by a high\u2010ionic\u2010conductivity double\u2010network hydrogel electrolyte incorporating a guanidinium\u2010boosted ferro/ferricyanide redox couple. Integration of photothermal carbon electrodes with a quasi\u2010solid architecture establishes stable temperature gradients under both thermal and solar excitation, without active cooling or liquid electrolytes. The PTEC delivers an instantaneous thermopower of 4.5 mV K\u22121 and a normalized power density of 5 mW m\u22122 K\u22122 under passive cooling, surpassing prior hydrogel\u2010based thermoelectrochemical cells and approaching state\u2010of\u2010the\u2010art liquid systems. Long\u2010term operation reveals diffusion\u2010limited decay that stabilizes at steady current densities, with impedance analysis identifying mass transport as the dominant bottleneck. Pulsed\u2010load operation mitigates ion depletion, enhancing cumulative charge extraction by 2.5\u00d7 and average power by >60% relative to continuous discharge. A nine\u2010cell array directly recharges an electrochemical system using only low\u2010grade heat (TH = \u200550\u00b0C). This work elucidates key mechanisms governing sustained performance and demonstrates a robust, scalable platform for passive harvesting of ubiquitous low\u2010grade heat toward self\u2010powered distributed electronics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ee82d73f58f85a44",
+    "title": "Boosting Pt Utilization via PtTe2 Nanoshells for Direct Methanol Fuel Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71162?af=R",
+    "content": "PtTe2 nanoshells grown on Te nanorods (Te@PtTe2) imparts the catalyst with high Pt utilization efficiency but with low Pt loading of 5 wt.% vs. 20% of the commercial Pt catalyst. It catalyzed methanol oxidation by the predominantly direct pathway, largely reducing the CO poisoning effect. Practically, this catalyst achieved a peak power density of 1.5 W mgPt\u22121, which is about 6.0 and 8.8 times that of commercial PtRu/C (0.25 W mgPt\u22121) and Pt/C (0.17 W mgPt\u22121)\u2010based counterparts, respectively.\n\n\n\n\n\n\n\n\nABSTRACT\nBoosting Pt efficiency for direct methanol fuel cells is the key to pushing methanol\u2010economic sustainable development. Herein, ultrathin PtTe2 nanoshells grown on Te nanorods (Te@PtTe2) were found to be highly efficient for electrochemical methanol energy conversion in fuel\u2010cell devices. This unique core\u2013shell structure imparts the catalyst with high active edge sites exposure and high Pt utilization efficiency, but with low Pt loading of 5\u00a0wt.%. The peak mass activity of about 3.4 A mgPt\u22121 was more than 16 and 6 times that of the commercial Pt/C and PtRu/C (both 20\u00a0wt.% Pt). Fundamentally, in situ spectroscopic studies and theoretical calculations reveal that the PtTe2 shells can facilitate a predominantly direct pathway with HCOOH as the intermediate for methanol oxidation by reducing the CO poisoning effect largely. Practically, this catalyst achieved a peak power density of 1.5\u00a0W mgPt\u22121, which is about 6.0 and 8.8 times that of PtRu/C (0.25\u00a0W mgPt\u22121) and Pt/C (0.17\u00a0W mgPt\u22121)\u2010based counterparts, respectively. The work offers a promising platform for cost\u2010effective clean energy conversion by increasing the Pt intrinsic activity and utilization, but with low Pt loading.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "01d5e8fdcffb7836",
+    "title": "Decoupled yet Synergistic Microdomains via In Situ Phase Separation Enabling Ultra\u2010Stable Zinc Metal Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71136?af=R",
+    "content": "A rigid\u2010flexible coupled interface is constructed via in situ phase separation, consisting of decoupled yet synergistic microdomains. These microdomains integrate highly chain\u2010entangled polymer\u2010rich tough phases with flexible solvent\u2010elastic phases. Such a specific configuration enhances Zn2+ ion transport kinetics while providing a high elastic modulus along with remarkable resistance to mechanical stress and scratching, contributing to highly reversible Zn anode chemistry.\n\n\n\n\n\n\n\n\nABSTRACT\nWhile artificial polymer interphases enhance the redox reversibility of Zn metal anodes, their long\u2010term efficacy is hindered by persistent instability at the electrode\u2010electrolyte interface. The fundamental compromise lies in concurrently maintaining mechanical integrity and rapid ion transport. To tackle this head\u2010on, we develop an in situ phase separation strategy to prepare a functional polymeric interphase (PN) composed of highly entangled polymer\u2010rich tough\u2010phase domains (octylamine\u2010grafted PVA skeleton) and elastic Zn2+ ion\u2010conductive regions (nano\u2010confined zincophilic solvent). The former is designed to endow the electrode\u2010electrolyte interphase with robust mechanical properties, while the latter is dedicated to guaranteeing excellent interfacial ionic conductivity. These decoupled yet synergistic microdomains contribute to rigid\u2010flexible integrated interface that enables long\u2010term dendrite\u2010free Zn deposition, even under high current densities and deep plating/stripping conditions. As a result, Zn anode configured with PN witnesses over 2400 h of highly reversible cycling (\u223c32\u2010fold lifespan extension compared to unprotected Zn anode), attaining a maximum cumulative capacity of 21.45 Ah cm \u22122 at 10\u00a0mA cm \u22122. Even at an ultra\u2010high depth of discharge (DOD) up to \u223c70%, Zn anode can be stably cycled over 400 h, demonstrating its remarkable cycling durability. This work validates interfacial phase separation as a powerful paradigm for advancing anodic Zn plating/stripping chemistry.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c2a96ec7bcb0acdc",
+    "title": "Built\u2010In Electric Field Regulated Electron Transport Channels of FeP Supported Os for Ampere\u2010Level Seawater Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71137?af=R",
+    "content": "This work presents an Os/FeP heterostructure catalyst with EMSI and successfully utilizes the BEF to further modulate electron transfer through Os\u2010P\u2010Fe channels, proving an effective approach of developing low\u2010cost electrocatalysts with remarkable HER activity in ampere\u2010level seawater electrolysis.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping cost\u2010effective and robust hydrogen evolution reaction (HER) catalysts to replace Pt\u2010based compounds in alkaline media remains a critical challenge. Therefore, FeP experiences ultrafast microwave quasi\u2010solid process (within 10 s) to construct a heterostructure with Os clusters (Os/FeP). Leveraging the constructed heterostructure, the occurrence of electronic metal\u2010support interaction (EMSI) within the fabricated Os/FeP contributes to a more rational electronic configuration, while the induced built\u2010in electric field (BEF) boosts electron transfer, mitigating the excessive H* adsorption on Os sites while enhancing H* coverage on FeP. The Os/FeP exhibits enhanced HER activity of 25, 36 mV@10\u00a0mA cm\u22122 in alkaline freshwater and seawater, respectively. Moreover, the assembled Os/FeP || RuO2 anion exchange membrane water electrolyzer (AEMWE) exhibits excellent electrocatalytic performance of 1.92 V@1 A cm\u22122 and continuously operates over 600\u00a0h under harsh industrial conditions for seawater electrolysis. The boosted mass/price activity of 9.96 A mg\u22121Os and 724.74 A dollar\u22121 at 2.0\u00a0V, in combination with the $0.90 H2 per GGE well illustrates its economic superiority, suggesting its promising prospects in industrial application. This work represents Os/FeP heterostructure catalyst with BEF and successfully utilizes the EMSI to enhance efficiency, serving as effective approaches of developing robust electrocatalysts with remarkable HER activity in alkaline media.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ad72ff4c629693ad",
+    "title": "Ferroelectrically Modulated Composite Polymer Electrolyte Enabling Accelerated Ion Transport and Stable Interfaces for Solid\u2010State Lithium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71151?af=R",
+    "content": "A ferroelectrically modulated composite solid\u2010state polymer electrolyte enables cooperative regulation of ion transport and interfacial chemistry through anion immobilization, dielectric polarization enhancement, and interfacial charge modulation, thereby reconstructing lithium\u2010ion solvation structures, immobilizes anions, and mitigates space\u2010charge accumulation, enabling accelerated ion transport, homogenized ionic flux, and stabilized high\u2010voltage interfaces.\n\n\n\n\n\n\n\n\nABSTRACT\nPolymer\u2010based solid\u2010state electrolytes are attractive for solid\u2010state lithium (Li) metal batteries owing to their flexibility, lightweight nature, and scalable manufacturability. However, their practical application remains constrained by sluggish Li+ transport, severe anion migration, and unstable electrode\u2010electrolyte interfaces. Herein, we reported a ferroelectrically modulated composite polymer solid\u2010state electrolyte, constructed by integrating an electrospun fibrous framework containing ferroelectric K0.5Na0.5NbO3 into a solid polymer electrolyte matrix. The incorporation of ferroelectric fillers effectively suppresses polymer crystallinity, promotes the transformation of a polar \u03b2\u2010phase of poly(vinylidene fluoride\u2010co\u2010hexafluoropropylene), and immobilizes TFSI\u2212 anions through strong surface interactions, thereby reconstructing the local solvation environment and significantly enhancing Li+ transport kinetics. Meanwhile, spatially distributed ferroelectric domains regulate local electric\u2010field distribution and alleviate space\u2010charge accumulation, enabling interconnected Li+ transport pathways with homogenized ionic flux and reduced interfacial polarization, which collectively suppress Li dendrite growth. The obtained solid\u2010state electrolytes deliver a high ionic conductivity of 6.7\u00d710\u22124 S cm\u22121 with a Li+ transference number of 0.68 at 30\u00b0C, and corresponding solid\u2010state batteries demonstrate stably cycling over 300 cycles at 1.0 C. The resulting pouch cells exhibit excellent electrochemical stability and safety performance, underscoring a ferroelectric\u2010enabled strategy for simultaneously addressing ion\u2010transport and interfacial challenges in advanced polymer\u2010based solid\u2010state electrolytes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e2a330d307170a9c",
+    "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+    "link": "https://www.nature.com/articles/s41586-026-10728-9",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10728-9\">doi:10.1038/s41586-026-10728-9</a></p>Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+    "journal": "Nature"
+  },
+  {
+    "id": "2ac4f49bbd7a1d34",
+    "title": "Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+    "link": "https://www.nature.com/articles/s41586-026-10693-3",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10693-3\">doi:10.1038/s41586-026-10693-3</a></p>Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+    "journal": "Nature"
+  },
+  {
+    "id": "f31c044d08f35cce",
+    "title": "Global plastics treaty must be built on a foundation of monitoring",
+    "link": "https://www.nature.com/articles/d41586-026-01775-3",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01775-3\">doi:10.1038/d41586-026-01775-3</a></p>Global plastics treaty must be built on a foundation of monitoring",
+    "journal": "Nature"
+  },
+  {
+    "id": "79d2991de6105ac8",
+    "title": "Chemicals meant to be eco-friendly accumulate aloft",
+    "link": "https://www.nature.com/articles/d41586-026-01763-7",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01763-7\">doi:10.1038/d41586-026-01763-7</a></p>Large-scale measurements of atmospheric hydrofluoroolefins show that their levels are rising, but the implications are unclear.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d6762f7fcc55aa3a",
+    "title": "Natural capital accounting needs a way to assess uncertainty",
+    "link": "https://www.nature.com/articles/d41586-026-01778-0",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01778-0\">doi:10.1038/d41586-026-01778-0</a></p>Natural capital accounting needs a way to assess uncertainty",
+    "journal": "Nature"
+  },
+  {
+    "id": "6970a4891adb0dbb",
+    "title": "Remembering inventor and activist Hertha Ayrton",
+    "link": "https://www.nature.com/articles/d41586-026-01337-7",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01337-7\">doi:10.1038/d41586-026-01337-7</a></p>The biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature\u2019s archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "81d91d390225e3eb",
+    "title": "Power imbalances in adviser\u2013student relationships need safeguarding",
+    "link": "https://www.nature.com/articles/d41586-026-01776-2",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01776-2\">doi:10.1038/d41586-026-01776-2</a></p>Power imbalances in adviser\u2013student relationships need safeguarding",
+    "journal": "Nature"
+  },
+  {
+    "id": "d2d454962d61f73f",
+    "title": "Is it time to \u2018cap and trade\u2019 credits for research-funding proposals?",
+    "link": "https://www.nature.com/articles/d41586-026-01777-1",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01777-1\">doi:10.1038/d41586-026-01777-1</a></p>Is it time to \u2018cap and trade\u2019 credits for research-funding proposals?",
+    "journal": "Nature"
+  },
+  {
+    "id": "79b2e8d30793ac58",
+    "title": "The future of science communication is not an article like this",
+    "link": "https://www.nature.com/articles/d41586-026-01723-1",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01723-1\">doi:10.1038/d41586-026-01723-1</a></p>Researchers and science publishers need to seize the opportunity offered by the drastic shifts in the way news is produced \u2014 one reason Nature has joined TikTok.",
+    "journal": "Nature"
+  },
+  {
+    "id": "880eb007e6bb583e",
+    "title": "Bang! Exploding immune cells splatter potent toxins everywhere",
+    "link": "https://www.nature.com/articles/d41586-026-01766-4",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01766-4\">doi:10.1038/d41586-026-01766-4</a></p>Detonation of newly discovered \u2018ruptoblasts\u2019, found in flatworms, releases compounds that kill nearby cells in minutes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "13c824697c1d3e77",
+    "title": "Will AI ruin the social sciences \u2014 or revolutionize them?",
+    "link": "https://www.nature.com/articles/d41586-026-01726-y",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01726-y\">doi:10.1038/d41586-026-01726-y</a></p>The technology can whip up spurious findings and pollute survey responses, but it could also make research more rigorous.",
+    "journal": "Nature"
+  },
+  {
+    "id": "eac10d21dc13ef00",
+    "title": "First and last authors more likely to be men in leading science journals",
+    "link": "https://www.nature.com/articles/d41586-026-01495-8",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01495-8\">doi:10.1038/d41586-026-01495-8</a></p>Women\u2019s participation in science has risen sharply, but a Nature Index analysis finds that gender gaps in first and last authorship \u2014 markers of key scientific achievements \u2014 have barely shifted over the past decade.",
+    "journal": "Nature"
+  },
+  {
+    "id": "73f2f0041d56a868",
+    "title": "Better diagnostics could have limited this Ebola outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-01724-0",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01724-0\">doi:10.1038/d41586-026-01724-0</a></p>Quick identification of viruses holds the key to minimizing their spread.",
+    "journal": "Nature"
+  },
+  {
+    "id": "baad6687eaf317f2",
+    "title": "\u2018Virtual cells\u2019 aim to turn raw data into predictive models of biology",
+    "link": "https://www.nature.com/articles/d41586-026-01731-1",
+    "content": "<p>Nature, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01731-1\">doi:10.1038/d41586-026-01731-1</a></p>Simulations of biological systems could transform biomedical research, but researchers are still learning how to reproduce life\u2019s complexity without drowning in data.",
+    "journal": "Nature"
+  },
+  {
+    "id": "eb93c575631ecb95",
+    "title": "Daily briefing: What it will take to stop the spiralling Ebola outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-01782-4",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01782-4\">doi:10.1038/d41586-026-01782-4</a></p>Lessons from past epidemics could help to contain the current spread of Ebola. Plus, what a rocket explosion means for NASA's Moon plans and whether \u2018obesity\u2019 should be split into two diagnoses.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0aa3199fb2c77131",
+    "title": "Solar-Complemented Moisture Electric Generator for Synergistic Energy Harvesting in All Regions",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01476C",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01476C, Paper</div><div>Gangli Zhao, Daozhi Shen, Shuaiqi Han, Dingyun Zhang, Linglan Guo, Qiaolin Gu, Feng Zhan, Linmin Zhu<br />Moisture-enabled generators (MEGs) can harvest electrical energy from ambient water vapor, offering a promising self-powered solution for wearable electronics and Internet-of-Things systems. However, their practical application is hindered by limited...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "9564d67c5ba9b61c",
+    "title": "Dual-Mechanism Synergy of Adsorbate Evolution and Lattice Oxygen in High-Entropy Oxides for Enhanced Water Oxidation",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00598E",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE00598E, Paper</div><div>Zhen Xin Hui, Zeliang  Ju, Jia Zhao Li, Hui Li, Xu Liu, Huai Bi Hu, Zi Wen, Zhi Wen Chen, Chuncheng Yang, Qing Jiang<br />High-entropy oxides (HEOs) have emerged as promising electrocatalysts for the oxygen evolution reaction (OER) owing to their unique multi-element synergy, yet precisely regulating reaction pathways to balance activity and stability...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3e2428f6993debb2",
+    "title": "Nonplanar Tertiary-N Extended Nitrobenzene Enables Insoluble and Low-Energy-Barrier Organic Small Molecule Cathode for High-Performance Aqueous Batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02250B",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02250B, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Ziyang Song, Qi Huang, Yaokang Lv, Lihua Gan, Mingxian Liu<br />Organic small molecules with a high mass content ratio of redox-active sites are promising high-capacity cathode materials for aqueous zinc batteries, but their strong interaction with aqueous electrolytes causes serious...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "5d6936497b7e4adc",
+    "title": "Magnetoelectric microrobots for spinal cord injury regeneration",
+    "link": "https://www.nature.com/articles/s41563-026-02625-3",
+    "content": "<p>Nature Materials, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02625-3\">doi:10.1038/s41563-026-02625-3</a></p>Microrobots made of human-induced pluripotent stem cells and magnetoelectric nanoparticles promote lesion repair and motor improvements after spinal cord injury in zebrafish and mice under magnetic guidance and stimulation.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "6bd26a9a2d1e2522",
+    "title": "Van der Waals strain hardening and large uniform tensile elongation in GaSe",
+    "link": "https://www.nature.com/articles/s41563-026-02614-6",
+    "content": "<p>Nature Materials, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02614-6\">doi:10.1038/s41563-026-02614-6</a></p>Substantial strain hardening can be triggered in GaSe and other similar chalcogenide single crystals at particular loading directions inclined to the [0001] zone axis via alternating interlayer slip. This mechanism results in large uniform tensile elongation exceeding 40%, with the ultimate tensile elongation surpassing 70%.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "c5c3fa905dcde01a",
+    "title": "Fibronectin matrix remodelling modulates the active nematic dynamics of cancer-associated fibroblasts",
+    "link": "https://www.nature.com/articles/s41563-026-02615-5",
+    "content": "<p>Nature Materials, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02615-5\">doi:10.1038/s41563-026-02615-5</a></p>Cancer-associated fibroblasts and fibronectin form a coupled active\u2013passive nematic that progressively freezes, creating a mechanically stable stromal barrier.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "56931dbc6e8b3ad5",
+    "title": "UV and thermally stable hole-selective contacts with enhanced assembly density for inverted perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41563-026-02619-1",
+    "content": "<p>Nature Materials, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02619-1\">doi:10.1038/s41563-026-02619-1</a></p>Ultraviolet damage and the thermal instability of self-assembled monolayers hamper the durability of perovskite solar cells. Modifying the spacer units in these monolayers revealed the mechanisms of photodegradation and thermal degradation in non-conjugated and conjugated structures, respectively. Specifically designed spacer molecules can achieve highly efficient and stable perovskite solar cells.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "3efc743364cc0097",
+    "title": "Nickel-Based Layered Oxide Cathodes in Emerging Sodium-Ion Batteries: Performance, Challenges, and Future Directions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004162?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 1 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yiming Wang, Xinpeng Luan, Yaotao Lan, Yijing Liu, Han Tang, Hongda Du, Lanlan Feng, Yunshan Zheng, Baohua Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "480d1dfa3b34445b",
+    "title": "Simultaneous Embedding and Welding of Silver Nanowires Into the Surface of Polymer Networks for Mechanically Robust and Highly Conductive Three\u2010Dimensional Flexible Transparent Electrodes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70760?af=R",
+    "content": "The proposed transfer method simultaneously welds and embeds silver nanowires into the surface of polymer networks via thermal annealing. This enables the fabrication of mechanically robust and highly conductive 3D flexible transparent electrodes (FTEs) while maintaining optical transparency. The FTEs exhibit stable performance under repeated bending and pressure cycles, confirming the method as a reliable approach for high\u2010performance 3D FTEs.\n\n\n\n\n\n\n\n\nABSTRACT\nThree\u2010dimensional (3D) flexible transparent electrodes (FTEs) with high conductivity and mechanical robustness are essential for high\u2010performance wearable optoelectronic devices. Silver nanowires (AgNWs) are attractive candidates for the FTEs due to their high transparency, flexibility, and conductivity; however, poly(vinylpyrrolidone) (PVP) coatings on AgNWs and poor contact at wire junctions increase resistance. Additionally, electrodes fabricated using conventional AgNW deposition methods exhibit poor adhesion between the AgNW layer and polymer surface, resulting in delamination and degraded electrical performance under repeated stimuli. Herein, we propose a transfer method that simultaneously welds and embeds AgNWs into the surface of thermally stable thermoset polymer networks. Thermal annealing (200\u00b0C, 1\u00a0min) welds AgNW junctions while curing the prepolymer, forming mechanical interlocking that anchors AgNWs in the polymer surface. This enables residue\u2010free transfer and fabrication of highly conductive, mechanically robust FTEs while maintaining optical transparency. The FTEs exhibited stable performance after 1000 bending cycles (radius of curvature = 3.5\u00a0mm) and 5000 pressure cycles at 70\u00a0kPa. Capacitive pressure sensors incorporating these FTEs demonstrated reliable performance, while enhanced conductivity enabled efficient Joule heating, reaching 42.9\u00b0C at 3.7\u00a0V, demonstrating suitability for wearable heaters. These confirm the proposed method as a reliable approach for high\u2010performance 3D FTEs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "aca68016d48358cf",
+    "title": "Synergistic Plasma Surface Engineering and Dielectric Tailoring of PDMS Toward High\u2010Output Triboelectric Energy Harvesting",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70742?af=R",
+    "content": "Plasma surface engineering and dielectric tailoring were combined to enhance charge generation and retention in PDMS\u2010based triboelectric devices, providing a simple strategy for high\u2010output mechanical energy harvesting.\n\n\n\n\n\n\n\n\nABSTRACT\nSurface engineering of triboelectric layers is crucial for enhancing the energy\u2010harvesting performance of triboelectric nanogenerators (TENGs). Herein, a systematic study on the surface modification of polydimethylsiloxane (PDMS) films using radio\u2010frequency (RF) plasma treatment in different gaseous atmospheres (Ar, O2, CF4, and O2+CF4) is reported to tune the surface properties for enhanced triboelectric performance. The synergistic effect of the plasma process using a mixed gas atmosphere of O2+CF4 with a ratio of 1:4 led to a surface with enhanced polarity, electronegativity, and charge\u2010trapping ability by combining oxygen\u2010containing polar functionalities and fluorinated groups. Such changes enabled a significant rise in surface charge density and effective contact area, which greatly increased the output voltage and current of TENG devices. Also, a dual\u2010filler system consisting of ZnSnO3\u2010decorated surface\u2010modified carbon nanotubes (ZTO\u2013SMC) and BaTiO3 was embedded in the plasma\u2010treated PDMS matrix to promote dielectric properties and interfacial polarization synergistically. The optimized TENG device exhibited an extraordinary enhancement of voltage (702.88\u00a0V) and current (57.03\u00a0\u00b5A) compared to untreated PDMS\u2010based devices. This work highlights the prospects for combining plasma\u2010assisted surface engineering with systematic materials engineering to realize high\u2010performance TENGs, providing new insights into the development of self\u2010sustaining energy systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "6a52ebe0a8523921",
+    "title": "Label\u2010Free Profiling of Immunoglobulin Isotypes Using Solid\u2010State Nanopores",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70758?af=R",
+    "content": "Antibodies are a core element of the human immune response and fluctuate throughout the lifetime as it ages or encounters pathogens. Antibody subtypes also exist with unique protein size and structural features which make them amenable to classification and elucidation of immune readiness and overall immune function. \n\n\n\n\n\n\n\n\nABSTRACT\nAccurate profiling of antibody isotypes is essential to monitor immune responses, diagnose disease, and guide therapy, yet existing immunoassays remain limited in capturing their conformational dynamics with molecular precision. Nanopore sensing offers a label\u2010free route to such resolution, but most implementations rely on fragmentation, probes, or functionalization, leaving intact isotypes inaccessible. Here, a nanopore\u2010based assay that directly discriminates full\u2010length IgG, monomeric IgA, and IgM under non\u2010denaturing conditions, resolving intrinsic molecular signatures in real time is presented. In a lithium chloride electrolyte, glass nanopipettes operate in an electroosmotic\u2010flow\u2013dominated regime where flow\u2010driven transport and nanoscale confinement produce distinct ionic fingerprints for each isotype. Affinity\u2010based signal modulation with protein G, which selectively binds the IgG Fc domain, further introduces a tunable contrast mechanism that sharpens IgG\u2010IgA separability while preserving native structure and binding functionality. Quantitative analysis demonstrates robust separation (p < 0.0001) in binary and ternary mixtures with low misclassification. Evaluation in diluted human serum with a physiologically representative IgG:IgA:IgM ratio (7:2:1) shows that isotype\u2010specific fingerprints remain distinguishable in a serum\u2010derived background. The EOF\u2010governed assay establishes a scalable framework for direct, multiplexed immunoprofiling and extends label\u2010free nanopore analysis beyond antibodies toward broader proteomic targets.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "2928f0c92166d28d",
+    "title": "Strain\u2010Mediated Anisotropic Growth of Metal\u2013Organic Framework Belts",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70745?af=R",
+    "content": "An aqueous, one\u2010pot synthesis redirects layered ZIF\u2010L from conventional leaf morphology to high\u2013aspect\u2010ratio belts (\u223c 10) by pH\u2010controlled anisotropic growth, with magnetic nanoparticles decorating the platelet surfaces (MZIF\u2010L), improving phase stability during post\u2010synthetic handling. The morphological evolution is linked to compressive lattice distortion, consistent with the contraction of reflections in the lateral directions during anisotropic elongation.\n\n\n\n\n\n\n\n\nABSTRACT\nMetal\u2013organic frameworks (MOFs), such as zeolitic imidazolate framework\u2010L (ZIF\u2010L), are organized porous materials that are sensitive to synthesis and processing conditions. Here, we report a one\u2010pot, purely aqueous route that couples pH\u2010controlled anisotropic growth of ZIF\u2010L platelets to unique belt morphologies and surface functionalization with citric\u2010acid\u2010capped Fe3O4 magnetic nanoparticles. This interfacial stabilization control of originally metastable layered MOF phases yields magnetically responsive nanomaterials without organic solvents, surfactants, or post\u2010synthetic processing. By adjusting the basicity of the 2\u2010methylimidazole environment, conventional ZIF\u2010L leaf platelets reproducibly evolve into high\u2010aspect\u2010ratio, elongated, belt\u2010like platelets with an aspect ratio of \u223c10, while retaining the layered organization of the original ZIF\u2010L phase. Plane\u2010resolved x\u2010ray peak shifts (\u0394d/d ratio) show distinct, anisotropic lattice distortions, suggesting a stabilization mechanism in which interfacial coordination of carboxylate groups to under\u2010coordinated surface Zn2+ sites moderates layer relaxation and reconstruction pathways during synthesis and nanoparticle addition. This approach provides unique MOF belt morphology with enhanced phase stability and may be suggested as a scalable strategy for producing stable, anisotropic, magnetically responsive MOF\u2010based nanocomposites with non\u2010traditional shapes.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
