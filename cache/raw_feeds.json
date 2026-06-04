@@ -915,5 +915,236 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003782?dgcid=rss_sd_all",
     "content": "<p>Publication date: Available online 2 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yajun Zhang, Boyu Du, Tian Tang, Jiajun Zhang, Yuxin Yang, Xing Wang, Jingyu Xu, Hongge Jia, Shuangping Xu</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "253f6006081ccfba",
+    "title": "Mechanisms of Alkali Ionic Transport in Amorphous Oxyhalides Solid State Conductors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71124?af=R",
+    "content": "Large\u2010scale machine learning\u2010based molecular dynamics simulations are used to investigate isovalent amorphous oxyhalides, revealing a remarkable chemically independent ionic conductivity. A rigorous analysis of alkali residence times across di\ufb00erent metal\u2013anion environments identifies divalent anions as key di\ufb00usion bottlenecks. Evaluation of the full Einstein expression of the ionic conductivity highlights significant ion\u2013ion correlations, while alkali transference numbers remain near unity across compositions.\n\n\n\n\n\n\n\n\nABSTRACT\nAmorphous oxyhalides have attracted significant attention due to their relatively high ionic conductivity (>$>$1 mS cm\u22121${\\rm cm}^{-1}$), excellent chemical stability, mechanical softness, and facile synthesis routes via standard solid\u2010state reactions. These materials exhibit an ionic conductivity that is almost independent of the underlying chemistry, in stark contrast to what occurs in crystalline conductors. In this work, we employ machine learning interatomic potentials to construct large\u2010scale molecular dynamics trajectories encompassing hundreds of nanoseconds to obtain statistically converged transport properties. We find that the amorphous state consists of chain fragments of metal\u2010anion tetrahedra of various lengths. By analyzing the residence time of alkali cations migrating around tetrahedrally\u2010coordinated metals, we find that oxygen anions limit alkali diffusion. By computing the full Einstein expression of the ionic conductivity, we demonstrate that the alkali transference number of these materials is strongly influenced by distinct\u2010particles correlations, while alkali transport is dictated by uncorrelated self\u2010diffusion. By extending this analysis to chemical compositions AMX2.5O0.75$AMX_{2.5}\\textsf {O}_{0.75}$, spanning different alkaline (A$A$ = Li, Na, K), metallic (M$M$ = Al, Ga, In), and halogen (X$X$ = Cl, Br, I) species, we clarify why the diffusion properties of these materials remain largely insensitive to variations in atomic isovalent\u00a0chemistry.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8250360a97cc56eb",
+    "title": "Decomposition of Co\u2010Intercalated Solvents as the Overlooked Driver of Graphite Cathode Failure in Dual\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71132?af=R",
+    "content": "We reveal an overlooked failure pathway of graphite exfoliation driven by gas\u2010induced stress from co\u2010intercalated solvent decomposition. Our study establishes solvent exclusion as a key design principle for stable graphite cathodes in DIBs. \n\n\n\n\n\n\n\n\nABSTRACT\nAnion\u2010intercalation in graphite cathodes enables high\u2010power, high\u2010voltage, and low\u2010cost dual\u2010ion batteries (DIBs). However, irreversible graphite exfoliation during cycling progressively degrades electrical contacts, a phenomenon that prevailing failure models attribute to substantial volume variations during anion (de)intercalation. Here, we reveal that the irreversible decomposition of co\u2010intercalated solvents constitutes the critical, yet overlooked driver of exfoliation and the subsequent loss of electrical connectivity. Potential\u2010dependent operando tracking unveils that co\u2010intercalated solvents such as ethyl methyl carbonate (EMC) decompose above 4.9\u00a0V vs. Li/Li+ in the confined gallery space. This process generates gaseous products that induce localized stress heterogeneity, directly triggering exfoliation. In light of this revised mechanism, we revisit the role of fluoroethylene carbonate (FEC) in improving graphite cathode reversibility, and demonstrate that it functions by inhibiting solvent co\u2010intercalation, contrary to the previously held belief of protective interphase formation. Thus, by clarifying the failure pathway, our work identifies solvent exclusion as a key design principle for high\u2010voltage graphite cathodes in DIBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f84450df1535532f",
+    "title": "Femtosecond Laser\u2010Engineered Oxygen Vacancies Enable Lattice Oxygen\u2010Driven Oxygen Evolution Reaction for Industrial Water Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71166?af=R",
+    "content": "Femtosecond laser engineering fabricates self\u2010supporting nickel anodes with hierarchical architectures and oxygen vacancies. This single\u2010step interfacial design simultaneously activates lattice oxygen participation for accelerated reaction kinetics and achieves superwetting properties for rapid mass transport. The optimized electrode delivers exceptional activity and long\u2010term industrial\u2010level stability in anion exchange membrane water electrolyzers.\n\n\n\n\n\n\n\n\nABSTRACT\nIndustrial water electrolysis (WE) requires oxygen evolution electrodes that combine intrinsic catalytic activity with efficient mass transport under high current densities. Here, we report a single\u2010step femtosecond\u2010laser interfacial engineering strategy to fabricate self\u2010supporting nickel\u2010based anodes with hierarchical micro/nano architectures and oxygen\u2010vacancy\u2010related surface features. This interfacial design simultaneously provides superhydrophilic/superaerophobic wettability for rapid gas\u2010liquid transport and modulates surface electronic properties for enhanced oxygen evolution reaction (OER) activity. As a result, the laser\u2010structured electrode exhibits enhanced OER activity together with robust operational stability under industrially relevant conditions. When integrated into an anion exchange membrane water electrolyzer (AEMWE), the system achieves a voltage of 1.81\u00a0V at 1000\u00a0mA cm\u22122 alongside exceptional durability over 1000\u00a0h with a negligible voltage decay rate. This scalable laser\u2010enabled strategy provides a versatile platform for designing efficient and stable electrode for sustainable hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b4bdda374d5bc9eb",
+    "title": "Mitigating Photothermal\u2010Induced Burn\u2010In in Perovskite Solar Cells via a Multidentate Phosphonic Acid Polymer Network",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71159?af=R",
+    "content": "The burn\u2010in loss in inverted perovskite solar cells primarily originates from de\u2010coordination and ion migration at the buried interface under photothermal stress. By deploying a multidentate polymeric SAM network to robustly immobilize interfacial ions, this burn\u2010in degradation is effectively eliminated, unlocking exceptional efficiency and long\u2010term operational stability.\n\n\n\n\n\n\n\n\nABSTRACT\nThe burn\u2010in loss in perovskite solar cells (PSCs) during the initial operational stage induces substantial heterogeneous power output, as non\u2010uniform degradation among sub\u2010cells rapidly amplifies series\u2010parallel mismatch to compromise both efficiency and long\u2010term stability at module level. Most monomeric self\u2010assembled monolayers (M\u2010SAMs) suffer severe burn\u2010in loss under harsh photothermal stress, and the early\u2010stage performance decay dynamics and relevant degradation mechanisms remain unclear. Here, we find that the burn\u2010in loss under light\u2010heat conditions mainly originates from coordination relaxation/dissociation at the buried SAM/perovskite interface and the resultant rapid ion migration within the initial tens of hours. Further, we developed polymeric SAMs (P\u2010SAMs) featuring a multidentate phosphonic acid polymer network that enhances interfacial chemical coupling and mechanical robustness. Notably, it boosts interfacial fracture strength by nearly eightfold to 9.11 MPa and improves large\u2010area film uniformity. Consequently, P\u2010SAMs exhibit a certified efficiency of 26.61% for small\u2010area PSCs (0.06734\u2009cm2) and 22.83% for large\u2010area modules (62.37\u2009cm2). Under continuous AM1.5G (one\u2010sun) maximum power point tracking at 85 \u00b0C, the P\u2010SAM device reduces the initial efficiency loss from 35.6% to 4.3%, eliminating burn\u2010in behavior to enhance long\u2010term stability with a T90 lifetime of 1695\u2009h.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7d17bd3f6cfc1349",
+    "title": "From linear fixes to circular design: how polymer science has changed over the past decade",
+    "link": "https://www.nature.com/articles/s41578-026-00933-3",
+    "content": "<p>Nature Reviews Materials, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00933-3\">doi:10.1038/s41578-026-00933-3</a></p>Over the past decade, polymer science has shifted from precision synthesis to circular economy design. Breakthroughs in recycling, depolymerization and data-driven methods will be instrumental in designing polymers for sustainability within planetary constraints.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "c71b2f239271ac85",
+    "title": "Nanofluidic ionic memory for next-generation computing",
+    "link": "https://www.nature.com/articles/s41578-026-00919-1",
+    "content": "<p>Nature Reviews Materials, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00919-1\">doi:10.1038/s41578-026-00919-1</a></p>In the brain, memory involves release of neurotransmitters and transport of ions through nanoconfined channels. This Perspective discusses how nanofluidic memristors emulate this confined ion transport, highlighting the materials, design strategies and challenges involved in developing brain-inspired computing technologies.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "63dbed157b175134",
+    "title": "Towards selective recycling technologies for complex plastic waste",
+    "link": "https://www.nature.com/articles/s41578-026-00927-1",
+    "content": "<p>Nature Reviews Materials, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00927-1\">doi:10.1038/s41578-026-00927-1</a></p>Technologies for the selective recycling of heterogeneous and contaminated plastic waste streams are required to achieve a circular plastics economy. This Review surveys solvent-based recycling and depolymerization strategies towards the selective recycling of key types of plastic waste.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "5d28120b10e3fe60",
+    "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "link": "https://www.nature.com/articles/s41586-026-10694-2",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10694-2\">doi:10.1038/s41586-026-10694-2</a></p>Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "journal": "Nature"
+  },
+  {
+    "id": "27786da359db9da1",
+    "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
+    "link": "https://www.nature.com/articles/d41586-026-01764-6",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01764-6\">doi:10.1038/d41586-026-01764-6</a></p>Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology.",
+    "journal": "Nature"
+  },
+  {
+    "id": "990c8027fcd38aa2",
+    "title": "Babies\u2019 birth weight improves with help of payments to parents",
+    "link": "https://www.nature.com/articles/d41586-026-01765-5",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01765-5\">doi:10.1038/d41586-026-01765-5</a></p>Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.",
+    "journal": "Nature"
+  },
+  {
+    "id": "35dcfd215a0d2a43",
+    "title": "This mysterious lung disease affects millions of people \u2014 but a drug tested in mice shows promise",
+    "link": "https://www.nature.com/articles/d41586-026-01789-x",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01789-x\">doi:10.1038/d41586-026-01789-x</a></p>The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5b4816c14723bc0c",
+    "title": "Science with military applications is cited more than civilian-only research",
+    "link": "https://www.nature.com/articles/d41586-026-01770-8",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01770-8\">doi:10.1038/d41586-026-01770-8</a></p>Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a7bb2059b45d1760",
+    "title": "What\u2019s behind China\u2019s historically high counts of corresponding authors?",
+    "link": "https://www.nature.com/articles/d41586-026-01623-4",
+    "content": "<p>Nature, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01623-4\">doi:10.1038/d41586-026-01623-4</a></p>From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors \u2014 but policy reforms are expected to have dampened the trend.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2f802fbdfbdbae31",
+    "title": "Daily briefing: These immune cells go out with a bang",
+    "link": "https://www.nature.com/articles/d41586-026-01799-9",
+    "content": "<p>Nature, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01799-9\">doi:10.1038/d41586-026-01799-9</a></p>Newly-discovered \u2018ruptoblasts\u2019 explode to shower nearby cells with toxic chemicals. Plus, how psychology is tackling its reproducibility crisis and when to settle, according to maths.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9bad9698f8a583a5",
+    "title": "Earliest signs of vision recorded in ancient sea-floor tracks",
+    "link": "https://www.nature.com/articles/d41586-026-01762-8",
+    "content": "<p>Nature, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01762-8\">doi:10.1038/d41586-026-01762-8</a></p>Traces from some of the earliest animals reveal when they began to sense light.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0064e661ea23ddb6",
+    "title": "Monitoring of electro-chemo-mechanics in Li metal electrodes by optical fibre sensors",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01805J",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE01805J\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE01805J, Paper</div><div>Yanpeng Li, Dengwei Lian, Yi Qin, Hongfei Lu, Xiaohong Sun, Yuhang Song, Xin Jiang, Hong Li, Yang Jin<br />Optical fibre sensor enables monitoring of electro-chemo-mechanics in Li metal electrodes.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "32c0d93aabee55ed",
+    "title": "Correction: Precursor-driven Jahn\u2013Teller distortion as a hidden origin of surface instability in Mn-stabilized Ni-rich cathodes",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE90051H",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE90051H, Correction</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>JinHa Shim, Young Geol Yu, Yu Bin Choi, Jin Ho Bang<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3f29748f98011340",
+    "title": "Crystal facet engineering empowers zinc materials with diverse facet orientations: preparation strategies, performance advantages, and application challenges",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00867D",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE00867D\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE00867D, Review Article</div><div>Guoqiang Ma, Mengke Peng, Juan Du, Youan Ji, Chao Ma, Aibing Chen<br />This review clarifies structure\u2013performance relationships of typical Zn facets. It assesses scalable fabrication routes and builds a framework linking facet structure, processing, electrochemistry and cell performance for dendrite-free Zn anodes.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "8c78a665b391c12f",
+    "title": "Size-Dependent Dynamic Surface States of Ru Clusters: Modulating Interfacial Water Structure for Enhanced Alkaline Hydrogen Evolution Reaction",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01604A",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01604A, Paper</div><div>Jiwon Kim, Jinuk Moon, Kyuri  Cho, Jun Hyeong Kim, Man Ho Han, Seongbeen Kim, Jimin  Han, Daeeun Choi, Hyunwoo Jun, Jong Hyun Jang, Hyung-Suk Oh, Sung Ki Cho, Wooyul Kim, Jeong Woo Han, Jinwoo Lee<br />Constructing well-defined atomic structures is a pivotal strategy for enhancing catalytic performance and metal utilization. In this context, sub-nanometer clusters, bridging the gap between single atoms and nanoparticles, have attracted...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "6fc37a734b90a3b9",
+    "title": "Synergizing Phase Engineering and Site-selective Substitution Through Rational Design of High-Entropy Layered Oxide Cathode Enables Air-Stable and Long-life Sodium-ion Batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D5EE07341C",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D5EE07341C, Paper</div><div>Nazir Ahmad, Shao  Wang, Lina  Yang, Mingyu Cheng, Guo  Qingling, Ye  Shanshan, Shahid Ali, Jing Xia, Wenxiu He, Genqiang Zhang<br />P2-Na0.67Ni0.33Mn0.67O2 cathodes face commercialization barriers since irreversible P2-O2 phase transitions when charged above 4.0 V and the Mn3+ degradation if discharged to 2.0 V, as well as the moisture sensitivity,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "63510275654a0009",
+    "title": "Tracking microstructure and mechanical response",
+    "link": "https://www.nature.com/articles/s41563-026-02633-3",
+    "content": "<p>Nature Materials, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02633-3\">doi:10.1038/s41563-026-02633-3</a></p>Characterizing structural evolution alongside mechanical behaviour is challenging for micro- and nanostructured materials, highlighting the need for advancing in situ characterization techniques.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "878964be56d29860",
+    "title": "In situ mechanical characterization of functional and architected materials",
+    "link": "https://www.nature.com/articles/s41563-026-02601-x",
+    "content": "<p>Nature Materials, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02601-x\">doi:10.1038/s41563-026-02601-x</a></p>Recent developments in in situ micro- and nanoscale mechanical characterization, equipped with exceptional spatial and temporal resolution, are expanding frontiers in the study of functional materials, whose properties are largely defined by their nano- and microscale features. This Review presents a comprehensive overview of these characterization methods and highlights their applications in low-dimensional and architected materials.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "fec8b078aeffc52a",
+    "title": "Boosting ionic conductivity of single-ion conductive polyelectrolyte elastomers via high-dielectric plasticizers",
+    "link": "https://www.nature.com/articles/s41563-026-02604-8",
+    "content": "<p>Nature Materials, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02604-8\">doi:10.1038/s41563-026-02604-8</a></p>Polyelectrolyte elastomers support selective and leakage-free ionic transport, but suffer from low ionic conductivity. A solid-state dielectric additive is introduced to various polyelectrolyte elastomers, which increases ionic conductivity by two orders of magnitude and maintains elasticity and leakage-free properties.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "8f7e5dfcdaca161a",
+    "title": "A photochemical rotor bias in dual molecular motors",
+    "link": "https://www.nature.com/articles/s41557-026-02142-5",
+    "content": "<p>Nature Chemistry, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02142-5\">doi:10.1038/s41557-026-02142-5</a></p>Generating multiple active rotational frequencies within one molecule is challenging. Now, distinct and tunable rotor activation in a single molecule has been demonstrated by integrating non-identical rotors with divergent photochemical responses. This enables dual-frequency motion, suggesting steering-like behaviour in molecular motors.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "8cbf6539657c8bae",
+    "title": "A supercharged molecular motor operating by constitutional alteration and proton transfer",
+    "link": "https://www.nature.com/articles/s41557-026-02141-6",
+    "content": "<p>Nature Chemistry, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02141-6\">doi:10.1038/s41557-026-02141-6</a></p>Light-driven molecular motors represent archetypical molecular machines, with the existing varieties working via light-induced bond rotations. Now a different mechanism invoking constitutional alteration and reversible proton transfer is shown. This enables the formation of a high-energy intermediate and its application in low-temperature molecular solar thermal energy storage.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "da6eb41115b820b2",
+    "title": "NiSn intermetallic compound as efficient electrocatalyst for CH<sub>4</sub> oxygenation to C<sub>2</sub> products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003915?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yangshen Chen, Kailong Lu, Shun Zheng, Xiangchao Meng, Feng Ryan Wang, Liwei Chen, Jiao Deng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "96e2accfc8dbbff1",
+    "title": "A Dynamically Cross-Linked LA/Arg/NMA Hydrogel with Integrated Self-Adhesion, Self-Healing, and Ionic Conductivity for Flexible Wearable Sensors and Triboelectric Nanogenerators",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003988?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Shiwei Xu, Deyang Kong, Feng Qin, Xuanzhu Wang, Mufan Zhang, Pengfan Wu, Zhongyong Mo, Hengyu Guo, Hua Yu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "77dc64740c2ddd6e",
+    "title": "High-Temperature Energy Harvesting via Thermoacoustic-Triboelectric Hybridization: Design, Modelling, and Application Demonstration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526003861?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 3 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yizhou Li, Yawei Wang, Hao Tang, Liwei Dong, Bo Ning, Geng Chen, Guobiao Hu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b4e3808527045cfb",
+    "title": "Structural, Compositional, and Dielectric State Profiling in Label\u2010Free Single\u2010Cell Monitoring",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70759?af=R",
+    "content": "Label\u2010free single\u2010cell monitoring leverages distinct physical interactions to access structural, compositional, and dielectric states of cells, enabling non\u2010perturbative, repeatable, and information\u2010rich measurements across diverse biological contexts. This review organizes representative platforms by intrinsic state variables and connects measurement physics to practical descriptors, drift sources, throughput limits, and specificity, reframing the field and outlining an outlook for integrative and longitudinal monitoring.\n\n\n\n\n\n\n\n\nABSTRACT\nIndividual cells sense and transition between functional states, and the distribution of these states over time determines drug response, disease progression, and cell manufacturing outcomes. However, repeated measurement is difficult with label\u2010based acquisition, as photobleaching, phototoxicity, and probe\u2010induced perturbation accumulate. Label\u2010free monitoring that leverages intrinsic physical signals circumvents these constraints, shifting the analytical burden from label chemistry to instrumental drift. In this review, we organize this field into three measurement modalities, including imaging\u2010based, vibrational spectroscopy\u2010based, and electrical sensing\u2010based, each linked to distinct intrinsic state variables. Anchoring each modality to biological state variables such as structural organization, molecular composition, or dielectric architecture enables a physics\u2010grounded framework that clarifies how intrinsic signals map onto functional cellular phenotypes in longitudinal monitoring. We describe the measurement principle, drift sources, and feature space for each modality, and evaluate representative platforms against a frame spanning design, feature definition, quantitative performance, and validation practice. Dominant analytical constraints differ systematically across modalities, motivating integrative architectures in which complementary modalities resolve ambiguities that no single modality can disentangle. We further discuss shared requirements for calibration, standardized reporting, and multimodal integration, and outline requirements in hardware miniaturization, edge inference, and artificial intelligence\u2010guided molecular attribution to support scalable quantitative single\u2010cell phenotyping.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9b12e51294260281",
+    "title": "Accelerated Oxide Materials Discovery Through High\u2010Throughput Synthesis and Characterization",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70754?af=R",
+    "content": "To accelerate the screening process of complex oxides, we established a high\u2010throughput experimental workflow by integrating combinatorial hydrothermal synthesis, automated sample processing, and multimodal structural characterization techniques. Systematic screening of sixteen composition combinations yielded nine oxide phases, including the previously unreported \u03b2\u2010pyrochlore CsTa2O6\u2010X.\n\n\n\n\n\n\n\n\nABSTRACT\nComplex oxides host diverse physical phenomena and multifunctional responses, making them central to next\u2010generation information storage, energy conversion, and smart sensing technologies. Among them, pyrochlore dielectrics, characterized by moderate permittivity and low hysteresis loss, are attractive candidates for high\u2010energy\u2010density capacitors. However, conventional trial\u2010and\u2010error strategies for exploring complex oxide phase space remain time\u2010consuming and inefficient, limiting materials discovery. Here, we establish a high\u2010throughput combinatorial workflow that integrates accelerated hydrothermal synthesis, droplet\u2010based transmission electron microscopy sample preparation, and multi\u2010modal phase characterization. Screening sixteen compositional variants resulted in nine distinct phases, including two ion\u2010conducting oxides (Li3TaO4 and Li3NbO4), four perovskites (NaTaO3, NaNbO3, KTaO3, and KNbO3), two cation\u2010deficient perovskites (Ba5Ta4O15 and Ba5Nb4O15), and a previously unreported pyrochlore\u2010type oxide, CsTa2O6\u2010X. Atomic\u2010resolution scanning transmission electron microscopy resolves its structural framework, while measurements from a ferroelectric analyzer demonstrate that its dielectric energy storage performance is on par with that of advanced paraelectric or linear dielectric ceramics, with an efficiency of 96.5%. Collectively, this work demonstrates an accelerated discovery paradigm for functional oxides by coupling high\u2010throughput hydrothermal phase screening, automated sample preparation and structural characterization, and cross\u2010scale structure\u2013property correlation, providing a scalable route toward rapid exploration of complex oxide materials.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "7da0b78e9dfc6a78",
+    "title": "Recombination Catalyst Embedded Separators Enable a Wide Operating Window for High Pressure Alkaline Water Electrolysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502412?af=R",
+    "content": "A recombination catalyst is first embedded at the mid\u2010plane of a porous separator to mitigate hydrogen crossover in alkaline water electrolysis. The Pt\u2010based architecture successfully reduces crossover by \u223c60% while maintaining low resistance and stable operation. Simulated pressurized conditions reveal an expanded operating window, demonstrating a promising strategy for safer and more efficient pressurized electrolyzer systems.\n\n\n\n\n\n\n\n\nABSTRACT\nRecent advances in alkaline water electrolyzers (AWEs) have focused on pressurized operation and reduced ohmic resistance, enabled by the adoption of thinner porous separators. However, despite these improvements, H2 crossover remains a critical limitation that restricts the pressure range and the operational window. Herein, we introduce a separator architecture that incorporates a Pt\u2010based recombination catalyst at the separator mid\u2010plane by spray\u2010coating a Pt/Nafion ink (80 \u00b5g\u00b7cm\u22122 Pt) onto a reinforcing open mesh and embedding it within a polysulfone/zirconia composite matrix. The resulting 200\u00a0\u00b5m\u2010thick separator reduces hydrogen crossover by 60% relative to Zirfon 220 and achieves a lower cell voltage (1.0 A cm\u22122 at 1.78\u00a0V) compared to the Zirfon 220 cell (1.84\u00a0V at 1 A cm\u22122). Although partial catalyst\u2010layer loss was observed under severe dynamic load cycling, stable operation demonstrates the validity of the internal recombination strategy. By integrating recombination functionality directly within a thin, mechanically reinforced separator, this work provides a practical and scalable route to safer and more operationally flexible pressurized AWEs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "8367a53f19e8da4b",
+    "title": "Achieving Near\u2010Zero TCF and High Quality Factor in Li2TiO3\u2010Based Dual\u2010Phase Ceramics via Synergistic Phase and Microstructure Engineering",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70755?af=R",
+    "content": "Synergistic Phase and Microstructure Engineering: A controllable monoclinic\u2010cubic dual\u2010phase structure is constructed in Li2TiO3\u2010based ceramics, which achieves a near\u2010zero TCF (+8.5 ppm/\u00b0C) through precise phase compensation. Simultaneously, LiF\u2010assisted liquid\u2010phase sintering facilitates densification at lower temperatures, yielding an ultra\u2010high Q \u00d7 f of 129\u00a0390 GHz.\n\n\n\n\n\n\n\n\nABSTRACT\nNext\u2010generation communication systems urgently demand microwave dielectric ceramics that combine ultra\u2010low dielectric loss with exceptional thermal stability. However, overcoming the persistent trade\u2010off between a high quality factor (Q) and a near\u2010zero temperature coefficient of resonant frequency (TCF) remains a formidable challenge. Here, we report a synergistic design strategy that integrates (Ga1/2Nb1/2)4+ substitution with LiF\u2010assisted microstructural engineering to resolve this dilemma in Li2TiO3 ceramics. The synergistic interaction drives a phase evolution from the monoclinic phase (positive TCF) toward the cubic phase (negative TCF), constructing a dual\u2010phase structure that achieves near\u2010zero TCF through self\u2010compensation. Simultaneously, LiF\u2010assisted liquid\u2010phase sintering promotes densification at lower temperatures, thereby significantly reducing dielectric loss. Remarkably, the optimized Li2Ti0.95(Ga1/2Nb1/2)0.05O3 \u2013 2\u00a0wt.% LiF ceramic demonstrates exceptional microwave dielectric properties, featuring a high Q \u00d7 f value of 129\u00a0390\u00a0GHz (at 7.3\u00a0GHz) and a near\u2010zero TCF of +8.5\u00a0ppm/\u00b0C. The proposed synergistic strategy provides a robust pathway for developing high\u2010performance microwave dielectric ceramics for wireless communication applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "d0fb48d6f3663dbd",
+    "title": "Dual\u2010Surfactant\u2010Directed Mesoporous Metal\u2010Alkyl\u2010Thiol Frameworks for Enzyme\u2010Au Nanoparticle\u2010Coupled SERS Biosensing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70744?af=R",
+    "content": "Hierarchically porous metal\u2010alkyl\u2010thiol\u2010frameworks with tunable pore sizes have been successfully fabricated via a dual\u2010surfactant co\u2010templating strategy. The abundant alkyl\u2011thiols allow for the uniform anchoring of highly dispersed AuNPs, thereby constructing an efficient SERS platform. Spatial co\u2010confinement of oxidases and SERS probes within the mesopores facilitates rapid cascade sensing, which enables specific detection of various biomolecules and affords the potential for point\u2010of\u2010care diagnostic applications.\n\n\n\n\n\n\n\n\nABSTRACT\nIt is desirable yet challenging to introduce highly active alkyl thiols into hierarchically porous (HP) metal\u2013organic frameworks. Herein, we developed a dual\u2010surfactant co\u2010templating strategy to construct Zr\u2010based HP metal\u2010alkyl\u2010thiol frameworks (HPMATFs), where the HP structure facilitated the encapsulation of bulky biomacromolecules while the integrated alkyl thiols greatly enhanced their affinity toward noble metals. The high density of hydrophilic moieties at the periphery of the composite micelles effectively anchored the Zr precursors, preventing phase separation and enabling precise control over the mesopore sizes from 3 to 40\u00a0nm. The abundant alkyl thiols in the framework enabled the successful introduction of uniformly dispersed gold nanoparticles (AuNPs) within the HPMATFs matrix. Such integration provided abundant plasmonic sites and open mesospaces for the free diffusion of target analytes, forming an effective surface\u2010enhanced Raman scattering (SERS) platform. Spatial co\u2010confinement of oxidases and the SERS probe ensured an immediate cascade reaction between proximal enzyme\u2010generated products and the SERS probe anchored on AuNPs, realizing specific and sensitive recognition of the substrate of the applied enzymes. By altering the loaded enzymes, such a sensory platform can be applied for the specific detection of diverse biomolecular targets, prefiguring their potential for point\u2010of\u2010care diagnostics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
