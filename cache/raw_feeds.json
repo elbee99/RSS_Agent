@@ -1146,5 +1146,96 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70744?af=R",
     "content": "Hierarchically porous metal\u2010alkyl\u2010thiol\u2010frameworks with tunable pore sizes have been successfully fabricated via a dual\u2010surfactant co\u2010templating strategy. The abundant alkyl\u2011thiols allow for the uniform anchoring of highly dispersed AuNPs, thereby constructing an efficient SERS platform. Spatial co\u2010confinement of oxidases and SERS probes within the mesopores facilitates rapid cascade sensing, which enables specific detection of various biomolecules and affords the potential for point\u2010of\u2010care diagnostic applications.\n\n\n\n\n\n\n\n\nABSTRACT\nIt is desirable yet challenging to introduce highly active alkyl thiols into hierarchically porous (HP) metal\u2013organic frameworks. Herein, we developed a dual\u2010surfactant co\u2010templating strategy to construct Zr\u2010based HP metal\u2010alkyl\u2010thiol frameworks (HPMATFs), where the HP structure facilitated the encapsulation of bulky biomacromolecules while the integrated alkyl thiols greatly enhanced their affinity toward noble metals. The high density of hydrophilic moieties at the periphery of the composite micelles effectively anchored the Zr precursors, preventing phase separation and enabling precise control over the mesopore sizes from 3 to 40\u00a0nm. The abundant alkyl thiols in the framework enabled the successful introduction of uniformly dispersed gold nanoparticles (AuNPs) within the HPMATFs matrix. Such integration provided abundant plasmonic sites and open mesospaces for the free diffusion of target analytes, forming an effective surface\u2010enhanced Raman scattering (SERS) platform. Spatial co\u2010confinement of oxidases and the SERS probe ensured an immediate cascade reaction between proximal enzyme\u2010generated products and the SERS probe anchored on AuNPs, realizing specific and sensitive recognition of the substrate of the applied enzymes. By altering the loaded enzymes, such a sensory platform can be applied for the specific detection of diverse biomolecular targets, prefiguring their potential for point\u2010of\u2010care diagnostics.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "2ace530eacb3cc7c",
+    "title": "Mechanically Adaptive Ultrathin Interphase Inspired by Sliding Filament for Highly Reversible Zinc Metal Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71167?af=R",
+    "content": "Inspired by muscle sliding filaments, an ultrathin, mechanically adaptive interphase is engineered via graphene oxide nanosheets crosslinked by dynamic hydrogen bonds. This architecture reconciles high modulus with exceptional flexibility, efficiently dissipating interfacial stress to suppress dendrites and accommodate volume fluctuations. Consequently, the protected zinc anodes deliver superior electrochemical reversibility and ultra\u2010long cycling lifespans. \n\n\n\n\n\n\n\n\nABSTRACT\nDendrite growth and interfacial instability fundamentally limit the reversibility of aqueous zinc metal batteries. Artificial solid electrolyte interphases (SEIs) are typically constrained by an intrinsic trade\u2010off between mechanical rigidity for dendrite suppression and flexibility to accommodate volume fluctuations. Here, inspired by the sliding filament mechanism of biological muscle, we construct a mechanically adaptive ultrathin interphase that reconciles rigidity with deformability through dynamic hydrogen\u2010bond\u2010mediated stress dissipation. A nanoscale reinforced architecture, composed of rigid graphene oxide (GO) backbones interconnected by Triton\u2010induced sacrificial hydrogen bonds, enables controlled interlayer sliding while preserving structural integrity. The resulting \u223c80\u00a0nm interphase simultaneously delivers a high Young's modulus (22.4\u00a0GPa) and tensile strain (\u223c12%), effectively overcoming the modulus\u2013flexibility constraint. Meanwhile, the interphase promotes Zn2+ desolvation and stabilizes the interfacial microenvironment. Consequently, Zn||Cu cells deliver over 10000 cycles at 5\u00a0mA cm\u22122 with an average coulombic efficiency (CE) of 99.93% and a cumulative capacity exceeding 10 Ah cm\u22122. Zn||MnO2 cells operated at a low N/P ratio of 2.5 exhibit markedly improved cycling stability. This work establishes a mechanically adaptive interphase design principle for stabilizing zinc metal anodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "12cfda45666ab6ae",
+    "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+    "link": "https://www.nature.com/articles/d41586-026-01831-y",
+    "content": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01831-y\">doi:10.1038/d41586-026-01831-y</a></p>Nature staff discuss some of the week\u2019s top science news.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9b7b74a8f976099d",
+    "title": "First precise genome editing of human embryos triggers praise and alarm",
+    "link": "https://www.nature.com/articles/d41586-026-01827-8",
+    "content": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01827-8\">doi:10.1038/d41586-026-01827-8</a></p>The lead scientist on the use of \u2018base editing\u2019 in very early embryos say that the technique is far from ready for the clinic, but critics worry that the work will spur a rush to commercialization.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ac76d5a7be894e98",
+    "title": "Europe is ditching US tech \u2014 what does this mean for researchers?",
+    "link": "https://www.nature.com/articles/d41586-026-01610-9",
+    "content": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01610-9\">doi:10.1038/d41586-026-01610-9</a></p>European governments are choosing European digital tools \u2014 and some universities and researchers are doing the same.",
+    "journal": "Nature"
+  },
+  {
+    "id": "297be0ee4ae792b9",
+    "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way \u2014 May\u2019s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-01609-2",
+    "content": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01609-2\">doi:10.1038/d41586-026-01609-2</a></p>The month\u2019s sharpest science shots, selected by Nature\u2019s photo team.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fafa4e558ca730c7",
+    "title": "Electric vehicles cut pollution in China \u2013 and prevent 260,000 premature deaths",
+    "link": "https://www.nature.com/articles/d41586-026-01781-5",
+    "content": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01781-5\">doi:10.1038/d41586-026-01781-5</a></p>Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
+    "journal": "Nature"
+  },
+  {
+    "id": "25d794f11c343a8f",
+    "title": "Understanding interconnected ion and water transport in anion exchange membrane zero-gap CO<sub>2</sub> electrolysers",
+    "link": "https://www.nature.com/articles/s41560-026-02052-3",
+    "content": "<p>Nature Energy, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02052-3\">doi:10.1038/s41560-026-02052-3</a></p>Achieving long-term stability in low-temperature anion exchange membrane zero-gap CO2 electrolysers is hindered by salt precipitation and flooding, which limit CO2 transport. In this Perspective, the authors explore the interplay between ion and water transport processes, emphasizing the need for strategies to simultaneously manage both to extend cell runtimes.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "6a9ff22aebe27844",
+    "title": "Voltage-Dependent Progression of Failure Mechanisms in Single-Crystal Ni-Rich Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004204?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zhili Chen, Feng Wu, Jinyang Dong, Yibiao Guan, Yun Liu, Xuanzhi Wang, Mengyuan Gao, Yilun Jin, Jinming Fan, Kang Yan, Yun Lu, Ning Li, Yuefeng Su, Lai Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e27e65a886cf046e",
+    "title": "Corrigendum to \u2019Enabling High Rates Capacity and Cyclability of LiMn<sub>0.5</sub>Fe<sub>0.5</sub>PO<sub>4</sub> Cathode Material through Gradient Core-Shell Structuring\u2019 [Energy storage Materials 80 (2025) 104377]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004198?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Shuzhen Li, Jinkun Wan, Yong Liu, Zhibei Liu, Hao Zhang, Li Wang, Xiangming He</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c55442455e2ed270",
+    "title": "Helical-Rod-Driven Cylindrical Triboelectric Nanogenerator for Efficient Ultra-Low-Frequency, Low-Steepness Ocean Wave Energy Harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004003?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Erjie Mao, Lang Di An, Haonan Feng, Yuhao Dong, Yuansong Feng, Rongjie Lin, Chenjing Shang, Jie Zhang, Ying-Chih Lai, Yang Yang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ba7ea160ecc65219",
+    "title": "Rational Design of Halogenated Volatile Solid Additives via \u03c3-Hole Descriptors Enables 20.19% Efficiency in Organic Solar Cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600399X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 4 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yongjie Cui, Yanlin Li, Chunyin Yang, Zhibo Wang, Wenzhao Xiong, Shenbo Zhu, Wenqin Li, Huaqing Xie, Huawei Hu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "828f1649201fdfde",
+    "title": "Cell\u2010Free Protein Synthesis in Porous Parylene Scaffolds",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70757?af=R",
+    "content": "The CinPP system, embedding CFPS machineries within porous parylene, is proposed as a novel platform for in vitro protein synthesis, overcoming previous limitations related to processability, structuring integration, and storage stability. By introducing porous parylene as a replacement for aqueous medium via CVD, CinPP paves the way for expanded bio\u2010sensory applications.\n\n\n\n\n\n\n\n\nABSTRACT\nCell\u2010free protein synthesis (CFPS) has emerged as a promising platform for point\u2010of\u2010care (POC) biosensing due to its programmability, rapid response, and ability to operate without living cells. Integrating CFPS into solid\u2010state materials is essential for enabling long\u2010term storage, portability, and spatial multiplexing required for practical POC applications. While previous efforts have demonstrated CFPS integration onto two\u2010dimensional substrates such as paper, embedding CFPS machinery within a three\u2010dimensional matrix that preserves its activity remains a significant challenge. Here, we propose a solid\u2010state CFPS system comprised of a parylene\u2010based scaffold loaded with CFPS machinery, i.e., CFPS in porous parylene (CinPP). The CinPP is fabricated through ice\u2010templated chemical vapor deposition (CVD). We further demonstrate protein synthesis that is readily activated upon rehydration. The CinPP platform supports protein expression after prolonged storage and enables spatially localized and programmable expression of distinct fluorescent proteins. Furthermore, selective reconstitution of CFPS machinery with target\u2010responsive genetic circuits demonstrates its potential as a modular sensing platform. This approach provides a versatile solid\u2010state CFPS material that can be extended to programmable biosensors, portable diagnostic devices, and on\u2010demand protein production systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "df9c726fc1d26c44",
+    "title": "Local Electron Spin\u2010State Engineering at Fe Sites for Highly Reversible Sodium\u2010Ion Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70761?af=R",
+    "content": "A carbon\u2010coated iron\u2010based sodium\u2010rich sulfide (Na6FeS4/C) was fabricated via a stepwise rotary evaporation\u2010carbothermal reduction strategy, and spin\u2010state engineering at Fe sites was first proposed in this work. Combined experimental and theoretical results demonstrate that Na6FeS4/C exhibits robust structural stability and fast reaction kinetics, thereby delivering exceptional electrochemical performance for sodium storage.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping robust cathode materials for sodium\u2010ion batteries (SIBs) requires the simultaneous mitigation of sluggish reaction kinetics and inadequate structural stability during cycling. Herein, a distinctive carbon\u2010coated sodium iron sulfide composite (Na6FeS4/C) is developed via a rotary evaporation\u2010carbothermal reduction strategy, and spin\u2010state engineering is first proposed to induce electronic spin polarization at Fe sites. The short and nearly identical axial (2.356 \u00c5) and equatorial (2.355 \u00c5) bond lengths in Na6FeS4 indicate a thermodynamically stable crystal structure. Furthermore, the d\u2010p orbital hybridization between Fe 3d and S 3p orbitals in the [FeS4]6\u2212 tetrahedron can accelerate electron delocalization and optimize charge distribution, thus improving charge transfer dynamics and capacity output. More importantly, S coordination induces the electron transition of Fe2+ from the dz2 orbital to the dxz orbital to form high\u2010spin (HS, e3t23) Fe atoms, which could generate more unpaired electrons on the 3d orbitals and enhance the electrochemical activity of Fe2+ sites. Based on these merits, the well\u2010designed Na6FeS4/C composite cathodes exhibit exceptional Na storage performance, delivering a high initial reversible capacity (419.8 mAh g\u22121 at 0.1 C), excellent rate performance (192.2 mAh g\u22121 at 2 C), and superior long\u2010term cycling stability (83.3% capacity retention rate over 400 cycles at 1 C).",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
