@@ -194,5 +194,299 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70764?af=R",
     "content": "Ag\u2010decorated SnO2 exhibits 12.6 times response than that of SnO2, high selectivity, stability, and resistance to silicon poisoning toward 10\u00a0ppm DEC at 140\u00b0C. The machine learning assistant enables intelligent identification and practical monitoring of battery electrolyte with high classification accuracy for carbonates and their mixtures, demonstrating promising application for warning the safety of batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nThe safe utilization of lithium\u2010ion batteries depends on the management of thermal runaway to avoid electrolyte leakage. It is crucial to make early warning by developing sensors for rapid detection of electrolyte (e.g. diethyl carbonate, DEC). Herein, the superior gas sensing capabilities of SnO2 modified with Ag nanoparticles (SA NPs) have been demonstrated for DEC recognition and warning by machine learning. The research findings show that the introduced silver effectively modulates energy band structure of pristine SnO2, and contributes its catalytic function. As\u2010optimized nanomaterial (SA\u20105) exhibits 12.6 times response than that of SnO2 toward 10\u00a0ppm DEC at 140\u00b0C, along with high selectivity, stability, and resistance to silicon poisoning. Kinetic and DFT calculations reveal that silver leads to more negative adsorption energy (\u22120.49\u00a0eV) and fast adsorption kinetic, verifying the synergistic effect of the Ag and SnO2 interface and catalytic function. The extracted transient features were combined with Support Vector Machine (SVM) algorithm to achieve intelligent identification of electrolyte with classification accuracy of 99.3% for carbonates and their mixtures. Notably, a portable device was employed to manifest its practical monitoring ability in simulated environments and real battery leakage, and demonstrates promising application for warning the safety of batteries.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "eed81fcd2dc791af",
+    "title": "Recent Advances of Fiber\u2010Shaped Aqueous Zinc Ion Batteries: From Structure, Principles, Issues to Strategies",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71175?af=R",
+    "content": "Fiber\u2010shaped aqueous zinc\u2010ion batteries (FAZIBs) are critically reviewed from fundamentals, compositions, structures, recent issues, to relevant strategies. Key issues including Zn dendrites, hydrogen evolution, cathode dissolution, and interfacial separation under deformation are analyzed, alongside mitigation strategies for flexible, safe, and long\u2010term wearable power sources. Moreover, the opportunities for further developments in the practical application of FAGZIBs are presented.\n\n\n\n\n\n\n\n\nABSTRACT\nFiber\u2010shaped aqueous zinc\u2010ion batteries (FAZIBs) have been regarded as highly promising power supplying devices for wearable and flexible electronics because of their intrinsic safety, low cost, lightweight nature, and excellent flexibility. However, their practical development is still hindered by coupled electrochemical and mechanical issues, including Zn dendrite growth, H2 evolution, surface passivation, cathode materials dissolution and shedding, and electrode/electrolyte interfacial separation under deformation. This review provides a critical and comprehensive overview of recent progresses in FAZIBs from composition, structural design, working principles, failure mechanisms, to mitigation strategies. First, the components of FAZIBs, including fibrous Zn anodes, fibrous cathodes, gel electrolytes, encapsulation materials, and device architectures, are systematically discussed. Then, the energy storage and flexibility\u2010related mechanisms are analyzed to clarify the intrinsic correlation between electrochemical behavior and mechanical adaptability. Subsequently, the major degradation pathways limiting the performance and durability of FAZIBs are summarized. Representative strategies, including rational design of flexible Zn anodes, gel\u2010electrolyte regulation, cathode stabilization, and interface optimization, are further highlighted. Finally, the remaining scientific challenges and future research directions are outlined. This review is expected to supply some useful guidance for the rational design of next\u2010generation FAZIBs with high energy density, excellent flexibility, and long\u2010term stability.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7cbac276fed7b5f6",
+    "title": "Multiscale Active Site Modulation in Organic Heterojunction with Molecular\u2010Level Interfacial Contact for Efficient Photocatalytic Hydrogen Evolution",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71172?af=R",
+    "content": "Through donor\u2013acceptor molecular design, an organic heterojunction with molecular\u2010level interfacial contact was constructed, coupled with the cooperative introduction of Cu single atoms and Pt nanodots. The photocatalyst achieves broad\u2010spectrum visible\u2010light harvesting, promoting efficient separation of photogenerated carriers, and further optimizes surface reaction kinetics via Pt d\u2010band modulation, ultimately leading to a two\u2010order\u2010of\u2010magnitude enhancement in photocatalytic hydrogen evolution performance.\n\n\n\n\n\n\n\n\nABSTRACT\nThe commercialization of green hydrogen production through organic photocatalyst\u2010promoted solar water splitting for hydrogen evolution is limited by inefficient charge separation and sluggish interfacial kinetics. Herein, this problem is addressed using an ice template\u2013assisted photochemical reduction strategy that integrates molecular\u2010level interfacial contact between a trefoil\u2010shaped donor\u2013acceptor molecule (DTAB) and ultrathin carbon nitride nanosheets (UCNS) with Cu single atoms (SAs) anchoring and Pt nanodots (NDs) deposition. The intimate interface in the resulting DTAB\u2013UCNS/CuPt photocatalyst generates a built\u2010in electric field promoting the separation of photogenerated carriers. The DTAB harvests visible light and injects electrons into UCNS, with these electrons subsequently funneled to Pt NDs via Cu SAs. The electronic coupling between Cu SAs and Pt NDs affects the position of the Pt d\u2010band, thus optimizing the H* adsorption/desorption equilibrium and enhancing surface reaction kinetics. The hydrogen evolution rate of DTAB\u2013UCNS/CuPt (261.16 mmol g\u22121 h\u22121) is 248.7 times higher than that of UCNS/Pt (1.05 mmol g\u22121 h\u22121) and ranks among the highest reported for carbon nitride\u2013based photocatalysts under comparable conditions, highlighting the strong potential of our strategy to advance photocatalytic hydrogen evolution toward practical green hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c2ae217d8e0557e5",
+    "title": "Regulating Li\u2010Ions Conduction of Eco\u2010Friendly Cellulose\u2010Based Composite Electrolytes via Amino\u2010Siloxane Functional Grafting for Sustainable Li\u2010Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71171?af=R",
+    "content": "A functional grafting strategy was proposed to construct rapid Li\u2010ion\u2010conducting pathways of cellulose molecules, and a cellulose\u2212amino\u2010siloxane\u2212ionic liquid solid\u2010state electrolyte was in\u2010situ synthesized via a sol\u2010gel self\u2010assembly. This functional structural modification enhances Li+ ionic conductivity and stabilizes the interface to achieve an ultralong cycle\u2010life of Li\u2010metal batteries. And a full life\u2010cycle assessment confirms its advantages in energy conservation and carbon reduction, demonstrating a sustainable development route for next\u2010generation batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nCellulose\u2010based electrolytes are promising solid electrolyte candidates for low\u2010cost and eco\u2010friendly batteries owing to their natural characteristics of being renewable and biodegradable. Unfortunately, they have strong reactivity and high crystallinity, leading to critical challenges when used in Li\u2010ion batteries, including poor high\u2010voltage tolerance, slow Li\u2010ion conduction and heterogeneous Li\u2010ion flux. Here, we report a functional grafting modification to regulate Li\u2010ion conduction within cellulose\u2010based solid electrolytes. In\u2010situ sol\u2010gel self\u2010assembly accompanied by amino\u2010siloxane grafting is developed to achieve the homogeneous integration of cellulose\u2212amino\u2010siloxane\u2212ionic liquid composites, forming a compact solid\u2010state electrolyte membrane. Such functional design establishes continuous and uniform Li\u2010ion transport highways through amino coordination while disrupting native crystallinity of cellulose, endowing a rapid Li\u2010ion conductivity (1\u00d710\u22123 S cm\u22121) and a high electrochemical oxidation potential (5\u00a0V). The obtained electrolyte membrane features a homogenous microstructure with high mechanical elasticity and thermodynamic stability, exhibiting high compatibility with Li metal and enabling excellent electrochemical performance. Consequently, solid\u2010state Li\u2010metal batteries exhibit exceptional cycle\u2010life, whereas LiFePO4 cells run 592 cycles and LiNi0.8Co0.1Mn0.1O2 cells run 403 cycles at 0.5 C rate until the capacity reduces to 80%. Notably, a comprehensive life\u2010cycle assessment verifies its advantages in energy conservation and carbon reduction. It presents a sustainable development of high\u2010performance cellulose\u2010based solid\u2010state electrolytes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "608d638b1400ccb2",
+    "title": "Overcoming Interphase\u2010Dependent Li+ Transport via Tridentate Coordination Engineered Solvation Sheath",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71169?af=R",
+    "content": "The tridentate Li+\u2010TFSI\u2212 coordination in Gel\u2010B promotes the formation of a highly ion\u2010conductive SEI. In contrast, the monodentate analogue (Gel\u2010M) only facilitates bulk transport and desolvation. The superior battery performances of Gel\u2010B lie in minimizing SEI resistance, which reveals ion transport across the SEI as the rate\u2010determining step. These findings establish ligand denticity regulation as a general SEI\u2010oriented design principle.\n\n\n\n\n\n\n\n\nABSTRACT\nGel polymer electrolytes (GPEs) are pivotal for advanced lithium metal batteries (LMBs) as they can combine high ionic conductivity and enhanced safety. However, their commercialization is hindered by an unresolved kinetic limiting step derived from the dynamic coupling among bulk diffusion, desolvation, and interphase transport. Here, a novel strategy is proposed to regulate the denticity of TFSI\u2212 coordination from monodentate to tridentate to decouple these processes. The intrinsic chemistry of the solid\u2010electrolyte interphase (SEI) rather than bulk ionic conductivity or desolvation energy is identified as the predominant factor governing cyclability. Crucially, the tridentate coordination strategically elevates the reductive priority of the normally stable TFSI\u2212 anions over the more labile solvents, thereby superseding the intrinsic tendency and ensuring the in situ formation of an inorganic\u2010rich SEI dominated by LiF and Li2O. This robust SEI underpins exceptional interfacial stability, enabling 92.7% of its original capacity after 720 cycles at 1 C in LiFePO4//Li cells. The generality of this approach is also validated in LiNi0.6Co0.2Mn0.2O2\u2010based cells, which achieve stable cycling over 270 cycles at 25\u00b0C and over 150 cycles at 60\u00b0C. The fundamental insight into the rate\u2010limiting interfacial coupling and the tridentate\u2010coordination strategy collectively establish a new paradigm for electrolyte design.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "40e1ceee519517c3",
+    "title": "Author Correction: De novo design of quasisymmetric two-component protein cages",
+    "link": "https://www.nature.com/articles/s41586-026-10763-6",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10763-6\">doi:10.1038/s41586-026-10763-6</a></p>Author Correction: De novo design of quasisymmetric two-component protein cages",
+    "journal": "Nature"
+  },
+  {
+    "id": "d8235b4a3644e1d8",
+    "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+    "link": "https://www.nature.com/articles/s41586-026-10769-0",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10769-0\">doi:10.1038/s41586-026-10769-0</a></p>Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+    "journal": "Nature"
+  },
+  {
+    "id": "93aa02e71554b50b",
+    "title": "Author Correction: A broadly protective antibody targeting gammaherpesvirus gB",
+    "link": "https://www.nature.com/articles/s41586-026-10745-8",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10745-8\">doi:10.1038/s41586-026-10745-8</a></p>Author Correction: A broadly protective antibody targeting gammaherpesvirus gB",
+    "journal": "Nature"
+  },
+  {
+    "id": "ef64ff1591b2402f",
+    "title": "A unicellular relative links aggregative multicellularity to animal origins",
+    "link": "https://www.nature.com/articles/s41586-026-10748-5",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10748-5\">doi:10.1038/s41586-026-10748-5</a></p>A unicellular relative links aggregative multicellularity to animal origins",
+    "journal": "Nature"
+  },
+  {
+    "id": "04821ed1be746e88",
+    "title": "AI technology must serve human cognitive development, not the other way around",
+    "link": "https://www.nature.com/articles/d41586-026-01848-3",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01848-3\">doi:10.1038/d41586-026-01848-3</a></p>AI technology must serve human cognitive development, not the other way around",
+    "journal": "Nature"
+  },
+  {
+    "id": "e4e1550023219014",
+    "title": "A treasure trove of Neolithic necklace beads",
+    "link": "https://www.nature.com/articles/d41586-026-01810-3",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01810-3\">doi:10.1038/d41586-026-01810-3</a></p>Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature\u2019s archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0efe1fabcc36367a",
+    "title": "Arson attacks at Ebola hospitals are a cry for regional development",
+    "link": "https://www.nature.com/articles/d41586-026-01846-5",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01846-5\">doi:10.1038/d41586-026-01846-5</a></p>Arson attacks at Ebola hospitals are a cry for regional development",
+    "journal": "Nature"
+  },
+  {
+    "id": "872d2ba418e790df",
+    "title": "Science must be seen as a viable profession for the many, not the few",
+    "link": "https://www.nature.com/articles/d41586-026-01849-2",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01849-2\">doi:10.1038/d41586-026-01849-2</a></p>Science must be seen as a viable profession for the many, not the few",
+    "journal": "Nature"
+  },
+  {
+    "id": "5024a675bcffa66d",
+    "title": "Preventing cancer requires more than a list of carcinogens",
+    "link": "https://www.nature.com/articles/d41586-026-01847-4",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01847-4\">doi:10.1038/d41586-026-01847-4</a></p>Preventing cancer requires more than a list of carcinogens",
+    "journal": "Nature"
+  },
+  {
+    "id": "a7bc3866d70abe6e",
+    "title": "Ocean \u2018cold blob\u2019 is evidence for a troubling climate trend",
+    "link": "https://www.nature.com/articles/d41586-026-01826-9",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01826-9\">doi:10.1038/d41586-026-01826-9</a></p>Weakening of a major ocean-current system is causing temperatures to drop in a patch of the Atlantic Ocean.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3ae4128cec800728",
+    "title": "World-first: therapy to make cells young again trialled in a person",
+    "link": "https://www.nature.com/articles/d41586-026-01836-7",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01836-7\">doi:10.1038/d41586-026-01836-7</a></p>A participant in a landmark clinical trial has been given a cellular-reprogramming treatment that aims to rejuvenate damaged cells in the eye.",
+    "journal": "Nature"
+  },
+  {
+    "id": "930eac4724e31881",
+    "title": "People are turning to AI chatbots to plug gaps in health information",
+    "link": "https://www.nature.com/articles/d41586-026-01737-9",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01737-9\">doi:10.1038/d41586-026-01737-9</a></p>A systematic assessment of health-related queries to a chatbot powered by artificial intelligence highlights shortfalls in health-care provision and the responsibilities of AI companies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2d3e2ed87b9e4d7e",
+    "title": "Let\u2019s talk about biomedical research kits",
+    "link": "https://www.nature.com/articles/d41586-026-00799-z",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-00799-z\">doi:10.1038/d41586-026-00799-z</a></p>Although undoubtably helpful in many ways, experimental assay kits risk undermining the fundamentals of science. How can we course correct?",
+    "journal": "Nature"
+  },
+  {
+    "id": "f43bd7f36d61ea1b",
+    "title": "Don\u2019t compete, collaborate: why collective funding applications are the future",
+    "link": "https://www.nature.com/articles/d41586-026-01815-y",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01815-y\">doi:10.1038/d41586-026-01815-y</a></p>Scientists with disparate expertise writing grants together can identify knowledge gaps and drive progress \u2014 but systems must change to incentivize them.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e266e6cec6efcf11",
+    "title": "The best way to start your day? The science backs naked cartwheels in the sun",
+    "link": "https://www.nature.com/articles/d41586-026-01822-z",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01822-z\">doi:10.1038/d41586-026-01822-z</a></p>A dazzling book explains our bodies\u2019 dependence on sunlight for everything from sleep to skin and bone health.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5dee61ea0f2b7119",
+    "title": "Scientists have a bad case of AI FOMO, <i>Nature</i> poll reveals",
+    "link": "https://www.nature.com/articles/d41586-026-01690-7",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01690-7\">doi:10.1038/d41586-026-01690-7</a></p>Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dfae27818324ff12",
+    "title": "TB vaccine from the 1920s shows promise in diabetes trial",
+    "link": "https://www.nature.com/articles/d41586-026-01825-w",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01825-w\">doi:10.1038/d41586-026-01825-w</a></p>The shot reduced insulin use for people with type 1 diabetes and another autoimmune condition.",
+    "journal": "Nature"
+  },
+  {
+    "id": "674a08b665e83c56",
+    "title": "Good recycling starts at home \u2014 and benefits the world",
+    "link": "https://www.nature.com/articles/d41586-026-01823-y",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01823-y\">doi:10.1038/d41586-026-01823-y</a></p>New research supports the value of household-level waste separation. But policies must also carefully consider consumer behaviours to maximize the quality of material collected.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2249fc3569475f1f",
+    "title": "My overseas job offer was rescinded. Here\u2019s how I bounced back",
+    "link": "https://www.nature.com/articles/d41586-026-01234-z",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01234-z\">doi:10.1038/d41586-026-01234-z</a></p>Andrew Kythreotis re-evaluated his personal and professional priorities after a mid-career opportunity to move abroad fell through.",
+    "journal": "Nature"
+  },
+  {
+    "id": "22e02075b2029d7a",
+    "title": "Seven steps for critically analysing research papers",
+    "link": "https://www.nature.com/articles/d41586-026-01209-0",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01209-0\">doi:10.1038/d41586-026-01209-0</a></p>By sticking to a clear strategy when reading, I get much more out of the literature, says Jacques Cornwell.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e565ca9fca0ffe86",
+    "title": "Ancient ground squirrels feasted on carcasses like \u2018zombies of the Pleistocene\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-01840-x",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01840-x\">doi:10.1038/d41586-026-01840-x</a></p>Fossilized poo harbours remains from mammoths, bison and big cats, including some of the oldest DNA ever reconstructed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "166d43f61edf462c",
+    "title": "How ice forms is a mystery \u2014 now scientists are cracking the case",
+    "link": "https://www.nature.com/articles/d41586-026-01817-w",
+    "content": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01817-w\">doi:10.1038/d41586-026-01817-w</a></p>Theories about how ice crystals grow in cooling liquids are wildly inaccurate when compared with experimental data, but studies are starting to illuminate the earliest moments in freezing.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f6e6bf6043592720",
+    "title": "Daily briefing: Human embryo genomes precisely altered",
+    "link": "https://www.nature.com/articles/d41586-026-01852-7",
+    "content": "<p>Nature, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01852-7\">doi:10.1038/d41586-026-01852-7</a></p>The use of 'base editing' to precisely tweak human embryos has divided researchers. Plus, the number of lives saved by less-polluting cars in China and how to tip the world towards a sustainable future.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3e6889f7344ed88e",
+    "title": "Lower Critical Solution Temperature (LCST) Mediated Direct Air Capture of Carbon Dioxide with High Capacity and Low Regeneration Energy",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01563H",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01563H, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Jiaxin  Ren, Peigong  Liu, Yuji Qin, Xi  Yuan, Xiang  Cao, Teng Zhou, Jian Zeng<br />Direct air capture of carbon dioxide has been limited by the energy-intensive thermal regeneration of adsorbents imposed by the low CO2 uptake capacity, high regeneration temperature and parasitic water evaporation....<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "b421fe417d91628a",
+    "title": "Direct electrode-to-electrode regeneration of end-of-life batteries via electrode\u2013electrolyte interphase dissolution",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01118G",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE01118G\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE01118G, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Kiwon Kim, Chenlu Yang, Sabine M. Gallagher, Shuwen Yue, Vibha Kalra<br />Selective electrode\u2013electrolyte interphase layer (EEI) dissolution enables direct electrode-to-electrode regeneration of spent Li-ion battery electrodes with up to 95% capacity recovery.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "57fbb29f52b84752",
+    "title": "Hydrogel-Based Moisture Electricity Generators: Materials, Mechanisms, and Sustainable Device Design",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01584K",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01584K, Review Article</div><div>Chengyuan  Zhang, Zhihua  Yu, Zhibin  Sun, Chengjing  Ding, Qing Xu, Bingnan  Xuan, Dong Liu, Jiangang Qu, He Shan, Mohammad A Hossain, Mingzheng Ge, Zhijie Liang, Jianying Huang, Yuekun Lai, Hui Liu<br />Global environmental crises and energy shortages pose a grave threat to human society. The widespread moisture offers an endless source of power for sustainable electricity production. However, traditional moisture electricity...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "0c4e42096f3a3ff1",
+    "title": "Defect-Directed Regeneration of LiCoO 2 Cathodes via Gradient Cobalt Reprogramming",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02083F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02083F, Paper</div><div>Siyu Zhang, Yangyang Liu, Jiang Zhou, Gen Chen, Yuping Fan, Hamdy Khamees Thabet, Yu Yao, Zhuoxi  Wu, Bingan Lu, Junwei Han<br />Direct regeneration establishes a low-carbon and resource-efficient route for recycling lithium-ion batteries, yet its practical impact is constrained by inadequate defect homogenization and an exclusive focus on restoring pristine structures...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "0db401f3778ecd0f",
+    "title": "Molecularly engineered dual-network eutectogel electrolytes for high-loading and stable zinc-iodine batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02664H",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02664H, Paper</div><div>Ling Wang, Jinpeng Guan, Na Li, Jing Li, Zhaoyu Wang, Jin Yin, Yilin Liu, Maolin Yu, Yongbiao Mu, Zetao Chen, Yuwei Li, Jianxiong Xu, Lin Zeng<br />Aqueous zinc-iodine batteries (AZIBs) are attractive for safe and low-cost energy storage, yet their practical deployment is hindered by the instability of both Zn anodes and iodine cathodes, particularly under...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "524645d2d9c49cfe",
+    "title": "Hydrogen-Bond-Engineered Polymer Dielectrics for 250 \u00b0C Operation Enabled by Deep-Learning-Based Virtual Screening",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01214K",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01214K, Paper</div><div>Jinfeng  Li, Tao  Lu, Ruize  Wang, Shiqi  Wang, Wei Jiang, Binhan  Lv, Yan Gao, Tian Zhang<br />Polymer dielectrics face inherent trade-offs among permittivity, insulation, and thermal stability above 140 \u00b0C, severely limiting high-temperature capacitive energy storage. To overcome this challenge, we deployed a deep learning framework...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "eeac982e65211fc2",
+    "title": "Author Correction: Stable tin\u2013lead perovskite inks for efficient all-perovskite tandems",
+    "link": "https://www.nature.com/articles/s41560-026-02097-4",
+    "content": "<p>Nature Energy, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02097-4\">doi:10.1038/s41560-026-02097-4</a></p>Author Correction: Stable tin\u2013lead perovskite inks for efficient all-perovskite tandems",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "90a7d670020dbc1c",
+    "title": "Unlocking Superionic Conduction by Modulating Electrostatic Interactions in a Zirconium-Based Trigonal Halide Solid Electrolyte",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00070C",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EB00070C, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Joohyeon Noh, Seungju  Yu, Sunyoung Lee, Wonju Kim, Kyungho Yoon, Sangwook Han, Junhyuk Song, Kyungbae Oh, Chanwoong Park, Daero Won, Geunji  Choi, Kangtaek Lee, Kisuk Kang<br />Halide solid electrolytes have recently emerged as promising candidates for solid-state batteries, combining high ionic conductivity, favorable cathode compatibility, and mechanical softness. Among them, the zirconium-based halide Li<small><sub>2</sub></small>ZrCl<small><sub>6</sub></small> has attracted...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "c35198bc16839fe6",
+    "title": "Stabilizing Ultra-High-Nickel Oxide Cathodes via Residual Strain Control",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004277?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Junbo Zhou, Lang Qiu, Manqi Tang, Yuting Deng, Shuli Zheng, Heng Zhang, Benhe Zhong, Xiaodong Guo</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "95c0a899d0fa7737",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70678?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "0cf4d35b6c242255",
+    "title": "Real\u2010Time Detection of Single Magnetic Nanoparticle with Interferometric Scattering Microscopy (Small Methods 11/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70681?af=R",
+    "content": "Front Cover\nIn article number e02180, Yi Ding, Wenzhong Liu, and co\u2010workers developed an integrated magnetic field regulated interferometric scattering (iSCAT) magnetic nanoparticle microscopy system, which enables real\u2010time, in\u2010situ observation and precise manipulation of individual magnetic nanoparticles. This technology breaks through the limitations of ensemble averaging measurements and opens new avenues for interdisciplinary single particle level research in fields such as biomechanics, microscopy imaging, and atomic level manufacturing.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "6a4809d902fd11b2",
+    "title": "Real\u2010Time Detection of Single Magnetic Nanoparticle with Interferometric Scattering Microscopy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502180?af=R",
+    "content": "Magnetic nanoparticles (MNPs) have broad biomedical applications, but tracking single\u2010particle dynamics remains challenging. We propose a label\u2010free method based on interferometric scattering (iSCAT) microscopy, driving MNPs\u2019 directional motion via magnetic field gradient to achieve real\u2010time detection of single MNPs in aqueous solution, offering a new approach to reveal their microscopic motion mechanisms.\n\n\n\n\n\n\n\n\nABSTRACT\nMagnetic nanoparticles (MNPs) have extensive applications in multimodal imaging, drug delivery, and cell therapy techniques due to the magnetic and chemical properties. However, existing magnetic particle imaging (MPI) can only detect the signal of hundreds of MNPs, making it difficult to track the dynamics of single MNP. Fluorescence labeling methods can achieve single\u2010particle detection, but the restrictions, such as weak signal, photobleaching, and limited temporal resolution, may make them unsuitable for real\u2010time tracking of MNPs. In this study, we propose an interferometric scattering (iSCAT) microscopy based method to track the motion of single MNP in pure water. In our method, we induce directional displacement of MNPs with applying a magnetic field gradient. Experimental results show that the motion of MNPs is consistently aligned with the magnetic field direction, validating the feasibility of the proposed method. The proposed method provides a promising approach to reveal the microscopic motion of MNPs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c95f759108467efc",
+    "title": "DNA Data Storage Architecture via Ligation of Dynamic DNA Bytes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502001?af=R",
+    "content": "This study introduces DynaByte, a modular DNA\u2010based storage architecture that enables programmable assembly, logical rewriting, and hierarchical access. By organizing information into reusable molecular building blocks and integrating error\u2010tolerant decoding, DynaByte supports file system\u2010like operations in DNA, bridging static molecular storage with dynamic, addressable information processing.\n\n\n\n\n\n\n\n\nABSTRACT\nThe explosive growth of digital data is overwhelming conventional storage media, creating an urgent need for more efficient solutions. DNA, with its ultra\u2010high density and long\u2010term stability, emerges as a promising medium; however, most current implementations remain static and archival, limiting practical utility. To address this limitation, a modular DNA data storage system built upon dynamic DNA bytes (DynaBytes)\u2014pre\u2010fabricated DNA segments that can be ligated into reconfigurable information units\u2014is presented. Within this DynaByte system, core, functional, and control DynaBytes are organized to implement a molecular file system, enabling the storage of 210,776 bits (26,347 bytes) of digital information with demonstrated CRUD (Create\u2010Read\u2010Update\u2010Delete)\u2010like operations, hierarchical access, and nanopore\u2010based real\u2010time retrieval. Robust data recovery is achieved under \u223c100x error\u2010prone sequencing through streamlined error correction and fuzzy decoding. By relying on in vitro ligation of standardized components, the DynaByte system reduces cost, scales efficiently, and supports interactive, rewritable data storage. These features advance DNA storage beyond passive archiving toward a reconfigurable framework, opening new possibilities for dynamic, practical, and large\u2010scale DNA\u2010based data systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "0c073a785d4feed9",
+    "title": "Structural Profiling of Lipid Nanoparticles at Sub\u201010 nm Resolution via AF4 Coupled Online to SAXS and SANS",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70639?af=R",
+    "content": "Dilution\u2010controlled AF4 coupled with SAXS and, for the first time, SANS enables high\u2010resolution characterization of non\u2010spherical lipid nanoparticles. Enhanced scattering contrast and D2O\u2010based measurements resolve particle features down to \u223c5 nm and reveal shape distributions. Surfactant identity controls particle morphology, providing insights crucial for rational design of lipid nanocarriers.\n\n\n\n\n\n\n\n\nABSTRACT\nPrecise mapping of structural heterogeneity at the sub\u201010\u00a0nm scale is pivotal for rational nanoparticle design, yet conventional analytical workflows remain inadequate. Here we integrate dilution\u2010controlled asymmetric flow field\u2010flow fractionation (AF4) with small\u2010angle X\u2010ray scattering (SAXS) and small\u2010angle neutron scattering (SANS) to interrogate ellipsoidal solid\u2013liquid lipid nanoparticles (LNPs). The dilution\u2010controlled AF4 mode amplifies scattering contrast, enabling robust, shape\u2010resolved analysis across entire elution profiles. Coupling AF4 to SANS in D2O further sharpens resolution for the smallest fractions by reducing particle diffusion through increased solvent viscosity. Comparative sizing shows that SAXS/SANS accurately capture primary particles down to \u223c5\u00a0nm, whereas multi\u2010angle light scattering chiefly detects loosely associated aggregates. Morphology profiling reveals that surfactant identity governs particle shape, polydispersity, and overall architecture. Joint SAXS/SANS modeling uncovers a 2\u20133\u00a0nm polar shell enveloping an internal core\u2013shell morphology. Together, these insights refine our understanding of LNP size, morphology and drug localization and establish dilution\u2010controlled AF4\u2010SAXS/SANS as a high\u2010resolution platform for dissecting complex nanoparticle systems relevant to biomedical applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "f7c9534f4cc7a69c",
+    "title": "Triple\u2010Functional Amino\u2010Coordinated Ce\u2013Cr MOF\u2010on\u2010MOF Catalyst Unifying Photocatalysis, Biocatalysis, and Photobiocatalysis for Photobiosensing Applications and Binary Dyes Removal",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70631?af=R",
+    "content": "This study constitutes the first report of an amino\u2010coordinated MOF\u2010on\u2010MOF, the first photobiosensor, and the first MOF exhibiting intrinsic photobiocatalysis, enabling multi\u2010branch applications including food safety monitoring, water quality assessment, diabetes diagnosis, and triple\u2010mode degradation of methylene blue/methyl violet binary mixtures.\n\n\n\n\n\n\n\n\nABSTRACT\nPhotobiocatalysis has focused on chemical synthesis, with no prior reports in sensing. In photobiocatalysis, MOFs serve as host matrices for co\u2010immobilizing photocatalysts and biocatalysts but lack intrinsic photobiocatalytic activity. Since most MOFs are oxygen\u2010/hetero\u2010nitrogen\u2010coordination frameworks, developing amino\u2010coordinated MOFs remains challenging. This work reports a novel amino\u2010coordinated MOF(Ce)\u2010on\u2010MOF(Cr) multifunctional catalyst (yield = 78.9%) with triple intrinsic activities\u2014photocatalytic (kapp = 0.2985 min\u22121), biocatalytic (Vmax/Km = 2.0 min\u22121), and synergistically\u2010enhanced photobiocatalytic (Vmax/Km = 3.45 min\u22121)\u2014combined with high coordination stability, and excellent reusability. The MOF(Ce)\u2010on\u2010MOF(Cr) was utilized for multianalyte photobiosensing of o\u2010phenylenediamine, H2O2, and glucose, enabling food safety monitoring, water quality assessment, and diabetes diagnosis with extended linear ranges (OPD = 1.0\u2013130.0\u00a0\u00b5m, H2O2 = 0.1\u201360.0\u00a0\u00b5m, glucose = 1.0\u2013300.0\u00a0\u00b5m), markedly lower detection limits (0.2, 0.07, and 0.51\u00a0\u00b5m, respectively), and shortened response times (3.0\u00a0min) compared with conventional biosensors. The MOF(Ce)\u2010on\u2010MOF(Cr) enables triple\u2010mode degradation of methylene blue/methyl violet binary mixtures, achieving degradation efficiencies of 99.43% (methylene blue) and 99.25% (methyl violet) within 6.0\u00a0min through photobiocatalysis, revealing 15\u2010fold and 3.3\u2010fold reductions in treatment time relative to photocatalysis and biocatalysis, respectively, while maintaining high operational (10 cycles) and long\u2010term stability (45 days). This study constitutes the first report of an amino\u2010coordinated MOF\u2010on\u2010MOF, the first photobiosensor, and the first MOF exhibiting intrinsic photobiocatalysis, enabling multi\u2010branch applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
