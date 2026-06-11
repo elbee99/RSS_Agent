@@ -887,5 +887,215 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70766?af=R",
     "content": "The various strategies employed for synthesizing complex multifunctional patchy particles are reviewed, with, as a guideline, the type of phase boundary (solid\u2010gas, liquid\u2010gas, solid\u2010liquid, and liquid\u2010liquid), that serves as the crucial ingredient for symmetry breaking.\n\n\n\n\n\n\n\n\nABSTRACT\nFunctional patchy particles, distinguishing themselves from isotropic colloids through different discrete surface domains, are critical for advanced applications such as colloidal assembly, catalysis, and biomedical purposes. In this review, we focus on the elaboration of patchy particles, categorizing the different synthesis strategies based on the specific interfacial environments employed to induce asymmetry. Recent advances, as a function of the various interfacial constraints, are reviewed: (1) solid\u2010gas interfaces, which exploit physical shadowing for directional deposition; (2) liquid\u2013gas interfaces, taking advantage of surface tension and wettability to create tunable dynamic masks for selective modification; (3) solid\u2010liquid interfaces, utilizing surface immobilization to restrict chemical access or induce site\u2010selective growth; and (4) liquid\u2010liquid interfaces, where soft boundaries facilitate symmetry breaking via thermodynamic partitioning, confinement induced assembly, and bipolar electrochemistry. By revealing the relationship between interfacial synthesis conditions, the triggered chemical reactions, and the final particle features, this review aims to provide practical insights and design principles for engineering next\u2010generation\u00a0patchy particles with tailored complexity.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4073a468c51aaa4b",
+    "title": "Developing Metal\u2013Semimetallic Transition Metal Dichalcogenide Interfaces in Plasmonic Au/NbS2 Heterostructures for Enhanced Charge Transfer and Photoelectrochemical Hydrogen Evolution Reaction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71184?af=R",
+    "content": "Plasmonic Au nanoparticles deposited on semimetallic NbS2 nanoflakes create an efficient photoelectrode for photoelectrochemical hydrogen evolution reaction (HER). The heterostructure enables strong localized surface plasmon resonance induced electromagnetic field enhancement, accelerating interfacial charge transfer and suppressing charge recombination. The Au/NbS2 heterostructure delivers significantly enhanced intrinsic HER activity, lower potential and hydrogen production under solar illumination.\n\n\n\n\n\n\n\n\nABSTRACT\nThe development of cost\u2010effective and highly\u2010efficient photoelectrodes (PE) is critical for advancing solar driven photoelectrochemical (PEC) hydrogen (H2) production technologies. For enhancing PEC performance, it appears promising to combine plasmonic nanoparticles with active catalysts. Here we report a facile and powerful PE comprised of Au nanoparticles (NP) decorated on NbS2 nanoflakes (NF), directly grown on the carbon fiber paper. In this heterostructure, Au NP acts as plasmonic antennas that intensify local electromagnetic fields strengthening light matter interactions, NbS2 NF functions as a highly conductive semimetal scaffold offering abundant active HER sites, and the junction of Au NP/NbS2 NF enables efficient charge separation and fast electron transfer from NbS2 to Au, thereby synergistically accelerating HER kinetics under illumination. Consequently, this Au NP/NbS2 NF heterostructure, for the first time, demonstrates remarkable PEC performance under illumination, such as a 6\u2010fold increase in the exchange current density, a 1.75\u2010fold reduction in overpotential, and a 2.45\u2010fold yield in the H2 production, respectively. Based on the heterostructure of Au NP/NbS2 NF, this work establishes a strategy of constructing a cost\u2010effective and highly\u2010efficient PE and providing valuable insights into the rational design of next generation PE for the sustainable hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "9d166fec88201ddd",
+    "title": "Precision Atomic Doping of Nanoalloy Electrocatalysts: Unlocking New Paths for Efficient Hydrogen Evolution Reaction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71156?af=R",
+    "content": "This review focuses on precision atomic doping of nanoalloy electrocatalysts (NAEs) for the hydrogen evolution reaction (HER), covering fundamental mechanisms, synthesis strategies, dopant classifications, and the resultant multifaceted optimization of catalytic performance.\n\n\n\n\n\n\n\n\nABSTRACT\nHydrogen production via water electrolysis is a key solution to the global energy crisis. Platinum\u2010group catalysts, while highly efficient for the hydrogen evolution reaction (HER), are limited by their scarcity and high cost, restricting their industrial application. Nanoalloy electrocatalysts (NAEs) have emerged as promising alternatives due to their adjustable electronic structures, high conductivity, and synergistic active sites. However, they still face challenges in balancing activity and stability, as well as in reaction kinetics. Research shows that precision doping can enhance NAEs' performance by tailoring electronic configurations, optimizing adsorption energetics, and exposing latent active sites. This review explores the mechanistic basis of these doping effects by examining HER mechanisms in acidic and basic media. It systematically categorizes and summarizes doping methods, dividing dopants into noble metals, non\u2010noble metals, and non\u2010metals, and detailing their roles and characteristics. A \u201cRelative Improvement (RI)\u201d metric is introduced to quantitatively benchmark performance gains. The review also delves into emerging frontiers like operando characterization, circular catalyst design, and integration with alternative anodic reactions. By highlighting atomic\u2010level doping as crucial for next\u2010generation electrolyzers, this review aims to advance economically viable green hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "0408684e8ffb3f9d",
+    "title": "A Kinetic\u2013Energetic Bottleneck of Charge\u2010Transfer Injection Governs Energy Loss in Organic Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71177?af=R",
+    "content": "Kinetic\u2013energetic projection of time\u2010resolved photoluminescence reveals that charge\u2010transfer injection acts as a universal bottleneck in organic solar cells. A physics\u2010constrained Bayesian framework identifies an emergent effective CT injection rate governing the trade\u2010off between charge generation and nonradiative energy loss.\n\n\n\n\n\n\n\n\nABSTRACT\nThe charge\u2010transfer (CT) state in organic solar cells constitutes a kinetic\u2013energetic bottleneck that simultaneously controls charge generation and nonradiative voltage loss. By combining time\u2010resolved photoluminescence (100\u00a0ps\u201320\u00a0ns) with a physics\u2010constrained Bayesian optimization framework, we show that the multidimensional kinetic network collapses onto a single emergent descriptor: the effective CT injection rate, kCT. Crucially, kCT is not a microscopic rate constant but a renormalized collective parameter arising from the coupled competition among exciton injection, CT population redistribution, and CT nonradiative recombination. Across six donor\u2013acceptor systems spanning nearly two orders of magnitude in kCT, we uncover a universal scaling: each decade increase in injection rate incurs an additional \u223c85 meV nonradiative energy loss. This scaling reveals an intrinsic kinetic\u2013energetic trade\u2010off imposed by the topology of the CT manifold\u2014accelerating injection inevitably amplifies recombination loss. Breaking this bottleneck requires restructuring the CT network to decouple charge dissociation from recombination pathways, offering a route beyond the present voltage ceiling of organic photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "a0f4e9b8be35c339",
+    "title": "Aluminum\u2010Directed Amphoteric Self\u2010Reconstruction in High\u2010Entropy AlFeCoNiCuCr\u2010LDH for Efficient Overall Water Splitting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71178?af=R",
+    "content": "In this work, AlFeCoNiCuCr\u2010LDH (Al\u2010HELDH) was synthesized as a bifunctional electrocatalyst for overall water splitting. A controllable electrochemical reconstruction strategy was employed to enhance both activity and stability after activation. By exploiting the amphoteric nature of Al, the surface evolution was directionally regulated. Selective Al leaching exposed more catalytically active sites, while an in situ formed Al(OH)x layer stabilized the interface. This adaptive catalytic interface facilitates interfacial water adsorption and dissociation, accelerates reaction kinetics, and effectively suppresses structural degradation and metal dissolution during prolonged operation, resulting in a comprehensive improvement in overall electrocatalytic performance.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrochemical self\u2010reconstruction in high\u2010entropy catalysts governs their catalytic activity and stability. However, uncontrolled structural evolution often led to performance degradation, rendering the precise modulation of these interfacial pathways a major bottleneck. Herein, we report an aluminum\u2010containing high\u2010entropy layered double hydroxide (Al\u2010HELDH) and elucidate its amphoteric self\u2010reconstruction mechanism. During electrochemical activation, selective leaching of amphoteric aluminum species significantly enhances access to metal active sites while inducing formation of surface\u2010enriched Al(OH)x hydroxyl layers. This hydroxylated interface effectively regulates adsorption and dissociation processes, stabilizing the reconfigured catalytic surface and simultaneously boosting catalytic activity and durability. In situ spectroscopy and density functional theory calculations confirm Ni as the primary catalytic center, with other metal species cooperatively modulating the local electronic environment. Benefiting from synergistic high\u2010entropy effects and a functional Al(OH)x interface layer, reconstructed Al\u2010HELDH significantly reduces interfacial energy barriers for key reaction steps and accelerates reaction kinetics. The catalyst exhibits overpotentials of 64 and 226\u00a0mV for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) at a current density of 10\u00a0mA\u00a0cm\u22122, respectively, while maintaining stable operation for over 1000\u00a0h. This work establishes a reconstruction\u2010based design strategy, providing a robust pathway for developing non\u2010precious metal bifunctional catalysts for sustainable hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6a1f1e1bf4703be8",
+    "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+    "link": "https://www.nature.com/articles/s41586-026-10784-1",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10784-1\">doi:10.1038/s41586-026-10784-1</a></p>Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+    "journal": "Nature"
+  },
+  {
+    "id": "abbd37450c2d9c26",
+    "title": "Whale graveyard discovered 7km under the sea",
+    "link": "https://www.nature.com/articles/d41586-026-01886-x",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01886-x\">doi:10.1038/d41586-026-01886-x</a></p>The treasure trove of fossils and bones has already revealed a new species of extinct whale.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e177d1e2ac5323e2",
+    "title": "My diverse academic background is affecting my PhD studies \u2014 what do I do?",
+    "link": "https://www.nature.com/articles/d41586-026-01129-z",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01129-z\">doi:10.1038/d41586-026-01129-z</a></p>A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5406043a97799b31",
+    "title": "Tool flags suspicious journals before researchers submit papers",
+    "link": "https://www.nature.com/articles/d41586-026-01707-1",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01707-1\">doi:10.1038/d41586-026-01707-1</a></p>The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bf744ec687a0153b",
+    "title": "\u2018Footballers are not superheroes\u2019: we must tackle the mental and physical pressures of elite sport",
+    "link": "https://www.nature.com/articles/d41586-026-01865-2",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01865-2\">doi:10.1038/d41586-026-01865-2</a></p>As the men\u2019s football World Cup gets under way, how the game weighs on the health of athletes still isn\u2019t talked about enough, says player-turned-medic Vincent Gouttebarge.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ee4e644638b57a5f",
+    "title": "This World Cup could be the most high-tech yet \u2014 the innovations to watch for",
+    "link": "https://www.nature.com/articles/d41586-026-01866-1",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01866-1\">doi:10.1038/d41586-026-01866-1</a></p>Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0161590e3ecf1cd8",
+    "title": "Revealed: how Venus flytraps snap shut with astonishing speed",
+    "link": "https://www.nature.com/articles/d41586-026-01857-2",
+    "content": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01857-2\">doi:10.1038/d41586-026-01857-2</a></p>Softening of the cells on the outermost suface of the trap lets the plant move at a breakneck pace.",
+    "journal": "Nature"
+  },
+  {
+    "id": "90116449e3dd7cb2",
+    "title": "Daily briefing: Ancient ground squirrels ate like \u2018zombies of the Pleistocene\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-01878-x",
+    "content": "<p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01878-x\">doi:10.1038/d41586-026-01878-x</a></p>Evidence from fossilized poo reveals the diverse diet of ancient ground squirrels. Plus, the science behind the peptide craze and our innate tendency to wander anticlockwise.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5c67548478d20e78",
+    "title": "Integrating atomic scale catalyst design with transport engineering for stable and efficient CO2 electrolysis to CO in a membrane electrode assembly",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00129G",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE00129G\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE00129G, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Zahra Teimouri, Mahtab Masouminia, Ashkan Irannezhad, Reza Eslami, Joseph Deering, Navid Noor, Shunquan Tan, Amirhossein Foroozan Ebrahimy, Shayan Angizi, Sung-Fu Hung, Drew Higgins<br />We identify three factors governing NiNC performance in MEA CO<small><sub>2</sub></small> electrolysis: nitrogen precursor impregnation, chelating-agent-assisted synthesis, and carbon support morphology, which collectively determine catalyst-layer structure and performance.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "7ac589aeef69edd2",
+    "title": "Stabilizing the Buried Interface via Inorganic-Organic Hybrid Layers for High-Performance Perovskite Photovoltaics",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01195K",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01195K, Paper</div><div>Yulin Xie, Ziwei  Zheng, Huazhong  Liu, Lin Li, Kai Gao, Xiong Li<br />Inverted perovskite solar cells, owing to their excellent stability and high compatibility with tandem technologies, have emerged as the most commercially promising new-generation photovoltaic technology. Self-assembled monolayers (SAMs) serve as...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "47a1d832108c18dd",
+    "title": "AI-Driven Approaches for Navigating Battery Complexity",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00101G",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EB00101G, Minireview</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Sai Gowtham Allu, Rehan Hasnain, Andrew Vos, Paraskevi Flouda<br />Artificial intelligence (AI) is emerging as a powerful approach for navigating the complexity of battery materials and electrochemical systems. This mini-review highlights recent advances in AI-enabled battery research from a...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "89418d32e769610c",
+    "title": "Breaking the Voltage-Dependent Degradation Paradigm: High Cut-Off Voltage Enables Stable Cycling of Single-Crystal Lithium-Rich Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004101?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jianan Hao, Jinyang Dong, Yibiao Guan, Yun Lu, Yujia Wu, Huiquan Che, Teng Yang, Yiya Wang, Ning Li, Bin Zhang, Yuefeng Su, Feng Wu, Lai Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "951bf9669f0f4bb0",
+    "title": "Ion-gradient leveling through salt-bridge-inspired porous membrane-lithium assembly",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004307?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Doo-Young Youn, Jiyoung Lee, Mingyu Sagong, Yoonjae Cho, Haeseong Lim, Jiwon Seo, Sungyoon Kim, Dae-Kwon Boo, Jun Young Cheong, Jaehyeong Bae, Dong-Hwa Seo, Cafer T. Yavuz, Ji-Won Jung, Il-Doo Kim</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "847e19dec907cd6a",
+    "title": "Design-Driven Multi-Element Doping for Long-Life High-Ni NCM Cathodes: Criteria-Guided Dopant Selection and One-Pot Element-Specific Intraparticle Placement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004319?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 10 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Nam Kyeong Lee, Sol Hui Park, Sung-Hwa Eo, Yun Jung Lee</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "9827d4d34dcd6a0b",
+    "title": "Polyelectrolyte functionalized photothermally active surface charge effective tuned porous wood as ambient evaporation induced hydrovoltaic energy harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004167?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Sujith Lal, Thirumalaisamy Suryaprabha, Li-Yang Liu, Byungil Hwang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "fcebd95abeb6757a",
+    "title": "Rational two-step point-defect engineering enables high power factor in SrTiO<sub>3</sub> thermoelectrics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004209?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Rongrong Li, Tong Song, Yihua Zhang, Chaoliang Zhang, Guyang Peng, Yuxuan Yang, Zhiwei Zhang, Zhihao Zhao, Tianle Xie, Yang Zhang, Yushan Guo, Yuetao Zhang, Xingwu Zou, Jinxiao Bao, Jun Sun, Xiangdong Ding, Haijun Wu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "c7adca40de0b3279",
+    "title": "Rapid dealloying and activation engineering for eutectic high-entropy alloy electrodes in high-current-density overall water splitting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004106?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Si-Cheng Zhong, Jia Li, Hao-Ran Liu, Zhe Cui, Guang-Run Tian, Fa-Chang Zhao, Jie-Fu Xiong, Li-Chen Wang, Xiaoxuan Wang, Yi-Bo Wang, Jun Xiang, Fu-Fa Wu, Rong-Da Zhao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "30c0abd75bba00ac",
+    "title": "Compact hybrid synchronous wireless triboelectric sensors for tacholess bearing speed and health monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004155?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Shuai Li, Shuai Gao, Ruoke Qin, Jintao Xiao, Qinkai Han, Gang Chen, Liming Wang, Wenbin Huang, Huayan Pu, Jun Luo</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1917a37ae7c9e425",
+    "title": "Nanoconfined iontronics: Modular nano-bricks for programmable ion transport",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004179?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Lixue Yang, Ari Ivaska, Zhe Wang, Carita Kvarnstr\u00f6m, Zhong Lin Wang, Di Wei</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1191483ca5b76b6b",
+    "title": "Functional Repurposing of Magnetic Nanoparticle\u2010Assisted Hyperthermia for Immune Cell Labelling and Tracking",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502416?af=R",
+    "content": "We propose mild\u2010MHT protocol for the quick internalization of magnetic nanoparticles (MNPs) by immune cells. The heat induced by MNPs under alternating magnetic field stimulate MNPs diffusion and cell membrane invagination, accelerating the cellular internalization of MNPs.\n\n\n\n\n\n\n\n\nABSTRACT\nImmune cell therapies show promise in hematologic malignancies and are becoming more effective in solid tumors like lungs, melanoma, and colorectal cancers. Magnetic nanoparticles (MNPs) are mostly used as tracers via magnetic particle imaging(MPI) or magnetic resonance imaging(MRI), and heat mediators to monitor and kill cancer cells via magnetic hyperthermia (MHT). Here, we apply a mild\u2010MHT protocol (38\u201341\u00b0C/60\u00a0min) as a new means to boost MNPs uptake by immune cells under a harmless alternating magnetic field (AMF). Various MNPs formulations, including iron oxide or zinc\u2010ferrite compositions stabilized by different polymers, were selected for their heating performance and colloidal stability. NK\u201092 cell line and NK cells from healthy donors exhibited enhanced MNP internalization upon AMF exposure without compromising viability, receptor expression, and effector functions. MNP\u2010loaded NK cells retained cytotoxic activity, degranulating upon ligand engagement on glioblastoma and neuroblastoma targets. Similar outcomes were achieved with T cells. Thanks to its simplicity, this MHT\u2010protocol is suitable for clinical translation, as it can be straightforwardly integrated into existing GMP\u2010compliant adoptive cell therapy workflows in a hospital cell factory, enabling the preparation of magnetically tagged immune cells ready for tracking in cell therapy infusion.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "f71edeb17db2c908",
+    "title": "Thermo\u2010Photo Dual\u2010Curing Enables Dense Polymer Networks Toward Robust and Fluorine\u2010Free Superhydrophobic Coatings",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70778?af=R",
+    "content": "This study presents a thermo\u2011photo dual\u2011curing strategy to address the mechanical fragility and environmental risks associated with conventional superhydrophobic coatings. By leveraging a dense polymer network and synergistic micro\u2011nano fillers, the resulting fluorine\u2011free coating exhibits excellent wear resistance, self\u2011cleaning, and anti\u2011icing performance, while demonstrating promising potential for mitigating rain\u2011induced signal attenuation in communication systems.\n\n\n\n\n\n\n\n\nABSTRACT\nSuperhydrophobic surfaces have demonstrated broad application prospects in fields such as antifouling, self\u2010cleaning, and anti\u2010icing. However, their insufficient mechanical durability has significantly hindered practical large\u2010scale application. This study presents a highly durable fluorine\u2010free superhydrophobic coating fabricated via a thermo\u2010photo dual\u2010curing mechanism. The modified silicone resin first undergoes thermally induced silanol condensation to form a primary network, then initiates free radical polymerization via UV light with butyl methacrylate to establish a secondary network. This interpenetrating dual\u2010network firmly anchors micro\u2011/nano\u2011fillers, greatly improving wear resistance. Nano\u2011silica (n\u2011SiO2) provides essential roughness, while surface\u2011modified h\u2011BN enhances mechanical robustness through its unique micro\u2011scale lamellar structure. Furthermore, the dual curing process enriches the surface with densely packed octyl/butyl chains, sharply lowering surface energy for fluorine\u2011free superhydrophobicity. The coating maintains superhydrophobicity after 66\u00a0m of abrasion with 1000\u2011grit sandpaper under 9.8\u00a0kPa and shows excellent chemical/thermal stability. It also exhibits low ice adhesion of 19.6\u00a0kPa and a \u223c14\u2011fold longer ice delay time, confirming exceptional anti\u2011icing performance. When applied to an antenna hood, it suppresses rain\u2011induced signal attenuation, proving practical value in communication protection. Overall, this work provides a new material\u2011engineering strategy for durable and environmentally benign superhydrophobic coatings, with promising potential for scalable field applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "16631c9ee2d5ddeb",
+    "title": "Microbe\u2010Mediated Precision Doping of Transition Metal Oxide in Alumina Nanorods for Highly Selective Catalysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70780?af=R",
+    "content": "A novel, mild, and environmentally friendly strategy of Sporosarcina pasteurii mediated urea enzymolysis is presented for one\u2010pot precision doping of highly dispersed MOx (M = Fe, Co, Ni, Cu) into Al2O3 nanorods. The typical Co3O4\u2010Al2O3 nanorods show promising activation of peroxymonosulfate for selective oxidation of aromatic alcohol to aromatic aldehydes/ketones.\n\n\n\n\n\n\n\n\nABSTRACT\nWe present a novel, mild, and environmentally friendly strategy for one\u2010pot precision doping of highly dispersed MOx (M = Fe, Co, Ni, Cu) in Al2O3 nanorods by Sporosarcina pasteurii (S. pasteurii)\u2010mediated urea enzymolysis. S. pasteurii shows better tolerance to the toxicity of M ions and ensures the complete enzymolysis of urea with the coexistence of those ions with Al(III), and thus facilitates the preparation of well\u2010shaped M(OH)x\u2010NH4Al(OH)2CO3 nanorods and uniform MOx\u2010doping Al2O3 nanorods after calcination. The growth process and structure of the proposed nanorods were fully discussed. The function of the typical Co3O4\u2010Al2O3 nanorods was evaluated by activation of peroxymonosulfate (PMS) for selective oxidation of benzyl alcohol (BA) to benzaldehyde (BAD). The catalysis of Co3O4\u2010Al2O3 nanorods gives BA conversion rate of 13.5\u00a0mmol\u00a0g\u22121\u00a0h\u22121, with 81.7% BA conversion and 75.2% BAD selectivity for 5\u00a0h reaction, while the combination of Co3O4\u2010Al2O3 nanorods and Br\u2212 promotes the generation of carbon centered radicals, significantly increases BA conversion rate to 21.4\u00a0mmol\u00a0g\u22121\u00a0h\u22121, with 90.0% BA conversion and 93.4% BAD selectivity for 3\u00a0h reaction. This work provides a novel approach to the biosynthesis of 1D nanomaterials and introduces a new concept of combination of Co3O4\u2010Al2O3 nanorods and Br\u2212 for PMS activation in selective catalytic oxidation.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "918d57ce450ee493",
+    "title": "Pyrene Derivative\u2010Based Electrode for Electrochemical Sensing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70773?af=R",
+    "content": "A functionalized pyrene derivative (PY) on screen\u2010printed carbon electrodes enables a versatile, non\u2010affinity platform for direct biomarker detection. Cortisol modulates the intrinsic electrochemical signal of PY, allowing label\u2010free sensing. Molecular dynamics simulations reveal stable multisite interactions, highlighting a robust, low\u2010cost approach without biological receptors.\n\n\n\n\n\n\n\n\nABSTRACT\nIn this work, screen\u2010printed carbon electrodes were modified with a pyrene derivative (PY) to enhance their electrochemical sensing performance. Their applicability was demonstrated in cortisol detection, used here as a model biomarker. This derivative consists of a pyrene functionalized with a pendant group containing a carboxyl function bonded to an aromatic moiety through an amide linkage. The electrode's performance in relation to cortisol was assessed using differential pulse voltammetry (DPV). The results demonstrate the potential of this PY\u2010based electrode as a simple electrochemical sensing platform without the need for biological recognition elements or molecular probes. Molecular dynamics (MD) simulations provided molecular\u2010level insights into the interactions between the pyrene derivative and cortisol. Overall, the study highlights the\u00a0potential applicability\u00a0of this pyrene derivative in the development of low\u2010cost electrochemical sensing platforms and simplified detection protocols.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "1e8bb65c648e81eb",
+    "title": "Plasma Enabled Hierarchical Surface Reconstruction of Nanoengineered, Dendrite\u2010Free Zn Metal for Durable Aqueous Zinc Ion Battery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70774?af=R",
+    "content": "Hierarchical Surface reconstruction of Zn metal anode was achieved by low\u2010temperature and single step Ar plasma process which effectively reduced surface impurities and roughness in micron scale and formation of uniform Zn nanoisland seed\u2010layer in nanoscale. In turn, uniform and homogenous Zn plating/de\u2010plating was achieved without the dendrite formation with suppressed side reactions for long\u2010term stable aqueous zinc ion batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous Zinc\u2010ion batteries (AZIBs) are receiving significant attention due to their high volumetric energy density, increased safety and lower cost compared to alternative energy storage systems. The use of Zinc metal as an anode, however, creates stability challenges due to dendrite formation as well as side reactions from surface imperfections. In this work, hierarchical surface modification to Zinc metal anodes via a low energy, scalable Argon plasma is introduced. This approach smooths surfaces and heals defects on a micron scale while simultaneously Zinc nanoisland seed layers are formed. Plasma induced surface reconstruction also leads to a significant reduction in surface impurities. Moreover, Zinc nanoisland seed layers are found to be beneficial for suppressing the dendrite formation through surface homogenization. Unlike unstable and short\u2010lived bare Zn metal anodes, plasma treated anodes exhibits enhanced rate performances and superior stability even after long\u2010term cycling demonstrated by symmetric cell test and full cell tests with both MnO2 and V2O5 cathode tested under different electrolytes. These results demonstrate that plasma enabled surface modification of Zn metal anode is an effective strategy for improving the overall AZIB performance, especially the cycling stability in a facile manner, resolving one of the key challenges to commercializing AZIBs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "dcd1e69553320c29",
+    "title": "Room Temperature Conversion of CO2 Into Graphitic Carbon Quantum Dots by Field\u2010Induced Electron Localization at Ag Nanoparticles/Electric\u00a0Double Layer Interface",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70765?af=R",
+    "content": "Field\u2010induced electron localization at the Ag nanoparticle/electric double layer interface enables room\u2010temperature conversion of CO2 captured in amine solution into graphitic carbon quantum dots (g\u2010CQDs). Rapid electron injection at low bias forms a dynamic interfacial electron layer that drives CO2 reduction via CO intermediates and C2 coupling, producing crystalline g\u2010CQDs with minimal byproducts and exceptionally low energy consumption.\n\n\n\n\n\n\n\n\nABSTRACT\nConverting CO2 into solid carbon under mild conditions remains one of the foremost challenges. Here, a field\u2010induced electron localization strategy that enables room\u2010temperature transformation of CO2 captured in amine solution into graphitic carbon quantum dots (g\u2010CQDs) is reported. Rapid electron injection (at relatively low bias \u20131.3 to \u22121.7\u00a0V vs. Ag/AgCl) to a nanoscale AgO/Ag interface stabilized by the [BMIM]+[BF4]\u2212 ionic liquid generates a dynamic interfacial electron layer that sustains continuous electron transfer under a strong localized electric field. Operando Ag K\u2010Edge XANES combined with theoretical simulations reveal pronounced electron localization at the Ag nanoparticle/electric double layer (Ag\u2212EDL) interface, which activates CO2 reduction via CO intermediates and C2\u2010radical coupling, yielding g\u2010CQDs with negligible gaseous and liquid byproducts. The process requires only 0.9\u00a0kWh\u00a0kg\u22121 C, representing a record low energy demand for solid\u2010carbon formation from CO2 under ambient conditions. Scaled operation in a 2\u2010L reactor demonstrates steady g\u2010CQD production and incorporation of only 0.05\u00a0wt.% of the CO2\u2010derived g\u2010CQDs into Portland cement enhances compressive strength of the cement mortar by \u224840%, attributed to the high dispersibility and nucleation activity of g\u2010CQDs. This work establishes field\u2010induced electron localization as a versatile platform for ambient CO2 conversion into value\u2010added carbon nanomaterials.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "0f5d5a5d7551d0d5",
+    "title": "Epx4 Nanopore With Multiple Constrictions for Single\u2010Molecule Identification",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70762?af=R",
+    "content": "Epx4 is a biological multi\u2010constriction nanopore that generates informative current signals for polypeptide sensing. Compared with \u03b1\u2010hemolysin, Epx4 detects short poly\u2010L\u2010lysine (S\u2010PLL, Mw 10 kDa) at a higher event frequency and produces signal features that distinguish it from long poly\u2010L\u2010lysine (L\u2010PLL, Mw 30\u201370 kDa), with an ROC AUC of 0.82 for the single\u2010molecule identification.\n\n\n\n\n\n\n\n\nABSTRACT\nNanopore technology enables rapid, portable, and label\u2010free single\u2010molecule detection of analytes, including nucleic acids and proteins. One strategy for improving accuracy is to increase interactions between analytes and the nanopore. For example, engineered nanopores with additional constrictions improve analyte\u2010pore interactions during translocation. This concept adopts the exploration of biological nanopores, which naturally contain multiple constrictions. Here, we demonstrate that Epx4, a pore\u2010forming toxin with two independent \u03b2\u2010barrels, functions as a nanopore sensor capable of generating informative ionic current signals during polypeptide translocation. Structural analysis of the pore geometry revealed that Epx4 contains up to four constrictions. In single\u2010molecule measurements, Epx4 detected cationic polypeptides with a higher event frequency than \u03b1\u2010hemolysin (\u03b1HL). With machine\u2010learning\u2010assisted analysis, Epx4 achieved an ROC AUC score of 0.82 and an F1 score of 0.72, both of which were higher than those obtained with \u03b1HL. Our findings suggest that Epx4 is a promising candidate for developing nanopore sensors with high accuracy for protein analysis.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
