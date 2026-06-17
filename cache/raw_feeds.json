@@ -229,5 +229,110 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70768?af=R",
     "content": "A synchrotron\u2010based time\u2010resolved grazing\u2010incidence X\u2010ray diffraction platform was developed to simultaneously measure surface temperature and structural evolution during flash lamp annealing. With 200 \u00b5s temporal resolution, the method captures transient crystallization dynamics in hafnia\u2010based ferroelectric thin films and reveals distinct thermal and structural relaxation timescales. Direct correlation of temperature and phase evolution shows that ferroelectric phase formation can be achieved with thermal budgets several orders of magnitude lower than conventional annealing.\n\n\n\n\n\n\n\n\nABSTRACT\nFlash lamp annealing (FLA) enables sub\u2010millisecond thermal processing with low thermal budgets, but the extreme heating and cooling rates have so far prevented direct, time\u2010resolved temperature metrology and observation of structural transformations in nanometer\u2010scale thin films. We present a custom FLA system, integrated with halogen lamp annealing, for time\u2010resolved synchrotron grazing\u2010incidence X\u2010ray diffraction (GIXRD), achieving 200 \u00b5s temporal resolution to directly track reversible and irreversible structural evolution during FLA. We achieve simultaneous real\u2010time surface temperature measurement and visualization of structural transformation in ultra\u2010thin hafnia\u2010based ferroelectric layers of intensive interest for future non\u2010volatile memory applications. The measurements reveal two distinct characteristic timescales: rapid post\u2010flash thermal relaxation of the metal\u2013ferroelectric\u2013metal stack and a slower phase evolution within the ferroelectric layer. By correlating transient thermal profiles with diffraction signatures, we quantify the thermal budget required to induce the desired ferroelectric phase and show that it is several orders of magnitude lower than conventional annealing, while still achieving a large remanent polarization of 36 \u00b5C/cm2. This method enables direct, time\u2010resolved observation of ultrafast crystallization and phase transformation processes in nanometer\u2010scale thin films and provides a general experimental framework for studying pulsed thermal processing of nanoscale materials for a wide range of advanced technologies.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "d56ca7ff74c7dd45",
+    "title": "Entropy-Regulated Dielectric Friction in Eutectic Electrolyte Unlocks 150\u00b0C High-Performance Li Metal Batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02417C",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02417C, Paper</div><div>Yaodong  Huo, Duanduan  Li, Chunkun  Song, Qiyue  Zhao, Yongqi  Wang, Yong Gao, Tuotuo  Ma, Xiaojun Gu, Yuliang Gao<br />The poor high-temperature performance of conventional electrolytes limits the application of Li metal batteries under extreme scenarios. Here, we propose a novel insight into dielectric friction-regulated electrolytes and, based on...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "c6cee99f64889340",
+    "title": "Electron-Withdrawing Chemistry Drives Ultrafast-Charging Interphases for Sodium-ion Batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01449F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01449F, Paper</div><div>Fu-Qiang Li, Zhichao Li, Dongfang  Dong, Cheng Yang, Yu Liu, Yanfeng Gao<br />Fast charging and long-term cyclability in sodium-ion batteries are fundamentally limited by unstable, ion-transport-limited solid electrolyte interphases (SEI) arising from solvent-dominated Na\u207a solvation structures in conventional carbonate electrolytes. These intrinsic...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "f0686a0f2835f0a6",
+    "title": "Inline quality grading of commercial lithium-ion battery manufacturing via da-ta-efficient learning and transferable assessment",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02209J",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02209J, Paper</div><div>Chen Liang, Shengyu Tao, Chunqiu  Xia, Xinghao  Huang, Hang  Hu, Rui  Wang, Daoyi  Dong, Ziyang  Lyu, Guangmin Zhou, Huadong MO<br />Lithium-ion battery manufacturing involves a complex sequence of tightly coupled processes, making reliable quality grading essential for ensuring cell consistency, production efficiency, and product reliability. However, existing grading paradigms rely...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "12ed3588f0066c69",
+    "title": "Engineering strategies toward scalable CO2-to-liquid-fuel photoelectrolysis",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00213-8?rss=yes",
+    "content": "This review analyzes the engineering barriers that limit the scale-up of CO2-to-liquid-fuel photoelectrolysis. It outlines how advances in reactor architecture, illumination control, and product management could enable practical solar-to-fuel conversion systems that achieve concentrated liquid products.",
+    "journal": "Joule"
+  },
+  {
+    "id": "4616fa0d99a1cc53",
+    "title": "The PAINT database for operational concentrating solar power plant data following FAIR data principles",
+    "link": "https://www.nature.com/articles/s41560-026-02070-1",
+    "content": "<p>Nature Energy, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02070-1\">doi:10.1038/s41560-026-02070-1</a></p>The limited availability of operational data slows the development of concentrating solar power. To address this issue, Phipps et al. developed PAINT, a FAIR, open-access database that compiles multi-year data from a plant in J\u00fclich, Germany.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "0137877069e31dcd",
+    "title": "Discovery and characterization of a nickel enzyme family that catalyses intermolecular hydride shuttling",
+    "link": "https://www.nature.com/articles/s41557-026-02184-9",
+    "content": "<p>Nature Chemistry, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02184-9\">doi:10.1038/s41557-026-02184-9</a></p>There is limited understanding of nickel-catalysed chemistry in nature. Now a bioinformatic pipeline reveals a structurally distinct family of nickel pincer nucleotide-dependent enzymes. Nickel pincer hydride transferase (NphT) was found to catalyse intermolecular hydride transfer by characterizing its crystal structure, conducting structure-guided mutagenesis and measuring its capacity to disproportionate sugars.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "158ba7a923a0fff8",
+    "title": "Potent and biased agonists of class B1 GPCRs from a heterochiral design strategy",
+    "link": "https://www.nature.com/articles/s41557-026-02182-x",
+    "content": "<p>Nature Chemistry, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02182-x\">doi:10.1038/s41557-026-02182-x</a></p>Many peptides that activate class B1 GPCRs, such as the glucagon receptor (GCGR) or the parathyroid hormone receptor-1 (PTH1R4), are \u03b1-helical in the active receptor-bound form. Now, despite destabilizing the helical conformation of parent glucagon and PTH agonists, the presented design strategy generates potent and biased heterochiral analogues by replacing select l-\u03b1-amino-acid residues with d-\u03b1-amino acids.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "8512f232fa384363",
+    "title": "Isotropic zero thermal expansion in sodalite crystals from 11 to 893\u2009K",
+    "link": "https://www.nature.com/articles/s41557-026-02174-x",
+    "content": "<p>Nature Chemistry, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02174-x\">doi:10.1038/s41557-026-02174-x</a></p>Phonon engineering of zero thermal expansion materials faces a trade-off between open frameworks, which can enable negative thermal expansion through transverse vibrations but can suffer from thermal instability, and closed frameworks, which are more robust yet exhibit weaker negative thermal expansion. Now, fractional atomic occupancy in sodalite-type closed frameworks is shown to exhibit isotropic zero thermal expansion over a wide temperature range.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "accd8098f74ddb91",
+    "title": "An alkyl-swap platform for late-stage modification of secondary <i>N</i>-methylamines",
+    "link": "https://www.nature.com/articles/s41557-026-02178-7",
+    "content": "<p>Nature Chemistry, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02178-7\">doi:10.1038/s41557-026-02178-7</a></p>The selective functionalization of unprotected amines with alkenes remains a challenge in contemporary synthesis. Now a strategy has been developed for an alkyl swap of N-methylamines, enabling late-stage bioconjugation and peptide modification. The resulting retrosynthetic disconnection also streamlines the preparation of several pharmaceuticals and medicinally relevant compounds.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "a2da87eba40ab085",
+    "title": "Copper-catalysed site-selective arylation of pyrazoles",
+    "link": "https://www.nature.com/articles/s41557-026-02148-z",
+    "content": "<p>Nature Chemistry, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02148-z\">doi:10.1038/s41557-026-02148-z</a></p>N-aryl pyrazole is a prevalent motif among pharmaceuticals across various therapeutic areas but can be challenging to synthesize due to the high similarity of the two nitrogen atoms. Now it has been shown that the use of copper catalysis and arynes provides a switchable protocol to access both regioisomers.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "badc3ab7bcbac603",
+    "title": "Charge transport through linear carbon atomic chains",
+    "link": "https://www.nature.com/articles/s41557-026-02175-w",
+    "content": "<p>Nature Chemistry, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02175-w\">doi:10.1038/s41557-026-02175-w</a></p>Extreme reactivity has long hindered the study of linear atomic carbon chains (carbyne). Now it has been shown that transmetallation of suitable precursors overcomes stability issues, delivering 1D Au|Cn|Au junctions that sustain high currents through a cumulene \u22efC=C=C=C\u22ef valence structure with 12 or more carbon atoms and enabling their potential for 1D electronics.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "0416917ebac9908a",
+    "title": "Author Correction: [2+2] Photocycloaddition reactions of sulfinylamines with alkenes to access \u03b2-sultam derivatives",
+    "link": "https://www.nature.com/articles/s41557-026-02198-3",
+    "content": "<p>Nature Chemistry, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02198-3\">doi:10.1038/s41557-026-02198-3</a></p>Author Correction: [2+2] Photocycloaddition reactions of sulfinylamines with alkenes to access \u03b2-sultam derivatives",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "66007216b56ae83a",
+    "title": "Aromatic ring flips reveal reshaping of protein dynamics in crystals and complexes",
+    "link": "https://www.nature.com/articles/s41557-026-02155-0",
+    "content": "<p>Nature Chemistry, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02155-0\">doi:10.1038/s41557-026-02155-0</a></p>The extent to which crystal packing constrains protein dynamics is hard to decipher. Now a combination of NMR, crystallography and molecular dynamics simulations show that intermolecular contacts can slow ring flips down in crystals or accelerated them in complexes. A thermodynamic and structural analysis provides insights into the origins of the elevated free-energy barrier in crystals.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "7982bb6fd3b864a4",
+    "title": "Zn-HHTP metal organic framework nanoflowers for high-performance flexible electrochemical capacitors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004210?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Febin Paul, Jithin Kanathedath, Adarsh Sivan Pillai, Allana Lewis, Callum Wilson, Chan Hwang See, Keng Goh, Libu Manjakkal</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "bb210a05fd38a656",
+    "title": "Design principles for circular lignocellulosic triboelectric systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004325?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Nano Energy, Volume 155</p><p>Author(s): Yingying Ma, Bochao Xie, Xia Cao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
