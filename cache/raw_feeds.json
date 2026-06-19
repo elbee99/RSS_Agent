@@ -950,5 +950,194 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202600009?af=R",
     "content": "Crowding\u2010enhanced multiplex immunofluorescence (umIF) provides a versatile strategy for scalable spatial profiling in FFPE tissues. By improving labeling efficiency across direct, one\u2010step, and two\u2010step IF formats, umIF enables host\u2010species\u2010independent use of primary antibodies and antibody\u2013nanobody complexes, detection of weak targets, and multicycle spatial mapping of epithelial, stromal, immune, and epigenetic organization in human and mouse tissues.\n\n\n\n\n\n\n\n\nABSTRACT\nImmunofluorescence (IF) remains a central method for high\u2010content spatial biology, but current approaches face several technical barriers. Indirect two\u2010step IF is the most widely used but constrained by host\u2010species requirements and lengthy workflows. Direct IF avoids this constraint but requires chemical conjugation of each primary antibody to a fluorophore, resulting in weaker signals, fixed antibody\u2013fluorophore pairings, and reduced flexibility. Antibody\u2010nanobody complexes provide a promising host\u2010independent solution but have been limited by inconsistent performance and reduced efficiency. Commercial spatial biology platforms achieve high\u2010plex imaging, but many rely on costly custom reagents or specialized microfluidics instrumentation, limiting broad accessibility. We introduce umIF, a strategy that leverages macromolecular crowding to enhance labeling efficiency across diverse IF workflows. It enables robust, host\u2010independent multiplexing with antibody\u2010nanobody complexes, while also improving performance across direct, one\u2010step, and two\u2010step IF workflows, including detection of weak targets. We demonstrate both single\u2010 and multicycle umIF in human tissue samples and mouse models, revealing epithelial, stromal, immune, and epigenetic organization in normal and disease contexts. umIF provides a versatile and accessible method for scalable spatial proteomics, lowering barriers to adoption in both research and clinical laboratories.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "21b138fcc75e5268",
+    "title": "Design of Experiments Guided Identification of Coupled Component Interactions in Cu Gas Diffusion Electrodes for Electrochemical CO2 Reduction to Multi\u2010Carbon Products",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71201?af=R",
+    "content": "A definitive screening design framework systematically resolves coupled component effects in Cu gas diffusion electrodes for CO2 reduction. By integrating statistical modeling, validation experiments, and structural analysis, this study identifies dominant and conditional electrode component effects, enabling predictive formulation selection and guiding rational fabrication of multi\u2010component gas diffusion electrodes for enhanced multi\u2010carbon selectivity.\n\n\n\n\n\n\n\n\nABSTRACT\nA Design of Experiments (DoE) approach is used in the design and development of gas diffusion electrodes (GDEs) for electrochemical CO2 reduction (CO2R). Rational GDE design remains challenging due to the presence of multiple components and their complex effects on performance. Here, five electrode components, Cu, carbon, polytetrafluoroethylene, Nafion, and Sustainion, are evaluated for electrochemical CO2R using the DoE approach by evaluating 17 distinct single\u2010active\u2010layer (SAL)\u2010GDEs. Experimental results are analyzed using a definitive screen design (DSD) framework to identify component\u2010performance relationships, including first\u2010 and second\u2010order effects. Nafion is found to strongly affect overall product distribution, while carbon is most influential for improving C2H4 selectivity. The DSD models are validated with experiments, enabling formulation predictions beyond the original design space. Following model predictions, increasing carbon loading was experimentally shown to improve C2H4 selectivity, achieving a peak faradaic efficiency of 36.1%. The improvement is rationalized by structural characterization, which reveals that increased carbon loading leads to electrode porosity and Cu dispersion favorable for CO2 transport and interfacial surface area. This work demonstrates the strength of statistical methods for rationally designing complex, multi\u2010component GDE architectures and understanding interacting component effects, highlighting potential impact across a wide range of electrochemical conversion systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "09de2a3c2e301637",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70349?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "817c0be75a912294",
+    "title": "Main\u2010Chain Ion\u2010Pair Polybenzimidazole Membranes Enabling Reduced\u2010Temperature HT\u2010PEMFC Operation (Down to 120\u00b0C) (Adv. Energy Mater. 23/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70998?af=R",
+    "content": "Proton Exchange Membrane Fuel Cells\nEmbedding imidazolium\u2013biphosphate ion\u2010pair motifs directly within the polybenzimidazole backbone locks in phosphoric acid and maintains interconnected proton\u2010conduction channels. Cooperative ion\u2010pair and hydrogen\u2010bond networks reduce phosphate mobility and mitigate acid loss while sustaining high conductivity. The resulting membrane supports robust HT\u2010PEMFC durability across wide operating conditions, including efficient operation at reduced temperatures (to 120 \u00b0C). More in article number e70811, Huina Lin and Brian C. Benicewicz.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8ba96432a25358e1",
+    "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "link": "https://www.nature.com/articles/s41586-026-10812-0",
+    "content": "<p>Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10812-0\">doi:10.1038/s41586-026-10812-0</a></p>Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "journal": "Nature"
+  },
+  {
+    "id": "fa7c9a53557ede14",
+    "title": "A long-lived butterfly\u2019s secret to graceful ageing",
+    "link": "https://www.nature.com/articles/d41586-026-01948-0",
+    "content": "<p>Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01948-0\">doi:10.1038/d41586-026-01948-0</a></p>Species in the Heliconius genus are among the longest-lived butterflies, thanks to a diet of pollen.",
+    "journal": "Nature"
+  },
+  {
+    "id": "69cea23451e2c972",
+    "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01963-1",
+    "content": "<p>Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01963-1\">doi:10.1038/d41586-026-01963-1</a></p>Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain\u2013computer interface.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bf448f53ed87d75a",
+    "title": "Stem cells banish severe autoimmune disease for 15 years",
+    "link": "https://www.nature.com/articles/d41586-026-01925-7",
+    "content": "<p>Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01925-7\">doi:10.1038/d41586-026-01925-7</a></p>Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
+    "journal": "Nature"
+  },
+  {
+    "id": "aa08342061207b28",
+    "title": "Daily briefing: The brain builds a sentence neuron by neuron",
+    "link": "https://www.nature.com/articles/d41586-026-01967-x",
+    "content": "<p>Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01967-x\">doi:10.1038/d41586-026-01967-x</a></p>Researchers have tracked the electrical activity of individual brain cells during conversation in real time. Plus, the history of GPS and a cross-species transplant that could reveal clues about the origin of animals.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b42ce01af66ff68e",
+    "title": "Maximising the economic value of renewable and battery storage hybrids with revenue stacking",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00776G",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE00776G, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Mathis  Landy, Oliver  Schmidt, Nathan Johnson, Iain Staffell<br />As power systems add more wind and solar, electricity supply becomes less controllable and market prices become more volatile. A growing challenge is that renewable generators increasingly earn below-average market...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "ee4b3e0984b7723b",
+    "title": "Gas Immersion Enabled Atmospheric-Pressure Near-Ambient Phase-Change Refrigeration Cycle for Active Safety Protection of LFP Battery Thermal Runaway: A Single-Cell Proof of Concept",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00047A",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EB00047A, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Enhui Sun, Guangwei  Zhu, Jinyang  Zhao, Zixin  Ren, Bowen  Wang, Yuning  Pan, Guohua Liu, Jinliang Xu<br />Gas venting during thermal runaway of lithium iron phosphate cells can lead to flaming combustion of combustible vent gases, creating severe fire hazards. This study originally proposes the conceptual framework...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "d60270e44851b833",
+    "title": "Nanotechnology-mediated precision delivery of mRNA",
+    "link": "https://www.nature.com/articles/s41563-026-02623-5",
+    "content": "<p>Nature Materials, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02623-5\">doi:10.1038/s41563-026-02623-5</a></p>Delivery of mRNA to cells and tissues with minimal off-targeting and high efficiencies is a current challenge for mRNA therapeutics. This Review discusses strategies to achieve precision delivery of mRNA and highlights their applications in vaccines and gene therapies.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "e8c53c45cf9bfe7c",
+    "title": "Methane storage using metal\u2013dipyrazolate frameworks",
+    "link": "https://www.nature.com/articles/s41563-026-02621-7",
+    "content": "<p>Nature Materials, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02621-7\">doi:10.1038/s41563-026-02621-7</a></p>Reversible phase transformations enable flexible metal\u2013bipyrazolate frameworks to offer high deliverable methane capacities, high stability and recyclability, indicating utility in natural gas storage.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "ae4bb64db5ba769e",
+    "title": "Memristive devices for memory and computing",
+    "link": "https://www.nature.com/articles/s41563-026-02635-1",
+    "content": "<p>Nature Materials, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02635-1\">doi:10.1038/s41563-026-02635-1</a></p>Abu Sebastian, a distinguished research scientist at IBM Research in Zurich, talks to Nature Materials about the opportunities and challenges of memristive devices for in-memory computing and their potential to commercialization.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "0ffd49d179495a9d",
+    "title": "Operando microscopy for neuromorphic hardware",
+    "link": "https://www.nature.com/articles/s41563-026-02629-z",
+    "content": "<p>Nature Materials, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02629-z\">doi:10.1038/s41563-026-02629-z</a></p>This Review highlights state-of-the-art imaging from electron and X-ray to optical techniques to probe the dynamics of neuromorphic materials, including operando characterization of devices.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "d10a8a594e1e479e",
+    "title": "String-sliding vibrational modes govern the boson peak and phonon anomalies in amorphous materials",
+    "link": "https://www.nature.com/articles/s41563-026-02592-9",
+    "content": "<p>Nature Materials, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02592-9\">doi:10.1038/s41563-026-02592-9</a></p>String-like collective motions in disordered materials are shown to give rise to characteristic vibrational modes, providing a microscopic explanation for the boson peak and its impact on thermal and mechanical properties.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "16ce2a7ad235ac01",
+    "title": "Discovering nickel enzymes within the aldo-keto reductase superfamily",
+    "link": "https://www.nature.com/articles/s41557-026-02185-8",
+    "content": "<p>Nature Chemistry, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41557-026-02185-8\">doi:10.1038/s41557-026-02185-8</a></p>Few nickel enzymes have been discovered to date, limiting understanding of nickel-catalysed chemistry in nature. Now, a unique family of nickel pincer mononucleotide-utilizing enzymes has been identified through bioinformatics and characterized through biochemical and structural studies, expanding the known repertoire of nickel enzymes.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "83250ab9bf1ac6d5",
+    "title": "Decoupling polarization in extreme fast-charging LiFePO<sub>4</sub> batteries: from mechanisms to rational design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004435?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xin Sui, Lan Zhao, Weiwei Chen, Lang Liu, Xianluo Hu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e4e89f951a07b1aa",
+    "title": "Microstructure Engineering Reorganizes Interfacial Electrostatic Discharge for Synergistic Discharge Energy Harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004416?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Fan Xu, Qixuan Zeng, Liming Tan, Junyin Cheng, Chengwei Sun, Rui Teng, Xiayue Huang, Lihua Wang, Tingyu Wang, Mingquan He, Xue Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "f2b5f2677bc47364",
+    "title": "Continuously fabricable core-shell triboelectric fibers with silk fibroin shell and hydrogel core via interfacial engineering for self-powered physiological monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600443X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jin He, Danqing Song, Lei Chen, Xiaoxuan Fan, Tianmei Lyu, Wei Wang, Xiao Peng, Kai Dong</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "16e5817e0a2689fe",
+    "title": "Covalent Ru\u2013O\u2013Mo Bridges Activate Fe-MOFs as a Robust Bifunctional Catalyst for Overall Water and Seawater Splitting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004398?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zhaoyi Fu, Yu Liu, Yani Ding, Jingkuo Qu, Weiding Wang, Wei Liu, Xiao Xiao, Xiangjiu Guan, Liejin Guo</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ee28e2daea671afa",
+    "title": "Nanoarchitectonics of Borophene via Fluorination-Mediated Transition-Metal Doping for Oxygen Evolution Electrocatalysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004404?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Mukul Manoj Morey, Ajanya Maria Ruban, Mohammed Fawaz, Rohan Bahadur, Arkamita Bandyopadhyay, Vibin Perumalsamy, Xinwei Guan, Sumit Chahal, Thi Thuy Kieu Tran, Antonio Tricoli, John V. Kennedy, Prashant Kumar, Ajayan Vinu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "cfd32bb19c0c212b",
+    "title": "Electrostatic tweezers enabling programmable, non-contact control of charged membranes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004386?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Lixue Yang, Ziyang Wang, Zunkang Zhou, Yu Wei, Jie Fu, Zhongqiang Zhang, Zhe Wang, Zhong Lin Wang, Di Wei</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "bf061396068ac40e",
+    "title": "A synergistic marine highly efficient anti-corrosion system based on an \u201coffshore internal combustion engine\u201d type pneumatic symmetrical wing turbine TENG and a multi-energy storage circuit",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004428?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xinyi Ji, Zekang Zhang, Jie Wu, Dongzhi Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "20c45237b10115b0",
+    "title": "Nanoscopic Observation of Structural Changes After First\u2010Firing Behavior in W/GeTe/W Ovonic Threshold Switches Using AFM Tip\u2013Based Local Biasing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70793?af=R",
+    "content": "A local\u2010biasing system using AFM induces site\u2010specific threshold switching in Ge0.17Te0.83 films, enabling direct observation of crystalline/amorphous interface formation. First\u2010principles calculations reveal that this structural change induces Te 5p\u2010dominated mid\u2010gap states and electric field\u2010enhanced charge redistribution. These interfacial characteristics lower the energy barrier for electron transport, providing a fundamental origin for the threshold voltage reduction observed after the first\u2010firing operation.\n\n\n\n\n\n\n\n\nABSTRACT\nAn Ovonic threshold switch (OTS) is a promising selector device for three\u2010dimensional\u00a0crossbar memory arrays due to its simple two\u2010terminal architecture and unique electrical properties. Despite extensive studies, the switching mechanisms of OTS devices under an electric field (EF) and thermal driving forces remain ambiguous. In this work, a local biasing approach using atomic force microscopy is employed to spatially confine the switching region in Te\u2010rich Ge\u2010Te\u2010based OTS devices. EF simulations are used to evaluate stable switching in two types of local biasing systems. Following local switching, transmission electron microscopy reveals nanocrystalline formation at the interface between the top electrode and the switching layer, providing insights into structural changes and the first\u2010firing (FF) phenomenon. This interfacial crystallization enhances local conductivity and reduces the effective thickness of the amorphous layer from 32 to 24\u00a0nm, lowering the voltage required for subsequent threshold switching to 1.27\u00a0V relative to the 1.72\u00a0V for the initial FF behavior. The study demonstrates the feasibility of directly observing switching at the nanometer scale in targeted regions, offering a clear interpretation of the underlying mechanism of OTS switching and highlighting the critical role of the crystalline/amorphous interface in facilitating localized electron transport.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9ce27eae11535505",
+    "title": "Size\u2010Dependent Lattice Compression Drives Electronic Modulation of Pt Single\u2010Atom Sites in Thermally Constructed MOFs",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70784?af=R",
+    "content": "Decoding the correlation between macro\u2010dimensions and atomic\u2010scale microstructures, a physical strategy enables continuous electronic tuning of Pt single atoms via lateral size regulation of 2D nanosheets. The resulting size\u2010dependent lattice compression and modulated electrostatic potential optimize active\u2010site interactions. This structural evolution significantly expedites interfacial charge transfer for superior I3\u2212/I\u2212 redox electrocatalysis.\n\n\n\n\n\n\n\n\nABSTRACT\nPrecise regulation of the electronic structure of single\u2010atom catalysts (SACs) remains challenging because conventional approaches rely on chemical perturbations that often disrupt structural uniformity and provide limited tunability. Here, we report a physical strategy for continuous, size\u2010dependent electronic modulation of Pt single atoms using lateral dimension as an experimentally accessible structural descriptor. Pt single atoms were pre\u2010coordinated in Pt\u2013TCPP units and assembled with Co2+ into two\u2010dimensional Co@Pt\u2010SAC nanosheets. Temperature\u2010programmed cooling enabled precise control of nanosheet lateral size while preserving the primary Pt\u2500N coordination environment. Decreasing nanosheet size induced progressive lattice compression, evidenced by the shift of the apparent Pt\u2500N scattering feature in FT\u2010EXAFS spectra from 1.64 to 1.57 \u00c5. Meanwhile, the local electrostatic potential at Pt sites increased from \u221216.880 to \u221214.872\u00a0kcal mol\u22121, indicating pronounced Pt\u2010centered electronic modulation. This modulation strengthened the interaction between Pt sites and triiodide species, accelerating interfacial charge transfer during the I3\u2212/I\u2212 redox process. These findings establish a direct correlation between lateral size\u2010dependent lattice evolution and the electronic structure of single\u2010atom active sites, offering a general physical route for continuous electronic tuning of SACs without altering their primary coordination chemistry.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "2eaa81d59c2a4b2f",
+    "title": "In Situ Characterization Techniques for Investigating the Reaction Mechanisms of Lithium\u2013Sulfur Batteries: Progress, Application, and Future",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70777?af=R",
+    "content": "This review begins by revisiting the electrochemical principles of Li\u2013S batteries and the kinetic challenges. Then, we summarize the latest advances regarding in situ characterization techniques, focusing on their design, operating principle, and practical applications. Drawing on their applications in resolving different mechanisms, we classify in situ characterization techniques into three categories. Finally, we discuss the existing limitations of these techniques and propose constructive strategies to promote their development and application in Li\u2013S battery research.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium\u2013sulfur (Li\u2013S) batteries remain constrained by polysulfide shuttling, sluggish redox kinetics, and Li dendrite growth under practical conditions. Introducing catalysts at the three\u2010phase interface of cathode/electrolyte/sulfur can markedly accelerate polysulfide redox reactions, thereby suppressing the shuttle of soluble intermediates and improving the utilization of sulfur active species. Modifying the Li anode can concomitantly alleviate Li dendrites to enhance cycling stability. Despite these advances, the interaction between catalytic centers and reactive sulfur species and the mechanistic evolution of polysulfide species during real\u2010time charge/discharge remains far from fully resolved. Therefore, in situ characterization techniques are crucial for the real\u2010time study of phase transitions and interface reactions. However, a systematic review that establishes a reaction\u2010interface/research\u2010question\u2010driven framework for technique selection remains lacking, particularly one that integrates diverse operando characterizations with the multi\u2010electron and multistep electrochemical mechanisms of Li\u2013S batteries. Against this backdrop, this review focuses on three key mechanisms in Li\u2013S batteries: cathode catalysis, polysulfide shuttle behavior, and anode SEI evolution. It establishes a framework that matches research objectives with in situ characterization techniques. Our aim is to help researchers quickly and rationally select and combine appropriate in situ characterization techniques in studies of different mechanisms, thereby more accurately revealing the nature of the reactions and guiding the material and system design of high\u2010performance Li\u2013S batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "a63c36630a259f18",
+    "title": "Dielectric\u2010Conductive Dual\u2010Shell Structure Design Overcome the Lightweight\u2010High Strength and Electrical\u2010Thermal Conductance Trade\u2010Off",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70789?af=R",
+    "content": "This work adopts dielectric\u2010conductive dual\u2010shell structure design. Using highly conductive copper and low\u2010density silicate glass as conductive and dielectric model materials, it explores overcoming the trade\u2010off between lightweight\u2010high strength and electrical\u2010thermal conductance through macroscopic parameter and microstructure modulation of microspheres.\n\n\n\n\n\n\n\n\nABSTRACT\nThe advancement of modern electronic devices toward lightweighting, high\u2010frequency, and integrated designs has escalated the demand for multifunctional materials that can combine microwave and thermal management capabilities with mechanical load\u2010bearing capacity. However, inherent trade\u2010offs exist between electrical conductivity and thermal insulation, as well as between mechanical strength and lightweight properties. Herein, attempts have been made to innovatively embed lightweight, high\u2010strength dielectric shells and highly conductive, low\u2010infrared\u2010emissivity metallic shells into hollow structure design. Specifically, heterogeneous dual\u2010shell hollow microspheres (DSHM) were constructed using glass as the model dielectric material and copper as the conductive material. By optimizing the ratio of dielectric\u2010to\u2010conductive phases, the shell microstructure, and macroscopic structural parameters, we achieved a synergistic combination of lightweight and high strength (density: 0.4456\u20131.0991\u00a0g cm\u22123, survival rate under 2\u00a0MPa uniaxial compression: 87.1%. Crucially, leveraging the distinct structural dependence of conductive and thermal networks, the integration of low thermal conductivity (0.1134\u20130.1478\u00a0W m\u22121 K\u22121) with broadly tunable electrical conductivity (299.6\u20132625.7 S cm\u22121) and infrared emissivity (0.218\u20130.493) in a single microsphere was achieved for the first time. These properties endow the hollow microspheres with exceptional microwave attenuation and thermal regulation performance.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
