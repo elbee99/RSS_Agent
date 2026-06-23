@@ -180,5 +180,166 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70791?af=R",
     "content": "In this study, a hollow MnFe2O4@C modified RGO composite was proposed to achieve efficient microwave absorption through a synergistic multi\u2010loss mechanism. It has excellent thermal properties and can still have excellent microwave absorption performance when the volume is compressed by a certain volume. It has broad application prospects in electromagnetic attenuation.\n\n\n\n\n\n\n\n\nABSTRACT\nGraphene\u2010based aerogels have received substantial attention in the realm of effective electromagnetic wave absorption due to their lightweight qualities and unusual three\u2010dimensional network structure. This work creates a Hollow MnFe2O4@ C/reduced graphene oxide (RGO)/polyimide (PI) composite aerogel by anchoring hollow ferrite@carbon particles onto graphene using a two\u2010step hydrothermal process and freeze\u2010drying. The electromagnetic properties are adjusted by adjusting the thickness of the carbon shell layer, managing the defect density within the aerogel, improving polarization loss, and enriching internal heterogeneous interfaces. This aerogel has a maximum effective absorption bandwidth of 7.70\u00a0GHz and a minimum reflection loss of \u221268.04\u00a0dB. Under volumetric deformation, the composite aerogel continues to perform exceptionally well in terms of absorption. Its maximum effective absorption bandwidths are 7.50 and 7.87\u00a0GHz, and its minimum reflection loss at 30% and 50% compression is \u221279.49 and \u221260.01\u00a0dB, respectively. The impedance mismatch disadvantage brought on by aerogel compression is offset by the synergistic improvement of absorption performance through several loss modes. This aerogel can also tolerate more complicated and demanding settings because it has certain compressive strength and flexibility, as well as fire resistance and thermal insulation. It offers a strong basis for multifunctional absorber material research.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "f07937be8eb566fd",
+    "title": "A Closed\u2010Loop Direct Recycling Process for Prussian White From Scrap and End\u2010of\u2010Life Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71225?af=R",
+    "content": "A closed\u2010loop direct recycling route for Prussian White sodium\u2010ion battery cathodes is demonstrated. Ice\u2010stripped scrap and end\u2010of\u2010life electrodes are regenerated via low\u2010temperature aqueous resodiation (80\u00b0C), restoring sodium content, Fe2+ redox chemistry, and structural integrity. The recycled cathodes recover near\u2010pristine capacity with good cycling stability at substantially reduced energy cost.\n\n\n\n\n\n\n\n\nABSTRACT\nPrussian White (PW, Na2Fe[Fe(CN)6]\u00b7xH2O) is a leading low\u2010cost cathode material for sodium\u2010ion batteries. Yet, recycling remains largely unaddressed due to the incompatibility of conventional pyrometallurgical and hydrometallurgical routes with its cyanometallate framework. Here, a closed\u2010loop direct recycling process for PW cathodes is reported, for both manufacturing scrap and end\u2010of\u2010life (EOL) sodium\u2010ion cells. Electrodes were delaminated using a low\u2010energy ice\u2010stripping technique, and the recovered powder was regenerated via mild, 80\u00b0C aqueous resodiation without calcination or corrosive solvents. The resodiation process simultaneously reinserts Na+ ions, reduces Fe3+ to Fe2+, and promotes surface regeneration through temperature and anion\u2010activated \u2018surface healing\u2019, a mechanism supported by control experiments and confirmed by XRD, Fe K\u2010edge XAS, XPS, Raman spectroscopy, and electron microscopy. Resodiated PW recovers 96%\u201397% of pristine half\u2010cell capacity and, in full\u2010cell configurations paired with hard carbon, retains \u223c80% of initial capacity after 300 cycles, outperforming the pristine benchmark of \u223c60%. The total energy input for resodiation at 80\u00b0C is \u223c0.50\u00a0kWh, lower than that estimated for fresh PW synthesis (\u223c3.98\u00a0kWh). This work provides an experimentally validated pathway for closed\u2010loop recovery of Prussian White cathodes, with direct relevance to sustainable scale\u2010up of sodium\u2010ion battery technology.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "40842f88b57068bd",
+    "title": "Barrier\u2010Free Cathode Contacts for High\u2010Efficiency Inverted Carbon\u2010Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71216?af=R",
+    "content": "A barrier\u2010free cathode contact is established by increasing the carrier density of SnOx combined with inserting a non\u2010conducting metal film, yielding inverted carbon\u2010based perovskite solar cells with a record efficiency of 22.79%.\n\n\n\n\n\n\n\n\nABSTRACT\nCompared to vacuum\u2010deposited electrodes of metal or metal oxides, printable carbon electrodes (CEs) offer a more sustainable approach toward commercialization of perovskite solar cells (PSCs). Significant attention has been paid to the N\u2010i\u2010P carbon\u2010based PSCs (C\u2010PSCs), owing to the favorable alignment of CEs work\u2010functions with perovskite valence band. In contrast, the P\u2010i\u2010N structured PSCs employing carbon as electron\u2010collecting contact has been rarely explored, primarily due to the presence of large interfacial barrier. Here, we eliminate the stubborn interfacial barriers by means of increasing free carrier density of electron transport layer (ETL) in conjugation with the insertion of a non\u2010conducting metal thin layer between ETL and CEs. The synergistic strategies enable the preparation of efficient P\u2010i\u2010N C\u2010PSCs with a record efficiency of 22.79% (certified 21.34%). The detailed life cycle cost and assessment reveal that our P\u2010i\u2010N C\u2010PSCs outperform metal\u2010electrode counterparts in both cost\u2010effectiveness and environmental impact.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e64c4a6dd7ac0a7d",
+    "title": "High\u2010Flux 2D Clay Nanofluidics for Substantial Osmotic Energy Harvesting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71217?af=R",
+    "content": "An engineered high\u2010flux 2D clay nanofluidic membrane with dense trough\u2010membrane nanochannels is constructed for scalable natural osmotic energy harvesting. A watt\u2010scale concentration cell pack is developed for the first time based on clay membranes, which enables successful operation of energy\u2010demanding electronics including low\u2010consumption electrochromic displays and commercial fans.\n\n\n\n\n\n\n\n\nABSTRACT\nWhile offering great promises for blue energy production, osmotic energy via reverse electrodialysis (RED) is challenged by low ion current and significant performance decay in watt\u2010scale concentration cells. Herein, we propose a strategy to prepare high\u2010flux 2D clay nanofluidic membranes with high density of vertical transport channels for fast ion permeation and substantial surface charges for ion selectivity. Thus, the membranes demonstrate a maximum output of up to 20.8\u00a0W m\u22122 from the salinity gradient between natural seawater and river water. Furthermore, the robust nanofluidic configuration based on strong bonding between inorganic nanosheets and organic crosslinkers contributes to continuous and stable osmotic energy output for over 18 days. Through rational structural design of a concentration cell assembly incorporating parallel membrane perforations, we demonstrate that constant power density can be preserved despite increasing permeation area. This effectively addresses the inherent challenge of diminishing energy output associated with membrane area expansion, while establishing an optimized integration strategy for concentration cell configuration. A concentration cell pack integrating an energy storage module successfully powers commercial electronics such as electrochromic displays and fans, validating real\u2010world applicability.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6cd1e515294daef7",
+    "title": "Design Principles, Interfacial Regulation, and AI-Guided Opportunities of Hydrogel Electrolytes for Zinc Metal Batteries in Extreme Conditions",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02337A",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02337A, Review Article</div><div>Xuefang Xie, Chaoqiang  Feng, Haiming Duan, Shasha  Tao, Shuquan Liang, Ziqing Wang, Guozhao Fang<br />Hydrogel-based zinc metal batteries (ZMBs) represent a highly promising platform for safe, flexible, and wearable energy storage systems. Nevertheless, their real-world application is greatly hindered by insufficient stability under harsh...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "16ed089f36302bb2",
+    "title": "Spatial shift of Li nucleation onto electrically conductive SEI residues",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00216-3?rss=yes",
+    "content": "This work shows that rSEI layers left behind during battery cycling are not passive byproducts. Instead, these layers gradually become electronically conductive and redirect lithium deposition from the current collector to the rSEI surface, where lithium is more susceptible to electrical disconnection, thereby accelerating battery failure. This work highlights rSEI as an active driver of battery degradation.",
+    "journal": "Joule"
+  },
+  {
+    "id": "8e583890f05f655c",
+    "title": "Managing silicon burn-out via onboard material diagnostics for durable high-energy density batteries",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00215-1?rss=yes",
+    "content": "Adding silicon to graphite anodes can help batteries store more energy, but silicon\u2019s rapid aging often forces conservative operating limits that leave capacity unused. Wan et al. show that routine charging data can identify the silicon-dominant state-of-charge window and track how it shifts as batteries age. This diagnosis enables battery management systems to apply aging-informed thermal control when silicon is active, protecting high-energy materials without sacrificing usable capacity.",
+    "journal": "Joule"
+  },
+  {
+    "id": "79ed297c4adc9aff",
+    "title": "Revisiting the relationship between demand growth and electricity prices",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00212-6?rss=yes",
+    "content": "In this commentary, the authors describe the relationship between electricity demand and retail electricity prices in the United States. The authors explain why demand growth has generally been associated with falling electricity prices and explore arguments that future demand growth may increase prices.",
+    "journal": "Joule"
+  },
+  {
+    "id": "e2b8edcfec45f0c0",
+    "title": "Scaling vanadium flow battery for long-duration energy storage",
+    "link": "https://www.nature.com/articles/s41560-026-02053-2",
+    "content": "<p>Nature Energy, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02053-2\">doi:10.1038/s41560-026-02053-2</a></p>Despite early promise, vanadium flow batteries struggled to move beyond pilot projects due to bottlenecks that emerged at scale. Overcoming these barriers to enable reliable, cost-effective long-duration energy storage at multi-hundred-megawatt scale is discussed by Xianfeng Li and colleagues.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "c6ff6f187b2b1d69",
+    "title": "Opportunities and challenges for the expansion of LFP battery supply chains",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00078A",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EB00078A\" /></p></div><div><i><b>EES Batteries</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EB00078A, Perspective</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Hope M. Wikoff, Caleb Stetson, Robert T. Bell, Kyle Reiter, Anthony Burrell, Eric J. Dufek, Trevor R. Martin, Ryan Brow, Matthew O. Reese, Samantha B. Reese, Katharine L. Harrison<br />To meet expected 2045 LFP deployment, impurity characterization must improve. New, sufficiently pure, and low-cost iron precursors must be identified, and total phosphorous demand could consume 22% of current phosphate rock supply for fertilizers.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "b2205d12ebffd4b5",
+    "title": "Crosstalk Effect of Covalent Bonds Reinforces Structural and Thermal Stability of Li-Rich Mn-Based Layered Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004563?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jing Ai, Hao Ni, Jing-Chang Li, Xiaowen Zhao, Zewei Zhou, Zhongyu Zhao, Yihan Du, Ping Wu, Yawen Tang, Xin Cao, Haoshen Zhou</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c5e5fb0f2a52096d",
+    "title": "Unlocking High-Performance Aromatic Sodium Storage in Small-Molecular Perylene Diimide Anodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600454X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yuhui Wang, Jie Guo, Yifan Tang, Yao Xiao, Jing Li, Guochang Li, Qichun Zhang, Lei Han</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "8109438b5db54b4d",
+    "title": "Ethyl Methyl Carbonate-Based Weakly Solvating Electrolyte with Tailored Anion-Solvent Interactions for High-Voltage and Fast-Charging Lithium Metal Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004575?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Qi Liu, Guohuang Kang, Jiachao Duan, Yuanyuan Zhang, Yue Cao, Kangning Cai, Jin Zhao, Zerun Zhang, Feiyu Kang, Yidan Cao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "a8157a867d48711f",
+    "title": "Mechanistic Pathways of Solid Electrolyte-Dependent Degradation in Ni-rich Cathodes for All-Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004526?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Subin Ahn, Jangwhan Seok, Hyunbeom Lee, Chanyou Chung, Subin Heo, Won-Sub Yoon</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "9bed586d169301cd",
+    "title": "Structure Dependent Optimization of Pyrrolidinium Bromide Complexing Agents for High Energy Density Zinc\u2013Bromine Flow Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726004551?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yutong Wu, Yu Zhao, Shangbo Wang, Qianhui Wang, Yuhao Zhang, Peng Chen, Wenhao Xu, Chao Wang, Xinxi Ma, Peixun Xiong, Shaaban M. Shaaban, Zeinhom M. El-Bahy, Zhoulu Wang, Yimeng Lyu, Ho Seok Park</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "84ec0dc346697fe9",
+    "title": "Interlocked Dual Skeletons Enable Lattice Tolerance in Ni-Rich Layered Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004532?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Jingran Yin, Juncheng Bi, Wenbo Wang, Yiweng Gao, Tiantian Li, Jiaqi Shan, Xingzhong Guo</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "79b1b318d7bb4142",
+    "title": "In-Situ Ultrasonic Identification and Early Warning of Mechanical Abuse in Lithium-ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004490?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Lingshi Zhang, Zhongbao Wei, Liqun Chen, Hongwen He</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "53400da8f333ca3f",
+    "title": "Three-level hierarchically structured metallic-glass electrodes fabricated via elliptical vibration chiseling enable ultralow-Pt acidic hydrogen evolution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004477?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Wei Dai, Mengying Luan, Kaiyue Wu, Peiyuan Ding, Jianfu Zhang, Pingfa Feng, Jianjian Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "74dea5585e358bb1",
+    "title": "Oxygen-chemical-potential tuning enables phase-ratio engineering that suppresses Fe migration in high-energy layered cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004507?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 June 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Bachu Sravan Kumar, Hugh B. Smith, Willem Vanmoerkerke, Eric Novak, Anirudh Adavi, Yifan Gao, Hui Zhong, Adrian Hunt, Iradwikanari Waluyo, Jorge Moncada Vivas, Eli Stavitski, Hillary L. Smith, Iwnetim I. Abate</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d2615496a8e6dcd7",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70679?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4d88bd183f53f3a9",
+    "title": "Thermal Operational Stability in Organic Thin Film Transistors: The Critical Role of Interface Composition and Deposition Conditions (Small Methods 12/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70680?af=R",
+    "content": "Front Cover\nThermal operational stability of organic thin\u2010film transistors is critical for real\u2010world deployment. Both semiconductor deposition conditions and the dielectric interface play key roles in governing device stability under heat and bias. Understanding and controlling these factors is essential to ensure reliable performance during sustained operation in practical applications. More in article number e02171, Beno\u00eet H. Lessard and co\u2010workers.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "6ba353f9a0fe3e85",
+    "title": "Structural Profiling of Lipid Nanoparticles at Sub\u201010 nm Resolution via AF4 Coupled Online to SAXS and SANS (Small Methods 12/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70689?af=R",
+    "content": "Back Cover\nIn article number e70639, Susanne Boye, Albena Lederer, and co\u2010workers illustrate dilution\u2010controlled AF4 coupled to SAXS and, uniquely, SANS for advanced nanoparticle characterization. Following separation, scattering detection resolves the ellipsoidal shape of lipid nanoparticles across the full\u2010size distribution. SANS further reveals a core\u2013shell architecture, providing detailed structural insight and enabling comprehensive analysis of morphology and internal organization.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "291eb32b92159c0d",
+    "title": "Thermal Operational Stability in Organic Thin Film Transistors: The Critical Role of Interface Composition and Deposition Conditions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502171?af=R",
+    "content": "Operational thermal stability in organic thin\u2010film transistors is engineered through interfacial chemistry and deposition temperature. By pairing F10\u2010SiPc with different surface treatments and tuning substrate temperature during deposition, distinct transport regimes emerge, ranging from crystalline, trap\u2010prone behavior to reversible, thermally activated mobility gains. This approach provides a scalable strategy to program environmental robustness without new materials or complex encapsulation.\n\n\n\n\n\n\n\n\nABSTRACT\nThe widespread adoption of organic thin\u2010film transistors (OTFTs) in flexible, wearable, and biodegradable electronics depends on achieving optimal electrical performance while ensuring reliable performance under typical environmental stressors such as humidity, oxygen, and heat. Among these, thermal stability remains underexplored, despite being critical for devices exposed to sterilization, body heat, or fluctuating environmental conditions. Here, we demonstrate that the thermal response of fluorinated silicon phthalocyanine (F10\u2010SiPc) OTFTs can be rationally tuned by interfacial chemistry and deposition temperature, providing a scalable route to environmental robustness. By comparing octyltrichlorosilane (OTS), hexamethyldisilazane (HMDS), and plasma\u2010treated SiO2 dielectrics with F10\u2010SiPc films deposited at either 25\u00b0C or 100\u00b0C, we identify two distinct transport regimes. OTS promotes highly crystalline films with excellent room\u2010temperature mobility but exhibits non\u2010recoverable reduced performance at elevated operating temperatures, accompanied by increased post\u2010heating hysteresis, suggestive of dipole\u2010induced interfacial charge trapping. In contrast, HMDS and plasma yield more disordered morphologies that reorganize reversibly under heat, leading to mobility enhancements of 100%\u2013800% via thermally activated hopping. Raising the deposition temperature lowers the initial mobility but reshapes the trajectory of thermal response. Together, these results establish interlayer selection and deposition temperature as complementary design parameters to deliberately program thermal stability profiles in OTFTs. This framework connects processing to operational reliability, advancing the design of organic electronics capable of surviving real\u2010world thermal and environmental demands without new materials or complex encapsulation.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4e18334b16f8ba4c",
+    "title": "Monolayer MoS2 Enabled by Intercalation\u2010Confinement Synergy Toward Ultrafast and Stable Sodium Storage",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70787?af=R",
+    "content": "3D MoS2/NC@NC hollow nanostructures, composed of monolayer MoS2 nanosheets encapsulated in a nitrogen\u2010doped carbon shell, were synthesized using a dual\u2010driving strategy that leverages the synergy between intercalation and confinement effects. Benefiting from the improved electrical conductivity, optimized Na+ adsorption energy, and reduced Na+ diffusion barrier, the prepared composite exhibits outstanding sodium storage and a great potential for practical application.\n\n\n\n\n\n\n\n\nABSTRACT\nMolybdenum disulfide (MoS2) has been extensively studied as the anode material for sodium\u2010ion batteries (SIBs). However, conventional synthesis methods typically produce stacked\u2010layer MoS2 nanosheets with inherent limitations, such as poor electrical conductivity, high ion diffusion barriers, and substantial volume variations during cycling. Herein, we propose a novel dual\u2010driving strategy based on an intercalation\u2010confinement synergy to prepare monolayer MoS2 nanosheets successfully encased in nitrogen\u2010doped carbon (NC) shells (MoS2/NC@NC). The obtained unique hollow architecture enables the full exposure of monolayer MoS2 to the electrolyte and promotes multidirectional sodium\u2010ion (Na+) transport, leading to enhanced ion diffusion kinetics. Theoretical calculations combined with finite element simulations corroborate the superior properties of the hollow nanostructures, revealing the enhanced conductivity, favorable Na+ diffusion kinetics, and exceptional mechanical robustness. As a result, the as\u2010fabricated MoS2/NC@NC anode exhibits an ultrahigh rate capability (311.3 mAh g\u22121 at 20 A g\u22121) and exceptional long\u2010term cyclability, with an ultralow capacity decay of 0.0027% per cycle over 10,000 cycles. To demonstrate practical applicability, the assembled full cell successfully powers the \u201cQUST\u201d logo composed of 44 commercial LEDs. This work paves the way for preparing monolayer MoS2 with superb sodium storage performance.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
