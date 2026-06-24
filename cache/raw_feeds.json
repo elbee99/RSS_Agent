@@ -341,5 +341,103 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70787?af=R",
     "content": "3D MoS2/NC@NC hollow nanostructures, composed of monolayer MoS2 nanosheets encapsulated in a nitrogen\u2010doped carbon shell, were synthesized using a dual\u2010driving strategy that leverages the synergy between intercalation and confinement effects. Benefiting from the improved electrical conductivity, optimized Na+ adsorption energy, and reduced Na+ diffusion barrier, the prepared composite exhibits outstanding sodium storage and a great potential for practical application.\n\n\n\n\n\n\n\n\nABSTRACT\nMolybdenum disulfide (MoS2) has been extensively studied as the anode material for sodium\u2010ion batteries (SIBs). However, conventional synthesis methods typically produce stacked\u2010layer MoS2 nanosheets with inherent limitations, such as poor electrical conductivity, high ion diffusion barriers, and substantial volume variations during cycling. Herein, we propose a novel dual\u2010driving strategy based on an intercalation\u2010confinement synergy to prepare monolayer MoS2 nanosheets successfully encased in nitrogen\u2010doped carbon (NC) shells (MoS2/NC@NC). The obtained unique hollow architecture enables the full exposure of monolayer MoS2 to the electrolyte and promotes multidirectional sodium\u2010ion (Na+) transport, leading to enhanced ion diffusion kinetics. Theoretical calculations combined with finite element simulations corroborate the superior properties of the hollow nanostructures, revealing the enhanced conductivity, favorable Na+ diffusion kinetics, and exceptional mechanical robustness. As a result, the as\u2010fabricated MoS2/NC@NC anode exhibits an ultrahigh rate capability (311.3 mAh g\u22121 at 20 A g\u22121) and exceptional long\u2010term cyclability, with an ultralow capacity decay of 0.0027% per cycle over 10,000 cycles. To demonstrate practical applicability, the assembled full cell successfully powers the \u201cQUST\u201d logo composed of 44 commercial LEDs. This work paves the way for preparing monolayer MoS2 with superb sodium storage performance.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "da1a7df1c6fc893d",
+    "title": "Machine Learning Driven Design of Polymer Dielectrics for High Temperature Capacitive Energy Storage",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01953F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE01953F, Paper</div><div>Dongduan Liu, Ruojie  Cheng, Qiao Li, Feng  Wang, Yongqiu  Li, Hongxiao  Yang, Mingfeng  Shen, Qian Zhou, Jinliang He, Qi Li, Chao  Yuan<br />Polymer dielectric capacitors capable of stable operation under extreme conditions are essential for advancing electrification, yet conventional trial-and-error approaches are inefficient and severely hinder material discovery. Herein, we propose a...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3908e49aa18cbf25",
+    "title": "Strong electron push\u2013pull effect and low transition barrier boosting non-metallic COFs photoelectrode for ultrahigh-rate photo-assisted Li\u2013air batteries",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01403H",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE01403H\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE01403H, Paper</div><div>Yixin Zhou, Qinglong Jing, Xiaoru Zhang, Xuexia He, Jie Sun, Ruibin Jiang, Zhibin Lei, Fujun Li, Qi Li, Zong-Huai Liu<br />D\u2013A type COFs with strong electron push\u2013pull effect, low transition barrier, and robust built-in electric field were synthesized for photo-assisted Li\u2013Air batteries, exhibiting superior round-trip efficiency, rate capability, and durability.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "3536df492c6a46d7",
+    "title": "Accelerated aging replicates spatially non-uniform degradation modes observed in outdoor-aged perovskite solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00222-9?rss=yes",
+    "content": "Erdil et al. show that electrode corrosion, edge patterns, and phase segregation coexist in perovskite solar cells after long-term outdoor operation. By reproducing these modes using light intensity and electrical bias as key stressors, the study links field degradation to accelerated aging tests and points toward mechanism-targeted aging tests.",
+    "journal": "Joule"
+  },
+  {
+    "id": "88c33e6033ca4f62",
+    "title": "Effect of interstitial alkyl chain engineering of anion exchange membrane for improved CO2 electrolyzer",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00218-7?rss=yes",
+    "content": "PBFA-QA, a poly(bisfluorene)-based anion exchange membrane containing alkyl chains, enables excellent performance and durability in zero-gap CO2RR cells. It achieves a CO partial current density of 331.7 mA cm\u22122, which is substantially higher than those of commercial PiperION and X37-50 RT anion exchange membranes. At 200 mA cm\u22122, a PBFA-QA-based cell operates stably for 200 h while maintaining an FECO above 92.3%, without cathode flooding or salt precipitation.",
+    "journal": "Joule"
+  },
+  {
+    "id": "b8ac067fad0a392a",
+    "title": "Quantifying X-ray damage",
+    "link": "https://www.nature.com/articles/s41560-026-02098-3",
+    "content": "<p>Nature Energy, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02098-3\">doi:10.1038/s41560-026-02098-3</a></p>Quantifying X-ray damage",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "ae7a57212ef2a05f",
+    "title": "Interacting causes of mini-grid failure",
+    "link": "https://www.nature.com/articles/s41560-026-02100-y",
+    "content": "<p>Nature Energy, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02100-y\">doi:10.1038/s41560-026-02100-y</a></p>Interacting causes of mini-grid failure",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "d5991402fc4d9676",
+    "title": "Open-air perovskite fabrication",
+    "link": "https://www.nature.com/articles/s41560-026-02099-2",
+    "content": "<p>Nature Energy, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02099-2\">doi:10.1038/s41560-026-02099-2</a></p>Open-air perovskite fabrication",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "973efb9c3b779d94",
+    "title": "Flowing zinc slurry for long-duration energy storage",
+    "link": "https://www.nature.com/articles/s41560-026-02091-w",
+    "content": "<p>Nature Energy, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02091-w\">doi:10.1038/s41560-026-02091-w</a></p>Aqueous Zn batteries are attractive for low-cost and safe energy storage, yet their practical use is hindered by limited reversibility. Here the authors report a ligand-confined, flowable Zn slurry that enables durable and efficient operation.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "7a0334653b36f401",
+    "title": "Simultaneous Prediction of Three Key Li-ion battery Indicators through Multi-Task Learning",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EB/D6EB00066E",
+    "content": "<div><i><b>EES Batteries</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EB00066E, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY-NC.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution-NonCommercial 3.0 Unported Licence.</a></div><div>Minjeong Gong, Yoonjung  Choi, Han Mo Yang, Sang Bok Ma, Dong-Hwa Seo<br />Accurate diagnosis of battery states is essential for ensuring operational safety, evaluating current performance, and assessing suitability for second-life applications. However, characterizing key indicators such as State of Health (SoH),...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - EES Batteries latest articles"
+  },
+  {
+    "id": "2feaac3c7e4727ff",
+    "title": "Mapping mRNA Localization and Internal Structure in Lipid Nanoparticles through Solid\u2010State Dynamic Nuclear Polarization NMR and Proton Spin\u2010Diffusion Modeling",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70797?af=R",
+    "content": "The internal structure of mRNA\u2010loaded lipid nanoparticles is fully described by quantitative DNP NMR analysis.\n\n\n\n\n\n\n\n\nABSTRACT\nLipid nanoparticles (LNPs) are the cornerstone of RNA\u2010based vaccine delivery, yet their internal structure, particularly in the presence of large, single\u2010stranded messenger RNA (mRNA), remains poorly understood. Here, we apply relayed dynamic nuclear polarization (DNP)\u2010enhanced solid\u2010state NMR to directly detect encapsulated mRNA and map the spatial distribution of lipid and nucleic acid components within intact LNPs formulated with clinically relevant excipients. By refining cryoprotectant removal and polarizing matrix composition, we report the solid\u2010state NMR observation of the mRNA cargo within functional LNPs, with clear C1\u2032\u2010H1\u2032 correlation confirming resonance assignment. Quantitative analysis of polarization enhancements and build\u2010up kinetics reveals a concentric architecture: PEG\u2010lipids reside at the surface, helper lipids (DOPE, cholesterol) in intermediate layers, and mRNA within the core. These experimental trends are reinforced by numerical simulations that model the polarization transport by spin diffusion across a library of eight structural models. A multi\u2010layered core\u2013shell configuration, placing mRNA at the center surrounded by stratified lipid shells, best fits the full set of NMR observables. Together, these results confirm relayed\u2010DNP MAS NMR as a powerful method for probing nanometer\u2010scale spatial organization in LNPs and provide a quantitative structural framework to guide the rational design of RNA delivery systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "1c6926a02cb1bdd7",
+    "title": "Dual\u2010Functional Metal Interlayer Enables High\u2010Quality GaN Epitaxy and Low\u2010Damage Transfer Towards Flexible Optoelectronics",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70792?af=R",
+    "content": "To address the trade\u2010off between strong covalent\u2010bonded interface required for high\u2010quality GaN epitaxy, and weak interfacial forces required for intact transfer, this work establishes a lattice\u2010matched and dissolvable metal\u2010interlayer chemical lift\u2010off (MI\u2010CLO) strategy. The MI\u2010CLO framework provides a versatile technology enabling both high\u2010quality GaN heteroepitaxy and strain\u2010released, low\u2010damage transfer towards flexible optoelectronics.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010quality GaN epitaxy and transfer are essential for flexible optoelectronics. Yet, the trade\u2010off between strong covalent\u2010bonded interfaces for epitaxy and weak forces for exfoliation hinders the simultaneous achievement of high\u2010quality epitaxy and intact transfer. To address this, we report a dual\u2010functional metal\u2010interlayer chemical lift\u2010off (MI\u2010CLO) strategy. To the best of our knowledge, this is the first demonstration of a metallic interlayer serving as both an epitaxial template and a dissolvable sacrificial layer, facilitating both single\u2010crystalline GaN thin film growth and low\u2010damage transfer to flexible substrates. Our results demonstrate that the copper (Cu) interlayer yields superior surface morphology and crystalline integrity of the epilayer than nickel, despite their structural similarities. By incorporating a Cu interlayer and composite buffer layers, we obtain a 33\u2010\u00b5m GaN film on sapphire with the (0002) rocking curve full width half maximum as low as 0.10\u00b0. A 5\u2010\u00b5m GaN thin film exhibits a low threading dislocation density (8\u00a0\u00d7\u00a0108 cm\u22122) comparable to direct heteroepitaxial GaN films on sapphire. The MI\u2010CLO technology demonstrates broad applicability across representative heteroepitaxial systems, facilitating strain\u2010released transfer with high epilayer crystalline integrity onto flexible substrates. A flexible ultraviolet photodetector is demonstrated, maintaining stable responses under mechanical bending and verifying its potential for flexible optoelectronics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "92dac05e250c2c5f",
+    "title": "Mn/V Co\u2010Doping Enables Multielectron Transfer and Above\u2010Theoretical Capacity in Na4Fe3(PO4)2P2O7 Cathode",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70799?af=R",
+    "content": "Synergistic Mn/V co\u2010doping in Na4Fe3(PO4)2P2O7 triggers a reversible multielectron transfer process, enabling an ultrahigh capacity of 149.11 mAh g\u22121 that exceeds the theoretical limit of polyanionic cathodes.\n\n\n\n\n\n\n\n\nABSTRACT\nThe practical deployment of polyanionic cathodes in sodium\u2010ion batteries is severely restricted by their limited theoretical capacity and poor electron/ion kinetics. Herein, we overcome these inherent obstacles through the construction of a high\u2010performance Na3.5Fe2Mn0.5V0.5(PO4)2P2O7/C@CNT (NFMVPP) composite via a synergistic strategy, which integrates Mn/V co\u2010doping with a dual\u2010carbon modification involving in situ carbon coating and carbon nanotube networking. The NFMVPP cathode achieves an unprecedented initial discharge capacity of 149.11 mAh g\u22121 at 0.05 C, successfully breaking through the theoretical capacity limit of 129 mAh g\u22121 of pristine Na4Fe3(PO4)2P2O7 (NFPP). Correspondingly, it achieves a remarkable energy density as a cathode material of 398.44\u00a0Wh kg\u22121 at 0.05 C, significantly surpassing the unmodified NFPP. Mechanistic studies utilizing ex situ X\u2010ray photoelectron spectroscopy (XPS) and in situ X\u2010ray diffraction (XRD) reveal that this breakthrough originates from the reversible multielectron transfer process triggered by the activation of high\u2010voltage Mn2+/Mn3+/Mn4+ and V3+/V4+ redox couples, as well as Fe2+/Fe3+. Furthermore, benefiting from the hierarchical conductive network, the cathode exhibits excellent rate capability of 86.02 mAh g\u22121 at 20 C and robust long\u2010term cycling stability. This work provides a new paradigm for transforming the latent capacity of polyanionic materials to construct high\u2010energy\u2010density sodium\u2010ion batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ef96097c95902c39",
+    "title": "Dry Development of Dry Coated Sn\u2010Based Inorganic Resist for Defect\u2010Suppressed and High\u2010Resolution Patterning Process",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70794?af=R",
+    "content": "This work compares conventional wet development and asynchronously pulsed plasma development for Sn\u2010based inorganic resists under delay and AMC exposure. While wet development induces CD variation, scumming, and bridging, pulsed plasma enables selective removal of non\u2010exposed regions, mitigating contamination effects and achieving defect\u2010suppressed, high\u2010fidelity nanoscale patterning.\n\n\n\n\n\n\n\n\nABSTRACT\nThe advancement of semiconductor technology has driven the need for next\u2010generation patterning techniques that ensure high fidelity and sub\u201010\u00a0nm critical dimension (CD) control. In this study, we propose a novel plasma development process using an asynchronously pulsed plasma for the development of Sn\u2010based inorganic dry resists. The asynchronously pulsed plasma, especially characterized by the alternate application of source and bias RF power, enables high chemical contrast while minimizing physical damage through precise control of radical chemisorption and energy/flux of reactive ions. Compared to wet development, this pulsed plasma development technique substantially suppresses defectivity, including line bridging and scum formation, while reducing the line\u2010edge roughness (LER) by approximately 29%. This improvement enables higher patterning fidelity for sub\u201010\u00a0nm features and expands the lithography process margin. In addition, because positively charged ions in the plasma remove the resist through combined chemical and physical pathways, the process mitigates defect mechanisms associated with airborne molecular contamination (AMC) and resist aging. Consequently, overall process stability is enhanced, and the operational process window is broadened. These results demonstrate the potential of pulsed plasma development as a highly selective, low\u2010damage, and defect\u2010suppressing strategy for future high\u2010resolution lithographic applications regardless of whether it is spin\u2010coated or dry deposited.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4c13b5ba09c091bf",
+    "title": "Immune\u2010Evasive Biomimetic Gold\u2013Carbon Nanoplatform for Dual\u2010Modal Theranostics of Hepatocellular Carcinoma",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70788?af=R",
+    "content": "This study presents a cell membrane\u2010coated nanoplatform (ARG\u2010SF@M) integrating gold nanorods, GTTN, and sorafenib. Under 808/405 nm laser irradiation, it enables dual\u2010modal imaging\u2010guided chemo\u2010photothermal therapy. The system promotes lysosomal escape, induces ROS generation and mitochondrial dysfunction, upregulates HSP70/Bax while downregulating Bcl\u20102, ultimately activating caspase\u20103 to trigger tumor cell apoptosis.\n\n\n\n\n\n\n\n\nABSTRACT\nHepatocellular carcinoma (HCC) remains refractory to systemic therapy due to poor tumor selectivity, rapid drug clearance, and acquired resistance to sorafenib (SF). Here, we report a membrane\u2010engineered biomimetic gold\u2013carbon theranostic nanoplatform (ARG\u2010SF@M) that integrates immune evasion, homologous targeting, dual\u2010modal imaging, and synergistic chemo\u2010photothermal therapy (chemo\u2010PTT) within a single nanosystem. The platform is constructed by co\u2010assembling gold nanorods (AuNRs) and a fluorescent carbon nanomaterial (GTTN) for efficient SF loading, followed by cloaking with HCC cell membranes to confer prolonged circulation and tumor\u2010homotypic recognition. AuNRs enable efficient near\u2010infrared photothermal conversion and thermal imaging (TI), while GTTN provides stable fluorescence imaging (FI) for real\u2010time biodistribution monitoring. The membrane camouflage markedly enhances tumor accumulation and reduces off\u2010target distribution, thereby improving SF delivery efficiency. In vivo studies demonstrate that ARG\u2010SF@M achieves a tumor inhibition rate of 81.92%, significantly higher than that of free SF (42.43%) and non\u2010biomimetic ARG\u2010SF (66.05%). Under NIR irradiation, tumor suppression further increases to 90.77%, substantially outperforming AuNRs + L (55.35%), confirming strong chemo\u2010PTT synergy. Mechanistically, photothermal activation induces intratumoral hyperthermia, mitochondrial dysfunction, excessive reactive oxygen species generation, HSP70 upregulation, and activation of the mitochondrial apoptotic pathway. Collectively, this work presents a rational biomimetic membrane\u2010engineering strategy for imaging\u2010guided precision HCC theranostics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
