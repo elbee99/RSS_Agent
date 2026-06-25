@@ -439,5 +439,565 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70788?af=R",
     "content": "This study presents a cell membrane\u2010coated nanoplatform (ARG\u2010SF@M) integrating gold nanorods, GTTN, and sorafenib. Under 808/405 nm laser irradiation, it enables dual\u2010modal imaging\u2010guided chemo\u2010photothermal therapy. The system promotes lysosomal escape, induces ROS generation and mitochondrial dysfunction, upregulates HSP70/Bax while downregulating Bcl\u20102, ultimately activating caspase\u20103 to trigger tumor cell apoptosis.\n\n\n\n\n\n\n\n\nABSTRACT\nHepatocellular carcinoma (HCC) remains refractory to systemic therapy due to poor tumor selectivity, rapid drug clearance, and acquired resistance to sorafenib (SF). Here, we report a membrane\u2010engineered biomimetic gold\u2013carbon theranostic nanoplatform (ARG\u2010SF@M) that integrates immune evasion, homologous targeting, dual\u2010modal imaging, and synergistic chemo\u2010photothermal therapy (chemo\u2010PTT) within a single nanosystem. The platform is constructed by co\u2010assembling gold nanorods (AuNRs) and a fluorescent carbon nanomaterial (GTTN) for efficient SF loading, followed by cloaking with HCC cell membranes to confer prolonged circulation and tumor\u2010homotypic recognition. AuNRs enable efficient near\u2010infrared photothermal conversion and thermal imaging (TI), while GTTN provides stable fluorescence imaging (FI) for real\u2010time biodistribution monitoring. The membrane camouflage markedly enhances tumor accumulation and reduces off\u2010target distribution, thereby improving SF delivery efficiency. In vivo studies demonstrate that ARG\u2010SF@M achieves a tumor inhibition rate of 81.92%, significantly higher than that of free SF (42.43%) and non\u2010biomimetic ARG\u2010SF (66.05%). Under NIR irradiation, tumor suppression further increases to 90.77%, substantially outperforming AuNRs + L (55.35%), confirming strong chemo\u2010PTT synergy. Mechanistically, photothermal activation induces intratumoral hyperthermia, mitochondrial dysfunction, excessive reactive oxygen species generation, HSP70 upregulation, and activation of the mitochondrial apoptotic pathway. Collectively, this work presents a rational biomimetic membrane\u2010engineering strategy for imaging\u2010guided precision HCC theranostics.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "e514c564421b2cdb",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71119?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "926fdf9fc64c6112",
+    "title": "Solar\u2010Driven Photothermal Hydrogen Production: Recent Advances and Future Perspectives (Adv. Energy Mater. 24/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71120?af=R",
+    "content": "Photothermal Hydrogen Production\nPhotothermal hydrogen production integrates solar light harvesting with localized heat generation to synergistically regulate light absorption, charge dynamics, and interfacial reaction pathways. Through size and morphology engineering, thermal field modulation, and local photothermal heating, photothermal systems can suppress reverse reactions, lower activation barriers, optimize adsorption/desorption processes, and accelerate hydrogen evolution kinetics, thus promote solar\u2010driven hydrogen production. More in article number e70941, Zhangxing Chen, Heng Zhao, and co\u2010workers.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f5caadc960a724df",
+    "title": "3D Interconnected Zn\u2010Ion Pathways Through Anionic Nanochannels Surrounding Bacterial Cellulose Nanofibers by Repetitive Interfacial Assembly for Aqueous Zn\u2010Ion Battery Separators (Adv. Energy Mater. 24/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71121?af=R",
+    "content": "Aqueous Zn\u2010Ion Battery Separators\nIn article number e70929, Hyung\u2010Kyu Lim, Bongjun Yeom, and co\u2010workers report a bacterial cellulose nanofiber separator with continuous anionic nanochannels fabricated via a novel repetitive interfacial assembly for aqueous Zn\u2010ion batteries. The interconnected nanochannels enable rapid Zn2+ transport and partial desolvation of the hydration shell, promoting facile and uniform Zn deposition, suppressing dendrite growth, and significantly enhancing electrochemical performance.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f5982510fbeefea0",
+    "title": "Hydrogel\u2010Engineered Interface Suppressing Water Activity by Hydrogen Bonds and Regulated Solvation for Stable Zn Metal Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71211?af=R",
+    "content": "Empowering Zn anode with an in situ hydrogel layer suppresses water activity and regulates Zn2+ solvation, ensuring highly reversible zinc electrodeposition and ultralong cycling durability. \n\n\n\n\n\n\n\n\nABSTRACT\nThe instability of zinc metal anodes in aqueous electrolytes, primarily caused by water\u2010induced side reactions such as hydrogen evolution and corrosion, severely limits the lifespan of aqueous zinc\u2010ion batteries. Herein, we propose an in situ polymerized hydrogel coating strategy to engineer the Zn/electrolyte interface. A robust polyacrylamide (PAM)\u2010based hydrogel layer incorporating polyethylene glycol (PEG) and concentrated ZnCl2 is constructed directly on the Zn surface (Zn\u2010PAM/PEG/ZnCl2). This multifunctional layer simultaneously suppresses water activity and regulates Zn2+ solvation structure. Specifically, the abundant hydrophilic groups in the PAM/PEG networks immobilize free water molecules via strong hydrogen bonding, while Cl\u2212 ions partially replace the water molecules in the primary solvation sheath of Zn2+, effectively mitigating hydrogen evolution. Furthermore, PEG enhances the mechanical strength and water\u2010retention capability of the hydrogel, ensuring exceptional interfacial stability. Consequently, the Zn\u2010PAM/PEG/ZnCl2 electrode achieves an extraordinary cycling lifespan exceeding 6600 h (> 9 months) in symmetric cells at 1\u00a0mA cm\u22122 and 1 mAh cm\u22122. When paired with activated carbon and MnO2 electrodes, respectively, the full cells also demonstrate remarkable electrochemical performance and cycling durability. This work provides a profound insight into interfacial chemistry manipulation and offers a feasible approach to developing highly reversible zinc metal anodes for practical energy\u2010storage applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6862d4d42c8dc0d8",
+    "title": "Chiral Molecular Configuration\u2010Mediated Crystallization of Perovskites for High\u2010Performance Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71222?af=R",
+    "content": "In this work, we propose a chiral stereo\u2010anchoring strategy to modulate the colloidal evolution and crystallization behavior of FAPbI3 perovskites via stereochemical molecular design, which effectively regulates nucleation kinetics and promotes ordered crystal growth. A champion perovskite solar cell achieves an impressive solar conversion efficiency of 26.13%, accompanied with an exceptional stability.\n\n\n\n\n\n\n\n\nABSTRACT\nMaximizing the binding affinity between molecular additives and perovskite is critical for long term device stability, yet how molecular configuration influences the interaction with perovskites remains unexplored. Here, we report a chiral stereo\u2010anchoring strategy to regulate the colloidal crystallization of FAPbI3 perovskites through stereochemical molecular design. A pair of enantiomeric additives, (R)\u20104\u2010(pyrrolidin\u20103\u2010yl)thiomorpholine 1,1\u2010dioxide dihydrochloride (R)\u2010Pye and (S)\u2010Pye, are introduced as chiral\u2010selective crystallization modulators. Owing to its more favorable steric accessibility, R\u2010Pye exhibits a more favorable adsorption geometry on the perovskite surface than S\u2010Pye, resulting in a higher binding energy (9.45 vs 7.33\u00a0eV) and an increased iodine vacancy formation energy (4.56 vs 2.46\u00a0eV). This strengthened interaction optimizes nucleation kinetics, and promotes ordered crystal growth, leading to high\u2010quality perovskite films with reduced defect density and improved crystallinity. Consequently, R\u2010Pye\u2010treated devices achieve a remarkable power conversion efficiency (PCE) of 26.13% with an open\u2010circuit voltage (VOC) of 1.20\u00a0V. Moreover, the resulting devices show excellent operational durability, retaining 94.8% of their initial efficiency after 550\u00a0h of continuous maximum power point tracking. This study underscores that the stereochemical configuration is a factor in governing the molecular\u2010level interaction and crystallization pathways, opening new horizons for crystallization control in perovskite solar cells.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8f5c43bbf23a53fa",
+    "title": "Practical Perspectives and Energy Density Criteria for Current Collector Engineering in Anode\u2010Free Li\u2010Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71220?af=R",
+    "content": "This review elucidates the fundamental principles of Li\u2011metal plating on current collectors and summarizes recent strategies that enhance reversibility through interfacial and structural engineering. We highlight often\u2011overlooked mass, volume, and Li\u2011inventory penalties and introduce a Thin\u2011Li benchmark to identify when such modifications deliver true system\u2011level gains for practical anode\u2011free metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nThis review provides a practical and in\u2010depth discussion of current collector engineering for Li\u2010metal batteries, emphasizing how the mass and volume introduced by modifications, together with the changes in Li inventory accompanying electrochemical processes, affect achievable energy metrics in realistic cell configurations. We compare major engineering approaches, including alloying and coating, crystallographic orientation control, and transitions from planar to three\u2010dimensional architectures, examining their impact on both initial energy density and long\u2010term retention. From these comparisons, we clarify key failure mechanisms and identify the stack\u2010level constraints that limit anode\u2010free Li\u2010metal batteries, including mass loading, volume occupation, electrolyte demand, and restricted Li inventory. To determine practical relevance, we introduce a quantitative energy density evaluation that benchmarks representative modification strategies against restricted Li inventory batteries. The analysis shows that although recent strategies enhance local plating and stripping behavior, they often reduce achievable energy density once realistic penalties related to volume, mass, and Li consumption are considered. These results establish clear criteria for identifying modifications that provide genuine practical benefit. Finally, we propose research directions that reduce geometric and material burdens while enhancing Li inventory retention, offering a perspective that supports the development of practical current collector designs for anode\u2010free Li\u2010metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "32f40d5269d884c7",
+    "title": "Boosting Proton Conduction and Oxygen Reduction Kinetics via In Situ Reverse Atom Capture for Protonic Ceramic Fuel Cell Cathodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71226?af=R",
+    "content": "An advanced reverse atom capture technique is developed to in\u2010situ fabricate the BSS protonic conductor @PBSCF perovskite heterostructured cathode for PCFCs. This strategy boosts cathode performance remarkably via synergistically raising oxygen vacancy concentration, accelerating proton transport kinetics, and suppressing harmful cation segregation. The optimized cathode delivers a high peak power density of 1.90 W cm\u22122 at 650\u00b0C and excellent stability for over 210 h. This work offers a novel approach to atomic\u2010scale heterostructure engineering for high\u2010performance, durable cathodes in intermediate\u2010to\u2010low temperature PCFCs.\n\n\n\n\n\n\n\n\nABSTRACT\nAlthough triple\u2010conducting (H+/O2\u2212/e\u2212) cathodes have significantly advanced protonic ceramic fuel cells (PCFCs), limited proton transport and surface cation segregation remain major challenges to commercialization. Here we present a novel atomic layer deposition (ALD)\u2010enabled reverse atom capture strategy to achieve the in\u2010situ construction of a protonic conductor on the perovskite cathode. Sn species are first deposited onto PrBa0.5Sr0.5Co1.5Fe0.5O5+\u03b4 (PBSCF) via ALD, followed by high\u2010temperature calcination. Through a reverse atom capture mechanism, Sn selectively captures Ba/Sr from the PBSCF lattice to in\u2010situ form a (Ba/Sr)SnO3\u2010\u03b4 (BSS)@PBSCF heterostructure. This design synergistically increases oxygen vacancy concentration in PBSCF and harnesses the high protonic conductivity of BSS, thereby enhancing proton\u2010involved oxygen reduction reaction kinetics and suppressing cation segregation. The cells with the optimized Sn10\u2010PBSCF cathode deliver a peak power density of 1.90\u00a0W cm\u22122 at 650\u00b0C and demonstrate stable operation over 210\u00a0h. Density functional theory calculations further reveal a reduced proton migration barrier in BSS. This work introduces an efficient ALD\u2010enabled reverse atom capture strategy to advance the commercial viability of PCFCs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "61dbd680ecdd9d59",
+    "title": "Boosting Oxygen Reduction via Nanotwinned High\u2010Entropy Aerogels With Deficient Pd Coordination and Multi\u2010d\u2010Orbital Hybridization for Zinc\u2010Air Battery Applications",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71223?af=R",
+    "content": "The hierarchical porous architecture of PdPtCuNiCo high\u2010entropy alloy aerogels enhances mass transport. Meanwhile, multi\u2010d\u2010orbital electron transfer from 3d metals (Cu, Ni, Co) to 4d Pd and 5d Pt, along with defect engineering such as nanotwins and unsaturated Pd sites, synergistically promotes the four\u2010step oxygen reduction reaction kinetics in alkaline electrolyte.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010entropy alloys (HEAs) offer exceptional opportunities for electrocatalytic applications, yet achieving precise control over their atomic\u2010scale defects and electronic properties remains a substantial challenge. Herein, high\u2010entropy alloy aerogels (HEAAs) with a hierarchical porous structure are successfully constructed through systematic thermodynamic and electronic structure analysis combined with particle self\u2010assembly technology. The lattice distortion produces a local micro\u2010strain field and nano\u2010twin boundaries, which destroy the typical atomic periodicity and lead to an unsaturated Pd coordination environment, thereby increasing the density of active sites. In addition, we observe electron transfer from 3d (Cu, Ni, Co) to 4d (Pd) and 5d (Pt) elements, demonstrating effective multi\u2010orbital electron regulation. The optimized HEAAs exhibit excellent bifunctional properties, with a potential difference of 0.64\u00a0V and a high kinetic current density of 27.9 mA\u00b7cm\u22122, which are much better than those of commercial catalysts. When applied to the zinc\u2010air battery, it exhibits long cycle stability of over 600\u00a0h. Theoretical calculations show that the strong anti\u2010bonding effect of PdPtCuNiCo HEAAs weakens the adsorption of OOH*, and its high\u2010spin electronic configuration promotes the electron transfer to the intermediate O 2p orbital, both of which improve the ORR activity.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1398a25fc0c3943f",
+    "title": "Iron\u2010Based Sodium\u2010Salt Composite Cathode for Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71154?af=R",
+    "content": "A mechanochemically formed composite of Na2SO4, iron metal powder, and CuS demonstrates CuS\u2010mediated Fe redox during reversible desodiation and sodiation. The interfacial chemistry activates reactions between metallic iron and sodium sulfate domains, establishing a new route to high\u2010capacity, earth\u2010abundant sodium cathodes beyond classical intercalation frameworks.\n\n\n\n\n\n\n\n\nABSTRACT\nThe use of iron metal powder directly as the cathode active mass is a transformative opportunity to increase energy density and reduce costs for rechargeable batteries. Realizing this potential, however, requires creating a chemical environment that can activate multiple\u2010electron transfer of iron redox chemistry. Here, we report that the composite synthesized by ball milling Na2SO4, Fe metal, and CuS can be directly desodiated as a sodium\u2010ion battery cathode, which delivers a reversible discharge capacity of 149 mAh g\u22121 at ~2.6 V with stable cycling performance. Comprehensive spectroscopic characterization reveals that Fe serves as the primary redox center, while CuS functions as a redox mediator. The results demonstrate that the heterointerfaces formed by ball milling are critical for charge transfer and high iron utilization. This work establishes iron metal sodium\u2010salt composites as viable sodium\u2010ion battery cathodes by unlocking multi\u2010electron Fe redox within a composite architecture.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "31df639291884296",
+    "title": "Modulation of Local Environment for Selective Bicarbonate Conversion to Multi\u2010Carbon Products",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71214?af=R",
+    "content": "Highly porous Cu electrode partially coated with an ionomer/carbon composite enables efficient conversion of bicarbonate to multi\u2010carbon products. By regulating the local reaction microenvironment, this strategy overcomes selectivity and reaction\u2010rate limitations, achieving Faradaic efficiencies of 43% for ethylene and 60% for total multi\u2010carbon products at 150 mA/cm2\u00a0and low full\u2010cell voltage, while demonstrating excellent long\u2010term stability.\n\n\n\n\n\n\n\n\nABSTRACT\nRenewable electricity\u2010powered direct electrosynthesis of multi\u2010carbon (C2+) products such as ethylene (C2H4) from bicarbonate offers a sustainable route for carbon dioxide (CO2) utilization but is hindered by limited CO2 availability and unfavorable reaction environments. Existing approaches, such as electrolyte engineering and buffering layers, often improve selectivity at the cost of higher full\u2010cell voltages, creating a trade\u2010off between selectivity and energy efficiency. Here, we introduce a new electrode design for direct bicarbonate (HCO3\u2212)\u00a0conversion using highly porous copper electrodes coated with an ionomer/carbon layer. Multiphysics modeling results reveal that increasing HCO3\u2212 concentration enhances local in situ\u2010generated CO2 (i\u2010CO2) availability but suppresses the alkaline microenvironment required for C\u2010C coupling. We found that partially coating a large\u2010pore Cu electrode with the ionomer/carbon layer addresses the limitation by fine\u2010tuning the local reaction environment to favor C2+ products while maintaining high CO2 availability for high reaction rates. The optimized electrode achieves a C2H4 Faradaic efficiency (FE) of 43% (total C2+ FE of 60%) at 150\u00a0mA/cm2, with a low full\u2010cell voltage of 3.38\u00a0V. When coupled to a dilute CO2 source (20% in argon) and pulsed operation, the system sustains > 30% C2H4 FE for \u223c150\u00a0h at 150\u00a0mA/cm2.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "76b2ec1f53d84050",
+    "title": "Two-dimensional materials need a shared experimental memory",
+    "link": "https://www.nature.com/articles/s41578-026-00938-y",
+    "content": "<p>Nature Reviews Materials, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00938-y\">doi:10.1038/s41578-026-00938-y</a></p>There is no lack of possibilities for two-dimensional materials science; however, there is a lack of organized memory. Connecting what materials have been synthesized, how they were made and how they relate to computational predictions could shape future discoveries.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "fcf8bab58e98cbe7",
+    "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+    "link": "https://www.nature.com/articles/s41586-026-10829-5",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10829-5\">doi:10.1038/s41586-026-10829-5</a></p>Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+    "journal": "Nature"
+  },
+  {
+    "id": "1707daea7fe16b39",
+    "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
+    "link": "https://www.nature.com/articles/s41586-026-10826-8",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10826-8\">doi:10.1038/s41586-026-10826-8</a></p>Ligand-enabled distal desaturative lactonization of aliphatic acids",
+    "journal": "Nature"
+  },
+  {
+    "id": "cb85f0e8b91d516a",
+    "title": "Base editing reveals an essential role for NANOG in human embryogenesis",
+    "link": "https://www.nature.com/articles/s41586-026-10792-1",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10792-1\">doi:10.1038/s41586-026-10792-1</a></p>Base editing reveals an essential role for NANOG in human embryogenesis",
+    "journal": "Nature"
+  },
+  {
+    "id": "fb6b5f85e62b906d",
+    "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+    "link": "https://www.nature.com/articles/d41586-026-01994-8",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01994-8\">doi:10.1038/d41586-026-01994-8</a></p>The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9f88ff057cb507a3",
+    "title": "US funding uncertainties threaten to sink key global oceanography projects",
+    "link": "https://www.nature.com/articles/d41586-026-02028-z",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02028-z\">doi:10.1038/d41586-026-02028-z</a></p>The United States has led the world in observing the oceans \u2013 but cuts and threats of cuts have researchers worried it is no longer a reliable partner.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f7089a5c8f518c9b",
+    "title": "China\u2019s LineShine just topped the global supercomputer ranking: what you need to know",
+    "link": "https://www.nature.com/articles/d41586-026-02047-w",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02047-w\">doi:10.1038/d41586-026-02047-w</a></p>The supercomputer has an innovative chip design that allows it to carry out more than 2 quintillion calculations per second.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ec3d757b195b4056",
+    "title": "Can you terraform Mars? Try <i>Nature</i>\u2019s game",
+    "link": "https://www.nature.com/articles/d41586-026-01978-8",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01978-8\">doi:10.1038/d41586-026-01978-8</a></p>Once the realm of science fiction, the idea of making Mars habitable is gaining traction. Nature consulted with key scientists to develop this experimental adventure.",
+    "journal": "Nature"
+  },
+  {
+    "id": "884086876871d66a",
+    "title": "How long-term dietary cholesterol can slow down its own clearance by liver cells",
+    "link": "https://www.nature.com/articles/d41586-026-01899-6",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01899-6\">doi:10.1038/d41586-026-01899-6</a></p>Cholesterol carried by low-density lipoprotein (LDL) drives heart disease and is cleared by liver cells expressing the receptor LDLR. A cell-signalling mechanism has been discovered through which high cholesterol promotes the enzyme-mediated degradation of LDLR. Blocking this enzyme restores LDLR levels in liver cells, suggesting a new strategy for treating high cholesterol.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f7894659baa350ad",
+    "title": "Electric fields probe the symmetry of the \u2018heavy hydrogen\u2019 nucleus",
+    "link": "https://www.nature.com/articles/d41586-026-02036-z",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02036-z\">doi:10.1038/d41586-026-02036-z</a></p>The response of the nucleus of a deuterium atom to electric fields shows no evidence of asymmetry, which is consistent with conventional theories of particle physics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b12d4d46aaedd350",
+    "title": "\u2018Edited\u2019 human embryos reveal secrets of our development \u2014 and fuel ethical debate",
+    "link": "https://www.nature.com/articles/d41586-026-02027-0",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02027-0\">doi:10.1038/d41586-026-02027-0</a></p>Ethical discussions are urgently needed as genome-editing science advances, some researchers say.",
+    "journal": "Nature"
+  },
+  {
+    "id": "59268c8231478c62",
+    "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
+    "link": "https://www.nature.com/articles/s41586-026-10813-z",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10813-z\">doi:10.1038/s41586-026-10813-z</a></p>Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
+    "journal": "Nature"
+  },
+  {
+    "id": "27799051988ab997",
+    "title": "Role of methanesulfonic acid in atmospheric particle nucleation and growth",
+    "link": "https://www.nature.com/articles/s41586-026-10810-2",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10810-2\">doi:10.1038/s41586-026-10810-2</a></p>Role of methanesulfonic acid in atmospheric particle nucleation and growth",
+    "journal": "Nature"
+  },
+  {
+    "id": "93ca0f40d33b2cf6",
+    "title": "Reply to: On the robustness of topological gap detection via transport",
+    "link": "https://www.nature.com/articles/s41586-026-10568-7",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10568-7\">doi:10.1038/s41586-026-10568-7</a></p>Reply to: On the robustness of topological gap detection via transport",
+    "journal": "Nature"
+  },
+  {
+    "id": "9da31d62c28f8ec9",
+    "title": "Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys",
+    "link": "https://www.nature.com/articles/s41586-026-10767-2",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10767-2\">doi:10.1038/s41586-026-10767-2</a></p>Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys",
+    "journal": "Nature"
+  },
+  {
+    "id": "14c97e9a6697d788",
+    "title": "On the robustness of topological gap detection via transport",
+    "link": "https://www.nature.com/articles/s41586-026-10567-8",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10567-8\">doi:10.1038/s41586-026-10567-8</a></p>On the robustness of topological gap detection via transport",
+    "journal": "Nature"
+  },
+  {
+    "id": "cc7903c2112f9614",
+    "title": "Medical records could be revealed by AI training-data vulnerability",
+    "link": "https://www.nature.com/articles/d41586-026-02032-3",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02032-3\">doi:10.1038/d41586-026-02032-3</a></p>Identification risks are more severe for underrepresented groups in the training data \u2014 plus, evidence that the Universe is more uneven than assumed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7601d64069a4f803",
+    "title": "AI tool spots antibiotics that fight drug-resistant gonorrhoea",
+    "link": "https://www.nature.com/articles/d41586-026-01987-7",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01987-7\">doi:10.1038/d41586-026-01987-7</a></p>The bacterium Neisseria gonorrhoeae has evolved resistance to most antibiotics used to treat it, but a machine-learning screen reveals potential therapies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "49dcfd173f127ff0",
+    "title": "Volcanic magma sculpts eerie domes on the sea floor",
+    "link": "https://www.nature.com/articles/d41586-026-01986-8",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01986-8\">doi:10.1038/d41586-026-01986-8</a></p>Carbon dioxide bubbling up from underground material can solidify into formations of up to five metres tall.",
+    "journal": "Nature"
+  },
+  {
+    "id": "18cdcd12bbcb6556",
+    "title": "The mutational landscape of STING-induced immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10685-3",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10685-3\">doi:10.1038/s41586-026-10685-3</a></p>A massively parallel assay systematically charts the sequence-function landscape of the STING signalling protein, and the findings define molecular principles that tune STING activity and show its functional potential across immune contexts.",
+    "journal": "Nature"
+  },
+  {
+    "id": "83628f06a97ea9e2",
+    "title": "Genetic technologies to enhance crop nutritional value under climate change",
+    "link": "https://www.nature.com/articles/s41586-026-10593-6",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10593-6\">doi:10.1038/s41586-026-10593-6</a></p>This Review reflects on the joint power of genetic technologies, including untapped CRISPR\u2013Cas techniques to combat hidden hunger and improve crop resilience, and argues in favour of their combined use to overcome these societal challenges.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e12556b974fbb79e",
+    "title": "Dietary cholesterol activates a Ral-dependent pathway driving LDLR turnover",
+    "link": "https://www.nature.com/articles/s41586-026-10697-z",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10697-z\">doi:10.1038/s41586-026-10697-z</a></p>Chronic dietary cholesterol activates Ral GTPases, which promote LDLR internalization and lysosomal degradation through RalBP1\u2013REPS1 and CTSA, thereby reducing cholesterol clearance, whereas CTSA inhibition restores LDLR function and may offer a therapeutic strategy for cardiovascular disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0c1ba8f6b6bd9299",
+    "title": "Global high-resolution mapping of seagrass to support conservation",
+    "link": "https://www.nature.com/articles/s41586-026-10704-3",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10704-3\">doi:10.1038/s41586-026-10704-3</a></p>Global high-resolution mapping shows widespread seagrass loss and degradation since 2019, with most meadows outside protected areas, highlighting urgent conservation and climate-policy needs.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2dad749c62a0fb91",
+    "title": "Disparate privacy risks from medical AI",
+    "link": "https://www.nature.com/articles/s41586-026-10688-0",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10688-0\">doi:10.1038/s41586-026-10688-0</a></p>AI models for medical diagnostics are vulnerable to membership inference attacks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fda9ad08a299310f",
+    "title": "Small-molecule modulation of \u03b2-arrestins",
+    "link": "https://www.nature.com/articles/s41586-026-10683-5",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10683-5\">doi:10.1038/s41586-026-10683-5</a></p>Integrated pharmacological, biochemical, biophysical and structural analyses of small-molecule \u03b2-arrestin inhibitors show how they block \u03b2-arrestin engagement with activated GPCRs, revealing their mechanism of action and uncovering a previously unrecognized allosteric regulatory site.",
+    "journal": "Nature"
+  },
+  {
+    "id": "850328807fab46d7",
+    "title": "Immunological mechanisms of mRNA vaccines for infectious diseases",
+    "link": "https://www.nature.com/articles/s41586-026-10599-0",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10599-0\">doi:10.1038/s41586-026-10599-0</a></p>A Review of the immunological mechanisms of mRNA\u2013lipid-nanoparticle vaccines for infectious diseases discusses how the components of this vaccine platform can be modified to fine-tune immune responses against challenging pathogens.",
+    "journal": "Nature"
+  },
+  {
+    "id": "19c134181ce91cf4",
+    "title": "Optical cooling by interfacial charge transfer in 2D heterostructures",
+    "link": "https://www.nature.com/articles/s41586-026-10662-w",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10662-w\">doi:10.1038/s41586-026-10662-w</a></p>Optical cooling in two-dimensional semiconductor heterostructures is demonstrated through phonon-assisted interfacial charge transfer, enabling cryogen-free thermal management without stringent quantum-efficiency requirements.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f411b3f843ca1674",
+    "title": "Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "link": "https://www.nature.com/articles/s41586-026-10702-5",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10702-5\">doi:10.1038/s41586-026-10702-5</a></p>Using the parameter-free Angular Distribution of Pairwise Distances for measuring directional correlations, evidence is found for coherent anisotropic structures extending over gigaparsec scales, challenging the assumption that the Universe becomes statistically isotropic on sufficiently large scales.",
+    "journal": "Nature"
+  },
+  {
+    "id": "183e24b4b68e8012",
+    "title": "An ECG biomarker for sudden cardiac death discovered with deep learning",
+    "link": "https://www.nature.com/articles/s41586-026-10674-6",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10674-6\">doi:10.1038/s41586-026-10674-6</a></p>A deep-learning model trained on electrocardiogram (ECG) waveforms identifies an easily visible biomarker that predicts sudden cardiac death more accurately than the current clinical state of the art.",
+    "journal": "Nature"
+  },
+  {
+    "id": "20acafc02ee01e66",
+    "title": "Epiblast diversification and blood formation in a human pregastrula",
+    "link": "https://www.nature.com/articles/s41586-026-10698-y",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10698-y\">doi:10.1038/s41586-026-10698-y</a></p>High-resolution spatial transcriptome analysis of a human embryo at Carnegie stage 6 reveals three distinct developmental trajectories from the epiblast towards amnion, primitive streak and axial mesoderm, and detects the initiation of haematopoiesis before gastrulation, originating from hypoblast rather than epiblast.",
+    "journal": "Nature"
+  },
+  {
+    "id": "606f363fed6f6e2d",
+    "title": "Fourier pixels for bidirectional light control",
+    "link": "https://www.nature.com/articles/s41586-026-10681-7",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10681-7\">doi:10.1038/s41586-026-10681-7</a></p>A versatile platform of miniaturized Fourier-optics-based diffractive elements enables multifunctional pixels that fully control and sense the amplitude, phase and polarization of optical wavefronts for advanced photonic applications.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2d6ca1e2324b42e8",
+    "title": "Genetic diversity of late Neanderthals in northwestern Europe",
+    "link": "https://www.nature.com/articles/s41586-026-10625-1",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10625-1\">doi:10.1038/s41586-026-10625-1</a></p>Genetic sequencing of multiple late Neanderthals living less than 52,500\u2009years ago provides an overview of genetic diversity and demonstrates that even low-coverage nuclear genome data can increase resolution of within-Neanderthal diversity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bf88f34516b496f5",
+    "title": "Crude oil fractionation by means of mesoporous polyacrylonitrile membranes",
+    "link": "https://www.nature.com/articles/s41586-026-10677-3",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10677-3\">doi:10.1038/s41586-026-10677-3</a></p>Porous polyacrylonitrile membranes\u2014typically used as non-selective support layers\u2014can be used to achieve effective molecular refining of crude oil at steady state, enabling substantial reductions in energy consumption, cooling water, and CO2 emissions compared with distillation processes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8534e154244b7e71",
+    "title": "GW250114 reveals signatures of post-merger black-hole horizon",
+    "link": "https://www.nature.com/articles/s41586-026-10696-0",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10696-0\">doi:10.1038/s41586-026-10696-0</a></p>The observation of a direct wave after the merger of two black holes reveals signatures associated with the remnant black-hole horizon, establishing an observational channel to directly measure frame-dragging effects in black-hole ergospheres and probe the horizon surface gravity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "57af836444a570ce",
+    "title": "Chiral laser gyroscopes breaking the lock-in limit",
+    "link": "https://www.nature.com/articles/s41586-026-10684-4",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10684-4\">doi:10.1038/s41586-026-10684-4</a></p>Ring laser gyroscope lock-in has been eliminated using spontaneous symmetry breaking in a He\u2013Ne laser, enabling accurate near-zero rotation sensing without external components, improving miniaturization and precision.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8b93e85b5275428f",
+    "title": "Zero-shot design of drug-binding proteins via neural iterative selection\u2212expansion",
+    "link": "https://www.nature.com/articles/s41586-026-10670-w",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10670-w\">doi:10.1038/s41586-026-10670-w</a></p>By pairing two neural networks in an iterative optimization algorithm, small-molecule binding proteins can be designed from scratch with high accuracy, affinity and success rates, showing promise for applications in drug delivery and sequestration.",
+    "journal": "Nature"
+  },
+  {
+    "id": "25de93fca08039a6",
+    "title": "Ductile alloys offering 100 MPa tensile strength at 2,400 \u00b0C",
+    "link": "https://www.nature.com/articles/s41586-026-10708-z",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10708-z\">doi:10.1038/s41586-026-10708-z</a></p>A boron-stabilized oxide-strengthened tantalum alloy combines exceptional room-temperature ductility with record ultrahigh-temperature strength, enabling load-bearing applications above 2,000\u2009\u00b0C.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5fd614f57342b328",
+    "title": "Alternate RNA decoding results in stable and abundant proteins in mammals",
+    "link": "https://www.nature.com/articles/s41586-026-10678-2",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10678-2\">doi:10.1038/s41586-026-10678-2</a></p>Alternate RNA decoding, an understudied process, leads to peptide sequence modifications that can have substantial functional effects on protein stability, tissue-specific proteomes and disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "db6d5124b4ae2219",
+    "title": "A <i>Streptomyces</i> megacluster encodes synergistic biotin-targeting antibiotics",
+    "link": "https://www.nature.com/articles/s41586-026-10647-9",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10647-9\">doi:10.1038/s41586-026-10647-9</a></p>In Streptomyces spp., a conserved biosynthetic gene megacluster produces an arsenal of distinct antimicrobials that converge on bacterial biotin biosynthesis as a naturally evolved combination therapy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6efd03fe7d449c1c",
+    "title": "Garbage collection",
+    "link": "https://www.nature.com/articles/d41586-026-01720-4",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01720-4\">doi:10.1038/d41586-026-01720-4</a></p>A sense of d\u00e9j\u00e0 vu.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2b44a3c6b643868e",
+    "title": "Laser light switches on heat flow in ultra-thin structures",
+    "link": "https://www.nature.com/articles/d41586-026-01803-2",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01803-2\">doi:10.1038/d41586-026-01803-2</a></p>A temperature difference of more than 100 kelvin can be created between stacked layers of 2D material by irradiating them with laser light.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5c5fd9c29c32ac49",
+    "title": "Genomic insights into the population dynamics and demise of Neanderthals",
+    "link": "https://www.nature.com/articles/d41586-026-01704-4",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01704-4\">doi:10.1038/d41586-026-01704-4</a></p>A surge of genetic data from the skeletal remains of Neanderthals disproves some assumptions and generates fresh questions about these ancient hominins.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0e5bd6f56c3b337e",
+    "title": "Daily briefing: Sperm whales have different dialects",
+    "link": "https://www.nature.com/articles/d41586-026-02054-x",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02054-x\">doi:10.1038/d41586-026-02054-x</a></p>Whales in different areas of the Mediterranean use varying patterns of clicks and pauses. Plus, a technique to make protein samples one billion times bigger and the science of grief.",
+    "journal": "Nature"
+  },
+  {
+    "id": "894f5a6e042cbc12",
+    "title": "\u2018Us\u2019 not \u2018them\u2019: scientists must use their skills to help stop polarization and division",
+    "link": "https://www.nature.com/articles/d41586-026-01952-4",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01952-4\">doi:10.1038/d41586-026-01952-4</a></p>Researchers who study what divides people also have the tools to explore strategies to unite them.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d7a71219f1a1c4cb",
+    "title": "A hidden predictor of sudden cardiac death uncovered by deep learning",
+    "link": "https://www.nature.com/articles/d41586-026-01806-z",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01806-z\">doi:10.1038/d41586-026-01806-z</a></p>A machine-learning model trained on thousands of electrocardiogram recordings identifies a previously unrecognized group of at-risk people.",
+    "journal": "Nature"
+  },
+  {
+    "id": "55dedfcb42a6fad9",
+    "title": "\u2018Megacluster\u2019 of genes enables bacteria to make potent antibiotic mixture",
+    "link": "https://www.nature.com/articles/d41586-026-01804-1",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01804-1\">doi:10.1038/d41586-026-01804-1</a></p>Soil bacteria make cocktails of molecules that synergistically inhibit the growth of microbial pathogens \u2014 suggesting a strategy for tackling antibiotic-resistant infections.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f6a07f49e123551b",
+    "title": "Antibiotic cocktail made by soil bacteria can kill superbugs",
+    "link": "https://www.nature.com/articles/d41586-026-01990-y",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01990-y\">doi:10.1038/d41586-026-01990-y</a></p>Four antibiotic compounds produced in Streptomyces bacteria attack multiple parts of an essential metabolic pathway.",
+    "journal": "Nature"
+  },
+  {
+    "id": "395084ffa3622c9c",
+    "title": "Crude oil turns cheap porous membrane into a sieve to refine itself without heat",
+    "link": "https://www.nature.com/articles/d41586-026-01896-9",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01896-9\">doi:10.1038/d41586-026-01896-9</a></p>An inexpensive, porous polymer membrane helps to separate raw crude oil, without heat or selective coating. Heavy hydrocarbons self-assemble inside the pores to create channels that are likely to be less than 2 nanometres wide, enriching the resulting permeate mix into light, \u2018naphtha range\u2019 hydrocarbons with 30% less energy cost and carbon dioxide emissions than conventional distillation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d646f8e1f54f74a9",
+    "title": "Long-sought chemical inhibitors of \u03b2-arrestin proteins",
+    "link": "https://www.nature.com/articles/d41586-026-01894-x",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01894-x\">doi:10.1038/d41586-026-01894-x</a></p>Proteins called \u03b2-arrestins regulate signalling through members of the G protein-coupled receptor (GPCR) superfamily. Small molecules that bind directly to the \u03b2-arrestins and inhibit their activities are the first chemical tools to probe their biology, opening avenues for transducer-targeted, pathway-specific GPCR therapeutics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e20a7e47c3c40d1f",
+    "title": "Why science needs the humanities more than ever",
+    "link": "https://www.nature.com/articles/d41586-026-01958-y",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01958-y\">doi:10.1038/d41586-026-01958-y</a></p>From AI to biotechnology, today\u2019s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.",
+    "journal": "Nature"
+  },
+  {
+    "id": "447243fc86f4f64e",
+    "title": "A global map of seagrass ecosystems",
+    "link": "https://www.nature.com/articles/d41586-026-01805-0",
+    "content": "<p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01805-0\">doi:10.1038/d41586-026-01805-0</a></p>Combining satellite imagery and machine learning has created the first comprehensive map of seagrass meadows, in a boost for the conservation of these crucial ecosystems.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c03019b25b4800dd",
+    "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+    "link": "https://www.nature.com/articles/s41586-026-10799-8",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10799-8\">doi:10.1038/s41586-026-10799-8</a></p>Retraction Note: Sub-second periodicity in a fast radio burst",
+    "journal": "Nature"
+  },
+  {
+    "id": "be6fb5bfe4978114",
+    "title": "Nepal\u2019s new science ministry must strengthen scientific capacity",
+    "link": "https://www.nature.com/articles/d41586-026-01970-2",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01970-2\">doi:10.1038/d41586-026-01970-2</a></p>Nepal\u2019s new science ministry must strengthen scientific capacity",
+    "journal": "Nature"
+  },
+  {
+    "id": "a86b80e230c9f086",
+    "title": "Academic success still assumes uninterrupted careers",
+    "link": "https://www.nature.com/articles/d41586-026-01971-1",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01971-1\">doi:10.1038/d41586-026-01971-1</a></p>Academic success still assumes uninterrupted careers",
+    "journal": "Nature"
+  },
+  {
+    "id": "239796bf29c26c23",
+    "title": "The halo effect: how academic hierarchy undermines peer review and enables fraud",
+    "link": "https://www.nature.com/articles/d41586-026-01969-9",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01969-9\">doi:10.1038/d41586-026-01969-9</a></p>The halo effect: how academic hierarchy undermines peer review and enables fraud",
+    "journal": "Nature"
+  },
+  {
+    "id": "562f62ca3c2fda9a",
+    "title": "Do not leave fungi out of impact assessments",
+    "link": "https://www.nature.com/articles/d41586-026-01972-0",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01972-0\">doi:10.1038/d41586-026-01972-0</a></p>Do not leave fungi out of impact assessments",
+    "journal": "Nature"
+  },
+  {
+    "id": "a9e1c2fd97eb3329",
+    "title": "A 1970s patent that changed the course of commercial biotechnology",
+    "link": "https://www.nature.com/articles/d41586-026-01812-1",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01812-1\">doi:10.1038/d41586-026-01812-1</a></p>The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature\u2019s archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "59ba18b1a3863783",
+    "title": "Silicon Valley\u2019s vision for global AI is flawed: each country needs its own blueprint",
+    "link": "https://www.nature.com/articles/d41586-026-01951-5",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01951-5\">doi:10.1038/d41586-026-01951-5</a></p>From energy grids to language performance, emerging economies are exposing the limits of today\u2019s artificial-intelligence strategy as it expands globally.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5d1e4429754831f1",
+    "title": "Europe as science superpower: what it will take to rival the US and China",
+    "link": "https://www.nature.com/articles/d41586-026-01955-1",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01955-1\">doi:10.1038/d41586-026-01955-1</a></p>Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven \u2014 but questions about funding and innovation remain.",
+    "journal": "Nature"
+  },
+  {
+    "id": "36b1f223e8eae2ff",
+    "title": "How should I respond to race-based exclusion in my lab?",
+    "link": "https://www.nature.com/articles/d41586-026-01130-6",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01130-6\">doi:10.1038/d41586-026-01130-6</a></p>A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?",
+    "journal": "Nature"
+  },
+  {
+    "id": "d3ac3e3e4a52a918",
+    "title": "Daily briefing: NASA to launch satellite-rescue mission",
+    "link": "https://www.nature.com/articles/d41586-026-02029-y",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02029-y\">doi:10.1038/d41586-026-02029-y</a></p>The space agency will lift the orbit of a falling satellite by around 200 kilometres. Plus, Europe\u2019s efforts to take on the US and China as a science superpower and the narcissism of bosses who want to nix remote working.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d6518fc76af84193",
+    "title": "Europe must seize the moment to lead on free and open science",
+    "link": "https://www.nature.com/articles/d41586-026-01953-3",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01953-3\">doi:10.1038/d41586-026-01953-3</a></p>An under-appreciated research powerhouse, Europe has a responsibility to champion democratic science that is accessible to all the world\u2019s research talent.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b39fb03b31133f40",
+    "title": "Making samples one billion times bigger lets simple microscopes pinpoint amino acids",
+    "link": "https://www.nature.com/articles/d41586-026-01842-9",
+    "content": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01842-9\">doi:10.1038/d41586-026-01842-9</a></p>Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "504223fc215918fd",
+    "title": "Daily briefing: First-ever \u2018nuclear\u2019 clocks put atomic clocks in the shade",
+    "link": "https://www.nature.com/articles/d41586-026-01997-5",
+    "content": "<p>Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01997-5\">doi:10.1038/d41586-026-01997-5</a></p>Two research teams have created a new, long-awaited type of timekeeper. Plus, how backlash has saved an ocean-monitoring network targeted by Trump and how our cultural heritage is put at risk by climate change.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a4bc143fa2a55918",
+    "title": "Built-In Electric Fields and Ir-Cl Motifs at Heterointerfaces Enable Selective and Durable Seawater Electrolysis",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02150F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02150F, Paper</div><div>Yaohai Cai, Di Liu, Dong Liu, Haoqiang Ai, Kai Liu, Xiaotian Wei, Yingwei Qi, Hui Pan, Lei Wang, Zhenbo Wang<br />Alkaline seawater electrolysis is fundamentally constrained by intrinsic trade-offs among oxygen evolution reaction (OER) activity, selectivity, and durability, arising from sluggish OER kinetics, parasitic chloride oxidation, and catalyst degradation. Here,...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "54257a361a380d68",
+    "title": "Contact loss in all-solid-state Li-ion batteries via deposition of impurities",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00223-0?rss=yes",
+    "content": "Interfacial contact loss in solid-state batteries is often attributed to the formation of voids in pristine lithium (Li) metal at the Li-solid electrolyte interface. We show that insulating impurities within the Li anode accumulate at the interface during stripping and create a porous, mechanically stable layer that blocks the flux of Li into the electrolyte.",
+    "journal": "Joule"
+  },
+  {
+    "id": "915305f515da7f56",
+    "title": "The role of hydrogen in a global net-zero greenhouse gas emission plastics industry",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00221-7?rss=yes",
+    "content": "Defossilizing plastics production relies on recycling combined with biomass and carbon capture and utilization (CCU), which requires clean hydrogen. However, the hydrogen demand from bio-based and CCU technologies is unknown. By applying prospective life cycle assessment, this study shows that achieving a net-zero greenhouse gas emissions global plastics industry by 2050 requires a 14-fold increase in hydrogen demand, totaling 126\u2013145 Mt of hydrogen. Moreover, by combining bio-based and electricity-based hydrogen production, the plastics industry can balance multiple planetary boundaries.",
+    "journal": "Joule"
+  },
+  {
+    "id": "763b064733a94e43",
+    "title": "A coloured radiative cooling coating with high solar reflectance",
+    "link": "https://www.nature.com/articles/s41560-026-02085-8",
+    "content": "<p>Nature Energy, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02085-8\">doi:10.1038/s41560-026-02085-8</a></p>Overcoming the trade-off between colouration and high solar reflectance is a challenge for radiative cooling materials. Now, an ethyl cellulose coating fabricated in one step achieves vibrant structural colours with negligible solar absorption and high long-wave infrared emission. This coating enables sub-ambient daytime cooling of up to 9\u2009\u00b0C under sunlight.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "cb05a1fa503171ab",
+    "title": "A cascade hole-transfer strategy towards stable hybrid perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41560-026-02088-5",
+    "content": "<p>Nature Energy, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02088-5\">doi:10.1038/s41560-026-02088-5</a></p>Perovskite solar cells are a leading candidate for next-generation commercial photovoltaics, but their sensitivity to heat and moisture limits their practical use. Now, a cascade hole-transfer strategy is developed to suppress charge recombination in hybrid perovskite/organic solar cells while offering intrinsic moisture stability.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "fba924707c3d4a06",
+    "title": "Batteries versus fuel cells for decarbonizing medium- and heavy-duty vehicles across applications",
+    "link": "https://www.nature.com/articles/s41560-026-02095-6",
+    "content": "<p>Nature Energy, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02095-6\">doi:10.1038/s41560-026-02095-6</a></p>Decarbonizing medium- and heavy-duty vehicles is challenging, and the relative benefits of batteries versus fuel cells remain uncertain across applications. This modelling work shows that both reduce emissions versus diesel, but battery electric vehicles powered by renewable electricity deliver the lowest life-cycle greenhouse gas emissions in most cases.",
+    "journal": "Nature Energy"
   }
 ]
