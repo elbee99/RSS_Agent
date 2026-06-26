@@ -999,5 +999,68 @@
     "link": "https://www.nature.com/articles/s41560-026-02095-6",
     "content": "<p>Nature Energy, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02095-6\">doi:10.1038/s41560-026-02095-6</a></p>Decarbonizing medium- and heavy-duty vehicles is challenging, and the relative benefits of batteries versus fuel cells remain uncertain across applications. This modelling work shows that both reduce emissions versus diesel, but battery electric vehicles powered by renewable electricity deliver the lowest life-cycle greenhouse gas emissions in most cases.",
     "journal": "Nature Energy"
+  },
+  {
+    "id": "562d7120695602b2",
+    "title": "Leveraging the Amorphous Nature of Sn\u2013P Alloys for Improved Stability and Energy Density in Na\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71228?af=R",
+    "content": "Amorphous SnP3 undergoes homogeneous solid\u2010solution sodiation, delivering exceptional cycling stability and volumetric capacity. In contrast, crystalline Sn4P3 phase\u2010separates into Na\u2010Sn and Na\u2010P domains, causing rapid capacity decay and severe pulverization. These findings highlight amorphous SnP3 as a promising high\u2010energy\u2010density anode material for SIBs and provide valuable insights into how amorphous structure influences Na\u2010alloy behavior.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping alternative anode materials is a key route to improve the volumetric energy density of sodium\u2010ion batteries (SIBs). Here, Sn\u2013P alloys with varying Sn/P atomic ratios are systematically evaluated as Na\u2010alloy anodes. Among them, SnP3 outperforms all other alloys and offers the best balance between cost, volumetric capacity and cycling stability. SnP3 can be made in either amorphous or crystalline forms. Crystalline SnP3 becomes amorphous on sodiation and remains amorphous during cycling. Amorphous NaxSnP3 shows a solid\u2010solution\u2010type and highly reversible sodiation/desodiation behavior, demonstrating exceptional cycling performance and structural stability. As comparison, the crystalline Sn4P3 phase dealloys to Sn and a phosphorus containing phase upon repeated sodiation/desodiation, showing rapid capacity decay and severe particle pulverization. These findings highlight amorphous SnP3 as a promising high\u2010energy\u2010density anode material for SIBs and provide valuable insights into how an amorphous structure influences Na\u2010alloy behavior.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d9a349d8d8c34821",
+    "title": "Ultrathin, Tough Asymmetric MOF\u2010Based Separator Enabling Rapid Selective Ion Transport and Stable Aqueous Zn\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71218?af=R",
+    "content": "An asymmetric separator featuring a monolithic, fully microporous Ni3(HITP)2 layer grown in situ on bacterial cellulose enables selective Zn2+ sieving and uniform deposition in aqueous Zn\u2010ion batteries. Unlike conventional particle\u2010based MOF coatings, this large\u2010area, integrated architecture ensures uniform electric field distribution, suppresses dendrites, and enhances cycling stability, offering a scalable strategy for next\u2010generation zinc\u2010based energy storage systems.\n\n\n\n\n\n\n\n\nABSTRACT\nFor traditional thick and brittle separator in aqueous zinc\u2010based batteries, it fails to effectively regulate the electrochemical transport and reaction behaviors at the electrode\u2013electrolyte interface, especially for uncontrolled dendrite growth and side reactions. To address these issues, we heterostructurally engineered a flexible, ultrathin and tough Asymmetric separator, featuring a uniform, densely\u2010integrated micropore layer of conductive Ni\u2010based metal organic framework (c\u2010MOF) in situ grown on a hydrophilic bacterial cellulose membrane (BCM) with typical macropore distribution. The substrate of BCM provides superior mechanical strength, flexibility and electrolyte absorption capacity, and the microporous c\u2010MOF layer regulates Zn2+ transport and disfavors the migration of bulky hydrated or anion\u2010associated species through confined ion channels. Additionally, the continuous c\u2010MOF layer ensures a uniform electric field distribution across the separator, which promotes homogeneous zinc plating at the anode. The Zn//VO2 batteries equipped with Asymmetric BCM@c\u2010MOF separator deliver superior rate performance and capacity retention, together with an enhanced energy density compared with cells using conventional separators. Moreover, the separator markedly enhances electrochemical stability, enabling stable operation over 1200 h at 10 mA cm\u22122 and 2 mAh cm\u22122 with low voltage polarization. This research unlocks a conceptual innovation for advanced separator design to enabling high\u2010performance aqueous zinc\u2010based batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7c8ac38bc3775701",
+    "title": "Enabling high-voltage and wide-temperature quasi-solid-state batteries via spatially engineered polyether electrolyte interfaces",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00219-9?rss=yes",
+    "content": "Lithium metal batteries can store more energy than today\u2019s lithium-ion batteries, but they often fail because their internal interfaces are unstable. Liang et al. design a quasi-solid-state polymer electrolyte with spatially engineered interfaces that protect both the lithium metal anode and high-voltage cathode. This strategy enables safer batteries that operate over a wide temperature range and with different cathode materials, offering a practical path toward high-energy rechargeable batteries.",
+    "journal": "Joule"
+  },
+  {
+    "id": "aa10858463e29aab",
+    "title": "Accessible solar tower power plant data to accelerate solar energy research",
+    "link": "https://www.nature.com/articles/s41560-026-02069-8",
+    "content": "<p>Nature Energy, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02069-8\">doi:10.1038/s41560-026-02069-8</a></p>Over 800\u2009GB of high-resolution operational solar tower power plant data have been compiled to form an open-access interface that complies with FAIR data principles. This database, known as PAINT, democratizes access to structured operational data, with the goal of facilitating the development of data-driven solutions in solar tower research.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "04a2487e2852eff6",
+    "title": "Mitigation of hydrogen crossover in liquid alkaline water electrolysers using gas recombination catalysts",
+    "link": "https://www.nature.com/articles/s41560-026-02094-7",
+    "content": "<p>Nature Energy, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02094-7\">doi:10.1038/s41560-026-02094-7</a></p>Alkaline water electrolysers are being optimized for higher performance, but measures such as advanced electrodes or thinner separators can increase hydrogen crossover and safety risks. Here the authors analyse crossover behaviour and show that a gas recombination catalyst cuts crossover by 95% without affecting electrolyser performance.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "3da6b50c7a336bc3",
+    "title": "A highly conductive polar metal with efficient charge\u2013spin conversion",
+    "link": "https://www.nature.com/articles/s41563-026-02639-x",
+    "content": "<p>Nature Materials, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02639-x\">doi:10.1038/s41563-026-02639-x</a></p>The energy efficiency of spin-source materials can be increased by combining low resistivity and high charge\u2013spin conversion in a single material. Now, a layered delafossite achieves this combination through polar distortions that break inversion symmetry while preserving high metallic conductivity.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "1f046370cbb9da9d",
+    "title": "Lattice distortion activates deformation twinning in ultrastrong steel",
+    "link": "https://www.nature.com/articles/s41563-026-02642-2",
+    "content": "<p>Nature Materials, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02642-2\">doi:10.1038/s41563-026-02642-2</a></p>Ultrastrong and ductile martensitic steel is achieved by taking advantage of its severe lattice distortion, which activates twinning as the plasticity carrier in martensite.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "951a76818cc2f3cd",
+    "title": "Giant and broadband circular dichroism from particle\u2013hole symmetry breaking in Weyl semimetals",
+    "link": "https://www.nature.com/articles/s41563-026-02630-6",
+    "content": "<p>Nature Materials, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41563-026-02630-6\">doi:10.1038/s41563-026-02630-6</a></p>The different Fermi velocities of particle and hole bands result in a giant mid-infrared circular dichroism in the magnetic Weyl semimetal Mn(Bi1\u2212xSbx)2Te4.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "9d66934f168b708b",
+    "title": "Next\u2010Generation Bioelectronic Neural Interfaces: From Material Design to Closed\u2010Loop Systems",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70718?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
