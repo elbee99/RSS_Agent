@@ -1062,5 +1062,152 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70718?af=R",
     "content": "",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ae8706642f112036",
+    "title": "Linking DSC/TGA to Cell Levels: Energetics, Evolved Gases, and Thermal Safety of NMC811\u2010Graphite Micro\u2010Cell",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71193?af=R",
+    "content": "A bottom\u2010up, component\u2010resolved framework combining DSC/TGA, evolved gas analysis, and in situ XRD reveals how decomposition pathways control energy release in partial and micro\u2010cell configurations. Separator\u2010free assemblies are dominated by cathode\u2010O2${\\rm O}_2$/anode\u2010Li reactions, while the separator restricts oxygen transport, reshapes the reaction network, lowers net energy release, and provides a transferable foundation for safety assessment and thermodynamic modeling.\n\n\n\n\n\n\n\n\nABSTRACT\nThermochemical characterization of battery materials links intrinsic material properties to decomposition pathways, heat generation, and gas evolution that govern performance and safety. Despite extensive work on NMC811\u2010Graphite, variability across partial configurations and the limited adoption of micro\u2010cell architectures (cathode+anode+electrolyte+separator) hinder robust cell\u2010scale interpretation. Accordingly, this work establishes a bottom\u2010up, component\u2010resolved methodology integrating DSC/TGA, evolved gas analysis (EGA), and in situ XRD to link decomposition pathways and energy release across partial and micro\u2010cell configurations, providing a transferable assessment of safety and stability in emerging chemistries. In separator\u2010free configurations, the gas\u2013solid reaction between cathode\u2010evolved O2${\\rm O}_2$ and anode\u2010leached Li dominates the net heat release (1139 J g\u22121${\\rm g}^{-1}$). In contrast, in the micro\u2010cell configuration, the separator hinders O2${\\rm O}_2$ transport and alters the timing and pathways of other reactions, and reduces the net energy release to 618 J g\u22121${\\rm g}^{-1}$. Energy release was organized into defined temperature windows that provide a framework for a thermodynamic model combining quantified gas evolution with selected decomposition pathways and effective reaction enthalpies to estimate net specific energy release, with agreement between DSC and cell\u2010level tests. Ex situ XPS of heat\u2010treated samples extends post\u2010mortem analysis to thermal\u2010abuse regimes, supporting key pathway\u00a0elements.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "17f9c0615e826354",
+    "title": "Organic Cocrystal Interface Engineering for Stable Aqueous Zinc\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71229?af=R",
+    "content": "This study reports, for the first time, the application of organic cocrystals in the interfacial engineering of zinc anodes for aqueous zinc\u2010ion batteries. The self\u2010assembled organic cocrystals, formed from melamine and isophthalic acid, construct a hydrogen\u2010bonding network on the zinc anode surface, effectively isolating active water molecules and accelerating Zn2+ desolvation. This multifunctional interface enables uniform zinc deposition and suppresses side reactions, delivering exceptional cycling stability in aqueous zinc\u2010ion batteries and offering a promising pathway toward practical and durable energy storage devices.\n\n\n\n\n\n\n\n\nABSTRACT\nThe water\u2010induced side reactions and sluggish ion migration kinetics of zinc metal anodes in aqueous zinc\u2010ion batteries (AZIBs) severely degrade the coulombic efficiency and lifespan. It is necessary to stabilize the zinc anode by constructing a functional interfacial layer. Here, organic cocrystals, self\u2010assembled from melamine (MA) and isophthalic acid (IPA), were introduced to form a supramolecular structure with an extensive hydrogen\u2010bond network between the zinc anode and the electrolyte. Both theoretical and experimental results indicate that these cocrystals can capture and isolate active water molecules from the zinc anode surface. Zinc\u2010affinity sites in the cocrystals, such as amino, carboxyl, and triazine groups, can enhance ion transport and promote uniform zinc deposition. It should be noted that the MA\u2010IPA@Zn//MA\u2010IPA@Zn symmetric cell remains stable and reversible for over 4200 h of plating/stripping cycles, and the MA\u2010IPA@Zn//NVO full cell retains 77.87% of its capacity after 2000 cycles at a current density of 4 A g\u22121. Furthermore, the pouch cell cycles 200 times at 25\u00b0C and 1 A g\u22121, maintaining a capacity of approximately 100 mAh g\u22121 with 75.9% retention. This work presents an efficient strategy of engineering organic cocrystals in AZIBs, underscoring their substantial potential for practical energy storage applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "391c416bb7c112b7",
+    "title": "Tailoring Key Intermediates via Au\u2010Co Dual Sites for Urea Electrosynthesis From Co\u2010Reduction of CO2 and Nitrate",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71224?af=R",
+    "content": "CO2 is selectively reduced to *CO on the Au site, while NO3\u2212 is concurrently reduced to *NH2 on the adjacent Co site. The nucleophilic *NH2 then migrates and couples with the electrophilic *CO, completing the C\u2013N bond formation to produce urea efficiently on Au24Cd/CZ9\u2010700.\n\n\n\n\n\n\n\n\nABSTRACT\nThe electrochemical coupling of CO2 and NO3\u2212 presents a sustainable strategy for urea production while simultaneously addressing wastewater denitrification. Yet, the overall efficiency is hindered by the non\u2010selective adsorption of reactants on conventional catalysts. This lack of selectivity prevents the spatially aligned interaction between key C\u2010 and N\u2010intermediates, which are essential for efficient C\u2013N bond formation. Herein, a dual\u2010site catalyst Au24Cd/CZ9\u2010700, is rationally designed for urea electrosynthesis. The catalyst delivers a peak urea production rate of 668.60\u00a0\u00b5g h\u22121 cm\u22122 and a high Faradaic efficiency of 33.57% (\u22120.1\u00a0V) with stable electrolysis over 145\u00a0h. In situ characterizations combined with theoretical calculations confirm that the *CO intermediate is selectively generated and retained at the Au sites, whereas the *NH2 species is preferentially produced and released from the Co sites. The nucleophilicity of *NH2 and the thermodynamic favorability of C\u2013N coupling drive an efficient cascade electrocatalytic synthesis of urea. This work establishes a paradigm for precise intermediate management via synergistic dual\u2010site engineering, providing a fundamental strategy for the design of advanced electrocatalytic systems toward value\u2010added C\u2013N compounds.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e30707a517ab7e9f",
+    "title": "Dehydrating A Borate Additive Unlocks Fast\u2010Charging Graphite",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71230?af=R",
+    "content": "An anhydrous lithium bis(catecholato)borate (LiBCB) additive is enabled by a one\u2010step non\u2010aqueous synthesis that eliminates water of crystallization, an often\u2010overlooked factor that can obscure intrinsic interphase function. The findings identify salt form (hydration state and purity) as a decisive variable in SEI engineering and position anhydrous LiBCB as a practical alternative to LiBOB for fast\u2010charging graphite\u2010based batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nGraphite anodes dominate commercial lithium\u2010ion batteries (LIBs), yet fast charging is limited by interfacial polarization that drives resistive SEI growth and lithium plating. Borate additives such as lithium bis(oxalato)borate (LiBOB) can boost rate performance, but often produce thick, resistive interphases and gas\u2010induced swelling in practical cells; nevertheless, they are still used because comparable, manufacturable alternatives remain scarce\u2010highlighting the urgency for new interphase chemistries. Here, an anhydrous lithium bis(catecholato)borate (LiBCB) additive is enabled by a one\u2010step non\u2010aqueous synthesis that eliminates water of crystallization, an often\u2010overlooked factor that can obscure intrinsic interphase function. LiBCB first enriches at the graphite surface via preferential adsorption and then undergoes interfacial reduction to form a thin, compact, ionically conductive SEI, thereby reducing polarization, delaying sub\u20100\u00a0V plating, and suppressing dead\u2010lithium accumulation. In 1.7 Ah graphite||LiFePO4 pouch full cells, 2 wt.% LiBCB retains 92% of initial capacity\u00a0after 1000 cycles at 2.6 A with the smallest pouch\u2010volume change among the tested electrolytes, vastly outperforming the base electrolyte (13% rentention). These results identify salt form (hydration state and purity) as a decisive variable in SEI engineering and position anhydrous LiBCB as a practical alternative to LiBOB for fast\u2010charging graphite\u2010based batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c7c61c43d046b3fc",
+    "title": "Transparent and flexible MXene antennas take shape",
+    "link": "https://www.nature.com/articles/s41578-026-00940-4",
+    "content": "<p>Nature Reviews Materials, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00940-4\">doi:10.1038/s41578-026-00940-4</a></p>An article in Science Advances reports a MXene grid architecture that delivers a conformal, transparent and efficient antenna platform suitable for both wearable devices and flexible metasurfaces.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "a5b7f8f9eecb68e1",
+    "title": "MXene electrodes enable real-time visualization of plant electrical signals",
+    "link": "https://www.nature.com/articles/s41578-026-00942-2",
+    "content": "<p>Nature Reviews Materials, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00942-2\">doi:10.1038/s41578-026-00942-2</a></p>An article in Nature Electronics introduces a low-drift, high-density electrode array based on a dry MXene\u2013pressure-sensitive adhesive composite that enables real-time visualization of environment-stimulated electrical waves in plants.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "a726032445042d42",
+    "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+    "link": "https://www.nature.com/articles/d41586-026-02059-6",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02059-6\">doi:10.1038/d41586-026-02059-6</a></p>Nature staff discuss how apes share a rhythm of laughter, and how AI use may degrade skills in medicine and computer science.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9521e43883a822da",
+    "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02055-w",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02055-w\">doi:10.1038/d41586-026-02055-w</a></p>Andrew Robinson reviews five of the best science picks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e3b3b3f22a2c0755",
+    "title": "The surprising career parallels between footballers and researchers",
+    "link": "https://www.nature.com/articles/d41586-026-01794-0",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01794-0\">doi:10.1038/d41586-026-01794-0</a></p>Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.",
+    "journal": "Nature"
+  },
+  {
+    "id": "72c7a81f787bec3e",
+    "title": "CRISPR\u2019s next act: the companies editing the epigenome to treat disease",
+    "link": "https://www.nature.com/articles/d41586-026-01976-w",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01976-w\">doi:10.1038/d41586-026-01976-w</a></p>A handful of start-up firms are testing therapies that target specific epigenetic markers to treat everything from high cholesterol to a rare muscular disorder.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cfddc3c7fbd14633",
+    "title": "Inside the new political screening that\u2019s stalling NIH grants",
+    "link": "https://www.nature.com/articles/d41586-026-01924-8",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01924-8\">doi:10.1038/d41586-026-01924-8</a></p>Mandatory reviews by top health officials and checks for 235 disfavoured terms have left hundreds of vetted grant applications in administrative limbo.",
+    "journal": "Nature"
+  },
+  {
+    "id": "591e33f216ebbf97",
+    "title": "I study World Cup penalty shoot-outs: they say a lot about the psychology of performance under pressure",
+    "link": "https://www.nature.com/articles/d41586-026-02043-0",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02043-0\">doi:10.1038/d41586-026-02043-0</a></p>Football's most nail-biting feature can reveal ways for everyone to manage stressful situations better.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8728508da9fac9d3",
+    "title": "Europe\u2019s record heatwave: does the continent have a new climate?",
+    "link": "https://www.nature.com/articles/d41586-026-02046-x",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02046-x\">doi:10.1038/d41586-026-02046-x</a></p>Nature asks researchers whether scorching summers are the new norm for London, Paris and Berlin.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ccdd20a1f4e6c690",
+    "title": "Daily briefing: Humans and great apes giggle in the same rhythms",
+    "link": "https://www.nature.com/articles/d41586-026-02060-z",
+    "content": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02060-z\">doi:10.1038/d41586-026-02060-z</a></p>The findings hint that vocal motor control might have evolved from a shared ancestor. Plus, sea turtles\u2019 navigation skills are only so-so and what\u2019s next for the International Space Station.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a1ba964f1701ef49",
+    "title": "The critical role of water structure in anion transport",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE01258B",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE01258B\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE01258B, Paper</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Keenan Smith, Arun Prakash Periasamy, Quentin Berrod, Jean-Marc Zanotti, Markus Appel, Victoria Garcia Sakai, Andrew Seel, Thomas F. Headen, Bettina Schwaighofer, Daniel J. L. Brett, Thomas S. Miller, Christian D. Lorenz, John R. Varcoe, Sandrine Lyonnard, Fabrizia Foglia<br />We combine neutron spectroscopy, total scattering, and MD simulation to expose the structure\u2013transport relationships driving ionic mobility, proving conductivity under confinement emerges from collective ion\u2013water\u2013polymer dynamics.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "aee44a4951896ccd",
+    "title": "Hydrogen-free exsolution of Ir\u2013Fe nanoalloys on the surface of solid oxide cell perovskite air electrodes",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE00100A",
+    "content": "<div><p><img align=\"center\" src=\"http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=D6EE00100A\" /></p></div><div><i><b>Energy Environ. Sci.</b></i>, 2026, Advance Article<br /><b>DOI</b>: 10.1039/D6EE00100A, Communication</div><div><img alt=\"Open Access\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png\" /> Open Access</div><div><a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\"> <img alt=\"Creative Commons Licence\" border=\"none\" src=\"http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png\" /></a>&nbsp; This article is licensed under a <a href=\"http://creativecommons.org/licenses/by/3.0/\" rel=\"license\" target=\"_blank\" title=\"This link will open in a new browser window\">Creative Commons Attribution 3.0 Unported Licence.</a></div><div>Jiyoon Shin, Myung-Jin Jung, Hao-Yang Li, Yujie Wu, Wanwisa Limphirat, Se-Hun Kwon, Pei-Chen Su<br />A new hydrogen-free exsolution route driven by Ir\u2013Fe alloy affinity enables socketed nanoalloy formation on Fe-containing perovskite air electrodes.<br />To cite this article before page numbers are assigned, use the DOI form of citation above.<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "05a374d9ca868bdc",
+    "title": "Spatial Tail Design in Ionizable Lipids Enhances the Safety and Efficacy of mRNA Delivery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70796?af=R",
+    "content": "We report a chemically tunable family of cholesterol\u2010containing ionizable lipids featuring spatial\u2010tail engineering that enhances mRNA delivery potency and safety. Systematic variation of sterol motifs and branched tail architectures reveals key structure\u2013function relationships, yielding a lead lipid that outperforms SM\u2010102 and enables programmable liver, lung, or spleen delivery as well as protective H1N1 mRNA vaccination.\n\n\n\n\n\n\n\n\nABSTRACT\nMessenger RNA (mRNA) delivery critically depends on the molecular architecture of ionizable lipids within lipid nanoparticles (LNPs). We report a modular platform of sterol\u2010containing ionizable lipids designed to probe how sterol motifs and branched dialkyl tails govern in vivo performance. Each lipid incorporates a sterol\u2010derived (e.g., cholesterol) tail and a dialkyl tail with tunable branching and spatial arrangement, enabling systematic control over packing behavior, protonation characteristics, and nanoparticle assembly. The resulting LNPs exhibited favorable apparent pKa values (6.2\u20136.8), encapsulation efficiencies higher than 90%, and strong transfection potency. Our lead LNP (L1\u2010aCho\u2010e3 LNP) exhibited higher transfection efficiency than the benchmark SM\u2010102 LNP. Incorporation of cationic (DOTAP) or anionic (DOPA) lipids as fifth components further demonstrated reorienting biodistribution from liver to lung or spleen. Finally, mRNAH1N1@L1\u2010aCho\u2010e3 LNPs elicited robust antibody responses and full protection against lethal H1N1 challenge. These results reveal how rational sterol tail design can be applied to create ionizable lipids with tunable structural functional properties for next\u2010generation mRNA therapeutics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "3d2aa71e843a1bfd",
+    "title": "Coronamicroparticle Arrays with Stable Superamphiphobicity",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70801?af=R",
+    "content": "Controlling the interaction between the solid surfaces and liquids is an important task in diverse fields. We develop a simple method to prepare reentrant nanostructures on spherical microparticles to mimic the cross species of the coronaviruses and the springtails. The coronamicroparticle arrays show stable superamphiphobic properties resulting from the closely packed reentrant nanostructure arrays over the microparticle surfaces.\n\n\n\n\n\n\n\n\nABSTRACT\nSpringtails use reentrant nanostructures to repel both water and oil liquids, inspiring scientists to construct reentrant nanostructures for superamphiphobic surfaces. However, the packing density of the reentrant nanostructures related to their liquid repelling performance is generally limited on a planar surface. Packing reentrant nanostructures on curved surfaces can greatly increase the packing density, however fabrication of reentrant nanostructures on curved surfaces is a great challenge. Here, we develop a method to fabricate reentrant nanostructure arrays on polystyrene (PS) microsphere surfaces, giving rise to the formation of coronamicroparticles with the morphology resembling corona virus. The critical step to fabricating the coronamicroparticles is that a silver nanomesh is transferred onto the PS microspheres to form a conformal coating layer. Thermal evaporation of gold through the silver nanomesh formed gold nanodisk arrays on the PS microspheres. Consequent reactive ion etching of the gold nanodisk\u2010protected PS microspheres gives rise to the formation of coronamicroparticle arrays. The morphology of the coronamicroparticles can be simply adjusted by the size of the PS spheres and the reactive ion etching time. The coronamicroparticle arrays demonstrate stable superamphiphobicity, suggesting potential applications in self\u2010cleaning, liquid transportation, and sensing fields.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "748c8bef216902b2",
+    "title": "Transforming Paper into Plasmonic Sensors: One\u2010Step Fabrication of High\u2010Enhancement SERS Nanosubstrates via Surface Energy Control",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70803?af=R",
+    "content": "Cellulose paper is transformed into a high\u2010performance plasmonic sensor through a process called SILVERED, which involves single\u2010step vapor deposition onto fluorosilanized fibers. Surface\u2010energy contrast drives uniform silver nanoparticle growth with sub\u201010 nm hot\u2010spot gaps, achieving 2 pM detection of rhodamine B. Hydrophobicity self\u2010focuses analytes to deliver a sensor platform with potential applications for diagnostics, food safety, and environmental monitoring.\n\n\n\n\n\n\n\n\nABSTRACT\nSurface\u2010enhanced Raman scattering (SERS) substrates require precise control of plasmonic nanoparticles to generate hot spots for ultrasensitive detection. We present the Surface\u2010Induced Layered Vapor Energy Refined Enhanced Deposition (SILVERED) method for fabricating silver nanoparticle\u2010decorated paper substrates through single\u2010step physical vapor deposition on fluorosilanized cellulose. The extreme surface energy differential drives Volmer\u2010Weber growth, yielding monodisperse (29 \u00b1 4\u00a0nm) nanoparticles with high uniformity (PDI = 0.13). Optimal deposition achieved 106 enhancement factor and 2 pM detection limit for rhodamine B. The hydrophobic surface enabled analyte pre\u2010concentration while maintaining reproducibility (RSD < 10%), and the analytical metrics include contributions from substrates drawn across independent fabrication batches. Substrates retained more than 95% of their performance under nitrogen storage. The method's scalability (12\u2010inch substrates), reproducibility, hydrophobicity, silver nanoparticle size, and low cost position it for diverse applications beyond SERS.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "fed4bc9abbf523e0",
+    "title": "Analytical Ultracentrifugation in Different High\u2010Density Media Allows to Assess Heterogeneity of mRNA\u2010Lipid Nanoparticles",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502420?af=R",
+    "content": "We investigate the application of analytical ultracentrifugation for evaluating the homogeneity of mRNA\u2010lipid nanoparticles, exploring the effects of different sedimentation media on particle behavior, and demonstrating the technique's potential for characterizing nanoparticle density and detecting liquid\u2010loaded compartments.\n\n\n\n\n\n\n\n\n\nABSTRACT\nThis study demonstrates the capability of analytical ultracentrifugation for assessing the morphological homogeneity of mRNA\u2010lipid nanoparticles. Building on a standard method for density evaluation of nanoparticles, it demonstrates the importance of selecting the appropriate liquid medium for the experiments. Our research reveals the interaction between deuterated buffers and aqueous compartments of lipid\u2010based particles. By investigating the sedimentation behavior of compact solid particles, liposomes, and lipid nanoparticles, we demonstrate that AUC can detect water\u2010loaded cavities in mRNA\u2010loaded lipid nanoparticles. Therefore, we suggest that performing sedimentation velocity experiments both in sucrose\u2010containing buffer and deuterated solvents results in precious information not only on density but also on batch homogeneity and particle morphology.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "04db638ea4443010",
+    "title": "Single Metal Atoms for Energy Storage and Conversion: Recent Advances, Challenges, and Future Perspectives",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502153?af=R",
+    "content": "Specifically, we have incorporated (i) a Table of Contents (TOC) figure (Figure 1) to provide a clear visual overview of the scope, organization, and key themes of the review, and (ii) a summary and future outlook figure that highlights fundamental design principles, emerging research trends, and potential future directions for advancing single\u2010atom catalysts (SACs) in energy\u2010related applications.\n\n\n\n\n\n\n\n\nABSTRACT\nSingle\u2010atom catalysts (SACs) have recently emerged as a new class of materials that bridge the characteristics of homogeneous and heterogeneous catalysis. Their atomically dispersed metal centers enable nearly complete atomic utilization and high catalytic selectivity. This review highlights recent advances in the synthesis, structure, and functional mechanisms of SACs with a focus on their applications in energy storage and conversion systems. Various preparation strategies, including atomic layer deposition, chemical vapor deposition, and defect\u2010assisted methods, are discussed along with support materials such as metal organic frameworks, carbon\u2010based substrates, and layered oxides. Advanced characterization techniques are summarized to illustrate how coordination environments and electronic structures determine catalytic activity. The review also outlines the use of SACs in electrocatalysis, photocatalysis, and electrochemical energy devices such as lithium\u2013sulfur batteries and supercapacitors. Finally, current limitations such as atom stability, large\u2010scale production, and the need for operando analysis are addressed, providing future directions for the rational design of single\u2010atom catalysts in sustainable energy applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
