@@ -1,0 +1,44 @@
+[
+  {
+    "id": "895536c62f2ec241",
+    "title": "MXene-based bioabsorbable bandage speeds up diabetic wound repair",
+    "link": "https://www.nature.com/articles/s41578-026-00941-3",
+    "content": "<p>Nature Reviews Materials, Published online: 29 June 2026; <a href=\"https://www.nature.com/articles/s41578-026-00941-3\">doi:10.1038/s41578-026-00941-3</a></p>An article in Science Advances reports a fully bioabsorbable, glucose-powered electronic bandage that uses MXene-based electrodes to harvest biochemical energy and restore wound edge fields in diabetic tissues.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "e11fc74654a46660",
+    "title": "Chlorinated Polypropylene Enables Stress-Dissipative Networks and High Efficiency in Intrinsically Stretchable Organic Photovoltaics",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02777F",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02777F, Paper</div><div>Shuiwang  Lv, Huizhen  Ke, Yuting  Wang, Dexia Han, Bei  Li, Vakhobjon Kuvondikov, Wenchao Zhao, Menglan Lv, Long Ye<br />Intrinsically stretchable organic photovoltaics (IS-OPVs) demand both high power conversion efficiency (PCE) and robust mechanical deformability, yet these requirements are often difficult to reconcile in state-of-the-art donor:acceptor blends. Existing toughening...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "af3bca47da4aaef5",
+    "title": "Energy efficient integrated H2O2 electrosynthesis via tailored bubble dynamics",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02489K",
+    "content": "<div><i><b>Energy Environ. Sci.</b></i>, 2026, Accepted Manuscript<br /><b>DOI</b>: 10.1039/D6EE02489K, Paper</div><div>Yun Do Kim, Sungjin Park, Jina  Hwang, Jaehyuk Shim, Seungwook Baek, Hahyung Yu, Sihwa Lee, Dayoon  Song, Sung Eun Chun, Dongsu  Park, Heegeon  Cho, Saehun Kim, Yeeun Kim, Geonhui  Lee, Sunghak Park, Edward H Sargent, Byoung-Hoon Lee<br />Integrating H<small><sub>2</sub></small>O<small><sub>2</sub></small> electrosynthesis with anodic upgrading provides a pathway to spontaneous (electricity-free) operation.Here we investigate interfacial kinetic bottlenecks, especially on the anode, and identify factors that hinder the achievement of...<br />The content of this RSS Feed (c) The Royal Society of Chemistry</div>",
+    "journal": "RSC - Energy Environ. Sci. latest articles"
+  },
+  {
+    "id": "4dfadd5cd77b4e9e",
+    "title": "A mechanistic investigation of the relationship between battery energy and capacity",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00224-2?rss=yes",
+    "content": "Battery state of health is conventionally tracked by capacity (Ah), yet energy (Wh) is the critical metric for real-world applications. These two metrics often diverge, leading to inaccurate lifetime predictions and possible safety concerns. This work establishes and validates a theoretical framework linking this divergence to specific degradation modes with an impact of the electrode chemistry, the operating regime, the kinetics, and the depth of discharge.",
+    "journal": "Joule"
+  },
+  {
+    "id": "970712710f0b4948",
+    "title": "Cost-effective valorization of 2,3-butanediol to high-value chemicals and jet fuel",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00220-5?rss=yes",
+    "content": "This work presents an optimized process for biomass-derived sustainable aviation fuel production through 2,3-butanediol. 2,3-Butanediol utilization is limited by separation from water, but this challenge is solved by reactive extraction to form dioxolanes with an aldehyde. Isobutyraldehyde formed in situ eliminates the need for an external aldehyde source, enabling the economic and environmental viability of the process. Techno-economic analyses and life cycle assessments indicate fuel and chemical production scenarios with <$2.50 per gallon gas equivalent and >58% reduction in CO2 emissions.",
+    "journal": "Joule"
+  },
+  {
+    "id": "d94f612e3119c222",
+    "title": "The interplay between stack pressure, mechanical expansion and degradation pathways in lithium-ion batteries",
+    "link": "https://www.nature.com/articles/s41560-026-02087-6",
+    "content": "<p>Nature Energy, Published online: 29 June 2026; <a href=\"https://www.nature.com/articles/s41560-026-02087-6\">doi:10.1038/s41560-026-02087-6</a></p>While electrochemical degradation in lithium-ion batteries is well studied, the role of stack pressure in long-term cycling remains unclear. Here the researchers use a high-precision pressure-controlled dilatometry tool to optimize stack pressure and understand how it prolongs battery lifetime.",
+    "journal": "Nature Energy"
+  }
+]
