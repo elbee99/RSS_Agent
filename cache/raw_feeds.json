@@ -572,5 +572,131 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70810?af=R",
     "content": "We extend our original instability\u2010induced crystallization self\u2010assembly (IICSA) strategy to successfully fabricate multiscale hierarchical microstructures. These microstructures demonstrate superior liquid regulation performance, enabling high\u2010performance oil\u2013water separation with residual oil content below the Fourier transform infrared spectroscopy (FTIR) detection limit.\n\n\n\n\n\n\n\n\nABSTRACT\nBioinspired surfaces show great potential for liquid behavior regulation, but their fabrication is constrained by limited area, poor replication of biological hierarchical structures, and inadequate morphological controllability. Herein, we report a design strategy inspired by both the multiscale hierarchical morphology and unique liquid\u2010handling properties of sandgrouse belly feathers. Via \u201cinstability\u2010induced crystallization self\u2010assembly (IICSA),\u201d we precisely replicate the feathers\u2019 \u201crachis\u2010barb\u2010barbule\u2010chirality\u201d multiscale hierarchical microstructured surface (>200 cm2) and core liquid \u201cadhesion\u2010capture\u201d function. Specifically, the microstructured surface exhibits excellent droplet adhesion, capable of stably suspending 32\u00a0\u00b5L droplets vertically and 80\u00a0\u00b5L droplets horizontally against gravity, and achieves high\u2010speed impact capture\u2014suppressing rebound, jetting, and splashing at 2.62 m s\u22121. Furthermore, the microstructured surface demonstrates exceptional oil\u2013water separation performance, achieving oil removal efficiency below the detection limit of Fourier transform infrared spectroscopy (FTIR), which outperforms the 95%\u201399% efficiency of conventional gravimetric methods. Mechanistically, we reveal that the liquid regulation is synergistically governed by multi\u2010level capillary action and contact line pinning. This study provides a simple, scalable, and controllable approach to construct bioinspired functional structures, enabling new multiscale hierarchical surface designs for high\u2010purity separation and precise liquid manipulation.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c5cc6ddc0c09e9b7",
+    "title": "Continuous Fabrication of Dendrite\u2010Free Zinc Fiber Anodes for Flexible Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71235?af=R",
+    "content": "The fiber\u2010shaped zinc\u2010ion batteries, which employ non\u2010flammable electrolytes and non\u2010reactive metals, represent an attractive cell design. Here, we developed a fiber\u2010shaped zinc electrode with suppressed dendrite growth, enabled by uniform zinc nucleation and growth induced through the valley effect and Zn\u2010O\u2010C interactions in oxygen\u2010functionalized CNTs. Using a fiber\u2010tailored continuous electroplating system, we further fabricated dendrite\u2010suppressed, meter\u2010scale FZBs, demonstrating both scalability and structural stability.\n\n\n\n\n\n\n\n\nABSTRACT\nFiber\u2010shaped zinc metal batteries (FZBs) with non\u2010flammable aqueous electrolytes and non\u2010reactive metals are gaining attention as safe power source in wearable electronics However, practical implementation is hindered by persistent dendrite formation due to complex zinc deposition kinetics on cylindrical geometries, as well as limitations in achieving extended device lengths. Here, we simultaneously address these challenges by development of fiber\u2010shaped zinc electrodes based on oxygen functionalized carbon nanotube fiber (OCNTF) via custom\u2010designed continuous process for meter\u2010scale FZBs (M\u2010FZBs). The aligned, highly crystalline OCNTF significantly mitigate dendrite formation by low lattice misfit with zinc. Additionally, the densely packed structure of OCNTFs generates distinct valley regions between adjacent nanotubes, providing energetically favorable nucleation sites for uniform zinc deposition. Consequently, the continuous produced Zn@OCNTF exhibits superior corrosion resistance and durability. Additionally, the M\u2010FZBs demonstrate an impressive energy density of 151.0 \u00b5Wh\u2005tex\u22121. Our research effectively addresses fundamental and scalability challenges, advancing practical application of FZBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7c778e6c60e23a86",
+    "title": "Redesigning Interlayers for Anode\u2010Free Batteries: Harnessing Continuity and Metal Inventory",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71206?af=R",
+    "content": "Interlayers for anode\u2010free batteries must provide continuous interfacial coverage while remaining thin enough to preserve the finite cathode\u2010derived active\u2010metal inventory. This Perspective couples thin\u2010film closure with stoichiometric active\u2010metal consumption to reveal practical design windows across chemistry, substrate roughness, cathode loading, and deposition route.\n\n\n\n\n\n\n\n\nABSTRACT\nThis Perspective establishes a design filter to guide the rational design of interlayers in anode\u2010free batteries. Roughness\u2010dependent closure models are combined with active\u2010metal inventory accounting during alloying and conversion, including incomplete recovery during cycling. The analysis shows that interlayer feasibility is governed by a narrow intersection of morphology, chemistry, and deposition physics: coatings must be continuous on practical battery substrates while remaining compatible with the finite cathode\u2010derived metal inventory. Low\u2010uptake alloy\u2010forming interlayers can remain inventory\u2010efficient at moderate thicknesses, whereas conversion oxides and nitrides generally require ultrathin designs unless partial transformation or high recovery efficiency is demonstrated. Deposition route selection is equally critical: line\u2010of\u2010sight PVD offers broad materials flexibility but may require inventory\u2010expensive closure thicknesses on rough substrates, whereas ALD\u2010type growth can enable conformal coverage at much lower nominal thickness. The resulting design maps provide a unified basis for selecting interlayer chemistry, thickness, substrate roughness, cathode loading, and deposition route under a finite cyclable\u2010metal inventory.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fc35282282d7cff4",
+    "title": "Dry\u2011Contact Trimming for All\u2011Perovskite Tandem Solar Cells via Solid\u2011Solution Homogenization",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506753?af=R",
+    "content": "Narrow\u2010bandgap Sn\u2013Pb perovskites are promising bottom absorbers for all\u2010perovskite tandems but suffer from Sn\u2010rich surfaces and depth\u2010dependent lattice/compositional inhomogeneity. Layered\u2010perovskite\u2010assisted dry\u2010contact trimming removes Sn\u2010rich surface species and reconfigures the Sn\u2013Pb absorber, enabling efficient charge collection, reduced voltage losses, >24% single\u2010junction devices, and >30% tandem devices.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010perovskite tandem solar cells leverage the solid\u2010solution nature of metal halide perovskites to tune the band gaps of wide\u2010 and narrow\u2010bandgap subcells for current matching and high photovoltage. Sn\u2013Pb mixed perovskites with band gaps of approximately 1.2\u20131.3\u00a0eV are attractive bottom absorbers, but Sn\u2010rich surface regions, depth\u2010dependent compositional inhomogeneity, and associated band\u2010alignment issues limit both photocurrent and photovoltage. Here, we introduce a layered\u2010perovskite\u2010assisted dry\u2010contact trimming (LDT) strategy to reconfigure Sn\u2013Pb narrow\u2010bandgap perovskites after film formation. A Dion\u2013Jacobson\u2010phase ethylenediammonium lead iodide (EDAPbI4) film is brought into transient solid\u2010state contact with the Sn\u2013Pb perovskite and then removed after contact annealing. EDAPbI4 functions as a temporary solid\u2010state contact partner that removes Sn\u2010rich surface species and reduces depth\u2010dependent lattice and compositional inhomogeneity without forming a retained 2D capping layer. This reconfiguration alleviates reverse band bending at the Sn\u2013Pb perovskite/transport\u2010layer interface, suppresses nonradiative interfacial recombination, and reduces open\u2010circuit\u2010voltage losses. The improved lattice/compositional uniformity also enables thick Sn\u2013Pb absorbers to maintain efficient charge collection and high short\u2010circuit current density. Consequently, single\u2010junction Sn\u2013Pb devices exceed 24% efficiency, and monolithic all\u2010perovskite tandem devices surpass 30% with reproducible performance and operational stability. These results identify LDT as a complementary post\u2010crystallization strategy for engineering mixed perovskite solid\u2010solutions and their interfaces.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d0cf8af3dce31006",
+    "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
+    "link": "https://www.nature.com/articles/s41586-026-10844-6",
+    "content": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10844-6\">doi:10.1038/s41586-026-10844-6</a></p>Electrodeposited self-assembled molecules for perovskite photovoltaics",
+    "journal": "Nature"
+  },
+  {
+    "id": "5745b22076d032ac",
+    "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+    "link": "https://www.nature.com/articles/s41586-026-10854-4",
+    "content": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10854-4\">doi:10.1038/s41586-026-10854-4</a></p>Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+    "journal": "Nature"
+  },
+  {
+    "id": "03e9205bb7330d50",
+    "title": "Neutrino\u2019s nursery found: the \u2018Shadow Blaster\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-02034-1",
+    "content": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02034-1\">doi:10.1038/d41586-026-02034-1</a></p>A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7dedfb28fde19dd2",
+    "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
+    "link": "https://www.nature.com/articles/d41586-026-01773-5",
+    "content": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01773-5\">doi:10.1038/d41586-026-01773-5</a></p>Nature readers share their PhD time-management woes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "40be415e5f72524c",
+    "title": "Incoming US science academy chief vows to \u2018double down\u2019 on research",
+    "link": "https://www.nature.com/articles/d41586-026-02088-1",
+    "content": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02088-1\">doi:10.1038/d41586-026-02088-1</a></p>New leader of the National Academy of Sciences Neil Shubin warns: \u2018a society that loses science loses the future\u2019.",
+    "journal": "Nature"
+  },
+  {
+    "id": "364a1cefe233c0b6",
+    "title": "Daily briefing: What\u2019s really happening with trust in science",
+    "link": "https://www.nature.com/articles/d41586-026-02084-5",
+    "content": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02084-5\">doi:10.1038/d41586-026-02084-5</a></p>Evidence shows that public trust in science is still high. Plus, the Vera Rubin Observatory is scanning the skies more widely than ever and paying peer reviewers seems to speed up the process.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1fc48c052167f2bd",
+    "title": "Cancer Research UK bets on Manchester with \u00a36-million funding boost",
+    "link": "https://www.nature.com/articles/d41586-026-02019-0",
+    "content": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02019-0\">doi:10.1038/d41586-026-02019-0</a></p>The investment provides a \u2018special opportunity\u2019 to establish the Cancer Research UK Manchester Institute as a world leader in emerging oncology therapies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "94015704d7fbbd07",
+    "title": "Daily briefing: How to brew a climate-friendly coffee",
+    "link": "https://www.nature.com/articles/d41586-026-02076-5",
+    "content": "<p>Nature, Published online: 30 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02076-5\">doi:10.1038/d41586-026-02076-5</a></p>Researchers are racing to safeguard coffee from climate change. Plus, how ticks are making people allergic to meat and how AI tools can help neurodivergent students succeed in their science careers.",
+    "journal": "Nature"
+  },
+  {
+    "id": "70b085d70fbcf65b",
+    "title": "Ozone erosion started decades before the ozone hole\u2019s discovery",
+    "link": "https://www.nature.com/articles/d41586-026-02033-2",
+    "content": "<p>Nature, Published online: 29 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02033-2\">doi:10.1038/d41586-026-02033-2</a></p>Depletion of the ozone layer has been traced mainly to the widespread use of industrial chlorofluorocarbon chemicals, but there might have been an additional culprit.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d21ba03c89f902e2",
+    "title": "Dementia risk in middle-aged people linked to a blood protein",
+    "link": "https://www.nature.com/articles/d41586-026-02035-0",
+    "content": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02035-0\">doi:10.1038/d41586-026-02035-0</a></p>Those under 55 with relatively high levels of the molecule GDF15 had an elevated risk of developing dementia.",
+    "journal": "Nature"
+  },
+  {
+    "id": "eb336c3f48d4ea6a",
+    "title": "Rapidly constructed Ru-NiMn sites regulate the \u2013CHO/\u2013CH2OH pathway and deprotonate to elevate biomass-derived molecule electrooxidation",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00229-1?rss=yes",
+    "content": "This study reveals that the rapidly prepared Ru-NiMn/NF-IH catalyst enhances HER//HMFOR activity by improving substrate adsorption, promoting deprotonation, and regulating the reaction pathway. These findings link the HER//HMFOR mechanism to catalyst design, providing insights into improving the activity and durability of electrooxidation catalysts.",
+    "journal": "Joule"
+  },
+  {
+    "id": "38798d3f54908486",
+    "title": "Critical surface strain regime for stable and active epitaxial platinum oxygen reduction electrocatalysts",
+    "link": "https://www.nature.com/articles/s41560-026-02108-4",
+    "content": "<p>Nature Energy, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41560-026-02108-4\">doi:10.1038/s41560-026-02108-4</a></p>Manipulating surface strain in epitaxial transition metal films can enhance electrocatalytic activity, yet maintaining long-term performance is challenging due to irreversible strain relaxation. Here the authors identify a thickness-dependent critical strain in epitaxial Pt/Ir films that optimizes stability and activity for the oxygen reduction reaction.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "15c6ee9807897ead",
+    "title": "Fluorinated Diluents Enable Crowded Solvation Environments to Form Anion\u2010Rich SEIs for High\u2010Performance Potassium\u2010Ion Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70807?af=R",
+    "content": "Electrolytes play a crucial role in improving the cycling stability and lifespan of potassium\u2010ion batteries (PIBs). Herein, a localized high\u2010concentration electrolyte (LHCE) has been specifically tailored for PIBs by introducing 1,2\u2010dfBen used as a crowding diluent. Noted that the formation of more AGGs, together with a robust and anion\u2010rich SEI, leads to rapid electrochemical kinetics and superior cycling stability.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrolytes play a crucial role in improving the cycling stability and lifespan of potassium\u2010ion batteries (PIBs). Nevertheless, conventional electrolytes often form a non\u2010uniform, low\u2010conductivity solid electrolyte interface (SEI), leading to uncontrolled potassium deposition and inactive potassium formation, thus falling short of the performance requirements for high\u2010energy\u2010density PIBs. Herein, 1,2\u2010difluorobenzene (1,2\u2010dfBen) is introduced as a crowding diluent to the conventional commercial electrolyte, which consists of potassium bis(fluorosulfonyl)imide (KFSI) and dimethyl carbonate (DMC). The combined effects of the low energy level of the lowest unoccupied molecular orbital (LUMO) and the pronounced fluorine\u2010donating capability of 1,2\u2010dfBen synergistically alter the solvation structure and interfacial chemistry. Consequently, the implementation of this straightforward electrolyte formulation results in exceptional stability for K//K symmetric cells, as evidenced by their ability to sustain 200 h. Furthermore, K//Cu cells exhibit a notably high average coulombic efficiency (CE) of 93.7%, and K//graphite cells demonstrate a charge capacity of 230 mAh g\u22121 with a CE of 97.5% after 100 cycles. As a demonstration of practical device applicability, the assembled potassium\u2010ion full cell (PTCDA//graphite) exhibits superior cycling stability. This research presents a feasible design for localized high\u2010concentration electrolyte (LHCE), paving the way for the development of high CE and long\u2010lasting PIBs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "62edac176a90df50",
+    "title": "Optimizing the Development Process in Direct Photolithography for Efficient PeLEDs",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70814?af=R",
+    "content": "This work systematically reveals the development process as a critical yet overlooked factor in direct photolithography of perovskite nanocrystals. Synergistic optimization of hole transport layer adhesion and developer composition yields high\u2010resolution (5080 PPI) PeLED arrays with a record EQE of 20% and exceptional luminance, offering a promising route for next\u2010generation high\u2010resolution displays.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010resolution perovskite nanocrystals light\u2010emitting diodes (PeLEDs) show great potential for near\u2010eye and metaverse displays due to their exceptional optoelectronic performance. Direct photolithography stands as a leading approach for high\u2010resolution pixelation, but patterned devices still suffer from severe performance deterioration. Herein, by integrating high\u2010efficient perovskite nanocrystals and damage\u2010free carbene\u2010based crosslinkers, we reveal the development process as a critical yet overlooked factor influencing pixelated device performance remarkably. The interfacial adhesion between perovskite nanocrystals and the hole transport layer (HTL) dictates both patterning fidelity and residual\u2010induced background emission. Excessively strong adhesion leads to incomplete development, while weak adhesion compromises pattern integrity. Additionally, conventional developers cause unselective dissolution damage, inevitably degrading the optoelectronic properties of crosslinked perovskite nanocrystals. By synergistically optimizing the HTL to regulate adhesion strength and tailoring the developer with butyric acid for in situ perovskite nanocrystals surface passivation, we minimize development\u2010induced damage while maintaining clean pattern definition. This integrated optimization yields high\u2010resolution (5080 PPI) PeLED arrays with a record external quantum efficiency of 20% and a peak luminance of 3061\u00a0cd m\u22122, providing a novel perspective toward high\u2010resolution PeLEDs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "d5b3c4dae0f59b08",
+    "title": "Delocalized Redox Framework of Indanthrone Enables Low\u2010Strain and Durable Mn2+/H+ Storage in Aqueous Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70802?af=R",
+    "content": "A high\u2010performance Mn2+/H+ hybrid aqueous battery is realized using an indanthrone cathode, exhibiting 85.5% capacity retention over 3000 cycles. The system features a low\u2010strain Mn2+/H+ storage mechanism where b\u2010axis expansion is balanced by contractions in the a and c\u2010axes.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous manganese batteries (AMBs) are promising alternatives to lithium\u2010ion systems due to their safety and cost\u2010effectiveness. However, organic cathodes often face challenges regarding material dissolution and slow ion kinetics. In this work, we introduce indanthrone (IDT) as a strategic organic cathode for high\u2010performance Mn2+/H+ batteries. IDT features a massive eight\u2010ring \u03c0\u2010conjugated framework that enables extensive electronic delocalization. Unlike systems with excessively concentrated active groups, the IDT framework provides a more dispersed distribution of redox\u2010active sites. This arch\\itecture promotes smooth ion transport through enhanced charge delocalization across the extended aromatic system. The IDT electrode delivers a high specific capa\\city of 194.8 mAh/g at 0.1 A/g, while the Mn\u2010IDT full\u2010cell exhibits 85.5% capacity retention after 3000 cycles at 0.3 A/g. Spectroscopic and crystallographic analyses confirm a low\u2010strain pathway, where b\u2010axis expansion (2.09%) is effectively compensated by minor contractions in the a and c\u2010axes. This unique anisotropic response leads to minimal overall volume fluctuation, ensuring structural integrity during prolonged operation. This work provides a molecular\u2010level design principle for constructing low\u2010strain organic cathodes for high\u2010voltage aqueous multivalent batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
