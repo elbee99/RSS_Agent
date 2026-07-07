@@ -75,5 +75,26 @@
     "link": "https://www.nature.com/articles/s41563-026-02648-w",
     "content": "<p>Nature Materials, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41563-026-02648-w\">doi:10.1038/s41563-026-02648-w</a></p>Solid-state spin defects are a powerful and versatile class of quantum sensor. This Review covers the development of scanning-probe nitrogen-vacancy sensing as a tool for investigating quantum materials with nanoscale resolution, surveys the recent development of spin defects in 1D and 2D host materials and identifies key directions for future research.",
     "journal": "Nature Materials"
+  },
+  {
+    "id": "08dca228979aec40",
+    "title": "Thermally activated proton transfer enables air-processed perovskite solar cells approaching 27%",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00263-1?rss=yes",
+    "content": "Making high-performance perovskite solar cells in ordinary air is difficult because moisture and heat disrupt film formation. Here, a small molecular additive guides crystal growth at the start and then stabilizes the material during annealing, enabling highly efficient devices made outside a glovebox. The work shows that additive design can control both processing and stability at once, offering a practical path toward lower-cost, scalable perovskite solar manufacturing.",
+    "journal": "Joule"
+  },
+  {
+    "id": "2aff2b7ed7b825f6",
+    "title": "In situ optical techniques for perovskite crystallization",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00230-8?rss=yes",
+    "content": "In situ optical characterization techniques have emerged as powerful tools for probing nucleation, phase evolution, and intermediate-state formation in real time. This review provides a systematic overview of the development and application of in situ optical techniques for studying perovskite crystallization. It aims to offer a comprehensive technical guide for researchers seeking to employ in situ optical methods to investigate perovskite crystallization.",
+    "journal": "Joule"
+  },
+  {
+    "id": "8e57017c0303b501",
+    "title": "Switching from insertion to conversion for multielectron aqueous vanadium batteries",
+    "link": "https://www.nature.com/articles/s41563-026-02666-8",
+    "content": "<p>Nature Materials, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41563-026-02666-8\">doi:10.1038/s41563-026-02666-8</a></p>Conventional aqueous vanadium-ion batteries have low capacities, as the fundamental charge-storage mechanism is a one-electron insertion process. Here, using a mesoporous carbon shell approach, a four-electron conversion reaction for charge storage is demonstrated.",
+    "journal": "Nature Materials"
   }
 ]
