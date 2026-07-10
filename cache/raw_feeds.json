@@ -1090,5 +1090,47 @@
     "link": "https://www.nature.com/articles/s41560-026-02104-8",
     "content": "<p>Nature Energy, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/s41560-026-02104-8\">doi:10.1038/s41560-026-02104-8</a></p>Household-wide coordination capacity underpins residential solar adoption. In-sync households share goals, actively deliberate and act collectively to adopt. Oppositional households are misaligned, face coordination snags and do not adopt.",
     "journal": "Nature Energy"
+  },
+  {
+    "id": "11a85fddc8649721",
+    "title": "Academic battery passports for the regulatory era of energy storage",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00255-2?rss=yes",
+    "content": "Battery passports are becoming essential for traceability, safety, and circularity in energy storage, yet academic battery research remains largely narrative and difficult to integrate into digital ecosystems. This commentary proposes an academic battery passport framework to enable interoperable, machine-readable battery science for regulation, AI, and life cycle intelligence.",
+    "journal": "Joule"
+  },
+  {
+    "id": "f8e775ba3f066206",
+    "title": "Scalable interface-interphase design of tin electrodes enables pouch-type sodium all-solid-state batteries",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00254-0?rss=yes",
+    "content": "We present an interface-interphase engineering strategy for Sn anodes in sodium all-solid-state batteries, which is compatible with roll-to-roll electrode manufacturing. By integrating an infiltrated sodium closo-borate anolyte with a CNT scaffold, the engineered Sn anode enables reversible alloying chemistry and low-pressure operational capability. Combined with a dry-process fabrication strategy for cathode and solid-electrolyte films, this design enables the first pouch-type NaSSB demonstration.",
+    "journal": "Joule"
+  },
+  {
+    "id": "4f8976e2a7cdf8f1",
+    "title": "Corrigendum to \u201cA magnetically modulated hybrid nanogenerator for wind energy harvesting and speed sensing\u201d [Nano Energy 153 (2026) 111941]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004878?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Xiangqian Lu, Xiaopeng Zhu, Yijun Hao, Jiayu Su, Zhao Guo, Peinian Zhang, Yong Qin, Dong Yang, Xiuhan Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "448421796d1667c4",
+    "title": "From disorder to order: Surface-guided crystallization enables highly homogenized perovskite films for efficient optoelectronics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004957?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Binbin Jin, Jian Cai, Zhiyuan Zhu, Bao Li, Yihan Lu, Yang Yu, Hao Xie, Ding Zhao, Ligang Xu, Min Qiu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "e2824558fe4c762c",
+    "title": "Optimized pseudo-bilayer blend morphologies for high-performance organic solar cells enabled by centrifugation coating",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004799?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Dayong Zhang, Yongjoon Cho, Fei Qin, Yao Yao, Yifan Wang, Robert M. Pankow, Giacomo Forti, Lin Gao, Yongfa Cheng, Isaiah Duplessis, Yuyang Wang, Qing Ma, Ding Zheng, Tobin Marks, Antonio Facchetti</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "6a72daca19eaa251",
+    "title": "Cl<sup>-</sup>-selective hybrid hydrogel for all-climate self-powered integrated electronics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600491X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Enqi Sun, Zhiyu Zhang, Yifei Wang, Xia Cao, Ning Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
