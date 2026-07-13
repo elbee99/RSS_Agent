@@ -1,203 +1,203 @@
 # Curated Research Articles
 
-Generated: 2026-07-06 06:26
+Generated: 2026-07-13 05:36
 
-- **[Redesigning Interlayers for Anode‐Free Batteries: Harnessing Continuity and Metal Inventory](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71206?af=R)** — score: 0.900
-The article discusses the strategic redesign of interlayers in anode-free batteries to ensure effective interfacial coverage while optimizing the use of active-metal inventory from the cathode. By integrating thin-film closure models with stoichiometric consumption of metal, the authors identify key design parameters—including morphology, chemistry, and deposition techniques—that are critical for achieving efficient and practical battery performance.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Novel High-Temperature Chemistry in All-NASICON Solid State Batteries Explored by Operando Synchrotron XRD](https://www.sciencedirect.com/science/article/pii/S2405829726004915?dgcid=rss_sd_all)** — score: 1.000
+The article investigates the high-temperature chemical processes occurring in all-NASICON solid-state batteries using operando synchrotron X-ray diffraction (XRD). The study aims to enhance the understanding of structural changes and material stability during battery operation, contributing to advancements in energy storage technologies.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Delocalized Redox Framework of Indanthrone Enables Low‐Strain and Durable Mn2+/H+ Storage in Aqueous Batteries](https://onlinelibrary.wiley.com/doi/10.1002/smtd.70802?af=R)** — score: 0.900
-The study presents an indanthrone cathode that enhances the performance of manganese-based hybrid aqueous batteries by enabling a low-strain and durable redox mechanism. This cathode architecture, characterized by extensive electronic delocalization, allows for a high specific capacity and excellent capacity retention over numerous cycles, advancing the development of safe and cost-effective battery alternatives to lithium-ion systems.
-Journal: *Wiley: Small Methods: Table of Contents*
+- **[Weakly solvated Li<sup>+</sup> chemistry within MXene nanochannels enables wide-temperature 2-electron oxalate-routine Li-CO<sub>2</sub> battery](https://www.sciencedirect.com/science/article/pii/S2211285526004891?dgcid=rss_sd_all)** — score: 1.000
+The article discusses a novel approach to enhance the performance of Li-CO2 batteries by utilizing weakly solvated Li+ ions within MXene nanochannels. This method allows the battery to operate efficiently across a wide temperature range, potentially addressing the challenges of energy storage and conversion in lithium-based systems.
+Journal: *ScienceDirect Publication: Nano Energy*
 
-- **[In-Situ Formed Bionic Cell Wall Interphase Enables Reversible Zn Anode for High-Performance Aqueous Batteries](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE03332F)** — score: 0.800
-The article discusses the development of a bionic cell wall interphase that enhances the stability and performance of zinc anodes in aqueous zinc-ion batteries (AZIBs). This innovation allows for the formation of a reversible solid electrolyte interphase, thereby addressing common issues faced in battery performance and promoting safer, cost-effective energy storage solutions.
-Journal: *RSC - Energy Environ. Sci. latest articles*
+- **[Rapid impedance spectrum extraction from relaxation signals via a battery kinetics-informed neural network](https://www.sciencedirect.com/science/article/pii/S240582972600471X?dgcid=rss_sd_all)** — score: 0.800
+The article presents a novel approach for quickly extracting impedance spectra from relaxation signals using a neural network informed by battery kinetics. This method aims to enhance the efficiency of analyzing battery performance, potentially leading to faster advancements in energy storage technologies.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Synergistic Anion Confinement in a Poly(Ionic Liquid)/MOF Composite Electrolyte Decouples Ionic Conductivity and Mechanical Strength for High‐Performance Solid‐State Lithium Metal Batteries](https://onlinelibrary.wiley.com/doi/10.1002/smtd.70800?af=R)** — score: 0.800
-The study introduces a composite poly(ionic liquid) electrolyte that combines a main-chain PIL and the metal-organic framework MOF-5, effectively addressing the trade-off between ionic conductivity and mechanical strength. This novel electrolyte achieves a conductivity of 1.4 mS cm−1, high Li+ transference, and excellent electrochemical stability, enabling over 2000 hours of symmetric cell stability and 700 cycles in full cells with LiFePO4, demonstrating its potential for high-performance solid-state lithium metal batteries.
-Journal: *Wiley: Small Methods: Table of Contents*
+- **[Unveiling the asymmetry in sodium-ion charge-discharge behavior via engineered internal vacancy defects in closed pores](https://www.sciencedirect.com/science/article/pii/S2211285526004738?dgcid=rss_sd_all)** — score: 0.800
+The article explores how engineered internal vacancy defects within closed pores can create asymmetry in the charge-discharge behavior of sodium-ion batteries, potentially enhancing their performance. This study aims to optimize sodium-ion technology by revealing the impact of structural modifications on battery efficiency.
+Journal: *ScienceDirect Publication: Nano Energy*
 
-- **[Matching d‐p Energy Levels Between High‐Entropy Alloy Catalysts and Chalcogen Cathodes for All‐Solid‐State Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71232?af=R)** — score: 0.800
-The article presents a strategy for enhancing the performance of all-solid-state lithium-chalcogen batteries by matching the d band of high-entropy alloy (HEA) catalysts with the p band of chalcogen cathodes. This approach improves electronic coupling and charge transfer, leading to accelerated solid-state conversion reactions. The study identifies FeCoNiCuCr as a particularly effective catalyst, resulting in a stable reversible capacity of 657 mAh g−1 after 1800 cycles, thus addressing kinetic challenges in these energy storage systems.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Fluorinated Diluents Enable Crowded Solvation Environments to Form Anion‐Rich SEIs for High‐Performance Potassium‐Ion Batteries](https://onlinelibrary.wiley.com/doi/10.1002/smtd.70807?af=R)** — score: 0.800
-This study introduces a localized high-concentration electrolyte (LHCE) for potassium-ion batteries, incorporating 1,2-difluorobenzene as a diluent to enhance electrolyte performance. The modified electrolyte fosters anion-rich solid electrolyte interfaces (SEIs) that significantly improve electrochemical kinetics and cycling stability, leading to high capacity and efficiency in potassium-ion battery systems.
-Journal: *Wiley: Small Methods: Table of Contents*
-
-- **[From Material to System: A Review of Self‐Charging Aqueous Zinc‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71212?af=R)** — score: 0.700
-This review explores self-charging aqueous zinc-ion batteries (SC-AZIBs) that combine energy harvesting with storage, enabling usage of ambient energy sources. It analyzes various self-charging mechanisms, emphasizes design strategies for cathode materials and devices, identifies significant challenges faced by the technology, and proposes future development pathways for enhanced performance.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Suspension Electrolyte for Protecting Aqueous Zinc Batteries From Calendar Aging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71183?af=R)** — score: 0.700
-This research introduces a novel Al2O3 suspension electrolyte designed to enhance the calendar life of aqueous zinc batteries (AZBs) by effectively reducing zinc corrosion during extended idle periods. By integrating a small percentage of Al2O3 nanoparticles into a traditional ZnSO4 electrolyte, the study demonstrates substantial improvements in battery performance, including a threefold increase in lifespan, higher Coulombic efficiency, and sustained specific capacity, making this approach promising for safe and cost-effective large-scale energy storage solutions.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[A mechanistic investigation of the relationship between battery energy and capacity](https://www.cell.com/joule/fulltext/S2542-4351(26)00224-2?rss=yes)** — score: 0.600
-The article explores the discrepancy between battery capacity (Ah) and energy (Wh) as indicators of state of health, emphasizing the importance of energy for practical application. It develops a theoretical framework that connects this divergence to various degradation mechanisms influenced by electrode chemistry, operating conditions, and discharge depth, ultimately aiming to enhance lifetime predictions and safety assessments in battery usage.
+- **[Scalable interface-interphase design of tin electrodes enables pouch-type sodium all-solid-state batteries](https://www.cell.com/joule/fulltext/S2542-4351(26)00254-0?rss=yes)** — score: 0.800
+The article introduces an innovative interface-interphase engineering strategy for tin electrodes in sodium all-solid-state batteries (NaSSBs). This method, compatible with roll-to-roll manufacturing, incorporates a sodium closo-borate anolyte within a carbon nanotube scaffold, facilitating reversible alloying and low-pressure operations, ultimately leading to the successful demonstration of the first pouch-type NaSSB.
 Journal: *Joule*
 
-- **[The interplay between stack pressure, mechanical expansion and degradation pathways in lithium-ion batteries](https://www.nature.com/articles/s41560-026-02087-6)** — score: 0.600
-This study investigates the effect of stack pressure on the long-term cycling performance of lithium-ion batteries, an area that has not been extensively explored. Utilizing a high-precision pressure-controlled dilatometry tool, researchers aim to optimize stack pressure to enhance battery longevity and better understand its influence on mechanical expansion and degradation pathways.
-Journal: *Nature Energy*
+- **[Hard-Soft Acid-Base Theory-Guided Molecular Engineering for Synergistic Bulk-to-Interface Regulation in Ultra-Stable Aqueous Zinc-Ion Batteries](https://www.sciencedirect.com/science/article/pii/S2405829726005040?dgcid=rss_sd_all)** — score: 0.800
+The article discusses the application of Hard-Soft Acid-Base (HSAB) theory to enhance the design of aqueous zinc-ion batteries, focusing on achieving synergistic regulation from bulk properties to interface interactions. This molecular engineering approach aims to improve the stability and performance of these batteries, which are increasingly important for energy storage solutions.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Reconciling triple-phase boundaries and tortuosity in high-energy all-solid-state lithium-sulfur batteries](https://www.cell.com/joule/fulltext/S2542-4351(26)00225-4?rss=yes)** — score: 0.600
-The article presents a design principle for all-solid-state lithium-sulfur batteries that optimally combines the influence of tiny pores on sulfur reactivity with larger carbon particles that facilitate ion transport. This integration addresses the challenges of achieving high sulfur utilization and cycling durability, positioning the approach as a significant advancement for next-generation battery technology.
+- **[In situ Raman diagnostics of gas evolution during overcharge-induced failure in Li-ion batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004885?dgcid=rss_sd_all)** — score: 0.700
+The article discusses the use of in situ Raman spectroscopy to analyze gas emissions from Li-ion batteries during overcharging, which can lead to failure. This diagnostic method provides insights into the electrochemical processes and potential hazards associated with battery overcharge conditions, contributing to improved safety and performance in energy storage systems.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Processing-Induced Heterogeneity Governs Failure in Oxide Solid Electrolytes for Solid-State Batteries](https://www.sciencedirect.com/science/article/pii/S2405829726005118?dgcid=rss_sd_all)** — score: 0.700
+The article discusses how heterogeneity induced by processing methods affects the performance and failure mechanisms of oxide solid electrolytes in solid-state batteries. It emphasizes the critical role of material processing in determining the reliability and efficiency of these batteries, suggesting that a better understanding of this relationship is essential for future advancements in energy storage technologies.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Switching from insertion to conversion for multielectron aqueous vanadium batteries](https://www.nature.com/articles/s41563-026-02666-8)** — score: 0.600
+The article discusses a significant advancement in aqueous vanadium-ion batteries by shifting from a one-electron insertion mechanism to a four-electron conversion reaction, which leads to higher charge storage capacities. This improvement is achieved through the application of a mesoporous carbon shell, marking a potential breakthrough in battery technology.
+Journal: *Nature Materials*
+
+- **[Widening electrochemical window of ether electrolyte via solvent-diluent intermolecular interactions for high-voltage lithium metal batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004824?dgcid=rss_sd_all)** — score: 0.600
+The article discusses a novel approach to enhance the electrochemical stability of ether electrolytes by manipulating solvent-diluent intermolecular interactions, which significantly widens the electrochemical window. This advancement aims to improve the performance of high-voltage lithium metal batteries, potentially contributing to more efficient energy storage solutions.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Vertically aligned h-BN array enabling inorganic-rich SEI layer generation in polymer electrolyte towards ultralong lifespan solid-state lithium metal battery](https://www.sciencedirect.com/science/article/pii/S2405829726004666?dgcid=rss_sd_all)** — score: 0.600
+The article presents a novel vertically aligned h-BN (hexagonal boron nitride) array designed to enhance the stability of solid-state lithium metal batteries by promoting the formation of an inorganic-rich solid electrolyte interphase (SEI) layer within a polymer electrolyte. This advancement aims to significantly extend the lifespan of these batteries, positioning them as a more reliable energy storage solution.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Regulating anion participation in phosphate electrolyte for nonflammable and low-temperature sodium-ion batteries](https://www.sciencedirect.com/science/article/pii/S2211285526004866?dgcid=rss_sd_all)** — score: 0.600
+The article discusses the development of a phosphate electrolyte that regulates anion participation, aimed at enhancing the performance of nonflammable and low-temperature sodium-ion batteries. Key findings include improvements in battery safety and efficiency, which could significantly impact the future of energy storage technologies.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Regenerating degraded polycrystalline NCM towards high-performance single-crystal NCM622 through tailoring crystal-phase reconstruction](https://www.sciencedirect.com/science/article/pii/S2211285526005057?dgcid=rss_sd_all)** — score: 0.600
+The article discusses a method for improving the performance of degraded polycrystalline NCM (Nickel Cobalt Manganese) materials by converting them into high-performance single-crystal NCM622 through a process of crystal-phase reconstruction. This innovative approach aims to enhance the material's efficiency for energy applications, as detailed in findings presented in Nano Energy.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Decoordination-enabled dynamic Lewis acid regulation in poly (ethylene oxide) solid polymer electrolytes for high-performance all-solid-state lithium metal batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004733?dgcid=rss_sd_all)** — score: 0.500
+The article discusses advancements in poly(ethylene oxide) solid polymer electrolytes, specifically focusing on how decoordination mechanisms can enhance the regulation of Lewis acids, leading to improved performance in all-solid-state lithium metal batteries. This innovation aims to address common challenges in energy storage materials, paving the way for more efficient battery technologies.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Surface passivation and structural stabilization of Ni-rich and Co-free single-crystal cathodes to improve high-voltage performance in sulfide solid-state batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004757?dgcid=rss_sd_all)** — score: 0.500
+The article discusses advancements in enhancing the performance of Ni-rich and Co-free single-crystal cathodes for sulfide solid-state batteries by applying surface passivation and structural stabilization techniques. These methods aim to improve high-voltage capabilities, thus potentially increasing the efficiency and longevity of energy storage systems.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Competitive adsorption-driven anion redistribution enables kinetics-stability decoupling in alkaline Zn–Fe flow batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004782?dgcid=rss_sd_all)** — score: 0.500
+The article discusses a novel approach in alkaline Zn–Fe flow batteries that utilizes competitive adsorption to facilitate the redistribution of anions, thereby achieving a decoupling of reaction kinetics from stability. This advancement could lead to improved performance and longevity of battery systems, as outlined in the September 2026 publication in Energy Storage Materials.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Site-selective cation substitution enables ultra-fast charging and long stability in NASICON sodium-ion anodes](https://www.sciencedirect.com/science/article/pii/S2405829726004691?dgcid=rss_sd_all)** — score: 0.400
+The article discusses a novel approach to enhancing sodium-ion battery anodes through site-selective cation substitution in NASICON materials, resulting in significantly improved charging speeds and extended stability. This advancement could play a crucial role in the development of more efficient and durable energy storage solutions.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Porosity-gradient dry-processed graphite electrode with deformable primer layer for boosting fast-charging capability of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004630?dgcid=rss_sd_all)** — score: 0.400
+The article presents a novel design for graphite electrodes used in lithium-ion batteries, featuring a porosity-gradient and a deformable primer layer. This innovative structure aims to enhance the fast-charging capabilities of the batteries, addressing a critical challenge in energy storage technology.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Internal resistance and impedance act as cross-scale indicators of lifespan-safety-performance for lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004708?dgcid=rss_sd_all)** — score: 0.400
+The article explores how internal resistance and impedance can serve as crucial indicators across different scales for evaluating the lifespan, safety, and performance of lithium-ion batteries. By examining these parameters, the authors aim to enhance the understanding of battery behavior and inform better management and design practices in energy storage systems.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Spontaneous Nanostructuring of Extended π-Conjugated Carbonyls Enables High-Capacity, Long-Life, and Fast-Charging Cathodes for Sodium-Ion Batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004976?dgcid=rss_sd_all)** — score: 0.400
+The article discusses the development of high-capacity and long-life cathodes for sodium-ion batteries, achieved through the spontaneous nanostructuring of extended π-conjugated carbonyl compounds. This innovative approach not only enhances the battery's energy storage capacity but also significantly improves its charging speed and overall performance.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Improving the electro-chemo-mechanical stability of nickel-rich cathodes through tungsten modification for high-performance solid-state batteries](https://www.sciencedirect.com/science/article/pii/S240582972600485X?dgcid=rss_sd_all)** — score: 0.400
+The article discusses the enhancement of nickel-rich cathodes' electro-chemo-mechanical stability through the incorporation of tungsten, aimed at optimizing their performance in solid-state batteries. The findings, published in Energy Storage Materials, focus on improving longevity and efficiency in high-performance battery applications.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Enhancing fast-charging capability of silicon-based lithium-ion batteries via an ionically conductive binder](https://www.sciencedirect.com/science/article/pii/S2211285526004830?dgcid=rss_sd_all)** — score: 0.400
+This article discusses the development of a new ionically conductive binder that significantly improves the fast-charging performance of silicon-based lithium-ion batteries. The research highlights the binder's ability to enhance ion transport and overall battery efficiency, addressing critical challenges in commercializing high-capacity silicon anodes.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[A dilute nitrate electrolyte for all-climate batteries](https://www.cell.com/joule/fulltext/S2542-4351(26)00232-1?rss=yes)** — score: 0.400
+You et al. present a novel approach utilizing dilute lithium nitrate as a cost-effective electrolyte for lithium-ion batteries. This strategy not only lowers material expenses but also enhances battery stability, facilitating reliable performance across diverse climatic conditions in pouch cell designs.
 Journal: *Joule*
 
-- **[Suppressing the interface electric field fluctuation through faceto-face electronic channel regulation for sustainable zinc batteries](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02798A)** — score: 0.400
-The article discusses advancements in sustainable zinc batteries by addressing the challenges posed by poor electrode-electrolyte interface interactions. Researchers propose a method to suppress electric field fluctuations through a face-to-face electronic channel regulation, aiming to improve the effectiveness of gel electrolytes in aqueous zinc systems.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Algae-inspired hydrogel electrolytes with sulfate-group-mediated polyiodide repulsion for stable iodine chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE03238A)** — score: 0.400
-Researchers have developed algae-inspired hydrogel electrolytes that utilize sulfate groups to mitigate issues such as zinc dendrite formation and polyiodide shuttling in aqueous zinc-iodine batteries. This innovation aims to enhance the stability and efficiency of iodine chemistry, thereby improving the viability of these batteries for large-scale energy storage applications.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[A rechargeable non-aqueous Mg–O<sub>2</sub> battery based on magnesium peroxide chemistry](https://www.nature.com/articles/s41557-026-02199-2)** — score: 0.400
-The study demonstrates that by modifying the solvation environment of Mg²⁺ ions, researchers have achieved reversible magnesium peroxide chemistry, leading to stable cycling in a rechargeable non-aqueous magnesium–oxygen battery. This advancement addresses the previously encountered issue of poor reversibility, thereby enhancing the potential for high energy density applications.
-Journal: *Nature Chemistry*
-
-- **[Dendrite initiation and deflection in biaxially stressed solid electrolytes](https://www.nature.com/articles/s41586-026-10734-x)** — score: 0.300
-The study presents findings that in-plane biaxial compression influences dendrite propagation in garnet solid electrolytes, revealing that dendrite initiation takes place within the material's interior over extended cycling periods. This observation enhances the understanding of dendrite formation mechanisms in solid electrolytes, which has implications for battery performance and longevity.
-Journal: *Nature*
-
-- **[Continuous Fabrication of Dendrite‐Free Zinc Fiber Anodes for Flexible Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71235?af=R)** — score: 0.300
-This study presents the development of a scalable fiber-shaped zinc electrode for zinc-ion batteries that minimizes dendrite formation through optimized nucleation and growth techniques using oxygen-functionalized carbon nanotube fibers. The continuous fabrication process yields meter-scale, durable batteries with enhanced corrosion resistance and a notable energy density, positioning them as promising candidates for safe, flexible power sources in wearable electronics.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Critical surface strain regime for stable and active epitaxial platinum oxygen reduction electrocatalysts](https://www.nature.com/articles/s41560-026-02108-4)** — score: 0.200
-The study reveals a critical thickness-dependent strain in epitaxial platinum/iridium films that balances improved electrocatalytic activity for the oxygen reduction reaction with long-term stability, addressing the common issue of irreversible strain relaxation in catalyst performance.
-Journal: *Nature Energy*
-
-- **[MXene-based bioabsorbable bandage speeds up diabetic wound repair](https://www.nature.com/articles/s41578-026-00941-3)** — score: 0.000
-The article discusses a novel glucose-powered electronic bandage made from MXene-based electrodes that is fully bioabsorbable. This bandage is designed to harness biochemical energy to enhance the healing process of diabetic wounds by restoring the electrical fields at wound edges, thereby accelerating recovery.
-Journal: *Nature Reviews Materials*
-
-- **[Chlorinated Polypropylene Enables Stress-Dissipative Networks and High Efficiency in Intrinsically Stretchable Organic Photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02777F)** — score: 0.000
-The article discusses the use of chlorinated polypropylene in enhancing the performance of intrinsically stretchable organic photovoltaics (IS-OPVs) by enabling stress-dissipative networks. This innovation seeks to achieve a balance between high power conversion efficiency and mechanical flexibility, addressing a critical challenge in current IS-OPV materials.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Energy efficient integrated H2O2 electrosynthesis via tailored bubble dynamics](http://pubs.rsc.org/en/Content/ArticleLanding/2026/EE/D6EE02489K)** — score: 0.000
-The article discusses a novel approach to H2O2 electrosynthesis that enhances energy efficiency by integrating it with anodic upgrading, enabling a potential for electricity-free operation. The authors focus on overcoming interfacial kinetic bottlenecks at the anode, highlighting key factors that impede progress towards improved performance in this innovative method.
-Journal: *RSC - Energy Environ. Sci. latest articles*
-
-- **[Cost-effective valorization of 2,3-butanediol to high-value chemicals and jet fuel](https://www.cell.com/joule/fulltext/S2542-4351(26)00220-5?rss=yes)** — score: 0.000
-The article describes an optimized process for converting biomass-derived 2,3-butanediol into sustainable aviation fuel, addressing the separation challenges of 2,3-butanediol through a reactive extraction method that uses in situ generated isobutyraldehyde. The approach promises economic feasibility with production costs under $2.50 per gallon and offers significant environmental benefits, achieving over a 58% reduction in CO2 emissions.
+- **[Geopolymer-based electrolytes derived from industrial solid waste for structural energy storage](https://www.cell.com/joule/fulltext/S2542-4351(26)00231-X?rss=yes)** — score: 0.400
+The study presents a novel approach to utilizing industrial solid waste, specifically fly ash and slag, to create a geopolymer-based electrolyte that enhances zinc-ion brick batteries. The engineered material not only offers mechanical strength and durability but also facilitates efficient ion conduction, demonstrating potential for dual-function structural components that support loads while providing energy storage capabilities.
 Journal: *Joule*
 
-- **[Smart Antibacterial Janus Fabric Based on PVDF/Ag‐Decorated‐MXene for Unidirectional Water Transport and Thermal Management](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202502391?af=R)** — score: 0.000
-The study presents PAM-Textile, a multifunctional Janus fabric made from hydrophobic polyvinylidene fluoride (PVDF) and hydrophilic silver-decorated MXene (Ag@MXene), designed for enhanced comfort in wearable textiles. It exhibits efficient unidirectional moisture management and significant thermal regulation, reducing skin temperature by up to 12.1°C, while also demonstrating broad-spectrum antibacterial properties against MRSA. The fabric maintains its functionalities after multiple washes and abrasions, showcasing potential for advanced applications in healthcare and sportswear.
-Journal: *Wiley: Small Methods: Table of Contents*
+- **[Carbon nanotube-based ternary-additive restructured hydrogel electrolyte for high-performance flexible Zn-air batteries](https://www.sciencedirect.com/science/article/pii/S2211285526004945?dgcid=rss_sd_all)** — score: 0.400
+The article presents a novel hydrogel electrolyte combining carbon nanotubes and ternary additives, which significantly enhances the performance of flexible Zn-air batteries. This advancement demonstrates improved efficiency and stability, promising advancements in energy storage technologies.
+Journal: *ScienceDirect Publication: Nano Energy*
 
-- **[Fractionation‐Free Protein Corona Quantification Through Synchrotron‐Based Small‐Angle X‐ray Scattering](https://onlinelibrary.wiley.com/doi/10.1002/smtd.70786?af=R)** — score: 0.000
-This study presents a novel synchrotron-based small-angle X-ray scattering (SAXS) technique that quantifies protein corona formation on silica nanoparticles without disrupting their native environment. By distinguishing between free and bound proteins, it allows for direct measurement of adsorbed mass in both simple and complex media, and establishes thermodynamic parameters related to protein adsorption behavior. This method enhances the non-invasive characterization of protein coronas, paving the way for better understanding of nanoparticle interactions in biological systems.
-Journal: *Wiley: Small Methods: Table of Contents*
+- **[Polyether electrolyte with selective polymerization of epichlorohydrin for monomer solvated Li<sup>+</sup> transport and stabilized interfaces](https://www.sciencedirect.com/science/article/pii/S240582972600468X?dgcid=rss_sd_all)** — score: 0.300
+The article discusses the development of a polyether electrolyte designed for enhanced lithium ion (Li<sup>+</sup>) transport through selective polymerization of epichlorohydrin. This innovation aims to create more stable interfaces within energy storage systems, thereby improving overall performance and reliability.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Accelerated Formation of CsPbI3 through Controlled Amidation of Intermediate Phases](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71174?af=R)** — score: 0.000
-This research introduces a novel crystallization technique for creating phase-pure CsPbI3 thin films by employing 2,2,2‐trifluoroethyl trifluoroacetate (TFTF), which swiftly reacts with dimethylammonium iodide (DMAI) to eliminate residues that can degrade film quality. As a result, the resulting solar cells exhibit a remarkable efficiency of 20.8% and enhanced stability, addressing previous challenges in film formation and paving the way for better-performing perovskite photovoltaics.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
+- **[Activating ideal solid solution behavior via Mn energy level regulation toward 10C-level layered sodium oxides](https://www.sciencedirect.com/science/article/pii/S2405829726004745?dgcid=rss_sd_all)** — score: 0.300
+The article discusses a method for enhancing the performance of 10C-level layered sodium oxides by regulating the energy levels of manganese (Mn) within the material. This approach aims to achieve ideal solid solution behavior, which can potentially improve energy storage capabilities. The findings contribute valuable insights into the optimization of sodium-based materials for energy applications.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
 
-- **[Giant and Broad‐Temperature Electrocaloric Cooling via B‐Site Medium‐Entropy Design in PST‐Based Multilayer Ceramics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71192?af=R)** — score: 0.000
-The study introduces a novel B-site medium-entropy Pb(Sc0.25Ta0.25In0.25Nb0.25)O3 multilayer ceramic capacitor, which significantly enhances electrocaloric cooling by achieving a ΔTad of 9.34 K over a stable ∼90 K temperature range with minimal electric field requirements. This advancement is attributed to induced lattice distortions and glassy polar nanoregions, providing a framework for developing efficient solid-state cooling technologies that resist thermal instability and maintain durability through extensive cycling.
-Journal: *Wiley: Advanced Energy Materials: Table of Contents*
-
-- **[Togetherness: How co-operation built the world](https://www.nature.com/articles/d41586-026-02067-6)** — score: 0.000
-The article features science journalist Rowan Hooper discussing the concept of symbiosis, emphasizing how collaboration among organisms has played a crucial role in shaping the natural world. It explores the significance of cooperation in ecological and evolutionary contexts, highlighting examples of interdependent relationships in nature.
+- **[Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries](https://www.nature.com/articles/s41586-026-10732-z)** — score: 0.300
+The article discusses the development of lithium metal batteries enhanced by a gradient-solvation approach, which incorporates a specific ligand anti-solvent into an anion-rich ether electrolyte. This innovation results in significant improvements in the battery's cycle life, energy density, and capacity retention.
 Journal: *Nature*
 
-- **[Backreaction of stimulated Hawking radiation in an optical analogue](https://www.nature.com/articles/s41586-026-10720-3)** — score: 0.000
-The article explores the generation of Hawking radiation through a fiber-optical system mimicking black hole physics, providing both theoretical insights and experimental validation. It emphasizes the impact of this radiation on the optical pump, thereby illustrating the interplay between stimulated radiation and its backreaction in a controlled setting.
+- **[Defect-rich microenvironments optimize bulk doping for upcycling spent Ni-rich cathodes](https://www.sciencedirect.com/science/article/pii/S2405829726004848?dgcid=rss_sd_all)** — score: 0.200
+The study investigates how defect-rich microenvironments can enhance bulk doping processes to effectively recycle spent nickel-rich cathodes from batteries. This approach aims to improve material performance and sustainability in energy storage applications, highlighting advancements in the upcycling of battery components.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[The "concentration-purification-delivery" mechanism enabled by silanized attapulgite achieves ultra-stable Zn metal anodes](https://www.sciencedirect.com/science/article/pii/S2405829726004617?dgcid=rss_sd_all)** — score: 0.200
+The article discusses a novel "concentration-purification-delivery" mechanism utilizing silanized attapulgite to enhance the stability of zinc metal anodes, significantly improving their performance in energy storage applications. The research highlights the material's potential to revolutionize zinc-based batteries through enhanced electrochemical properties.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Prelithiation strategies for lithium-ion batteries: From component-specific design to scalable manufacturing](https://www.sciencedirect.com/science/article/pii/S2405829726004721?dgcid=rss_sd_all)** — score: 0.200
+The article discusses various prelithiation strategies for lithium-ion batteries, emphasizing the importance of component-specific designs and their scalability for manufacturing. It aims to improve battery performance and longevity by exploring innovative methods that enhance lithium availability during the charging process.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Strain-Adaptive Aluminum Fluoride Armor Engineering for Durable Silicon-Carbon Anodes with Suppressed Swelling](https://www.sciencedirect.com/science/article/pii/S2405829726004903?dgcid=rss_sd_all)** — score: 0.200
+This article explores the development of strain-adaptive aluminum fluoride armor designed to enhance the durability of silicon-carbon anodes in energy storage applications. The innovative engineering approach aims to significantly suppress swelling issues typically associated with these anodes, thereby improving their performance and longevity in energy storage systems.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Kinetic-Thermodynamic Balance-Driven Design of Bromine Complexants toward High-Performance Zn-Br<sub>2</sub> Batteries](https://www.sciencedirect.com/science/article/pii/S2405829726004812?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the design of bromine complexants aimed at enhancing the performance of zinc-bromine batteries by balancing kinetic and thermodynamic factors. The authors explore innovative approaches to optimize the efficiency and energy storage capabilities of these batteries, which are gaining interest for their potential in large-scale energy applications.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[A dual-site phosphorus-based acceptor with hydrogen bond donor enables theoretically high-capacity F-ion batteries based on unusual Cu<sup>3+</sup> fluorides](https://www.sciencedirect.com/science/article/pii/S2211285526004489?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the development of a novel phosphorus-based dual-site acceptor that incorporates hydrogen bond donors to enhance fluoride-ion battery performance. The research focuses on the unique properties of Cu<sup>3+</sup> fluorides, showcasing their potential to achieve significantly high energy capacities in next-generation batteries.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Stabilizing V-based cathode via a medium-entropy strategy for high-performance zinc-ion batteries](https://www.sciencedirect.com/science/article/pii/S2211285526004684?dgcid=rss_sd_all)** — score: 0.200
+The article discusses a medium-entropy strategy employed to stabilize vanadium-based cathodes, enhancing the performance of zinc-ion batteries. The research highlights the improved energy efficiency and operational stability facilitated by this method, indicating significant potential for future battery technologies.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Amorphous-MOF-derived heterojunctions with continuous interfaces for high-performance lithium-sulfur batteries](https://www.sciencedirect.com/science/article/pii/S2211285526004556?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the development of heterojunctions derived from amorphous metal-organic frameworks (MOFs) with continuous interfaces, which are designed to enhance the performance of lithium-sulfur batteries. These advancements aim to improve energy storage efficiency and cycle life, showcasing significant potential for future battery technologies.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Effect of coating type on the structure and electrochemical performance of silicon anodes for lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S2211285526004544?dgcid=rss_sd_all)** — score: 0.200
+The study investigates how different coating types influence the structural integrity and electrochemical performance of silicon anodes used in lithium-ion batteries. The findings suggest that specific coatings enhance the anode's performance, potentially leading to improvements in battery efficiency and longevity.
+Journal: *ScienceDirect Publication: Nano Energy*
+
+- **[Dual-Network Eutectogel Electrolyte with Enhanced Interfacial Stability for High-Performance Flexible Zinc-Air Batteries](https://www.sciencedirect.com/science/article/pii/S240582972600512X?dgcid=rss_sd_all)** — score: 0.200
+The article discusses the development of a dual-network eutectogel electrolyte designed to improve interfacial stability in flexible zinc-air batteries, potentially enhancing their performance. The authors highlight the innovative contribution of this materials science advancement to energy storage technology.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Silicon embedded into graphite by van der Waals force for high-performance Li-ion batteries](https://www.sciencedirect.com/science/article/pii/S2405829726005143?dgcid=rss_sd_all)** — score: 0.200
+This article discusses a novel method of embedding silicon within graphite using van der Waals forces to enhance the performance of lithium-ion batteries. The authors present findings that suggest this approach could improve energy density and overall battery efficiency, paving the way for advanced energy storage solutions.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Molecular Barrier Engineering Against Cryogenic Solvent Aggregation Enables Sodium-Ion Battery Operation at -60°C](https://www.sciencedirect.com/science/article/pii/S2405829726005015?dgcid=rss_sd_all)** — score: 0.100
+This article discusses the development of molecular barrier engineering techniques to mitigate cryogenic solvent aggregation, which significantly enhances the performance of sodium-ion batteries at extremely low temperatures, specifically down to -60°C. The innovations presented aim to improve battery efficiency and reliability in cold environments, addressing a critical challenge in energy storage technology.
+Journal: *ScienceDirect Publication: Energy Storage Materials*
+
+- **[Academic battery passports for the regulatory era of energy storage](https://www.cell.com/joule/fulltext/S2542-4351(26)00255-2?rss=yes)** — score: 0.100
+The article discusses the increasing importance of battery passports for ensuring traceability and safety in energy storage. It critiques the current narrative-driven approach of academic battery research and introduces a framework for creating interoperable, machine-readable battery passports that can enhance regulation and inform artificial intelligence and life cycle assessments in the field.
+Journal: *Joule*
+
+- **[From cloning to gene-editing: the enduring legacy of Dolly the sheep](https://www.nature.com/articles/d41586-026-02096-1)** — score: 0.000
+The article reflects on Dolly the sheep's significance as a pioneering figure in cloning and how her legacy informs contemporary debates surrounding reproductive technologies and genetic engineering. It emphasizes the societal implications of such advancements, suggesting that Dolly's story offers valuable insights for ongoing discussions in the field.
 Journal: *Nature*
 
-- **[Harmonizing standards and resources for the medical genome](https://www.nature.com/articles/s41586-026-10621-5)** — score: 0.000
-The article highlights the difficulties and potential in genomic sequencing for various clinical applications, particularly in genetic therapies. It advocates for the creation of centralized reference standards to enhance consistency and accuracy in precision medicine.
+- **[Universities are relying on AI-detection software to catch cheating. How well do the programs work?](https://www.nature.com/articles/d41586-026-01358-2)** — score: 0.000
+The article explores the effectiveness of AI-detection software being utilized by universities to identify cheating through AI-generated content. It highlights the differing methodologies and effectiveness of various technology companies’ tools, raising questions about their reliability in academic integrity enforcement.
 Journal: *Nature*
 
-- **[Towards the construction of a virtual yeast](https://www.nature.com/articles/s41586-026-10574-9)** — score: 0.000
-The article discusses the development of a virtual yeast, an AI-based model designed to simulate and analyze the behaviors of eukaryotic cells. This innovative approach aims to enhance understanding of cellular processes and facilitate advancements in biological research and applications.
+- **[Deep-sea oddities and boatloads of other new species — June’s best science images](https://www.nature.com/articles/d41586-026-02087-2)** — score: 0.000
+The article showcases a selection of striking scientific photographs from June, highlighting the discovery of unique deep-sea species alongside a variety of other newly identified organisms, as curated by Nature's photography team.
 Journal: *Nature*
 
-- **[Isomeric multi-hydrogen-bonding enables blue perovskite LEDs](https://www.nature.com/articles/s41586-026-10723-0)** — score: 0.000
-The article discusses how the use of isomeric molecules to create hydrogen-bonding networks has led to the development of stable blue perovskite LEDs, achieving unprecedented external quantum efficiencies of 22.0%. This advancement represents a significant step forward in the performance of full-color display technologies.
+- **[The rise of computer chips — and the race to control them](https://www.nature.com/articles/d41586-026-02099-y)** — score: 0.000
+The article examines the historical development of computer chips, highlighting their significance in the evolution of computing technologies. It shifts the focus from traditional narratives centered on software and tech entrepreneurs in California to emphasize the critical role of hardware in shaping the computing landscape.
 Journal: *Nature*
 
-- **[A secreted endosymbiont protein essential for colonizing host cells](https://www.nature.com/articles/s41586-026-10711-4)** — score: 0.000
-The study identifies SyeA, a secreted protein from the endosymbiont Buchnera, which plays a critical role in the protein's ability to colonize host cells. This protein, present in the ancestor of Buchnera, is homologous to effector proteins associated with pathogenic bacteria and is necessary for the successful transmission of Buchnera within its host.
+- **[Time to give hydration breaks the red card? What science says about keeping cool](https://www.nature.com/articles/d41586-026-02097-0)** — score: 0.000
+The article discusses the misuse of cooling breaks in sports, highlighting how their improper application is damaging the credibility of heat-health research. It suggests a reevaluation of hydration strategies to ensure athlete safety while maintaining scientific integrity.
 Journal: *Nature*
 
-- **[Replication-stress-induced chromatin loops protect fork stability](https://www.nature.com/articles/s41586-026-10695-1)** — score: 0.000
-The article explores how replication stress prompts the formation of temporary chromatin loops that protect stalled replication forks, which are enriched with new heterochromatin. This mechanism appears to play a crucial role in maintaining the stability of these forks during periods of cellular stress.
+- **[Daily briefing: How cooperation built the world](https://www.nature.com/articles/d41586-026-02116-0)** — score: 0.000
+The article by Rowan Hooper highlights the often underappreciated role of collaboration in nature, contrasting it with the prevailing focus on competition. It also delves into the current state of trust in science, implying a need for reassessment in how we value cooperative behaviors in both natural ecosystems and scientific communities.
 Journal: *Nature*
 
-- **[Identification of cross-stage, cross-species malaria CD8<sup>+</sup> T cell antigens](https://www.nature.com/articles/s41586-026-10730-1)** — score: 0.000
-The study utilizes immunopeptidomics to uncover a range of conserved Plasmodium T cell antigens that are expressed during various stages of the malaria parasite's life cycle across different species. These findings highlight potential avenues for malaria vaccine development, emphasizing the importance of targeting these antigens.
-Journal: *Nature*
+- **[Temporal potential-induced regulation for extending alkaline electrolyzer lifespan under power fluctuations](https://www.cell.com/joule/fulltext/S2542-4351(26)00227-8?rss=yes)** — score: 0.000
+Xia et al. introduce a novel method to enhance the durability of large-scale alkaline water electrolyzers by optimizing power supply fluctuations, all without altering existing catalyst or electrolyzer designs. This innovative approach effectively extends the lifespan of electrolyzers, offering a scalable solution that connects electrical engineering with electrochemistry and supports the integration of renewable energy into hydrogen production systems.
+Journal: *Joule*
 
-- **[Targeted enzyme discovery using metal-coordination mining](https://www.nature.com/articles/s41586-026-10716-z)** — score: 0.000
-The article presents a novel methodology for exploring protein structure databases, focusing on the unique characteristics of metal-binding active sites in enzymes. This approach has successfully led to the identification of previously unknown families of radical halogenases, expanding the understanding of enzyme diversity and function.
-Journal: *Nature*
+- **[Electrical double-layer dynamics regulation for maximized electrostatic energy harvesting of liquid-solid triboelectric nanogenerators](https://www.cell.com/joule/fulltext/S2542-4351(26)00250-3?rss=yes)** — score: 0.000
+The article discusses advancements in liquid-solid triboelectric nanogenerators, emphasizing a switch-enhanced generator that boosts energy output and adaptability by addressing key limitations in energy harvesting. This innovation facilitates efficient electricity generation from water-solid friction across various applications, ultimately serving as a sustainable power source for electronic devices.
+Journal: *Joule*
 
-- **[Directly probing the carrier transfer length in 2D-material transistors](https://www.nature.com/articles/s41586-026-10707-0)** — score: 0.000
-The article investigates the carrier transfer length in bismuth-contacted monolayer MoS2 transistors using cross-sectional scanning tunneling microscopy, revealing a transfer length of just 2 nm. This finding establishes the limitations for metal-contact scaling in future sub-10 nm 2D electronic devices, highlighting challenges in enhancing performance at such small scales.
-Journal: *Nature*
-
-- **[Restoring cortical disinhibition improves Huntington’s disease phenotypes](https://www.nature.com/articles/s41586-026-10671-9)** — score: 0.000
-Researchers demonstrate that enhancing cortical disinhibition in a mouse model of Huntington's disease can effectively restore neuronal network activity and alleviate associated movement impairments, highlighting a potential therapeutic direction for the disorder.
-Journal: *Nature*
-
-- **[Tin perovskite transistors stabilized through volatile coordination](https://www.nature.com/articles/s41586-026-10714-1)** — score: 0.000
-The article discusses a novel volatile-assisted coordination method that enhances the stability of tin perovskite semiconductors by effectively managing surface defects and self-doping. This breakthrough allows for the development of transistors that can operate reliably for a month at elevated temperatures of 100°C.
-Journal: *Nature*
-
-- **[Hadean bridgmanite in the source of a present-day ocean island](https://www.nature.com/articles/s41586-026-10719-w)** — score: 0.000
-The study presents high-precision neodymium isotope analyses of lavas from the Fani Maoré volcano in the Comoros, revealing the presence of Hadean bridgmanite and highlighting geological heterogeneities that originated in Earth's formative years. This finding provides insights into the ancient processes that have shaped the Earth's mantle and current volcanic activity.
-Journal: *Nature*
-
-- **[Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC](https://www.nature.com/articles/s41586-026-10686-2)** — score: 0.000
-The study reveals that liver steatosis enhances the development of replacement liver metastases in colorectal cancer (CRC) by stabilizing the MYC protein via acetylation. This process subsequently boosts proline synthesis and collagen production, suggesting that steatosis plays a critical role in determining the heterogeneity and prognosis of liver metastases in CRC patients.
-Journal: *Nature*
-
-- **[Connecting single-cell transcriptomes to projectomes in the mouse visual cortex](https://www.nature.com/articles/s41586-026-10424-8)** — score: 0.000
-The study investigates the relationship between single-cell transcriptomes and the projection patterns of excitatory neurons in the mouse visual cortex. By integrating cell-type definitions, gene expression, and spatial localization, the research reveals how these factors together predict the long-range targets of neuronal connections, thereby linking molecular characteristics to their functional properties within the neural circuit.
-Journal: *Nature*
-
-- **[Dual tumour–myeloid targeting of glioblastoma with GPNMB CAR-T cells](https://www.nature.com/articles/s41586-026-10641-1)** — score: 0.000
-The study identifies GPNMB as a common antigen in both glioblastoma tumors and their microenvironment through comprehensive multi-omic profiling. Furthermore, GPNMB-targeted CAR-T cells exhibit significant therapeutic effects in vitro and in animal models, suggesting a promising dual targeting approach for glioblastoma treatment.
-Journal: *Nature*
-
-- **[Heat-triggered phospholipid flipping stabilizes plasma membrane fluidity](https://www.nature.com/articles/s41586-026-10726-x)** — score: 0.000
-The study reveals that in rice, the P4-ATPase complex OsALA5–OsALIS2 plays a crucial role in maintaining plasma membrane fluidity under high temperature by rapidly flipping saturated phosphatidylcholines to the cytosolic side, thereby enhancing the membrane's adaptability to thermal stress.
-Journal: *Nature*
-
-- **[TROP2 targeting reveals therapy-driven cell state dynamics in colorectal cancer](https://www.nature.com/articles/s41586-026-10705-2)** — score: 0.000
-The study investigates the role of TROP2 in colorectal cancer, highlighting its presence in aggressive tumor cells that exhibit resistance to therapy. By targeting TROP2 with antibody-drug conjugates alongside chemotherapy, researchers found improved treatment outcomes, suggesting a modulation of cellular plasticity that helps combat resistance in cancer treatment.
-Journal: *Nature*
-
-- **[Aerosols and hydrocarbons in the atmosphere of a white dwarf planet](https://www.nature.com/articles/s41586-026-10514-7)** — score: 0.000
-The study uses transmission spectroscopy from the James Webb Space Telescope to analyze the atmosphere of the exoplanet WD 1856 b, revealing significant quantities of hydrocarbons and aerosols. These findings offer valuable information regarding the planet's mass and thermal evolution in the context of its orbit around a white dwarf.
-Journal: *Nature*
-
-- **[Moderate volcanic eruptions and extreme wildfires humidify the stratosphere](https://www.nature.com/articles/s41586-026-10731-0)** — score: 0.000
-Research indicates that moderate volcanic eruptions and extreme wildfires have contributed to a significant rise in stratospheric water vapor since 2005, highlighting their role as a previously unrecognized factor influencing stratospheric moisture variability through aerosol perturbations.
-Journal: *Nature*
-
-- **[<i>N</i><sup>4</sup>-Acetylcytidine enhances synthetic mRNA translation yield and fidelity](https://www.nature.com/articles/s41586-026-10729-8)** — score: 0.000
-The study investigates the impact of RNA modifications on translation efficiency and accuracy, revealing that N4-acetylcytidine significantly enhances the translation yield and fidelity of synthetic mRNAs compared to the widely used N1-methylpseudouridine. This finding suggests potential improvements in mRNA design for therapeutic applications.
-Journal: *Nature*
-
-- **[Food web complexity underlies biodiversity effects on ecosystem functioning](https://www.nature.com/articles/s41586-026-10710-5)** — score: 0.000
-The study examines how food web complexity influences the effects of biodiversity on ecosystem functioning across various environments, including marine and freshwater ecosystems as well as soil. It reveals that intricate interactions within food webs are crucial for understanding the relationship between species diversity and the overall performance of ecosystems.
-Journal: *Nature*
-
-- **[Competing programs shape cortical sensorimotor–association axis development](https://www.nature.com/articles/s41586-026-10699-x)** — score: 0.000
-The study presents evidence from multiple species that supports a model for cortical development where the formation of sensorimotor-to-association pathways is influenced by competing processes of induction and exclusion. These processes are driven by two distinct programs, each characterized by specific gene expression patterns, shaping the cortical sensorimotor-association axis.
-Journal: *Nature*
-
-- **[Correcting congenital myasthenia-associated acetylcholine receptor defects](https://www.nature.com/articles/s41586-026-10706-1)** — score: 0.000
-The study employs cryogenic electron microscopy, chemical biology, and electrophysiology to analyze congenital myasthenic syndrome-associated mutant acetylcholine receptors, revealing structural and functional implications. This research aims to enhance understanding of disease mechanisms and inform the development of targeted precision therapies for affected patients.
-Journal: *Nature*
-
-- **[<i>Urokodia</i> sheds light on the origin of chelicerae and book gills of Chelicerata](https://www.nature.com/articles/s41586-026-10713-2)** — score: 0.000
-The study on *Urokodia aequalis*, using microtomography and phylogenetic methods, offers new insights into the evolutionary development of key anatomical features such as chelicerae and book gills in chelicerates, based on findings from the Chengjiang biota in China.
-Journal: *Nature*
+- **[Engineered living materials need engineered EU regulation](https://www.nature.com/articles/s41563-026-02651-1)** — score: 0.000
+The article by Kai Purnhagen and Justus Wesseler argues for the need to reform EU regulations to facilitate the market entry of engineered living materials, highlighting current legal barriers that hinder their development and adoption.
+Journal: *Nature Materials*
