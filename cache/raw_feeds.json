@@ -1678,5 +1678,124 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70767?af=R",
     "content": "A chemically programmable dual\u2010functional graphene oxide membrane is developed for selective tritium removal from water under ambient conditions. Synergistic interfacial chemistry and nanoconfined transport enable over 21% single\u2010pass removal with high permeability. Cooperative roles of carboxyl and sulfonic domains reveal a new mechanism for efficient, low\u2010energy isotope separation in aqueous systems.\n\n\n\n\n\n\n\n\nABSTRACT\nTritium separation from aqueous effluents is notoriously difficult due to the nearly identical physicochemical properties of tritiated and light water. Herein, we present a chemically programmable, dual\u2010functional graphene oxide (GO) membrane for highly selective tritium removal under ambient conditions. By interfacially co\u2010assembling carboxyl\u2010 (\u2500COOH) and sulfonic acid\u2010functionalized (\u2500SO3H) GO, a mixed membrane (MIX) was constructed to synergistically regulate interfacial chemistry and nanoconfined transport. The MIX membrane delivers a single\u2010pass tritium removal efficiency exceeding 21% and a separation factor >1.2$>1.2$, while maintaining an exceptional water permeability (>13Lm\u22122h\u22121bar\u22121$>13\\nobreakspace \\text{L m}^{-2}\\text{ h}^{-1}\\text{ bar}^{-1}$), significantly outperforming single\u2010functionalized counterparts. Mechanistic studies reveal that \u2500COOH domains drive the hydration\u2010assisted interfacial enrichment of tritiated water (HTO), whereas \u2500SO3H sites provide strong adsorption stabilization to facilitate reversible isotope exchange. Furthermore, operation\u2010induced interlayer expansion maximizes active site accessibility. This work demonstrates a cooperative strategy integrating interfacial chemistry and nanoconfinement engineering in 2D membranes, offering a low\u2010energy, high\u2010throughput platform for the remediation of tritiated radioactive\u00a0wastewater.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "936148f89c13f957",
+    "title": "High-rate electro-photochemical alkane conversion to isoalcohols under ambient conditions",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00270-9?rss=yes",
+    "content": "Industrial isopropanol synthesis currently relies on energy- and carbon-intensive high-temperature, high-pressure processes. Here, the authors present an ambient-condition cascade electro-photochemical system that employs a bromide mediator to efficiently convert propane into high-value isopropanol, offering a sustainable pathway toward decarbonizing chemical manufacturing.",
+    "journal": "Joule"
+  },
+  {
+    "id": "76443ac09b5da333",
+    "title": "Challenges and trends in automotive battery recycling",
+    "link": "https://www.nature.com/articles/s41560-026-02092-9",
+    "content": "<p>Nature Energy, Published online: 17 July 2026; <a href=\"https://www.nature.com/articles/s41560-026-02092-9\">doi:10.1038/s41560-026-02092-9</a></p>The rapid growth of electric vehicles is creating a surge of end-of-life batteries. This Review evaluates current recycling methods, their suitability for emerging chemistries and the practical challenges for scaling a circular battery industry.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "2bee2b8fa6f0fbfe",
+    "title": "Vertically Aligned Interlayer-Nanoconfined Channels for Fast Lithium-Ion Transport in Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005271?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 July 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Qiannan Zhang, Xiaokang Gu, Zhijie Zhang, Bixuan Li, Andrew Xiang, Weiyang Yang, Qian Chen, Yuying Jiao, Zhuohan Ma, Qingwei Zhai, Moxuan Wang, Zhou Zhou, Tong Liu, Qianqian He, Zhikun Zhao, Pengbo Zhai, Yongji Gong</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b0594e8b52cb3b50",
+    "title": "Electronic potential-well driven CO-hydrogenation boxes enable 100% selective CO<sub>2</sub>-to-CH<sub>4</sub> photoreduction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005082?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Maoxiang Li, Yachao Xu, Shijie Liu, Zihan Ma, Zhaojun Sun, Jianwei Zhang, Ying Wang, Mingyi Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b88674c315939487",
+    "title": "Steering proton-coupled electron transfer via phosphorus-modulated iron atoms for efficient CO<sub>2</sub>RR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005239?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Rui Li, Xupeng Qin, Yang Liu, Shen Cheng, Haixin Sun, Qizheng An, Youcai Che, Jingqiu Shang, Xin Chen, Shuowen Bo, Junfeng Yang, Qinghua Liu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1caabc0099379f87",
+    "title": "Modified fiber-coating composite tribovoltaic sensor for self-powered intelligent monitoring in spherical plain bearings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526004969?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Hongjie Zhang, Likun Gong, Zhi Zhang, Xiantao Zhang, Shuai Gao, Song Wang, Chi Zhang, Qinkai Han, Shaoze Yan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "08cc4b1c0379d692",
+    "title": "Hybrid pyroelectric-photovoltaic devices for high-efficiency underwater optoelectronics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005161?dgcid=rss_sd_all",
+    "content": "<p>Publication date: September 2026</p><p><b>Source:</b> Nano Energy, Volume 156</p><p>Author(s): Vivek Mohan More, Malkeshkumar Patel, Seunghee Cho, Junghyeon Lee, Yebean Cho, Joondong Kim</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "e7724d53ecf9d4f2",
+    "title": "Intelligent triboelectric sensor for rapid detecting of oil mixed in water",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005240?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hongwei Gao, Guangxiang Gu, Qiheng Liu, Yuhan Yang, Jinyang Zhang, Zhong Lin Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "891b4ca795191dd1",
+    "title": "Zero-Valent Tin Nanoparticles for Reliability in Sn-Containing Perovskites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005264?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Mingkui Wang, Tianyu Sun, Haixuan Yu, Lijuan Fu, Dongyang Zhang, Samrana Kazim, Shahzada Ahmad, Yan Shen</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "00c4aac5e4d1bc1c",
+    "title": "3D Omnidirectional and Distance-Enhanced Triboelectric Acoustic Sensor",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005252?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Wenyan Qiao, Linglin Zhou, Xianjie Pu, Zhiwei Zhang, Minghao Jiang, Xinyuan Li, Zhihao Zhao, Guibin Bian, Jie Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a2d024efb4a3162d",
+    "title": "TENG-Based Self-Powered Knee Joint Motion Decoding and AI-Assisted Evaluation System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005045?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hengzhi Guo, Bing Liu, Zihao Gao, Zihang Cheng, Min Zheng, Jiaxiang Liang, Chunting Sun, Jianjun Luo, Yupeng Mao, Hua Zhu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "f8cdcbb1d810adb3",
+    "title": "Hydrogel Iontronics for Moisture-Driven Electricity Generation through Coupled Water\u2013Ion Transport",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600515X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Kaliyannan Manojkumar, Bin Cheng, Weicheng Chen, Swee Ching Tan, Sai Kishore Ravi, Venkateswaran Vivekananthan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "08eb4c85422b9db3",
+    "title": "Artificial intelligence assisted self-powered water quality monitoring and early warning using a triboelectric-electromagnetic hybrid generator",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005185?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yungao Yin, Bo Li, Yang Yu, Jianlong Wang, Zehui Mao, Siyang He, Lu Dong, Hengyu Li, Bangcheng Zhang, Tinghai Cheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "0c53a665d1267ed1",
+    "title": "Bioinspired Ion-Organic Gel for Adaptive Thermal Management, Temperature Monitoring, and Droplet Energy Harvester",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005197?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Linbin Li, Xuechuan Wang, Long Xie, Wei Wang, Long Xing, Yi Zhou, Yifan Fei, Wenlong Zhang, Pedram Fatehi, Xiangyu You, Hui Jie Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9870ca56e60233c3",
+    "title": "Multifunctional and Self-Healing MXene Bio Aerogels for Sustainable Self-Powered Biomechanical Sensing Platforms across Wide Temperature Ranges",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005215?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 13 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Siyan Li, Qian Song, Yangyang Liu, Yong Lu, Xiaokang Ding, Ting Liu, Jicai Zhang, Fu-Jian Xu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "2ae8d6c29b25c57a",
+    "title": "Bifunctional Silicone@NENU-5 Nanocomposite-based Wearable Serpi-gami Triboelectric Sensor for Human-Computer Interaction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005173?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 12 July 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): M. Robiul Islam, Md Shofiul Alam, Safi Ahmed, Zahidul Islam, Md Selim Reza, Moon Seong Jo, Jae Yeong Park</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ab04c68fae1c9f8e",
+    "title": "Tessellation\u2010Enabled Hexagonal Hollow\u2010Shell Cavity Arrays for Broadband Microwave Absorption via Acoustic\u2010to\u2010Electromagnetic Cavity Mapping",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70862?af=R",
+    "content": "Acoustic\u2010to\u2010electromagnetic cavity mapping is used to guide the design of tessellated hexagonal hollow\u2010shell arrays for broadband microwave absorption. Dense cavity coupling prolongs propagation paths, enhances confinement, and improves absorption accessibility, enabling angle\u2010robust performance with RL below \u221210 dB across 2\u201318 GHz.\n\n\n\n\n\n\n\n\nABSTRACT\nBroadband microwave absorption in lightweight polymer composites is commonly constrained by the coupled requirements of attenuation capability, impedance accessibility, and propagation\u2010path engineering. Here, we propose a dense\u2010stacked polygonal hollow\u2010shell cavity absorber and establish an acoustic\u2010to\u2010electromagnetic cavity mapping framework to guide its design. Rather than directly transplanting acoustic resonators into electromagnetics, the proposed framework is built on the transferable wave\u2010governing ingredients shared by the two systems, namely impedance discontinuity, phase accumulation, effective propagation length, and cavity\u2010assisted confinement. Based on this framework, tessellation is reinterpreted not merely as a packing condition but as an electromagnetic coupling mechanism that suppresses lateral leakage and strengthens inter\u2010unit confinement. Carbon\u2010black\u2010filled PLA/TPU composites are first screened as cavity\u2010compatible lossy media, and CB5 is identified as the optimal formulation because it provides the best balance between attenuation and impedance matching. Structural comparison among triangular, quadrilateral, and hexagonal tessellable cavities further shows that the hexagonal topology offers the most favorable combination of coupling aperture, path diversity, and dense\u2010packing\u2010induced confinement. The optimized hexagonal hollow\u2010shell array achieves superior broadband absorption, maintains effective performance under oblique incidence, and exhibits reduced radar scattering. This work advances structural absorber design from empirical geometry optimization toward a physically interpretable topology\u2010driven route.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
