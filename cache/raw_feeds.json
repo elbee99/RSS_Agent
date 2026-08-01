@@ -1223,5 +1223,117 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70911?af=R",
     "content": "We report two isomeric multiple resonance thermally activated delayed fluorescence emitters based on 5,9\u2010dioxa\u201013b\u2010boranaphtho[3,2,1\u2010de]anthracene and carbazole frameworks by strategically introducing phenyl groups adjacent to the carbazole units to induce molecular twisting, thereby increasing the dihedral angles and enhancing the TADF properties.\n\n\n\n\n\n\n\n\nABSTRACT\nAchieving violet emission with both high efficiency and excellent color purity remains a major challenge for organic light\u2010emitting diodes (OLEDs). In this study, we report two isomeric multiple resonance thermally activated delayed fluorescence (MR\u2010TADF) emitters based on 5,9\u2010dioxa\u201013b\u2010boranaphtho[3,2,1\u2010de]anthracene and carbazole frameworks. Phenyl groups were strategically introduced adjacent to the carbazole units to induce molecular twisting, thereby increasing the dihedral angles and enhancing the TADF properties. Among them, 9,9'\u2010(4,10\u2010diphenyl\u2010DOBNA\u20103,11\u2010diyl)bis(9H\u2010carbazole) (BO\u20102CzPh\u20102) exhibited a narrowband violet emission at 408\u00a0nm with a full width at half maximum of 27\u00a0nm in toluene. In a 10 wt% doped film using bis[2\u2010(diphenylphosphino)phenyl]ether oxide as the host, the emitter also has a near unity photoluminescence quantum yield of 99% and a high degree of horizontal emitting dipole orientation of 88.8%. The OLEDs with BO\u20102CzPh\u20102 showed violet emission at 432\u00a0nm, an exceptionally high maximum external quantum efficiency of 25.6%, and CIE coordinates of (0.156, 0.035), showing minimal spectral shift at high doping concentrations. These results highlight the effectiveness of simple molecular twisting in improving both TADF performance and outcoupling efficiency, providing a promising pathway for efficient violet OLED applications.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ba2d2921e662607b",
+    "title": "Simultaneous Electronic and Crystallographic Modulation of Cs3Bi2Br9 by Single\u2010Element Sn Substitution for Enhanced CO2 Photoreduction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71365?af=R",
+    "content": "Aliovalent B\u2010site substitution with Sn2+ in lead\u2010free perovskite, Cs3Bi2Br9, is employed to simultaneously induce lattice contraction and bromine vacancy through charge imbalance and ionic radius mismatch. The resulting structural distortion modulates the electronic structure and improves charge separation, leading to enhanced visible\u2010light\u2010driven CO2\u2010to\u2010CH4 conversion. This work highlights rational dopant selection as an effective strategy for designing high\u2010performance, lead\u2010free perovskite photocatalysts.\n\n\n\n\n\n\n\n\nABSTRACT\nThe photocatalytic conversion of CO2 into value\u2010added fuels offers a sustainable route to mitigate carbon emissions while storing solar energy. Lead\u2010free halide perovskites have recently emerged as promising photocatalysts due to their highly tunable electronic structures and strong light\u2010harvesting capabilities. However, their performance is often limited by inefficient charge separation and transfer. Herein, we demonstrate that aliovalent Sn2+ substitution into layered Cs3Bi2Br9 enables simultaneous modulation of the crystallographic and electronic structure. Combined experimental characterizations and simulation studies reveal that Sn2+ substitution induces lattice contraction and promotes bromine vacancy formation as a charge\u2010compensation mechanism. These concurrent structural changes drive electronic redistribution and introduce shallow trap states, thereby improving charge carrier dynamics. As a result of these synergistic effects, the optimized Sn2+\u2010doped Cs3Bi2Br9 exhibits a 3.4\u2010fold enhancement in CH4 yield compared to the pristine material, achieving a yield of 8.91 \u00b5mol\u00b7g\u22121 under continuous visible\u2010light irradiation for 4\u00a0h. This work demonstrates that aliovalent B\u2010site substitution is an effective strategy for engineering lattice distortion and vacancy chemistry to enhance charge utilization and photocatalytic selectivity in lead\u2010free halide perovskites.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8599e6cb235172da",
+    "title": "From wasteland to wonderland: Releasing resupply potential from urban minerals of electric vehicle batteries and motors in China",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00286-2?rss=yes",
+    "content": "Xiong et al. show that China\u2019s end-of-life electric vehicles can become a technology-dependent urban mine for batteries and motors. Their model reveals high resupply potential for lithium, cobalt, neodymium, and dysprosium but persistent gaps for nickel and manganese, highlighting the need for collection, closed-loop recycling, and rare earth element recovery policies.",
+    "journal": "Joule"
+  },
+  {
+    "id": "71489e6311903bc9",
+    "title": "Efficient battery electrolyte design for electric aircraft driven by physics-augmented AI",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00285-0?rss=yes",
+    "content": "Traditional material design approaches struggle with the vast compositional space of electrolytes, leading to high development costs and hindering the practical deployment of electric aircraft. A physics-augmented AI design framework with accurate electrolyte property modeling is proposed to simultaneously improve the efficiency, reliability, and interpretability of high-dimensional electrolyte design, significantly reducing design resources and uncovering key mechanistic insights from statistical data to advance more rigorous electrolyte design principles for demanding eVTOL operations.",
+    "journal": "Joule"
+  },
+  {
+    "id": "ea3ad21b50a433b5",
+    "title": "Getting the balance right\u2014Considerations of lithium enrichment for the fusion fuel cycle with a focus on nuclear non-proliferation",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00280-1?rss=yes",
+    "content": "Future fusion reactors may rely on lithium-6 to breed tritium, but the very high enrichments proposed in some blanket concepts create a material of heightened proliferation concern while also imposing steep economic and engineering penalties. This paper argues that fusion scale-up should be paired with internationally recognized enrichment limits and safeguards and with breeder designs that avoid the highest-risk lithium-6 levels so deployment can proceed globally with stronger oversight, clearer material accountancy, improved international supply-chain monitoring, and lower proliferation risk.",
+    "journal": "Joule"
+  },
+  {
+    "id": "523464815ede598a",
+    "title": "An open access solid-state battery cell database to advance visualization, search, analysis, and AI data extraction",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00279-5?rss=yes",
+    "content": "There are thousands of solid-state battery device publications per year, but the data in these publications are highly varied in type, format, consistency, and accessibility, greatly limiting their use by many stakeholders involved in battery device research and development. This paper presents a solid-state battery device database that includes all the key data types required to specify a battery device and describes the data practices needed to move battery device research in the direction of the FAIR data principles.",
+    "journal": "Joule"
+  },
+  {
+    "id": "b9e57282a16fcd3b",
+    "title": "All-small-molecule solar cells with over 19% efficiency and superior stability via a dual-asymmetric-acceptor strategy",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00276-X?rss=yes",
+    "content": "By integrating a doubly asymmetric acceptor pair with layer-by-layer deposition, a favorable interpenetrating fibrillar network and optimized vertical phase distribution are achieved for all-small-molecule organic photovoltaics. As a result, a power conversion efficiency of 19.15% (certified 19.0%) is realized alongside exceptional thermal stability, photostability, and outdoor operational stability. This study challenges the conventional perception of intrinsic instability in small-molecule systems and provides a general pathway toward efficient and durable organic solar cells.",
+    "journal": "Joule"
+  },
+  {
+    "id": "5152b52a14331f92",
+    "title": "Buried-interface crystallization limits the transferability of high-efficiency perovskite precursor compositions",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00275-8?rss=yes",
+    "content": "Perovskite precursor formulations that deliver high efficiencies in conventional n-i-p solar cells often fail to reproduce comparable performance in inverted p-i-n architectures due to the fundamentally different crystallization environment imposed by the underlying layer. Here, we reveal that the underlayer-dependent retention of MACl-derived intermediate phases at the buried interface is responsible for this performance discrepancy. Substituting excess chloride originating from volatile MACl-derived species with PbCl2-derived chloride modulates interfacial nucleation and growth, thereby enabling highly efficient perovskite solar cells.",
+    "journal": "Joule"
+  },
+  {
+    "id": "1d26556620d70e20",
+    "title": "Investigation of performance self-gain in inverted organic solar cells enabling highly reproducible devices with 20.51% efficiency",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00274-6?rss=yes",
+    "content": "Inverted organic solar cells are known for excellent stability but often suffer from poor reproducibility and delayed performance evolution after fabrication. Wu et al. identify a performance self-gain phenomenon arising from slow morphological relaxation within the active layer and develop an acceptor-rich polymeric sublayer to suppress this behavior. The strategy delivers highly reproducible devices with record efficiency and exceptional long-term stability.",
+    "journal": "Joule"
+  },
+  {
+    "id": "50d070f016c0864f",
+    "title": "Oleic acid at the heart of olive oil",
+    "link": "https://www.nature.com/articles/s41557-026-02200-y",
+    "content": "<p>Nature Chemistry, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41557-026-02200-y\">doi:10.1038/s41557-026-02200-y</a></p>Patricia O\u2019Hara discusses how the molecular structure of oleic acid shapes olive oil\u2019s physical properties, culinary behaviour and health benefits, linking ancient symbolism to modern chemistry.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "2120f0d17c43d615",
+    "title": "How webby is the wood-wide web?",
+    "link": "https://www.nature.com/articles/s41557-026-02220-8",
+    "content": "<p>Nature Chemistry, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41557-026-02220-8\">doi:10.1038/s41557-026-02220-8</a></p>Is there a subterranean communication network between trees and fungus or has discussion in popular culture outpaced the evidence? Bruce Gibb discusses the chemistry of plant\u2013fungus interactions, revealing a complex world that is far from well understood.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "bbd376ec86d4189b",
+    "title": "Innovation without inventors",
+    "link": "https://www.nature.com/articles/s41557-026-02215-5",
+    "content": "<p>Nature Chemistry, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41557-026-02215-5\">doi:10.1038/s41557-026-02215-5</a></p>Innovation without inventors",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "8ba5791063266558",
+    "title": "Mechanism guided design of Te modified carbon hosts via p\u2013band center modulation for ultra stable lithium\u2013sulfur batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005520?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 90</p><p>Author(s): Dezhi Yan, Liangfan Xu, Shichao Zhang, Weining Song, Fangchao Han, Shuai Yin, Qiang Lu, Qianfan Zhang, Hu Xu, Yalan Xing, Xingjiang Liu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2696f6be3de9d0f6",
+    "title": "Unlocking high power in membraneless Zn\u2013air batteries: A paradigm shift via wireless bipolar electrochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005507?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 90</p><p>Author(s): M. Mosqueda, L.A. Bengoa, S. Go\u00f1i, N. Casa\u00f1-Pastor</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "fac57ce684d6826d",
+    "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005604?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Wei Zhou, Zelin Li, Dechang Liang, Youxin Guo, Zhenyu Zhou, Chaoguang Ye, Renfeng Dong, Jiewei Chen, Xiao-Fang Jiang, Lakshminarayana Polavarapu, Guofu Zhou, Xiaowen Hu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "409c76d8c6cb0b6a",
+    "title": "Artificial electrical anisotropy in ferroelectric-programmed synaptic transistors for dual\u2011axis fusion and multitask visual perception",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005598?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Xiang Zhang, Te Xu, Jizhou Zhang, Di Guo, Aifang Yu, Mengshuang Chi, Junyi Zhai</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "05e241d5721c2944",
+    "title": "A remotely activated magneto-piezoelectric bioactive hydrogel for vascularized bone regeneration <em>via</em> microscale magneto-mechano-electric transduction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005495?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Qiuyi Zhu, Ziteng Zhao, Dengjie Yu, Chenyu Mao, Yuhe Feng, Chengjin Luan, Chenran Jia, Chunli Zhang, Hui Liu, Jiayi Wang, Lei Shang, Qihong Li, Yafeng Yang, Yantao Zhao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
