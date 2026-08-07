@@ -642,5 +642,138 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70947?af=R",
     "content": "This Perspective outlines a framework for transforming protein corona analysis from method\u2010dependent compositional profiling into predictive nano\u2010bio interface design. It emphasizes how faithful corona isolation, multidimensional decoding of protein identity, binding behavior, interfacial organization, and functional accessibility, together with biologically relevant models, can clarify corona function. Standardized datasets and AI\u2010enabled modeling are further discussed as key enablers for rational nanomedicine design.\n\n\n\n\n\n\n\n\nABSTRACT\nNanoparticles entering biological fluids are rapidly coated by proteins and other biomolecules, converting their synthetic surfaces into biologically active nano\u2010bio interfaces. These coronas regulate colloidal stability, immune recognition, cellular uptake, biodistribution, pharmacokinetics, cargo delivery, and toxicity. Yet a protein list obtained by mass spectrometry captures only part of this interface. Corona identity and function are also shaped by protein organization, binding stability, exchange dynamics, conformational changes, and molecular accessibility. Here, we discuss recent progress in protein corona isolation and analysis from a question\u2010oriented analytical perspective, with emphasis on how centrifugation, magnetic recovery, affinity\u2010 or chemistry\u2010enabled capture, chromatography, filtration, and field\u2010flow fractionation (FFF) influence the fidelity, integrity, and comparability of recovered coronas. We then examine how proteomic profiling can be integrated with binding measurements, interfacial structural analysis and functional validation to distinguish descriptive corona signatures from biologically meaningful mechanisms. We further consider how biofluid composition, disease state, tissue interfaces and cellular environments remodel corona identity, presentation, and bioactivity. Finally, we argue that standardized reporting, computational modeling, and AI\u2010enabled approaches are essential for converting protein corona datasets into reproducible and predictive knowledge that can guide the design of drug delivery systems and precision nanomedicines.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ffda499a6cb70bc1",
+    "title": "Direct Optical Visualization of Kinetic Homogenization in Al\u2011Doped LiCoO2 Cathodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71404?af=R",
+    "content": "Optical scattering microscopy visualizes phase transitions in single LiCoO2 particles during high\u2010voltage cycling. Pristine LCO develops asymmetric phase boundaries and interlayer asynchrony, indicating kinetic degradation. Al\u2010doped LCO suppresses phase separation and intercalation waves, exhibiting homogeneous solid\u2010solution behavior. Thermodynamic smoothing of the free\u2010energy landscape reduces the driving force for phase separation, promoting uniform lithium distribution and enhanced cycling stability.\n\n\n\n\n\n\n\n\nABSTRACT\nPhase\u2010transformation dynamics govern the performance and degradation of layered oxide cathodes but remain difficult to observe at the single\u2010particle level under operating conditions. Here, we introduce optical scattering microscopy for real\u2010time visualization of phase\u2010transition pathways in individual LiCoO2 (LCO) particles. By decoding optical signatures of the H1, H2, and H1\u20133 phases, we track phase\u2010boundary evolution during battery operation. Undoped LCO shows progressive kinetic destabilization under high\u2010voltage cycling: the H1\u2192H2 transition evolves from symmetric shrinking\u2010core propagation to asymmetric motion, and interlayer kinetic asynchrony intensifies during the H3\u2192H1\u20133 transition. In contrast, Al\u2010doped LCO exhibits highly homogeneous and reversible lithium (de)intercalation, suppressing phase separation and interlayer heterogeneity. Combined with in situ XRD, thermodynamic analysis, and phase\u2010field simulations, we demonstrate that Al doping smooths the free\u2010energy landscape and reduces the driving force for phase separation, shifting the reaction from abrupt two\u2010phase to solid\u2010solution\u2010like behavior. This kinetic homogenization promotes uniform structural evolution, alleviates stress accumulation, and enhances cycling stability. Our work resolves a long\u2010standing mechanistic question in high\u2010voltage LCO chemistry and establishes a generalizable optical methodology for probing phase transformations in energy materials.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d2da8f5d2bf3a0a5",
+    "title": "All\u2010Polymer Semitransparent Organic Solar Cells With Excellent Performance and Enhanced Stability Using Narrow\u2010Bandgap Terpolymer Donors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71392?af=R",
+    "content": "Two novel narrow\u2010bandgap polymer donors are designed and synthesized by incorporating a benzodithiophenedione unit into the PCE10 backbone. The PS2\u2010based all\u2010polymer solar cells deliver a superior efficiency of 15.10%, and its semitransparent devices achieve a record\u2010breaking light utilization efficiency of 4.19% for all\u2010polymer semitransparent organic solar cells.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010polymer semitransparent organic solar cells (ST\u2010OSCs), employing narrow\u2010bandgap (NBG) polymer donor and NBG polymer acceptor for wavelength\u2010selective light utilization, hold great potential for addressing the trade\u2010off between efficient light absorption and light transmittance, as well as the stability of devices. Nevertheless, its development has been hindered by the scarcity of high\u2010performance NBG polymer donors. In this work, through strategic incorporation of a benzodithiophenedione unit into the PCE10 backbone, two NBG terpolymer donors, PS1 and PS2, with deeper energy levels are developed. Importantly, PS2 demonstrates appropriate molecular stacking and crystallinity, and favorable miscibility with the acceptor PY\u2010IT. Benefiting from the reduced voltage loss due to significantly suppressed non\u2010radiative recombination loss and the optimal morphology, the opaque PS2:PY\u2010IT\u2010based all\u2010polymer solar cell demonstrates a power conversion efficiency (PCE) of 15.10%. Moreover, the PS2:PY\u2010IT\u2010based ST\u2010OSC achieves an excellent light utilization efficiency (LUE) of 4.19% with PCE of 10.26% and average visible transmittance of 40.84%, which is the highest LUE among all\u2010polymer ST\u2010OSCs. This device demonstrates enhanced stability under storage conditions, thermal stress, and light soaking. These results provide guidelines for designing novel NBG polymers and demonstrate that the design of NBG polymers holds immense promise for advancing high\u2010performance ST\u2010OSCs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f9dc00f10ff673d7",
+    "title": "Zinc Reverse Diffusion\u2010Induced Uniform Lithium Deposition in Composite Metal Anodes for High\u2010Performance Lithium Metal Pouch Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71393?af=R",
+    "content": "An in situ metallurgical strategy constructs a bulk\u2010homogeneous Li/LiZn\u2013Li2O composite anode, where continuous LiZn networks support transport and dispersed Li2O anchors guide Li nucleation. Zn redistribution replenishes lithiophilic sites at the deposition front, enabling dense lithium growth, long cycling stability, and high\u2010energy NCM811 pouch cells.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium\u2010metal batteries are promising for overcoming the energy\u2010density limitations of conventional lithium\u2010ion batteries, but dendrite growth and interfacial instability hinder their practical application. Traditional static control strategies struggle to maintain lithiophilicity at the advancing deposition front during high\u2010areal\u2010capacity plating. Here, we construct a bulk\u2010homogeneous Li/LiZn\u2013Li2O composite anode using a scalable in situ metallurgical strategy, in which one\u2010dimensional LiZn forms a continuous transport/support network, while nanoscale Li2O provides dispersed polar lithiophilic sites. Theoretical calculations show that the LiZn surface lowers the Li surface\u2010migration barrier to 0.25\u00a0eV, whereas Li2O thermodynamically anchors Li species and promotes uniform nucleation. Moreover, Zn species migrate toward the growth front during deposition, continuously replenishing lithiophilic sites and enabling dynamic interfacial regulation. The Li/LiZn\u2013Li2O composite anode enables near\u2010theoretical dense Li deposition, with a thickness expansion rate of only 5.09\u00a0\u00b5m (mAh cm\u22122)\u22121, and sustains stable cycling for over 1210\u00a0h at 6\u00a0mA cm\u22122 and 6 mAh cm\u22122. It can be roll\u2010processed into an ultrathin 20\u00a0\u00b5m foil and delivers 476.6\u00a0Wh kg\u22121 in a 3 Ah\u2010level pouch cell with a high\u2010loading NCM811 cathode. This work offers a route to high\u2010performance Li\u2010metal anodes with dynamically adaptive interfaces.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "82b99116178ef57b",
+    "title": "Bionic Topology Reconstruction Drives Confined Competitive Ligand-Exchange Hopping Dynamics in Hydrogel Electrolytes to Achieve High-Performance Structural Zn-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005787?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Junhang Xu, Zhongyuan Shi, Yifei Liu, Qigang Han, Shuqing Kou</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "626c3afafee4f1ce",
+    "title": "Oxygen Orbital Tuning Enables High-Capacity and High-Stability P2-Type Layered Cathode for Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005763?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Weiliang Li, Mingbao Huang, Kai Wan, Zhiqiang Zhao, Xiaoyu Gui, Guifa Long, Xiaoru Chen, Zhiyong Fu, Zhenxing Liang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1d8180419e1a98a9",
+    "title": "Trace Copper-Mediated Crystal Structure Modulation Enables Superior Stable Sodium Storage in NASICON Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005775?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zheng Hu, Yuxin Ran, Junpeng Xie, Xusheng Wang, Jianqiu Zhu, Yao Liu, Liang Ma, Wenjie Mai, Jinliang Li</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c9bb859c2abaf1b3",
+    "title": "Microstructure\u2013Electrolyte Compatibility Engineering in Lignite-Derived Hard Carbon for High-Rate Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600574X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Run Ren, Jianhua Zhu, Chi Chen, Hai Lei, Yu Dong, Lei Wang, Limin Zhu, Xiaoyu Cao, Peng Ge</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "7607d4862da8ddef",
+    "title": "Separator Engineering Enables Ah\u2011Level Four\u2011Electron Zn\u2013I<sub>2</sub> Batteries in Seawater-Based Electrolyte",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005751?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 5 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yanying Dong, Huicai Wang, Liwei Wang, Xingjie Wang, Haisheng Huang, Yanan Gao, Yue Zhu, Jingyi Wu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5f76f205b35c0f4e",
+    "title": "Anion-immobilizing poly(ionic liquid)-based semi-interpenetrating electrolyte enabling ultrafast Li<sup>+</sup> transport in solid-state lithium metal batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005477?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 90</p><p>Author(s): Xiujing Lin, Long Yu, Zizhen Shan, Han Ding, Jianyu Chen, Ruiqing Liu, Zhendong Huang, Haiqi Gao, Aishui Yu, Yanwen Ma</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1add5b28383def60",
+    "title": "Leakage-suppressed MgWO<sub>4</sub>\u2013PDMS composite triboelectric nanogenerators with an expanded ceramic loading window",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005732?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Gi Hyeon Han, Seon U. Lee, Chul Oh Park, Sang-Woo Kim, Kyu Hyoung Lee</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "660982dc03bc3513",
+    "title": "Advanced warning of metal interface oil-starvation state based on significant changes in contact resistance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005768?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Zhuopei Zhang, Yange Feng, Zimu Zhang, Xin Wang, Changhe Du, Wanting Li, Daoai Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "8be481234aad15ea",
+    "title": "Hierarchical confinement of cobalt diatomic sites unlocks intrinsic activity and mass-transfer synergy for oxygen reduction catalysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600563X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Ke Bi, Jiaojiao Wu, Zhenzhen Zhu, Yanqun Shi, Ran Jin, Yanhui Chen, Wenzhu Wang, Yang Zhang, Wendan Xue, Yang Yang, Xun Cui</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a28ee029dc17b148",
+    "title": "Molecular engineering of a nitrate ester additive for ultrastable Ni-rich NCM811 cathodes via anion-rich solvation-structure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005720?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Chao Yang, Fangyuan Chen, Guan Wu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "fcbc63ebee5c7bc8",
+    "title": "Accelerated electrochemical sintering drives high-rate silicon-based anodes in all-solid-state lithium batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005677?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Yuxiang Lyu, Xitang Qian, Yunyi Chen, Shiyuan Liu, Siqi Lu, Siyu Zhou, Yican Qiu, Xinyi Lan, Yong Yang, Minhua Shao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "5574c4ce9e23f781",
+    "title": "Ion-synergy-engineered heterointerface inducing electronic redistribution for stable zinc anodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005458?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Liang Luo, Linfang Hu, Yuying Han, Lijin Yan, Yang Zhou, Xinyue Liang, Xuefeng Zou, Bin Xiang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "aad817116b17c574",
+    "title": "Synergistic dual-silk electronic-tattoos for self-powered transdermal drug delivery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005690?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Jiin Chang, Shalik Ram Joshi, Mi-Eun Lee, Sunghwan Kim</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "8ad386b7367baf8e",
+    "title": "Engineering ScAlN Polar Properties for Advanced Electronic and Synaptic Applications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70937?af=R",
+    "content": "ScAlN has emerged as a wide\u2010bandgap ferroelectric material with exceptional potential for next\u2010generation electronic devices due to its tunable polar properties, high breakdown field, and strong spontaneous polarization. We provide a review to summarize the research progress of ScAlN for applications in advanced electronic and synaptic devices.\n\n\n\n\n\n\n\n\nABSTRACT\nScandium\u2010doped aluminum nitride (ScAlN) has emerged as a wide\u2010bandgap ferroelectric material with exceptional potential for next\u2010generation electronic devices due to its tunable polar properties, high breakdown field, and strong spontaneous polarization. Compared to conventional nitride semiconductors, there is still a gap in a comprehensive overview of the connection between material growth and device application. Herein, we summarize the development in material growth, fundamental properties, and device applications of ScAlN. We evaluate growth techniques and highlight their impact on crystallinity, defect density, and underlying mechanisms. More importantly, we discuss the integration of ScAlN and challenges in the advanced devices, including power electronic devices, artificial synapses, resonators, and filters. This perspective provides a strategic insight for future research, aiming to accelerate the development of high\u2010performance, multifunctional ScAlN\u2010based devices.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c1669ab9546eea72",
+    "title": "Nanotechnology\u2010Enabled Targeted Protein Degradation: Strategies, Opportunities, and Challenges",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70928?af=R",
+    "content": "The convergence of nanotechnology and targeted protein degradation transforms therapeutic protein elimination from a molecule\u2010centric endeavor into a systems\u2010based discipline. This review explores how nanoplatforms overcome delivery barriers, enabling spatiotemporally controlled degradation through intelligent design at the nano\u2010bio interface.\n\n\n\n\n\n\n\n\nABSTRACT\nTargeted protein degradation (TPD) has redefined the therapeutic landscape by shifting the focus from merely inhibiting protein function to actively eliminating disease\u2010causing proteins. However, the clinical translation of TPD agents remains hampered by their inherent physicochemical limitations, including poor solubility, membrane impermeability, and lack of tissue selectivity. Nanotechnology offers a strategic pathway to overcome these barriers. This review examines the convergence of TPD and nanotechnology, highlighting how diverse nanoplatforms\u2014ranging from lipid and polymeric nanoparticles to inorganic carriers and biomimetic systems\u2014can address fundamental delivery challenges. We discuss key design strategies such as physical encapsulation, chemical conjugation, and carrier\u2010free self\u2010assembly between nanocarrier\u2010assisted TPD\u2014where nanoparticles improve degrader pharmacokinetics\u2014and nanostructure\u2010integrated TPD\u2014where the nanoscaffold directly participates in ternary complex formation, and explore how engineering the nano\u2010bio interface enables precise control over cellular uptake, intracellular trafficking, and ternary complex formation. We also critically assess current translational hurdles, including manufacturing complexity, biosafety concerns, and tumor heterogeneity, while offering perspectives on how rational design and interdisciplinary collaboration can accelerate clinical adoption. By reimagining protein degraders as components of intelligent nano\u2010systems, nano\u2010TPD holds the potential to transform undruggable targets into actionable therapeutic opportunities.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "c1c6639c1224e274",
+    "title": "Bridging Materials and Performance in Batteries: The Role of Accurate Models in Electrode Design and Manufacturing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70952?af=R",
+    "content": "Electrode architecture governs battery performance more than active material properties alone. Ion and electron transport limitations underline the gap between material potential and practical performance. Accurate models\u2014from semi\u2010empirical to physics\u2010based\u2014bridge this gap by linking microstructure to performance. This review compares existing approaches and highlights intelligent optimization and manufacturing integration as key pathways for scalable implementation.\n\n\n\n\n\n\n\n\nABSTRACT\nThe electrochemical performance of batteries is governed not only by the intrinsic properties of active materials but, more critically, by the architecture of porous electrodes. A key bottleneck is ion diffusion hindered by tortuous pore pathways, which induces significant overpotential that limits high\u2010rate operation. Inefficient electron conduction further exacerbates performance losses. To meet the growing demand for fast\u2010charging capabilities, electrode design must strategically balance material composition and pore structure to enhance both ionic and electronic transport. Yet, identifying the optimal combination remains challenging. Mathematical models offer a powerful and resource\u2010efficient approach to pinpoint critical design parameters and guide optimization. This review examines semi\u2010empirical models and physics\u2010based frameworks rooted in mass transport equations, comparing their principles, applications, strengths, and limitations in electrode design. Furthermore, it organizes electrode models around how they link composition and microstructure to transport, performance, and manufacturing. We further discuss the challenges and future directions for translating model\u2010based insights into mass production, focusing on four key enablers: model accuracy, robust parameter identification, intelligent optimization, and integration with manufacturing processes guided by cross\u2010model synergies.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
