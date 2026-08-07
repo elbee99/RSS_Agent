@@ -775,5 +775,439 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70952?af=R",
     "content": "Electrode architecture governs battery performance more than active material properties alone. Ion and electron transport limitations underline the gap between material potential and practical performance. Accurate models\u2014from semi\u2010empirical to physics\u2010based\u2014bridge this gap by linking microstructure to performance. This review compares existing approaches and highlights intelligent optimization and manufacturing integration as key pathways for scalable implementation.\n\n\n\n\n\n\n\n\nABSTRACT\nThe electrochemical performance of batteries is governed not only by the intrinsic properties of active materials but, more critically, by the architecture of porous electrodes. A key bottleneck is ion diffusion hindered by tortuous pore pathways, which induces significant overpotential that limits high\u2010rate operation. Inefficient electron conduction further exacerbates performance losses. To meet the growing demand for fast\u2010charging capabilities, electrode design must strategically balance material composition and pore structure to enhance both ionic and electronic transport. Yet, identifying the optimal combination remains challenging. Mathematical models offer a powerful and resource\u2010efficient approach to pinpoint critical design parameters and guide optimization. This review examines semi\u2010empirical models and physics\u2010based frameworks rooted in mass transport equations, comparing their principles, applications, strengths, and limitations in electrode design. Furthermore, it organizes electrode models around how they link composition and microstructure to transport, performance, and manufacturing. We further discuss the challenges and future directions for translating model\u2010based insights into mass production, focusing on four key enablers: model accuracy, robust parameter identification, intelligent optimization, and integration with manufacturing processes guided by cross\u2010model synergies.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "31d0401e17b00f5c",
+    "title": "Fluorinated Methylammonium Cation Containing Perovskite Solar Cells With Over 25% Power Conversion Efficiency",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71396?af=R",
+    "content": "Fluoromethylammonium iodide (FMAI) is prepared using a facile procedure through a simple nucleophilic reaction between fluoroiodomethane and ammonia in methanol and tested in n\u2010i\u2010p perovskite solar cells. FMA+ cation in combination with FA+ and Cs+ cations affords a power conversion efficiency close to 26% with a long\u2010term operational stability for 2000\u00a0h.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010performance perovskite solar cells (PSCs) are typically made using formamidinium CH(NH2)2+ (FA+), cesium Cs+, and the thermally unstable methylammonium CH3NH3+ (MA+) monovalent cations. Excluding unstable MA+ leads to perovskite compositions with increased stabilities and decreased bandgaps. This study introduces a novel approach using a simple fluorinated methylammonium CFH2NH3+ (FMA+) cation capable of doping into the perovskite\u2010framework. With the addition of an optimized quantity of 0.8 mol% FMAI, perovskite compositions are thermally more stable, enabling more reproducible n\u2010i\u2010p PSC performance with a power conversion efficiency of 25.67%. The PSCs exhibit operational stability over 2000 h. Spectroscopic and computational analyses suggest that FMAI may play a dual role as a fluorinated ammonium additive capable of doping into the perovskite and as a chemically non\u2010innocent precursor producing passivating species.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "02b1117b584057f7",
+    "title": "Nano\u2010Heterostructured TiO2\u2010TiO\u2010TiN/MoO3\u2010x\u2010Mo2N Composite LIB Anode With Enhanced Li+ Storage via Glycine\u2010assisted Anodization and Cathodic Deposition",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71387?af=R",
+    "content": "A scalable, binder\u2010 and additive\u2010free strategy combining glycine\u2010assisted anodization and cathodic deposition is developed to fabricate a nano\u2010heterostructured composite LIB anode directly on titanium. Benefiting from its fully electrochemically active thick architecture, the anode delivers an outstanding areal capacity of 2639 \u00b5Ah cm\u22122, nearly sevenfold higher than the pristine counterpart, accompanied by an \u223c80% reduction in charge\u2010transfer resistance.\n\n\n\n\n\n\n\n\nABSTRACT\nTo meet the growing demand for high\u2010capacity and safe anode materials for lithium\u2010ion batteries (LIBs), we report a low\u2010cost, scalable strategy to fabricate a nano\u2010heterostructured TiO2\u2010TiO\u2010TiN/MoO3\u2010x\u2010Mo2N (TTT/MM) composite film directly on titanium substrates. By combining glycine\u2010assisted anodization with cathodic deposition in a nitric\u2010based Mo7O246\u2212 electrolyte, Mo\u2010containing species are incorporated into the nanoporous TTT film. The resulting binder\u2010 and additive\u2010free, fully electrochemically active film delivers a high areal discharge capacity of 2639.0 \u00b5Ah cm\u22122 during charge/discharge cycling, nearly seven times higher than that of the pristine TTT matrix. Charge\u2010transfer resistance is reduced to only 20% of that of the original matrix, and even at a high current density of 1000 \u00b5A\u00a0cm\u22122, the film retains an areal capacity above 1000 \u00b5Ah\u00a0cm\u22122 with 59.1% high\u2010rate retention. These performance enhancements originate from the synergistic effects of glycine\u2010enabled high\u2010current rapid growth, which promotes thicker and more uniform TTT film formation, together with the introduction of high\u2010capacity Mo\u2010containing species and defect\u2010assisted charge transport. This work demonstrates that TiO2\u2010TiO\u2010TiN/MoO3\u2010x\u2010Mo2N is a highly promising LIB anode, combining high performance with scalable, low\u2010cost fabrication for next\u2010generation energy storage applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c9a15b1e18b4e819",
+    "title": "Cr/Br Doping Induced Electron Delocalization Tuning D\u2010Band Center Upshift in Na4Fe3(PO4)2P2O7 Cathode for Unlocking Electron/Ion Transport",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71298?af=R",
+    "content": "The local electronic environment and crystal symmetry around the Fe center are modulated by multi\u2010site Cr/Br doping, driving orbital overlap between Fe 3d and O 2p and facilitating the delocalization of electrons in Fe 3d orbitals. This brings the center of the Fe d band closer to the Fermi level, thereby unlocking efficient electron/ion transport. \n\n\n\n\n\n\n\n\nABSTRACT\nThe electron localization around Fe, caused by strong covalent bonds with the polyanions, has been identified as the primary reason for poor electron\u2010transfer capability and slow ion diffusion kinetics of Na4Fe3(PO4)2P2O7 (NFPP) cathodes, which limits its high\u2010rate performance in sodium\u2010ion batteries (SIBs). Herein, an electron delocalization strategy is proposed to overcome this challenge. Specifically, the 3d3 (t2g3 eg0) electronic configuration of Cr3+ and the 4p orbital effects of Br\u2212 reduce the electron density around oxygen, driving orbital overlap between Fe 3d and O 2p and facilitating the delocalization of electrons in Fe 3d orbitals. This promotes the Fe d\u2010band center toward Fermi level, thereby enhancing the electron transport rate and decreasing the diffusion energy barrier of Na+ ions. Additionally, stronger Cr\u2500O bonds serve as structural backbones to strengthen structural stability, while gradient\u2010distributed Br\u2212 ions alleviate surface degradation. Therefore, the obtained NFPP\u2010Cr\u2010Br cathode exhibits surprising capacity (120.5 mAh g\u22121 at 0.1C) and long\u2010term cycle stability at high rate (86.2% after 2000 cycles at 10C). It also demonstrates good compatibility with different hard carbon anodes, including in pouch cells (80.6% after 500 cycles at 1C). This work provides new perspective to design efficient polyanionic cathode through electronic structure modulation strategy for SIBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b2b4672653337dd0",
+    "title": "Facilitated Phase Transformation for Improved Performance of Earth\u2010Abundant Disordered Rocksalt Materials",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71399?af=R",
+    "content": "As demand for Li\u2010ion batteries grows, Mn\u2010rich disordered rocksalt (DRX) oxides offer a sustainable, low\u2010cost alternative to scarce Ni and Co. During cycling, Mn\u2010rich DRX materials transform into a partial spinel\u2010like phase (\ud835\udeff) that improves rate capability and capacity. This work presents a method to form \ud835\udeff\u2010phase via electrochemical delithiation and heating, bypassing long cycling, while correlating the transformation kinetics with synthesis parameters. \n\n\n\n\n\n\n\n\nABSTRACT\nWith the increasing demand for Li\u2010ion batteries, the reliance on nickel (Ni) and cobalt (Co) has become a critical concern given the high cost and scarcity of these resources. The recently discovered Mn\u2010rich disordered rocksalt (DRX) oxides have demonstrated high energy density and capacity retention, positioning them as promising candidates for low\u2010cost sustainable energy storage materials. These Mn\u2010rich DRX materials undergo structural transformation into a partial spinel\u2010like ordering phase (\u03b4) during electrochemical cycling, thereby enhancing the rate capability and capacity retention. In this work, \u03b4 is formed by delithiation and heating, which bypasses the need for long cycling to form \u03b4. In addition, we identify the correlation between the degree of transformation and the delithiation level and heating time.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "dd44ef7bde9a4b3e",
+    "title": "MXene\u2010Derived Highly Oriented TiN Enables Ta3N5 Photoanodes for Transmission\u2010Mode Bias\u2010Free Solar Water Splitting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71412?af=R",
+    "content": "This work reports 2D MXene\u2010derived TiN thin films with (111)\u2010preferred orientation for transparent Ta3N5 photoanodes, demonstrating effective electron transfer behavior. All\u2010nitride electron\u2010collection architecture based on MXene\u2010derived TiN and n\u2010GaN resolves a long\u2010standing materials bottleneck between photocarrier transport and light transmission in Ta3N5 photoanodes. The resulting bias\u2010free triple\u2010tandem device reaches an STH conversion efficiency approaching 83% of the theoretical limit.\n\n\n\n\n\n\n\n\nABSTRACT\nThe incompatibility between optical transparency and photocarrier extraction in Ta3N5 photoanodes, arising from the harsh ammonolysis process, has constrained their potential for bias\u2010free water splitting, despite intrinsically ideal band structures. Here, we report a transparent and nitridation\u2010compatible bottom electrode based on 2D MXene\u2010derived TiN thin films. The (111)\u2010preferred orientation of MXene\u2010derived TiN facilitates efficient electron extraction from Ta3N5, while maintaining high optical transmittance at an ultrathin thickness. By integrating with n\u2010GaN, we design a heterostructured electron collector that further improves charge separation, corroborating the directional electron extraction in Ta3N5/TiN/n\u2010GaN via photoelectron spectroscopy and carrier dynamics studies. The transparent photoanode generates a photocurrent density of 9.2\u00a0mA cm\u22122 at 1.23\u00a0V versus a reversible hydrogen electrode for water oxidation, also enabling transmission\u2010mode bias\u2010free solar water splitting. A triple\u2010tandem photoelectrochemical device with optimized band gap matching achieves a solar\u2010to\u2010hydrogen conversion efficiency of 13.2%, approaching 83% of the theoretical limit of Ta3N5. This study opens up an unexplored interface engineering for carrier and light utilization in metal nitrides toward efficient solar hydrogen production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b98e5054fbd7f9bc",
+    "title": "Molecular Disaggregation\u2010Bridging Engineered SnO2 Interfaces for Scalable Perovskite Photovoltaics",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71419?af=R",
+    "content": "A potassium dihydrogen phosphate\u2010enabled molecular disaggregation\u2010bridging effect simultaneously regulates SnO2 colloids and the buried SnO2/perovskite interface, suppressing interfacial defects, optimizing energy\u2010level alignment, and improving large\u2010area film uniformity. Blade\u2010coated perovskite solar cells achieve 25.34% PCE, while 5 \u00d7 5 cm2 modules deliver 23.16% efficiency with only 8% scaling loss.\n\n\n\n\n\n\n\n\nABSTRACT\nScalable perovskite photovoltaics are limited by the coupled challenges of unstable SnO2 colloids and defect\u2010rich buried interfaces, which together undermine film uniformity and charge extraction. While existing strategies typically target either colloidal stabilization or interface passivation alone, their single\u2010function nature restricts effectiveness for large\u2010area processing. Here, we introduce potassium dihydrogen phosphate (KH2PO4) as a dual\u2010functional modifier that produces a molecular disaggregation\u2013bridging effect (MDBE). Dihydrogen phosphate anions regulate the colloidal organization of commercial SnO2 dispersions, contributing to smoother and more uniform electron\u2010transport layers, while simultaneously establishing phosphate\u2010mediated interfacial coordination at the buried SnO2/perovskite interface. This integrated regulation suppresses trap\u2010assisted recombination and promotes uniform perovskite crystallization. Consequently, perovskite devices fabricated via blade coating in combination with vacuum evaporation reach a PCE of 25.34%, and 5 \u00d7 5 cm2 modules (12 cm2 active area) deliver 23.16% with only 8% loss upon scaling. MDBE thereby provides a unified and cost\u2010effective interface\u2010engineering strategy that overcomes the limitations of conventional single\u2010function additives, enabling reliable and high\u2010performance large\u2010area perovskite photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "facadd01b3c22297",
+    "title": "Correction to \u201cElimination of Interfacial Lattice Mismatch and Detrimental Reaction by Self\u2010Assembled Layer Dual\u2010Passivation for Efficient and Stable Inverted Perovskite Solar Cells\u201d",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71415?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "db8f2d5b2eaf3e40",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71263?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "7c751541306bfd12",
+    "title": "3D\u2010Printed CuNi Self\u2010Supporting Electrocatalysts with Ordered Microchannels for Ammonia Production (Adv. Energy Mater. 29/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71264?af=R",
+    "content": "Ammonia Production\nIn article number e70936, Bowei Zhang, Yageng Li, Qipeng Lu, and co\u2010workers developed a selective laser melting\u2010printed self\u2010supported CuNi alloy electrocatalyst with periodic micropores. The superhydrophilic and superaerophobic interface enhances mass transport, while CuNi alloying modulates intermediate adsorption and activation, thus delivering superior bifunctional electrocatalytic performance for nitrate reduction and glycerol oxidation.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6d7e07868db59fbf",
+    "title": "Unlocking a High Photovoltage in BiVO4 Photoanodes via Repairing Oxygen\u2010Defect\u2010Induced Surface Traps Boosting Photoelectrochemical Performance (Adv. Energy Mater. 29/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71265?af=R",
+    "content": "Photoanodes\nIn article number e70990, Kai\u2010Hang Ye, Kun Wang, Shuang Xiao, Songcan Wang, and co\u2010workers mitigate the photovoltage limitation of photoanodes caused by surface defect states via energy level regulation and surface passivation. This strategy enhances charge transport performance at the electrode\u2010electrolyte interface. This work provides fundamental understanding and strategic guidance for the rational design of high\u2010performance photoanodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e874495b3b9fff93",
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "link": "https://www.nature.com/articles/d41586-026-02488-3",
+    "content": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02488-3\">doi:10.1038/d41586-026-02488-3</a></p>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e4e5c2ddbeef0b17",
+    "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+    "link": "https://www.nature.com/articles/d41586-026-02462-z",
+    "content": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02462-z\">doi:10.1038/d41586-026-02462-z</a></p>Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6a216a156fad28d2",
+    "title": "Operational Tropical Cyclone Forecasting with AI",
+    "link": "https://www.nature.com/articles/s41586-026-10953-2",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10953-2\">doi:10.1038/s41586-026-10953-2</a></p>Operational Tropical Cyclone Forecasting with AI",
+    "journal": "Nature"
+  },
+  {
+    "id": "6985476e7e51cdea",
+    "title": "Pumas are drivers\u2019 guardian angels",
+    "link": "https://www.nature.com/articles/d41586-026-02429-0",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02429-0\">doi:10.1038/d41586-026-02429-0</a></p>Vehicles are less likely to smash into deer on the road where the big cats are on patrol.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ac0f31eb307adb83",
+    "title": "How a steady drip-drip can erode the hardest stone",
+    "link": "https://www.nature.com/articles/d41586-026-02360-4",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02360-4\">doi:10.1038/d41586-026-02360-4</a></p>Measuring the deformation of a surface hit by a falling droplet offers insights into water\u2019s erosive power.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1a42b5be8adfb23e",
+    "title": "Heatwaves have killed millions. Here\u2019s how scientists tally lives lost",
+    "link": "https://www.nature.com/articles/d41586-026-02430-7",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02430-7\">doi:10.1038/d41586-026-02430-7</a></p>Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+    "journal": "Nature"
+  },
+  {
+    "id": "67fff5c8e0af0610",
+    "title": "AI agents are checking the scientific literature \u2014 and spotting decades-old errors",
+    "link": "https://www.nature.com/articles/d41586-026-02235-8",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02235-8\">doi:10.1038/d41586-026-02235-8</a></p>The technology is proving adept at finding faults in decades-old papers and reference databases.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1a5205132cbea7b8",
+    "title": "Scientists up in arms about cuts to UK physics and astronomy",
+    "link": "https://www.nature.com/articles/d41586-026-02460-1",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02460-1\">doi:10.1038/d41586-026-02460-1</a></p>Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2e958fef19f0a72f",
+    "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+    "link": "https://www.nature.com/articles/d41586-026-02458-9",
+    "content": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02458-9\">doi:10.1038/d41586-026-02458-9</a></p>The device\u2019s simple design could rival much more complex alternatives in biophysics research \u2014 and could even be used to search for dark matter.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7f9f7ca65c7dbc53",
+    "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+    "link": "https://www.nature.com/articles/s41586-026-10970-1",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10970-1\">doi:10.1038/s41586-026-10970-1</a></p>Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+    "journal": "Nature"
+  },
+  {
+    "id": "c31ebba980f9f3ce",
+    "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
+    "link": "https://www.nature.com/articles/s41586-026-10963-0",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10963-0\">doi:10.1038/s41586-026-10963-0</a></p>Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
+    "journal": "Nature"
+  },
+  {
+    "id": "d532af21ce2231a7",
+    "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+    "link": "https://www.nature.com/articles/s41586-026-10977-8",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10977-8\">doi:10.1038/s41586-026-10977-8</a></p>Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+    "journal": "Nature"
+  },
+  {
+    "id": "fd2433a02ffecb75",
+    "title": "<b>Junk plastic turns into high-value commodity with chemistry trick</b>",
+    "link": "https://www.nature.com/articles/d41586-026-02445-0",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02445-0\">doi:10.1038/d41586-026-02445-0</a></p>Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant \u2014 plus, how engineered yeast can help make a cancer drug.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ae68255982715f76",
+    "title": "An expanded codebook of human transcription factor DNA-binding specificity",
+    "link": "https://www.nature.com/articles/s41586-026-10798-9",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10798-9\">doi:10.1038/s41586-026-10798-9</a></p>Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors.",
+    "journal": "Nature"
+  },
+  {
+    "id": "40c2b4b754c89f41",
+    "title": "Ubiquitous Kelvin\u2013Helmholtz instabilities driving plasma mixing on the Sun",
+    "link": "https://www.nature.com/articles/s41586-026-10871-3",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10871-3\">doi:10.1038/s41586-026-10871-3</a></p>High-spatial-resolution observations of the solar photosphere reveal a far more complex and dynamic solar scene than previously observed and show that ubiquitous Kelvin\u2013Helmholtz instabilities drive plasma mixing on the Sun.",
+    "journal": "Nature"
+  },
+  {
+    "id": "268dc8e3425c4843",
+    "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10890-0",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10890-0\">doi:10.1038/s41586-026-10890-0</a></p>The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.",
+    "journal": "Nature"
+  },
+  {
+    "id": "18078615541ee798",
+    "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
+    "link": "https://www.nature.com/articles/s41586-026-10883-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10883-z\">doi:10.1038/s41586-026-10883-z</a></p>A three-dimensional printing method transforms hydrogel particles into aligned microfibres during extrusion, creating structural anisotropy to accelerate muscle tissue regeneration.",
+    "journal": "Nature"
+  },
+  {
+    "id": "93d65d19d1eebe88",
+    "title": "Amygdala astrocyte primary cilium mechanisms contribute to stress behaviours",
+    "link": "https://www.nature.com/articles/s41586-026-10874-0",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10874-0\">doi:10.1038/s41586-026-10874-0</a></p>Amygdala astrocyte primary cilia are disrupted during stress, and their restoration leads to improvements in stress-related behaviour in mice.",
+    "journal": "Nature"
+  },
+  {
+    "id": "76ab0b9d3647dd27",
+    "title": "A dependency map enhanced with next-generation 3D cancer models",
+    "link": "https://www.nature.com/articles/s41586-026-10843-7",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10843-7\">doi:10.1038/s41586-026-10843-7</a></p>Integration of genome-scale CRISPR screening data from traditional cell lines and next-generation cancer models expands the representation of tumour subtypes and genomic alterations in The Cancer Dependency Map.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9e69704367c1b098",
+    "title": "Upcycling of polyvinyl chloride into polyalphaolefin lubricants",
+    "link": "https://www.nature.com/articles/s41586-026-10867-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10867-z\">doi:10.1038/s41586-026-10867-z</a></p>A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7f0dc37e272952c8",
+    "title": "An entangling gate for dual-rail erasure qubits",
+    "link": "https://www.nature.com/articles/s41586-026-10822-y",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10822-y\">doi:10.1038/s41586-026-10822-y</a></p>A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-tolerant performance.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d7a09ea93eef7a93",
+    "title": "Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits",
+    "link": "https://www.nature.com/articles/s41586-026-10865-1",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10865-1\">doi:10.1038/s41586-026-10865-1</a></p>An \u2018encapsulation epitaxy\u2019 mechanism is used to grow air-stable, two-dimensional superconducting films at the interface of a 2D\u20133D hybrid substrate, holding promise for use in fabrication of superconducting quantum circuitry.",
+    "journal": "Nature"
+  },
+  {
+    "id": "75f668a6070e2da6",
+    "title": "Stimulation modulates gene-linked cell assemblies in the human brain",
+    "link": "https://www.nature.com/articles/s41586-026-10879-9",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10879-9\">doi:10.1038/s41586-026-10879-9</a></p>Stimulation of human cortex reorganizes neural assemblies and induces cell-type-specific gene regulatory programs, establishing an ex vivo framework that links stimulation parameters to circuit and transcriptional responses for designing targeted neuromodulatory therapies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "59d5d158bf0a96d5",
+    "title": "A compendium of next-generation patient-derived models for diverse cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10806-y",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10806-y\">doi:10.1038/s41586-026-10806-y</a></p>The international collaboration of the Human Cancer Models Initiative presents a comprehensive resource of next-generation cancer models from 2,780 donors with 25 cancer types and integrated tumour\u2013model genomic, transcriptomic and epigenomic analyses.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0fa16b7e5e46dd1f",
+    "title": "Antigen presentation by CD40<sup>+</sup>MHC-II<sup>+</sup> astrocytes promotes CNS autoimmunity",
+    "link": "https://www.nature.com/articles/s41586-026-10860-6",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10860-6\">doi:10.1038/s41586-026-10860-6</a></p>Astrocytes promote central nervous system (CNS) immunity through antigen presentation and activation of CD40 in astrocytes by CD40L expressed by CD4+ T cells in a model of experimental autoimmune encephalomyelitis.",
+    "journal": "Nature"
+  },
+  {
+    "id": "912bcc0efebe4bdf",
+    "title": "The Virtual Tissues foundation model resolves spatial proteomics across scales",
+    "link": "https://www.nature.com/articles/s41586-026-10884-y",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10884-y\">doi:10.1038/s41586-026-10884-y</a></p>Virtual Tissues (VirTues), a foundation model for spatial proteomics that captures tissue organization across scales, supports marker reconstruction, cell segmentation and typing, niche annotation, spatial biomarker discovery and patient stratification across heterogeneous panels and datasets.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e5bf75b7291c55e6",
+    "title": "Virus reactivation in acute and long COVID-19",
+    "link": "https://www.nature.com/articles/s41586-026-10740-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10740-z\">doi:10.1038/s41586-026-10740-z</a></p>Chronic reactivation of distinct herpesviruses and anelloviruses occur during acute and long COVID-19, and track with disease severity, inflammation and outcomes, revealing immune signatures with prognostic potential.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1440f35927d22c02",
+    "title": "Uncovering the mechanism of female restitution in sugarcane hybrids",
+    "link": "https://www.nature.com/articles/s41586-026-10863-3",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10863-3\">doi:10.1038/s41586-026-10863-3</a></p>Female restitution in interspecific sugarcane hybrids between Saccharum officinarum and Saccharum spontaneum arises from second division restitution, as haplotype-resolved F1 genomes reveal duplicated, partially recombined maternal chromatids and distinctive recombination signatures, resolving its meiotic mechanism and enabling breeding strategies to accelerate crop improvement.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7691d8adb1585666",
+    "title": "Pseudogap in a Fermi\u2013Hubbard quantum simulator",
+    "link": "https://www.nature.com/articles/s41586-026-10875-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10875-z\">doi:10.1038/s41586-026-10875-z</a></p>A cold-atom quantum simulator reveals the pseudogap metallic state in the Hubbard model, mapping its phase diagram and advancing understanding of doped Mott insulators and high-temperature superconductivity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5a209475d6c4e634",
+    "title": "Membranolytic peptide programs immunogenic cell death for cancer therapy",
+    "link": "https://www.nature.com/articles/s41586-026-10899-5",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10899-5\">doi:10.1038/s41586-026-10899-5</a></p>The synthetic-acid-responsive membranolytic peptide aMPC16-CA50 induces immunogenic membranolytic cell death in tumour cells, robustly potentiating immune checkpoint blockade therapy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2362481a924f8ad6",
+    "title": "A tumour-derived organoid biobank maps cancer gene dependencies",
+    "link": "https://www.nature.com/articles/s41586-026-10830-y",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10830-y\">doi:10.1038/s41586-026-10830-y</a></p>A clinically annotated multi-omic organoid resource with matched tumour samples from 256 patients across 5 cancers maps gene dependencies, reveals subtype-specific vulnerabilities and uncovers treatment-driven changes, expanding mechanistic insight and models for precision oncology.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1aa55632d38c98ae",
+    "title": "DCAF11-dependent molecular glue degrader activated by glutathionylation",
+    "link": "https://www.nature.com/articles/s41586-026-10873-1",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10873-1\">doi:10.1038/s41586-026-10873-1</a></p>M12 is a metabolically activated molecular glue that recruits diverse proteins to DCAF11 for ubiquitin-mediated degradation, revealing a glutathione-dependent mechanism that broadens targeted protein degradation across multiple substrates.",
+    "journal": "Nature"
+  },
+  {
+    "id": "662a38f39898c158",
+    "title": "A cholinergic hub in the nucleus accumbens gates opioid-reward learning",
+    "link": "https://www.nature.com/articles/s41586-026-10887-9",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10887-9\">doi:10.1038/s41586-026-10887-9</a></p>Cell-type-specific opioid blockade in accumbal cholinergic interneurons abolishes morphine-reward learning without impairing analgesia and decouples morphine-evoked dopamine elevations from acetylcholine dips, suggesting pro-cholinergic strategies to limit early opioid reward acquisition.",
+    "journal": "Nature"
+  },
+  {
+    "id": "aed0f2ca38666865",
+    "title": "Vacuum birefringence and the polarized X-ray emission from a radio magnetar",
+    "link": "https://www.nature.com/articles/s41586-026-10859-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10859-z\">doi:10.1038/s41586-026-10859-z</a></p>Polarization measurements of the magnetar 1E 1547.0\u22125408 provide strong evidence that vacuum birefringence shapes X-ray propagation, offering an important observational test of quantum electrodynamics in extreme magnetic fields.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f912814f201c8b8c",
+    "title": "An ancient mitochondrial program tunes translation to haem availability",
+    "link": "https://www.nature.com/articles/s41586-026-10885-x",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10885-x\">doi:10.1038/s41586-026-10885-x</a></p>An evolutionarily conserved mitochondrial haem-sensing mechanism that predates the emergence of haemoglobin-based oxygen transport could have therapeutic value in iron deficiency disorders.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c96042188f34023a",
+    "title": "<i>FNIP1</i> variants are associated with favourable metabolism in 1 million humans",
+    "link": "https://www.nature.com/articles/s41586-026-10864-2",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10864-2\">doi:10.1038/s41586-026-10864-2</a></p>The FNIP1 pathway has a role in human energy metabolism, and its inhibition is a potential therapeutic strategy in cardiometabolic disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c78955e997065252",
+    "title": "James Bond, not Bond James: why scientific publishing must respect name order",
+    "link": "https://www.nature.com/articles/d41586-026-01772-6",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01772-6\">doi:10.1038/d41586-026-01772-6</a></p>Databases and submission systems are often inflexible. Can\u2019t publishers do more on author names?",
+    "journal": "Nature"
+  },
+  {
+    "id": "24bfce64ca2249a5",
+    "title": "Can empty space interact with light \u2014 and even change its properties?",
+    "link": "https://www.nature.com/articles/d41586-026-02289-8",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02289-8\">doi:10.1038/d41586-026-02289-8</a></p>Observations of a magnetized stellar core indicate that in an ultra-strong magnetic field, empty space can polarize light.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b26d4119ce76fcef",
+    "title": "Maps of chromosomal regions crucial for cell division reveal high diversity",
+    "link": "https://www.nature.com/articles/d41586-026-02327-5",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02327-5\">doi:10.1038/d41586-026-02327-5</a></p>Centromeres are regions of chromosomes that are required for cell division. Complete sequence characterization of centromeres from a diverse group of 65 individuals reveals dynamic and rapid patterns of mutational change, providing information about centromere evolution and function.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a5845106adfa687d",
+    "title": "Exclusive: the science papers that patents cite the most",
+    "link": "https://www.nature.com/articles/d41586-026-02386-8",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02386-8\">doi:10.1038/d41586-026-02386-8</a></p>Nature reveals the studies that are mentioned most often in patent filings \u2014 and why.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5ef47e2df26a991f",
+    "title": "More muscle, less belly fat: mutations to a gene are linked to wide-ranging benefits",
+    "link": "https://www.nature.com/articles/d41586-026-02438-z",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02438-z\">doi:10.1038/d41586-026-02438-z</a></p>Analysis of one million diverse genomes yields mutations associated with lower risk of diabetes, heart disease and other \u2018cardiometabolic\u2019 conditions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "911c4308b4bf58e1",
+    "title": "First poo transplant to treat food allergy in people has \u2018exciting\u2019 results",
+    "link": "https://www.nature.com/articles/d41586-026-02440-5",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02440-5\">doi:10.1038/d41586-026-02440-5</a></p>Existing treatments for food allergy are limited.",
+    "journal": "Nature"
+  },
+  {
+    "id": "37ccf5aac4245ef1",
+    "title": "COVID can wake up a slew of dormant viruses inside you",
+    "link": "https://www.nature.com/articles/d41586-026-02443-2",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02443-2\">doi:10.1038/d41586-026-02443-2</a></p>Reactivation of typically harmless anelloviruses, in particular, seems to be linked with developing long COVID, study finds.",
+    "journal": "Nature"
+  },
+  {
+    "id": "13c47caf751f3c83",
+    "title": "Switching off the <i>FNIP1</i> gene protects against metabolic disease",
+    "link": "https://www.nature.com/articles/d41586-026-02391-x",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02391-x\">doi:10.1038/d41586-026-02391-x</a></p>A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and a roughly 60% lower risk of cardiometabolic disease than the general population. Silencing genes in the FNIP1 pathway in mice induces fat breakdown and reproduces the metabolic benefits associated with the variants in humans.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4cc86ec2846db965",
+    "title": "The recovered notes of Professor Alborough",
+    "link": "https://www.nature.com/articles/d41586-026-02252-7",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02252-7\">doi:10.1038/d41586-026-02252-7</a></p>Time for a break.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2a4d88e554bf4ac8",
+    "title": "Neanderthal gene makes some modern humans taller and more muscular",
+    "link": "https://www.nature.com/articles/d41586-026-02439-y",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02439-y\">doi:10.1038/d41586-026-02439-y</a></p>The ancient genetic variant is most common in people of South and East Asian ancestry.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b0b966451aa954aa",
+    "title": "Why science must reinforce its social contract",
+    "link": "https://www.nature.com/articles/d41586-026-02444-1",
+    "content": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02444-1\">doi:10.1038/d41586-026-02444-1</a></p>Questions of public trust can be addressed only through better communication and research that meets society\u2019s interests.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a0130474d59b129b",
+    "title": "Analysis of stress evolution in lithium metal anodes during plating and stripping cycles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600560X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Kurt R. Hebert</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c1b077ff1979ccdc",
+    "title": "Engineering high-spin cobalt centers via cation-anion co-doping to boost polysulfide conversion in lithium-sulfur batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005799?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Fen Li, Guo Liu, Qi Zeng, Xiaoxiang Sun, Jiayou Tao, Chang Li, Zhenxing Zhang, Jijun Zhao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5099330bc2fdb8f3",
+    "title": "Defect-driven electronic reconstruction enables closed-pore engineering in hard carbon for superior sodium storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005568?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 90</p><p>Author(s): Jiawei Gao, Pengcheng Mao, You Huang, Dan Sun, Yougen Tang, Peng Cao, Huapeng Sun, Haiyan Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "36f352395b072de1",
+    "title": "Dual mutual-philic interfaces enabled by a facile Li-Si anode for scalable and long-cycle-life all-solid-state batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005556?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Energy Storage Materials, Volume 90</p><p>Author(s): Ying Zhang, Li Shen, Shuang Wu, Miao Fei, Guoqing Wang, Khan Khalid, Bin Lin, Wuliang Feng, Xingbao Zhu, Yufeng Zhao, Jiujun Zhang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2245dca3f7893e42",
+    "title": "In situ pore sealing of cellulose derived hard carbon via coal tar cross linking for high capacity sodium ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005616?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Rigan Xu, Tao Liu, Qi Liu, Wenxiu He, Daobin Mu, Li Li, Renjie Chen, Feng Wu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
