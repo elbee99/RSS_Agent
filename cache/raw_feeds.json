@@ -173,5 +173,152 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S221128552600577X?dgcid=rss_sd_all",
     "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Baiyan Sui, Quanhong Hu, Dingcheng Rao, Tingting Ding, Qianqian Zhang, Linlin Li, Xin Liu</p>",
     "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ba492eb01f775b95",
+    "title": "Continuous, fuel-cell-like operation of aluminum-air batteries via precipitate control and interfacial hydration",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00313-2?rss=yes",
+    "content": "Shi et al. show that aluminum-air batteries can operate in a fuel-cell-like mode when discharge-product buildup, hydration, hydrogen release, and interfacial contact are controlled together. A replaceable anode pouch, electrolyte microdosing, and a compliant enclosure preserve reusable hardware while replenishing metal fuel, providing design principles for continuously operating machines powered by metal-air systems.",
+    "journal": "Joule"
+  },
+  {
+    "id": "5953ded9fde37dd1",
+    "title": "Where to address N2 and reactive impurities in the CO2 electrochemical value chain?",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00310-7?rss=yes",
+    "content": "Electrochemical CO2 reduction is a promising route to convert waste carbon into value-added chemicals. However, industrial CO2 feedstocks are dilute and contain reactive impurities such as O2, NOx, and SOx, which affect electrolyzer performance. Designing electrolyzers that can tolerate impurities reduces the need for upstream purification but then shifts the separation burden downstream, where purity requirements for synthesis are often stricter. This perspective examines where in the carbon value chain impurities should be addressed and concludes that upstream removal is generally optimal.",
+    "journal": "Joule"
+  },
+  {
+    "id": "4ccbec1d3074c438",
+    "title": "High-throughput discovery of organic working solutions enabling radical photochemistry for scalable H2O2 production",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00287-4?rss=yes",
+    "content": "Light-driven H2O2 production offers a sustainable alternative to the anthraquinone process, yet challenges in efficiency and scalability remain. Herein, we establish a radical photochemistry framework, integrating high-throughput screening and computation to optimize organic working solutions. This enables liter-scale H2O2 production beyond single-photon limits with high yield and purity.",
+    "journal": "Joule"
+  },
+  {
+    "id": "e87bd27b8793deea",
+    "title": "Toward scalable semitransparent organic photovoltaics: Slot-die-coated 210-cm2 modules with visible transmission of up to 50% and LUE up to 4%",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00282-5?rss=yes",
+    "content": "Efficient semitransparent organic photovoltaic modules on areas > 200 cm2 are fabricated with scalable methods. They are based on a near-infrared reflecting back electrode and a metal-less polymeric front electrode. While the back electrode is sputtered, all other layers are deposited by slot-die coating. Visible transmissions of up to 50% and light utilization efficiencies of up to 4% are achieved, which constitute by far the highest values on larger areas, thus proving the successful upscaling of this technology.",
+    "journal": "Joule"
+  },
+  {
+    "id": "838cb1630e874103",
+    "title": "Enabling high-voltage and wide-temperature quasi-solid-state batteries via spatially engineered polyether electrolyte interfaces",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00322-3?rss=yes",
+    "content": "(Joule 10, 102535; November 18, 2026)",
+    "journal": "Joule"
+  },
+  {
+    "id": "62a7c86bdc05d52a",
+    "title": "Topology-governed self-assembled monolayers enable perovskite solar cells stable at \u2212100\u00b0C to +100\u00b0C",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00284-9?rss=yes",
+    "content": "Topology-governed self-assembled monolayers establish dense buried interfaces in inverted perovskite solar cells. The meta-linked LY-m delivers 26.39% efficiency (certified 26.37%), with a 1.231 V open-circuit voltage and stable operation after \u2212100\u00b0C to +100\u00b0C thermal cycling, results that link molecular topology to device reliability.",
+    "journal": "Joule"
+  },
+  {
+    "id": "03ad1bbae88c43c7",
+    "title": "Inline millisecond subcell current metrology for perovskite/silicon tandem solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00283-7?rss=yes",
+    "content": "Messmer et al. demonstrate a transient electrical method that extracts both subcell currents of perovskite/silicon tandem solar cells within milliseconds from a standard reverse current-voltage scan. Validated on full-size industrial devices, the approach enables inline subcell current monitoring without additional hardware or spectral modification.",
+    "journal": "Joule"
+  },
+  {
+    "id": "0c61a0c51e99d4e4",
+    "title": "Interfacial charge transfer acceleration and thermal stress release for high-performance perovskite/silicon tandem solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00281-3?rss=yes",
+    "content": "Du and colleagues introduce a rigid self-assembled monolayer, PhPADCB, to regulate the textured buried interface in perovskite/silicon tandem solar cells. The molecular design improves conformal contact, accelerates interfacial charge transfer, mitigates thermal stress, and enables efficient and stable tandem photovoltaics.",
+    "journal": "Joule"
+  },
+  {
+    "id": "d942bf98e1b3b9f2",
+    "title": "Small congeneric solvents for practical sodium metal batteries",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00269-2?rss=yes",
+    "content": "We report that the size of congeneric solvents can strongly affect fast-cycling performance in metal batteries. Smaller solvents outperform their larger counterparts at high rates, while their similar behaviors at low rates suggest an electrochemical \u201cleveling\u201d effect. Generative screening accelerates electrolyte discovery and identifies DMFSA from a DMTMSA-derived chemical space. DMFSA-based electrolytes deliver \u223c99.6% Coulombic efficiency, >4.9 V oxidative stability, and stable cycling at \u223c6.0 mA cm\u22122. Our design principle shows feasibility in broader electrolyte and metal-electrode chemistries.",
+    "journal": "Joule"
+  },
+  {
+    "id": "eeb078719d760237",
+    "title": "Local Strain Switches CO\u2082 Reduction to a 3.13 V Li\u2082C\u2082O\u2084 Pathway for Li-CO<sub>2</sub> Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005957?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 12 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yang Wang, Yuanjia Wang, Ting Zhang, Guang Feng, Kaiyu Liu, Yan Zhang, Tao Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "d52421e201fdb66a",
+    "title": "Localized Stabilization of Lattice Oxygen in Layered Oxides via Competitive Pathways for Robust Direct Regeneration of Lithium-ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005921?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Binglei Jiao, Xingyu Guo, Haiyang Zhang, Yanbin Shen, Jinxing Chen, Qiao Zhang, Peng Ge, Panpan Xu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e09a24ba5d061f10",
+    "title": "Defect-Mediated Interfacial Recovery of Battery-Grade Graphite from Spent Lithium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005933?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xiao Wang, Cong-Cong Zhang, Mengmeng Wang, Chuan Wang, Zhiyi Qu, Yanjun Liu, Ziyang Liu, Fu-Shen Zhang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c547feef17d58080",
+    "title": "Reduced-order aging and safety analytics of Li-ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600591X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Saptaparna Patra, Arpan Kumar Sharma, Moonseong Kim, Bairav S. Vishnugopi, Deepti Tewari, Avijit Karmakar, Vinay Premnath, Wan Si Tang, Judith A. Jeevarajan, Partha P. Mukherjee</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "07b8c658d3645416",
+    "title": "Deciphering Thermal Failure in Lithium Metal Batteries: Mechanism Elucidation and Mitigation Strategies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600588X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zhanning He, Fangying Shen, Huihao Wu, Xue Xie, Zheng Wang, Mintao Su, Zhongru Zhang, Yixiao Li, Tianyu Yang, Hansen Wang, Yong Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "28cb9ffa90b24814",
+    "title": "Fluorinated Diluent-Induced Solvation Modulation and Hybrid Interphase Enable High-Rate and Stable Li/Cr<sub>8</sub>O<sub>21</sub> Primary Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005891?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xingyu Wang, Wangshu Hou, Shuyang Gao, Xin Chen, Yuanheng Wang, Jiaxin Yan, Haixia Yang, Shilin Xu, Guangyu Cheng, Ying Luo, Rui Guo, Jingying Xie, Pengjian Zuo</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "15c6a375196f6f7d",
+    "title": "High-Entropy Enhanced <em>d</em>-<em>p</em> Orbital Hybridization in Na<sub>4</sub>Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>P<sub>2</sub>O<sub>7</sub> Cathode: Electronic Structure Engineering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726005908?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Fan Peng, Youqi Chu, Anjie Lai, Changdong Chen, Shaowei Kang, Guoli Xu, Hao Wang, Enhai Song, Qimeng Zhang, Chenghao Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e39fa4df940a60a8",
+    "title": "Microwave-assisted solvo-metallurgical recovery of lithium and transition metals from lithium-ion battery waste",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005793?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Thilini Gunawardhana, Xuhui Zhu, Xiaofei Alex Duan, Hamidreza Arandiyan, Yuan Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a8636338f52efa29",
+    "title": "Nanosecond-response, self-powered vertical 2H-MoTe\u2082/WS\u2082 p\u2013n heterojunction for UV\u2013Vis\u2013NIR broadband photodetection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005835?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Zhao-Guo Liu, Qi Zhou, Zhen-Zhi Hu, Ke-Han Li, Fei-fei Qin, Xue-yao Lu, Jing-Yuan Wu, Xiao-Yang Zhang, Tong Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a7674a633df6e1d5",
+    "title": "Charge-regulated light-responsive montmorillonite\u2013Ag@TiO\u2082 lamellar nanofluidic membranes for high-power osmotic energy harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005860?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Di Yuan, Chao Liu, Fan Yang, Zhiyang Li, Weikun Jiang, Qiang Wang, Yu Liu, Dehai Yu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d1373970f8df7659",
+    "title": "A versatile composite film for self-powered human-machine interaction and thermal comfort via synergistic triboelectric and passive radiative cooling effect",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526005781?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Hui Liu, Qinghua Liu, Ruizhe Zhang, Ziqi Liu, Leihuan Mu, Kun Xue, Cai-Li Sun, Jinmei He, Mengnan Qu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "595484a8b47abb8c",
+    "title": "Two decades of bismuth silicate photocatalysis: Progress, challenges, and opportunities",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600580X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Nano Energy, Volume 157</p><p>Author(s): Bailin Zeng, Wanjun Cao, Haijiang Pu, Wanmiao Ge, Yujie Chen, Mengxiang Lai, Jiachen Li, Ming Ma, Yaping Yan, Xinjian Shi</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
