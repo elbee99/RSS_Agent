@@ -586,5 +586,649 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70973?af=R",
     "content": "Schematic diagram of this work. The nano\u2010anchor solution containing glutaraldehyde\u2010modified UiO\u201066\u2010NH2 nanoparticles was first deposited at the bottom of the imaging substrate, followed by the addition of an equal volume of GUVs. Glutaraldehyde locks the nano\u2010anchor to the amino groups on GUVs membrane, pulling them down to the imaging focal plane.\n\n\n\n\n\n\n\n\nABSTRACT\nMicroscopic imaging remains the primary strategy for studying naturally\u2010derived or biomimetic membrane systems. Long\u2010term tracking requires both a stable three\u2010dimensional focal plane and minimal target displacement. This poses a significant challenge for non\u2010adherent cells or vesicles that tend to migrate due to gravity, temperature fluctuation, air flow, and environmental vibration. Herein, we present a non\u2010destructive immobilization technique, using glutaraldehyde\u2010modified UiO\u201066\u2010NH2 nanoparticles as anchors to prevent drifting of membrane systems. Demonstrated using a giant unilamellar vesicles (GUVs) model that features cell\u2010like morphology and adjustable membrane lipid composition, the uniform anchoring modification retains membrane structural integrity and fluidity\u2010related properties, including vesicle self\u2010deformation and fusion between oppositely charged GUVs. The nano\u2010anchor enables rapid immobilization of GUVs and semi\u2010adherent cells on glass slides within 5 min under ambient conditions. Furthermore, this technology is well\u2010suited for imaging applications that require high stability and precision, as evidenced by photobleaching recovery analysis and 3D reconstructions of lipid raft microdomains. Therefore, the anti\u2010drift nano\u2010anchor approach facilitates versatile studies across on\u2010membrane and intermembrane processes.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "ba95f22b488b886e",
+    "title": "Indoor NFA\u2010Organic Photovoltaic for Grid\u2010Free Water Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71363?af=R",
+    "content": "Indoor photovoltaic\u2010driven water electrolysis (iOPV\u2013WE) integrating PM6:Y6 iOPV (PDINO ETL optimized to 6\u20138 nm) with a Co/Fe\u2010doped Ni(OH)2 on CuO nanowires catalyst (NCF\u2013CuO). Achieves 12.2% under 1000 lux halogen light, stable 30 cm2 device, \u223c1.5 V/35 mA, Faradaic efficiency \u223c99.2% for O2, enabling robust indoor solar\u2010to\u2010hydrogen conversion.\n\n\n\n\n\n\n\n\nABSTRACT\nOff\u2010grid hydrogen production via water electrolysis is gaining traction for decentralized energy; however, outdoor solar dependence limits indoor operation. Indoor organic photovoltaics (iOPVs) exhibit high efficiency under artificial illumination and offer a promising power source for such applications. We demonstrate a PM6:Y6\u2010 based photovoltaic\u2013driven water electrolysis (iOPV\u2013WE) system by integrating optimized OPV devices with a high\u2010performance oxygen evolution reaction (OER) catalyst. The iOPV devices were engineered using PDINO as the electron transport layer, where thickness optimization (\u223c6\u20138\u00a0nm) significantly improved charge extraction and reduced interfacial recombination. As a result, the PM6:Y6\u2010based iOPVs achieved power conversion efficiencies of 12.2% under halogen illumination (1000 lux), while maintaining stable operation in a 30 cm2 large\u2010area device. For efficient electrolysis, a Co\u2010 and Fe\u2010doped Ni(OH)2 nanosheet catalyst supported on CuO nanowires (NCF\u2013CuO) was developed, exhibiting a low overpotential of 291\u00a0mV at 100\u00a0mA cm\u22122 and excellent stability. By coupling the optimized iOPV with the NCF\u2013CuO electrode, the integrated system delivered a stable output of \u223c1.5\u00a0V and 35\u00a0mA under halogen illumination (1000 lux), enabling continuous water electrolysis with a Faradaic efficiency of \u223c99.2% for O2. These results demonstrate the feasibility of indoor solar\u2010to\u2010hydrogen conversion using organic photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1ed3cbab2f4fe0fa",
+    "title": "Multi\u2010Selective Dominant Coordination in Multi\u2010Salt High\u2010Entropy Electrolytes Toward High\u2010Performance Silicon Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71486?af=R",
+    "content": "The development of advanced lithium\u2010ion batteries is impeded by a fundamental trade\u2010off in electrolyte design: balancing rapid ion transport with the formation of high\u2010quality SEI. Conventional approaches struggle to simultaneously achieve both high kinetics and durable interfacial chemistry. The introduction of high\u2010entropy electrolytes (HEEs) presents a promising solution to this problem.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010entropy electrolytes (HEEs) are revolutionizing the design of electrolytes for lithium\u2010ion batteries. However, significant gaps and numerous uncertainties still persist in this field. To address these issues, we originally proposed the multi\u2010selective dominant coordination mechanism, which reveals the origin of the anion\u2010rich solvation environment in multi\u2010salt high\u2010entropy electrolytes (HEEsalts). Using commercially available lithium salts, we designed single\u2010salt (SS), triple\u2010salt (TS), parent/auxiliary salt (PAS), and mixed pentasalt (MixS) electrolytes to systematically investigate the regulating role of entropy on the electrochemical performance of alloying\u2010type anodes. Molecular dynamics (MD) simulations and spectroscopic characterization confirm that increased coordination selectivity of anions enables Li+ to enter a highly delocalized and dynamically reconfigurable solvation environment, driving the system to spontaneously evolve toward a stable, anion\u2010rich state. Post\u2010cycle analysis reveals that HEEsalts induce the formation of a thin, uniform, and robust solid electrolyte interphase (SEI), with an inorganic content up to 49.2%. As a result, the entropy\u2010driven solvation reconfiguration synergistically accelerates ion bulk transport and interfacial reaction kinetics. Accordingly, MixS endows significantly improved electrochemical performance compared to other electrolytes. Remarkably, a 250 mAh pouch cell exhibits a capacity retention rate of 97.18% after 200 cycles, demonstrating the excellent industrial practicability of HEEsalts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4610e6b70e5f53e6",
+    "title": "Fluoride\u2010Driven Interfacial Engineering: Architecting Functional Layers for High\u2010Performance Dendrite\u2010Free Li Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71463?af=R",
+    "content": "Metal fluorides (MxF\u1d67) enable dendrite\u2010free, high\u2010capacity lithium metal anodes by forming robust interphases with LiF. This review highlights their roles in artificial SEI, 3D hosts, separators, and electrolytes, enhancing cycle life and energy density. Practical pouch cell performance and future commercialization prospects are discussed.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010capacity lithium metal anodes are essential for high\u2010energy\u2010density batteries. However, their practical deployment is hindered by notorious dendritic growth, severe volume variation and an unstable solid electrolyte interphase (SEI), giving rise to poor cyclic stability and serious safety hazards. Much effort has been devoted to exploring interfacial functional layers to enable dendrite\u2010free and reversible plating/stripping. Metal fluorides (MxF\u1d67) are being actively exploited due to their high ionic conductivity, mechanical robustness and favorable reactivity with Li. Importantly, conversion and alloying reactions generate favorable interphases containing conductive LiF and alloying species, which effectively regulate Li+ flux and facilitate fast ion migration and uniform deposition, thereby enhancing both cycle life and energy density of Li metal batteries (LMBs). This review systematically summarizes the applications of MxF\u1d67 in LMBs, including artificial interphase layers, lithiophilic 3D hosts, separator modification layers and electrolyte additives. Particular emphasis is placed on clarifying the role of MxF\u1d67 for building a robust SEI and providing host framework that accelerates kinetics and guides homogeneous nucleation for dendrite\u2010free deposition. Meanwhile, the performance of LMBs from a practical application viewpoint is discussed, especially in pouch cells. Finally, future directions and prospects for MxF\u1d67 are presented to stimulate their commercialization and extension to other metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3e5ac4a2b6420566",
+    "title": "A Fluorine\u2010Free, Low Ion Pair Electrolyte for Transition Metal\u2010Free and Halogen\u2010Free Sodium Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71422?af=R",
+    "content": "Fluorine\u2010containing electrolytes dominate modern rechargeable batteries, yet the fundamental design principles for fluorine\u2010free systems remain largely unexplored. We demonstrate that fluorine\u2010free electrolyte chemistry can simultaneously achieve long cycle life, fast charging, and stable interphase formation in sodium\u2010ion batteries. These findings establish a new framework for designing sustainable, fluorine\u2010free battery chemistries without relying on fluorinated interphases or solvation structures.\n\n\n\n\n\n\n\n\nABSTRACT\nFluorinated solvents, salts, and binders are widely used in modern rechargeable batteries. High durability and superior high\u2010rate ability are often attributed to fluorine\u2010rich interphases or fluorine\u2010tuned solvation structures. To date, fluorine\u2010free battery development is still nascent, with the interphases and structure\u2010property\u2010performance relationship thereby remaining poorly understood. Here, we investigate the impact of anion substituents in Na\u2010ion salts on electrolyte ion transport properties and interphase compositions on Na\u2010ion anodes. A fluorine\u2010free sodium tetraphenylborate\u2010diglyme electrolyte can cycle hard carbon anode over 2000 cycles at 1C with a capacity retention exceeding 98%. Sodium metal anode exhibits stripping\u2010plating efficiencies of 99.93% over 1000 cycles at 0.5\u00a0mA/cm2 and 0.5 mAh/cm2. The steric effect of the bulky phenyl substituent leads to negligible ion pairing and good ionic conductivity, supporting high\u2010rate performance of Na\u2010ion electrodes. We demonstrate that a transition\u2010metal(TM)\u2010free and fluorine\u2010free battery as proof of concept, in a perylene\u20103,4,9,10\u2010tetracarboxylic acid diimide (PTCDI)||hard carbon full cell configuration, delivers stable cycling with a \u223c85% capacity retention at 1C after 500 cycles and good fast\u2010charging capability reaching 80% specific energy in less than 4 min. These results show that it is possible to design TM\u2010free and fluorine\u2010free sodium ion batteries without an anion\u2010rich solvation structure or fluorine\u2010based interphases.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "249b65d3e0e27591",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71329?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c7065264c1a59b76",
+    "title": "Pushing Energy Density Limits: Anode\u2010Less Solid\u2010State Battery Integrated With Amorphous Lithium Vanadium Oxide Thin\u2010Film Cathode (Adv. Energy Mater. 31/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71327?af=R",
+    "content": "Thin Film Batteries\nIn article number e71042, Joonhee Kang, Jong Min Yuk, Ji\u2010Won Jung, Hyun\u2010Suk Kim, and co\u2010workers present a high\u2010performance anode\u2010less all solid\u2010state thin film battery integrating an amorphous lithium vanadium oxide cathode and LiPON electrolyte. The puzzle\u2010themed illustration showcases how meticulous interface engineering using a Sn/C seeded current collector stabilizes lithium plating, delivering durable, high\u2010energy\u2010density solid\u2010state thin film batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ecf12d544bc0cfc9",
+    "title": "Fluorine\u2010Aligned Electrostatic Gatekeepers Regulating Polysulfide Migration for Stable Lithium\u2013Sulfur Batteries (Adv. Energy Mater. 31/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71328?af=R",
+    "content": "Lithium\u2013Sulfur Batteries\nIn article number e71086, Hee\u2010Dae Lim and co\u2010workers present a \u03b2\u2010PVdF\u2010anchored MXene scaffold functioning as an electrostatically repulsive separator for lithium\u2013sulfur batteries. The aligned C\u2013F dipoles of \u03b2\u2010PVdF, represented by radiating blue lightning bolts, create a persistent electrostatic field that actively repels lithium polysulfide anions, thereby suppressing crossover and retaining redox intermediates within the cathode region.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fb6e257a93b76ef2",
+    "title": "Cycling Performance of Sodium\u2010Metal Chloride Battery Cells and Modules Based on Iron and Zinc",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71236?af=R",
+    "content": "High\u2010utilization sodium\u2013metal chloride cells with a mixed\u2010metal Fe, Zn, NaCl cathode enable efficient high\u2010temperature cycling (300\u00b0C) while reducing cost and environmental impact. Near\u2010theoretical capacity and high efficiency are achieved in single cells. Aging, driven by resistance growth and cathode restructuring, is mitigated by voltage limitation at module level, highlighting a scalable, Ni\u2010free pathway for durable, cost\u2010effective energy storage.\n\n\n\n\n\n\n\n\nABSTRACT\nCycling performance and ageing mechanisms of high\u2010temperature sodium\u2013metal chloride cells were investigated using a modified Na\u2013NiCl2 chemistry, where Fe and Zn replace Ni in the cathode. These abundant metals reduce cost and environmental impact while maintaining theoretical capacity. Metal utilization was increased from 30% to 39% compared with state\u2010of\u2010the\u2010art Na\u2013NiCl2 cells. A single cell and a five\u2010cell module were operated for three months at 300\u00b0C, demonstrating stable cycling and high energy efficiency. The single cell achieved near\u2010complete utilization of its theoretical capacity with excellent coulombic and voltage efficiencies even under elevated current densities. Aging manifested as a gradual decline in discharge energy, linked to rising Zn2+\u2010reduction overpotentials at low states\u2010of\u2010charge. Post\u2010mortem analysis revealed NaCl\u2010rich layers at the cathode\u2013electrolyte interface and gas\u2010induced porosity, indicating active\u2010material redistribution and side reactions during extended cycling. These reactions were mitigated in a five\u2010cell module by lowering the upper cut\u2010off voltage by 0.1\u00a0V (2.55\u00a0V\u21922.45\u00a0V). The module exhibited similar initial behavior but required current adjustments to counter capacity fade caused by rising cycle resistance, ultimately stabilizing at a substantial fraction of theoretical capacity. These findings highlight the potential of Fe, Zn\u2010based sodium\u2013metal chloride cells as cost\u2010effective alternatives to Ni\u2010based cell chemistries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "9043cff842c87833",
+    "title": "Reciprocal Synergistic Evolution of Cu\u2010Co Sites Boosts Electrocatalytic Nitrate Reduction to Ammonia",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71238?af=R",
+    "content": "This work demonstrates the dynamic \u201cseesaw\u2010like\u201d reciprocal evolution at Cu\u2013Co heterointerfaces during NO3RR. In situ monitoring and theoretical calculations show that driven by competing redox forces and mediated via radical transfer, this process accelerates the continuous conjugated regeneration of Cu\u2010 and Co\u2010related sites. This regeneration, which inherently involves phase\u2010segregating restructuring, enhances site synergy and thereby boosts catalytic performance.\n\n\n\n\n\n\n\n\nABSTRACT\nThe electrocatalytic nitrate reduction reaction (NO3RR) offers a promising route for sustainable ammonia synthesis. Due to the interfacial synergistic effects, Cu\u2013Co catalysts exhibit outstanding activity. However, the underlying evolution of active sites remains poorly understood, which induces the reported advantageous phase\u2010segregating in situ restructuring. By monitoring Co(OH)2/Cu catalysts, our observations revealed that Cu\u2010 and Co\u2010related sites undergo dynamic, \u201cseesaw\u2010like\u201d reciprocal reactivation instead of mutual stabilization. In situ SERS, DMPO\u2010EPR and DFT calculations show that this process is driven by the competing oxidative/reductive forces under NO3RR conditions, which cause site deactivation, and mediated via the transfer of \u2219O/\u2219OH and H* radicals across interfaces. Critically, these radicals trigger the conversion of deactivated CuOx and Co(OH)2 sites into highly active oxide\u2010derived Cu0 and CoOOH, respectively. As the interfacial transfer of radicals constitutes an irreversible process, the observed in situ restructuring is inherently rationalized. This conjugated, seesaw\u2010like mechanism accelerates a dynamic, self\u2010regulating redox balance at Cu\u2013Co heterointerface, continuously enhancing the synergy between Cu\u2010 and Co\u2010related sites and the overall NO3RR performance. Beyond catalyst development, this work offers a mechanistic framework for understanding how competing oxidative and reductive forces are redistributed at heterointerfaces, providing guiding principles for the rational design of next\u2010generation electrocatalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f510118863f40ba6",
+    "title": "Phase\u2010Engineered 1T/2H\u2010WS2 Heterostructures in Hybrid Carbon Networks for High\u2010Rate and Durable Sodium\u2010Ion Storage",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71453?af=R",
+    "content": "Phase engineering of WS2 within a hybrid rGO/MWCNTs carbon framework stabilizes the metallic 1T phase and creates conductive 1T/2H heterostructures with accelerated Na+ kinetics. The synergistic architecture enhances structural integrity and enables fast, durable sodium\u2010ion storage with outstanding rate capability, long\u2010term cycling stability, and excellent full\u2010cell performance.\n\n\n\n\n\n\n\n\nABSTRACT\nMetallic 1T transition\u2010metal dichalcogenides are promising for sodium\u2010ion storage because of their higher electrical conductivity and faster ion transport than semiconducting 2H counterparts, yet stabilizing the 1T phase remains challenging. Here, we report phase\u2010engineered WS2/hybrid\u2010carbon nanocomposites prepared by lithium\u2010assisted exfoliation and freeze\u2010drying, delivering a high\u2010performance sodium\u2010ion battery (SIB) anode. Integration of reduced graphene oxide and multiwalled carbon nanotubes (rGO and MWCNTs) induces partial phase conversion (2H\u21921T) in WS2 and yields a stabilized 1T/2H mixed\u2010phase architecture within a conductive carbon network. Structural and spectroscopic analyses support the coexistence of 1T and 2H domains and reveal strong interfacial coupling with the carbon scaffold, thereby enhancing electrical conductivity, suppressing nanosheet restacking, and improving structural stability. As a result, the 1T/2H\u2010WS2@rGO/MWCNTs composite delivers a reversible capacity of \u223c500\u00a0mAh/g at 25\u00a0mA/g, excellent rate capability up to 5\u00a0A/g, and long\u2010term cycling stability over 1000 cycles with negligible capacity decay, \u223c99.2% capacity retention, together with strong full\u2010cell performance when paired with NaFePO4. First\u2010principles calculations further reveal stronger Na adsorption and a wider thermodynamically stable sodiation window for 1T\u2010WS2 than for 2H\u2010WS2. These results highlight the combination of phase\u2010engineering and conductive carbon\u2010scaffolding as an effective strategy for developing fast and durable WS2\u2010based anodes for SIBs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c80759db94280cdb",
+    "title": "Surface\u2010Engineered Ti3C2Tx MXene/Cu2O Photocathodes for Highly Selective Photoelectrocatalytic CO2 Reduction to Ethanol",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71469?af=R",
+    "content": "Surface\u2010engineering Ti3C2Tx MXenes with an in situ\u2010grown TiO2 layer on the surface in combination with visible\u2010light\u2010absorbing Cu2O significantly enhances charge separation and carrier extraction while improving Cu2O resistance to photocorrosion. The resulting Cu2O/TiO2\u2010MXene photocathodes enable highly selective, solar\u2010driven ethanol production, reaching record production rate (8.4 \u00b5mol cm\u22122 h\u22121) and solar\u2010to\u2010ethanol efficiency (2.74%).\n\n\n\n\n\n\n\n\nABSTRACT\nCu2O is an inexpensive p\u2010type semiconductor that promotes the photoelectrocatalytic CO2 reduction reaction (PEC CO2RR). While its low bandgap enables photoexcitation by visible light, long\u2010term stability remains limited due to quick charge recombination and photocorrosion. Here, we enhanced charge separation and extraction by combining Cu2O with surface\u2010engineered MXenes. In this novel architecture, TiO2 grows in situ on the surface of Ti3C2Tx and serves as a charge\u2010transport layer, forming a junction with Cu2O. On the other side, the outer TiO2 surface exposed to the CO2\u2010saturated electrolyte offers catalytically active sites for CO2 reduction. Acting as a central layer, the MXene conductive backbone provides an electronically continuous pathway for electron transport. In PEC CO2RR, the photocathode containing 50 wt.% of MXene and a balanced amount of TiO2 on the Ti3C2 surface outperformed the best Cu/CuxO\u2010based systems operating in non\u2010organic electrolytes reported in the literature. The FTO/Cu2O/ml\u2010Ti3C2Tx\u2010350\u2010N2 photocathode reached 8.4\u00a0\u00b5mol\u00a0cm\u22122 h\u22121 ethanol production rate and 2.74% solar\u2010to\u2010ethanol efficiency after 2\u00a0h. Moreover, pairing TiO2\u2010MXene with Cu2O significantly stabilized the photocathode, which maintained 76% of the ethanol production rate after 6 h. Overall, our results establish surface\u2010engineered Cu2O/TiO2\u2010MXene heterostructures as a solid platform for highly selective, visible\u2010light\u2010driven ethanol production with significantly improved operational stability.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d22484bbe3476088",
+    "title": "Toward In Vivo Energy Harvesters: High Piezoelectric Response in a Pharmaceutical Drug Polymorph Enabled by Monopolar Domain Architecture",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71458?af=R",
+    "content": "An unusual enantiomorphic twin\u2010domain structure in a pharmaceutical polymorph leads to exceptionally high piezoelectric voltage output, highlighting the potential of crystalline drugs as biocompatible energy\u2010harvesting and sensing materials.\n\n\n\n\n\n\n\n\nABSTRACT\nBiocompatible piezoelectric materials capable of efficient mechanical\u2010to\u2010electrical energy conversion are critical for the development of implantable energy harvesters and in vivo biomedical sensors. Here, we report an unusually high piezoelectric response in a polymorph of the pharmaceutical drug hydrochlorothiazide (HCT), originating from conformationally driven solid\u2010state chirality and an uncommon monopolar domain architecture. In contrast to most polar molecular crystals, where micro\u2010 to nanoscale orientational disorder suppresses macroscopic polarization, HCT forms enantiomorphic twin domains arranged in a tail\u2010to\u2010tail polarity configuration. This intrinsic domain organization eliminates the need for external electric poling during device fabrication, providing a significant technological advantage for biocompatible applications. Kelvin probe force microscopy (KPFM) surface potential mapping and piezoresponse force microscopy (PFM) phase contrast measurements provide compelling experimental support for this polarity model. X\u2010ray quantum crystallography reveals an enhanced spontaneous polarization of 10.2 \u00b5C cm\u22122, while facet\u2010resolved PFM measurements yield an effective piezoelectric coefficient d33eff${\\bf d}_{33}^{\\bf eff}$ of \u223c9.2 \u00b1 0.13 pm V\u22121. Enabled by the monopolar domain architecture, the fabricated devices generate a remarkably high piezoelectric voltage output of 88 \u00b1 5.2 V under moderate mechanical loading (29\u201330 N), placing it among the highest voltage outputs reported to date for an organic material\u2010based energy harvesting device.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "fb9017fa5a5670f7",
+    "title": "Suppressing Carbon Losses to 5% in Alkaline CO2 Electrocatalysis Using Gold\u2010Decorated CuO Nanoneedle Catalysts With Modified Microenvironment",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71405?af=R",
+    "content": "Carbon losses through carbonate formation remain a major barrier in zero\u2010gap anion\u2010exchange\u2010membrane (AEM) CO2 electrolysis. Surface and microenvironment engineering using Au\u2010decorated CuO nanoneedle catalysts, pulsed operation, and controlled bulk alkalinity suppress carbonate formation, reduce carbon losses to 5.7%, and promote C\u2010C coupling.\n\n\n\n\n\n\n\n\nABSTRACT\nAlkaline CO2 electrolysis can reach industrially relevant rates, but it typically incurs substantial carbon losses through carbonate formation, limiting conversion efficiency. In this study, we show that combining a gold\u2010decorated CuO nanoneedle catalyst (N\u2011CuAu) with dynamic pulsed electrocatalysis and a synthetic electrolyte with tuned bulk hydroxide concentration ([OH\u2212]\u2010Bulk) suppresses carbonation while maintaining high overall performance in an alkaline electrolyzer. The integrated strategy reduces carbon losses to 5.7%, while achieving a single\u2010pass CO2 conversion of 51% and an overall Faradaic efficiency (FE) of 92% for selective CO2 reduction. The resulting carbonate formation ratio is about 182\u2010fold lower than conventional alkaline CO2 electrolysis and 27 fold lower than state\u2010of\u2010the\u2010art neutral media CO2 electrolysis. Using complementary in situ and ex situ characterizations, we identify an operative semi\u2010quantitative local alkalinity ([OH\u2212]\u2010Local) of 0.17\u00a0mol/Lit that correlates with suppressed carbonate formation and enhanced selectivity toward alcohol products, while confirming catalyst structural stability under dynamic pulsed operation. Together, these results establish hydroxide microenvironment control as a lever to reconcile high\u2010performance alkaline CO2 electrolysis with low carbonation losses.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "70e567a2415dc5f5",
+    "title": "Entropy\u2010Mediated Nonporous Polymer Separator Unlocks Ultra\u2010Wide Temperature Range (\u221270\u00b0C to 150\u00b0C) Lithium Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71480?af=R",
+    "content": "Inspired by the entropy\u2010engineered strategy, we design a novel nonporous high\u2010entropy separator (HES). HES exhibits excellent electrolyte wettability and thermal stability. Meanwhile, the unique chemical environment within the HES homogenizes and accelerates ion transport, and forms stable, inorganic/B\u2010rich SEI and CEI, ultimately enabling the stable operation of Li metal batteries from \u221270\u00b0C to 150\u00b0C.\n\n\n\n\n\n\n\n\nABSTRACT\nThe separator, as an indispensable component in batteries, has attracted extensive attention. Nevertheless, its poor temperature adaptability restricts the application of lithium (Li) metal batteries under extreme temperature scenarios. Herein, we develop a novel nonporous high\u2010entropy separator (HES) based on a rationally designed high\u2010entropy polymer, achieving for the first time, from the perspective of the separator, the long\u2010term operation of Li metal batteries from \u221270 to 150\u00b0C. The as\u2010prepared HES delivers superior electrolyte wettability and thermal stability. Moreover, the abundant ion transport channels in HES homogenize and accelerate ion transport, while facilitating the formation of stable, inorganic/B\u2010rich solid electrolyte interphase and cathode electrolyte interphase in the Li metal batteries. These effectively inhibit Li dendrites and parasitic reactions across a wide temperature range. Consequently, Li||Li cells operate for 2200\u00a0h at \u221270\u00b0C, 6548\u00a0h at 25\u00b0C, and 700\u00a0h at 150\u00b0C. Li||V2O5 batteries can run from \u221270 to 150\u00b0C, demonstrating excellent application potential. This work enriches separator design strategies and expands the temperature boundaries for the application of Li metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d4e0f827b719c92f",
+    "title": "Stable and Low\u2010Pressure Anode\u2010Free All\u2010Solid\u2010State Li\u2013S Batteries Enabled by Reaction\u2010Derived Nanocrystalline\u2010Amorphous Li2S Cathodes and Deformable Sodium Current Collectors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71471?af=R",
+    "content": "Mechanochemical reconstruction of Li2S with PI3 creates a nanocrystalline\u2010amorphous Li2S cathode that promotes Li+ transport and Li2S conversion. Coupled with a low\u2010cost, deformable Na current collector, this design enables low\u2010pressure anode\u2010free all\u2010solid\u2010state Li\u2013S batteries with stable interfacial contact and durable cycling.\n\n\n\n\n\n\n\n\nABSTRACT\nAnode\u2010free all\u2010solid\u2010state Li\u2013S batteries (ASSLSBs) are promising for high\u2010energy\u2010density storage, but their development is hindered by sluggish Li2S activation and unstable solid\u2013solid interfaces, especially under low stack pressure. Here we report a low\u2010pressure anode\u2010free ASSLSB enabled by a solid\u2010state in situ reaction\u2010derived nanocrystalline\u2010amorphous Li2S cathode and a deformable Na current collector. During short\u2010term high\u2010energy ball milling, PI3 reacts with Li2S to generate LiI and amorphous thiophosphate species around nanocrystalline Li2S domains, forming a reaction\u2010derived ion\u2010conductive framework. Meanwhile, the Na current collector maintains intimate contact with the sulfide electrolyte even under limited external pressure, while the mitigated volume variation of Li2S and amorphous interfacial framework jointly stabilize the solid\u2013solid interfaces during cycling. Consequently, the optimized Li2S\u2010PI3 8% full cell exhibits a capacity retention of approximately 100% after 200 cycles at 0.5 C under a stacking pressure of 4 MPa. Under the same external pressure, the cell further exhibits a capacity retention of 89.71% after 400 cycles at 0.2 C. Remarkably, even under an external pressure as low as 1 MPa, the full cell maintains 70.54% capacity retention after 300 cycles, underscoring its robust cycling stability under low\u2010external\u2010pressure conditions.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "c9de93e7756f3a3d",
+    "title": "Regulating Interfacial Electron Density of Carbon for Stable and High\u2010Performance Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71466?af=R",
+    "content": "This review explains why conductive carbon, though essential for fast charge transport, can also trigger unwanted battery reactions. It introduces an electronic stability window in which balanced interfacial electron density preserves carbon stability, whereas electron oversupply promotes electrolyte reduction and electron depletion drives carbon oxidation. Practical regulation strategies are summarized to guide safer, longer\u2010lasting batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nConductive carbon is widely used in battery systems as a conductive additive and structural scaffold, yet its role in parasitic reactions remains poorly understood. Contrary to the common assumption of electrochemical inertness, growing evidence shows that carbon actively governs interfacial reactions, leading to electrolyte decomposition, hydrogen evolution, and structural degradation that limit battery stability and lifetime. Here, we provide an electronic\u2010structure\u2010based perspective to elucidate and regulate carbon\u2010induced parasitic reactions across diverse battery chemistries. We demonstrate that these seemingly distinct degradation phenomena originate from a common electronic origin defined by interfacial electron density and Fermi\u2010level alignment. Carbon operates within a finite electronic stability window, where electron oversupply drives reductive side reactions, while electron depletion induces oxidative degradation. Based on this understanding, we outline design strategies to control interfacial electron density, including Fermi\u2010level engineering, defect\u2010state optimization, and decoupling bulk electron transport from interfacial electron injection. These strategies enable suppression of parasitic reactions and provide pathways to improve cycling stability, energy efficiency, and durability in advanced battery systems. This review presents a unified electronic framework for understanding and controlling carbon\u2010induced degradation and offers practical guidance for the rational design of electronically stable carbon materials for next\u2010generation energy storage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "51bd4ab181557600",
+    "title": "Suppressing Non\u2010Radiative Recombination in Perovskite Solar Cells Through Integrated Tuning of Out\u2010of\u2010Plane Lattice Texture and Strain",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71474?af=R",
+    "content": "This work demonstrates that the structural parameters of crystallographic orientation and lattice strain must be treated as coupled. The interplay between these parameters suppresses non\u2010radiative recombination, enabling the open\u2010circuit voltage to approach the radiative limit of the material, along with a high reverse breakdown voltage. These structural parameters are controlled through novel bimolecular cooperative interactions.\n\n\n\n\n\n\n\n\nABSTRACT\nCrystallographic orientation and lattice strain directly govern performance and stability; however, they are often treated as independent structural parameters, and therefore their combined influence on non\u2010radiative recombination remains poorly understood. Here, we reveal the interplay between these parameters and establish their correlation with non\u2010radiative recombination in perovskite solar cells (PSCs). The coupled control of structural parameters is achieved through novel bimolecular cooperative interactions between sodium hydroxyquinoline sulfonate and sodium aminonaphthalene sulfonate. These interactions regulate crystallization at molecular level by destabilizing solvent\u2013PbI2 adducts. As a result, they promote out\u2010of\u2010plane growth of corner\u2010sharing [PbI6]4\u2500 networks along [100] direction and shift the lattice strain from a tensile to a compressive state. This leads to an open\u2010circuit voltage of 1.22\u00a0V (only 49\u00a0mV behind the theoretical limit), achieving a power conversion efficiency (PCE) up to 26.21% and a reverse\u2010bias breakdown voltage of \u221216.5\u00a0V in PSCs. Furthermore, the device retains 90% of its initial PCE after 3300 h at >85% relative humidity. Control experiments further confirm that this integrated structural tuning is the dominant factor governing suppressed non\u2010radiative recombination and enhanced breakdown voltage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ffd1a22af4fb6993",
+    "title": "Electric Double Layer Engineering Induces O\u2010Down Interfacial Water Reorientation for Efficient and Long\u2010Term Seawater Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71429?af=R",
+    "content": "The additive EDTMPS inhibits hydroxides deposition by chelating with Ca2+/Mg2+. It also disrupts the hydrogen bond network of interfacial water and expands the thickness of electric double layer, promoting more free water to flip into adsorbable O\u2010down configuration. The abundant \u2010[P\u2010O]\u2212 groups of EDTMPS provide a new path for the dissociation of H2O adsorbed on Pt surface.\n\n\n\n\n\n\n\n\nABSTRACT\nDirect seawater electrolysis for hydrogen production is plagued by sluggish hydrogen evolution reaction (HER) kinetics and severe Mg/Ca hydroxide deposition, which restrict its large\u2010scale application. Herein, we address these two issues via a targeted electrolyte\u2010mediated electric double layer (EDL) engineering strategy by introducing a chelating agent, ethylene diamine tetra (methylene phosphonic acid) sodium (EDTMPS). EDTMPS adsorbed on the Pt surface effectively chelates Mg2+/Ca2+ to inhibit hydroxide deposition. Meanwhile, it disrupts the hydrogen bond networks of interfacial H2O and increases the thickness of EDL, thereby reducing the free H2O reorganization energy barrier by weakening the interfacial electric field intensity. Electron transfer from Pt to EDTMPS generates a localized non\u2010uniform electric field, further facilitating the reorientation of H2O from the conventional H\u2010down to the more readily adsorbable O\u2010down configuration for HER participation inferred by second harmonic generation spectra and theoretical calculations. Simultaneously, the abundant \u2010[P\u2010O]\u2212 groups in EDTMPS synergistically promote H2O dissociation with Pt active sites and accelerate the HER kinetics. The assembled natural seawater electrolyzer achieves 1.0\u2009A\u2009cm\u22122 at 2.41\u2009V and long\u2010term stability for over 2500\u00a0h at industrial\u2010level current densities. This work offers a sustainable pathway toward scalable green hydrogen production from natural seawater via electrolyte\u2010mediated EDL modification.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "06f4d95efb6f0e26",
+    "title": "A Practical, Technology\u2010Agnostic Framework For Shockley\u2013Queisser Benchmarking of Solar Cells: Robust Bandgap Definitions and Loss Decomposition From EQE, Electroluminescence, and J\u2013V Data",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71465?af=R",
+    "content": "A technology\u2010agnostic workflow translates external quantum efficiency, electroluminescence, and stabilized current\u2010voltage data into reliable Shockley\u2013Queisser benchmarking of solar cells. Device\u2010based bandgap definitions and admissibility checks determine when step\u2010function comparisons are valid, while consistent loss decomposition separates optical\u2010entropy, radiative, nonradiative, temperature, and resistive contributions.\n\n\n\n\n\n\n\n\nABSTRACT\nShockley\u2013Queisser (SQ) benchmarking is used to contextualize photovoltaic (PV) efficiencies, but it is often misapplied when devices deviate from the step\u2010function absorber idealization or when optical, radiative, and electrical losses are mixed. Here, we present a practical workflow that begins with a stated SQ reference and measured external quantum efficiency (EQE), electroluminescence quantum efficiency (EQEEL$\\mathrm{EQE}_\\mathrm{EL}$), and current\u2010density\u2013voltage (J$J$\u2013V$V$) data. The framework defines a photovoltaic bandgap (Eg,PV$E_{g,\\mathrm{PV}}$), computes EQE\u2010based radiative dark current and open\u2010circuit voltage, and separates generation/current loss, optical \u00e9tendue, radiative edge\u2010shape loss, nonradiative recombination, temperature, shunt, and fill\u2010factor losses. It applies across silicon, gallium arsenide, copper indium gallium selenide, halide perovskites, organic PVs, and transition\u2010metal dichalcogenides. We provide an interpretation order for the short\u2010circuit\u2010current factor (FSC$F_\\mathrm{SC}$), radiative\u2010emission factor (Fem$F_\\mathrm{em}$), luminescence factor (Qlum$Q_\\mathrm{lum}$), and fill\u2010factor ratio (FFF$F_\\mathrm{FF}$). In this notation, Fem<1$F_\\mathrm{em}<1$ is not an electrical/nonradiative loss; for a stated step\u2010SQ reference and a properly defined Eg,PV$E_{g,\\mathrm{PV}}$, it corresponds to a positive radiative edge\u2010shape voltage loss, whereas inconsistent factors indicate the measured\u2010EQE detailed balance should be reported. This ordering makes closeness\u2010to\u2010limit claims reproducible and comparable across materials, architectures, optical references, and measurement\u00a0states.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "66053faf436f67e0",
+    "title": "Cu@Cr2O3 Noble\u2010Metal\u2010Free Hydrogen\u2010Evolving Cocatalyst on Al\u2010Doped SrTiO3 for Photocatalytic Overall Water Splitting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71440?af=R",
+    "content": "A core\u2013shell structured Cu@Cr2O3 cocatalyst is fabricated on Al\u2010doped SrTiO3 via a photodeposition method for efficient H2 evolution in photocatalytic overall water splitting. This architecture ensures the stable operation of Cu0 hydrogen evolution active sites for efficient charge extraction, water dissociation, and hydrogen adsorption, delivering an excellent H2 evolution rate of 788.7\u00a0\u00b5mol/h.\n\n\n\n\n\n\n\n\nABSTRACT\nThe development of noble\u2010metal\u2010free cocatalysts is crucial for low\u2010cost photocatalytic overall water splitting (POWS) systems. However, dynamic structural evolution of non\u2010noble\u2010metal materials under operando conditions results in a restricted activity of cocatalysts in POWS. Herein, we construct a core\u2013shell structured Cu@Cr2O3 cocatalyst on Al\u2010doped SrTiO3 (SrTiO3:Al) via a photodeposition method (denoted as Cu\u2010PD/STO) for efficient H2 evolution in POWS. The Cu\u2010PD/STO achieves the H2 evolution rate of 788.7\u00a0\u00b5mol/h, surpassing all the recently reported noble\u2010metal\u2010free H2 evolution cocatalysts on SrTiO3 for POWS. Quasi in situ/operando characterizations elucidate the stable operation of Cu0 active sites in POWS, guaranteed by the photoinduced reduction of Cu sites and core\u2013shell structure. Further characterizations and theoretical calculations reveal that Cu0 active sites provide accelerated electron extraction from SrTiO3:Al, optimized water dissociation, and hydrogen adsorption. Moreover, Cu0 active sites can promote the formation of Cr2O3 shells, which encapsulate the Cu0 active sites, protecting them against surface oxidation and suppressing the reverse reaction in POWS.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3f416a9808252fe3",
+    "title": "Decoupling Thermodynamic and Kinetic Moisture Instability Reveals a Critical Humidity Threshold for Sodium Thiophosphate Solid Electrolyte",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71467?af=R",
+    "content": "A quantitative exposure\u2010heat treatment framework identifies a critical humidity threshold (15%RH) and heat treatment temperature (80\u00b0C) that governs the recoverability of air\u2010exposed Na3PS4, revealing the decoupled thermodynamic and kinetic contributions to its moisture stability. The resulting mechanistic understanding provides a reproducible benchmark for moisture evaluation and practical guidance for processing sulfide solid\u2010state electrolytes.\n\n\n\n\n\n\n\n\nABSTRACT\nSodium sulfide solid electrolytes are widely regarded as highly moisture\u2010sensitive, requiring ultralow\u2010humidity (typically 15\u2013100\u00a0ppm) processing that imposes a major cost barrier to solid\u2010state battery manufacturing. Yet the actual moisture\u2010stability limit of these materials remains poorly quantified, and the mechanistic origin of degradation, whether thermodynamic or kinetic, is unresolved. Here, using sodium thiophosphate, Na3PS4, as a model system, we establish a quantitative moisture\u2010stability framework that decouples thermodynamic and kinetic contributions to apparent instability. Controlled exposure studies across 13%\u201338% relative humidity, correlated with H2S evolution, mass uptake, structural evolution, and ionic conductivity recovery, reveal a critical humidity threshold near 15% relative humidity, below which Na3PS4 undergoes reversible hydration with minimal hydrolysis on the surface, fully recovering its ionic conductivity at 13% relative humidity after brief heat treatment. Density functional theory shows that hydration is thermodynamically favorable (\u0394G = \u22120.76\u00a0eV), whereas hydrolysis is kinetically gated by a 1.78\u00a0eV activation barrier, rationalizing the unexpected tolerance. By defining a practical humidity\u2010tolerance window and a reproducible benchmarking protocol, this work provides a transferable foundation for the rational design of moisture\u2010tolerant sulfide electrolytes toward substantially relaxed humidity requirements for all\u2010solid\u2010state battery manufacturing.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6c1bee1f58730642",
+    "title": "A hierarchical fibre to trap and sense microplastics",
+    "link": "https://www.nature.com/articles/s41578-026-00956-w",
+    "content": "<p>Nature Reviews Materials, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41578-026-00956-w\">doi:10.1038/s41578-026-00956-w</a></p>An article in Advanced Materials presents a tunicate nanocellulose and MXene fibre that can capture and detect trace levels of microplastics, inspired by the pollen-collecting structures on the legs of bees.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "370d116b2e076660",
+    "title": "Engineered coacervates as emerging liquid biomaterials",
+    "link": "https://www.nature.com/articles/s41578-026-00950-2",
+    "content": "<p>Nature Reviews Materials, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41578-026-00950-2\">doi:10.1038/s41578-026-00950-2</a></p>Although liquid\u2013liquid phase separation (LLPS) is a fundamental biological principle, the potential of LLPS-driven engineered coacervates remains largely untapped. This Review reframes coacervates as powerful liquid biomaterials, detailing how their unique properties can be harnessed for diverse biomedical applications.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "42df3084da787ce2",
+    "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+    "link": "https://www.nature.com/articles/s41586-026-11043-z",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11043-z\">doi:10.1038/s41586-026-11043-z</a></p>Dialkyl ether synthesis through heteroatom homolytic substitution",
+    "journal": "Nature"
+  },
+  {
+    "id": "32e85bf32568eb44",
+    "title": "Hidden volcanoes hint at Moon\u2019s turbulent past",
+    "link": "https://www.nature.com/articles/d41586-026-02555-9",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02555-9\">doi:10.1038/d41586-026-02555-9</a></p>A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cbf6a36eb9ee3535",
+    "title": "To shield the fetus, link a protein to these drugs",
+    "link": "https://www.nature.com/articles/d41586-026-02553-x",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02553-x\">doi:10.1038/d41586-026-02553-x</a></p>Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+    "journal": "Nature"
+  },
+  {
+    "id": "92d6c58f03f89ec3",
+    "title": "Astronaut vest cuts radiation exposure in half",
+    "link": "https://www.nature.com/articles/d41586-026-02556-8",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02556-8\">doi:10.1038/d41586-026-02556-8</a></p>Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "590b73d7a1547c4c",
+    "title": "These trees are making air quality in cities worse",
+    "link": "https://www.nature.com/articles/d41586-026-02586-2",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02586-2\">doi:10.1038/d41586-026-02586-2</a></p>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8e0d9c9f150ffce5",
+    "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+    "link": "https://www.nature.com/articles/d41586-026-02574-6",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02574-6\">doi:10.1038/d41586-026-02574-6</a></p>The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a75852985a5a67df",
+    "title": "Moderna cancer vaccine stops melanoma returning: what\u2019s next for personalized treatments?",
+    "link": "https://www.nature.com/articles/d41586-026-02612-3",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02612-3\">doi:10.1038/d41586-026-02612-3</a></p>Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9cfbc8ef94edb37d",
+    "title": "Investors\u2019 sneak peak: can this AI tool spot the science that will lead to patents?",
+    "link": "https://www.nature.com/articles/d41586-026-02549-7",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02549-7\">doi:10.1038/d41586-026-02549-7</a></p>The approach could speed up investment decisions, but researchers say it has flaws.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c3359823899cdc0a",
+    "title": "Staggering 90% of biomedical papers now show signs of AI help",
+    "link": "https://www.nature.com/articles/d41586-026-02551-z",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02551-z\">doi:10.1038/d41586-026-02551-z</a></p>The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
+    "journal": "Nature"
+  },
+  {
+    "id": "f436cceb8577734d",
+    "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+    "link": "https://www.nature.com/articles/d41586-026-02455-y",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02455-y\">doi:10.1038/d41586-026-02455-y</a></p>Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a4ebed884b809b38",
+    "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+    "link": "https://www.nature.com/articles/s41586-026-11037-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11037-x\">doi:10.1038/s41586-026-11037-x</a></p>Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+    "journal": "Nature"
+  },
+  {
+    "id": "ce1590da16c6d50b",
+    "title": "Too much mate choice overwhelms frogs",
+    "link": "https://www.nature.com/articles/d41586-026-02554-w",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02554-w\">doi:10.1038/d41586-026-02554-w</a></p>Female treefrogs select less carefully when hearing a chorus of males.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a9a9baa6c7c7b73c",
+    "title": "A black hole's spin could finally be measured by a high-speed star",
+    "link": "https://www.nature.com/articles/d41586-026-02607-0",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02607-0\">doi:10.1038/d41586-026-02607-0</a></p>Star orbiting close to Sagittarius A* could reveal its spin \u2014 plus, how exoskeletons might change the way humans move.",
+    "journal": "Nature"
+  },
+  {
+    "id": "187d0e573bb7566e",
+    "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "link": "https://www.nature.com/articles/s41586-026-10776-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10776-1\">doi:10.1038/s41586-026-10776-1</a></p>Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "journal": "Nature"
+  },
+  {
+    "id": "26700cb508949f27",
+    "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "link": "https://www.nature.com/articles/s41586-026-10777-0",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10777-0\">doi:10.1038/s41586-026-10777-0</a></p>Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "journal": "Nature"
+  },
+  {
+    "id": "78f9cb213a1ccc20",
+    "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+    "link": "https://www.nature.com/articles/s41586-026-10951-4",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10951-4\">doi:10.1038/s41586-026-10951-4</a></p>Functional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "39184ad391fb37d7",
+    "title": "Observation of conformal field theory spectra in a quantum simulator",
+    "link": "https://www.nature.com/articles/s41586-026-10904-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10904-x\">doi:10.1038/s41586-026-10904-x</a></p>Measurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field theory.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6d1d57ffdc0eb2c1",
+    "title": "Wake-activated neuronal populations that regulate sleep drive",
+    "link": "https://www.nature.com/articles/s41586-026-10928-3",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10928-3\">doi:10.1038/s41586-026-10928-3</a></p>Whole-brain activity mapping, targeted cell manipulations and electrophysiology in mice identify wake-activated neuronal populations that are crucial for sleep drive and can persistently reduce daily sleep amount.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1d120f8ba94869c3",
+    "title": "Increasing CO<sub>2</sub> levels fertilize C<sub>4</sub> grass production",
+    "link": "https://www.nature.com/articles/s41586-026-10935-4",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10935-4\">doi:10.1038/s41586-026-10935-4</a></p>By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2 levels in water-limited environments is revealed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d0875166ac330a73",
+    "title": "A global atmospheric methane record from a tropical ice core",
+    "link": "https://www.nature.com/articles/s41586-026-10938-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10938-1\">doi:10.1038/s41586-026-10938-1</a></p>A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model indicates higher equatorial CH4 strength than previous estimates from polar-only records.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b04ff3a227f6aa33",
+    "title": "Family genetic designs in MoBa provide insights into health and functioning",
+    "link": "https://www.nature.com/articles/s41586-026-10926-5",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10926-5\">doi:10.1038/s41586-026-10926-5</a></p>The Norwegian Mother, Father and Child Cohort Study demonstrates how family-based genomic data can disentangle direct genetic effects from confounding, improving studies of health and human development.",
+    "journal": "Nature"
+  },
+  {
+    "id": "219944dfa074fe97",
+    "title": "Asymmetric prefrontal representations for leader\u2013follower dynamics",
+    "link": "https://www.nature.com/articles/s41586-026-10900-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10900-1\">doi:10.1038/s41586-026-10900-1</a></p>Mice spontaneously form leader and follower roles during cooperation, and the medial prefrontal cortex encodes these role dynamics and an egocentric social value map of the partner\u2019s position.",
+    "journal": "Nature"
+  },
+  {
+    "id": "13759ce042c14ec4",
+    "title": "Atomic-scale double-slit interferometry with a focused electron probe",
+    "link": "https://www.nature.com/articles/s41586-026-10914-9",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10914-9\">doi:10.1038/s41586-026-10914-9</a></p>Double-slit interferometry at the atomic scale is demonstrated using scanning transmission electron microscopy to provide evidence of interference fringes generated with a focused electron beam encountering two silicon atomic columns separated by 1.36\u2009\u00c5.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3f283a480026b261",
+    "title": "Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit",
+    "link": "https://www.nature.com/articles/s41586-026-10933-6",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10933-6\">doi:10.1038/s41586-026-10933-6</a></p>A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model predicting reaction outcomes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bd830370916d7932",
+    "title": "Human brain organoids record the passage of time over multiple years",
+    "link": "https://www.nature.com/articles/s41586-026-10877-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10877-x\">doi:10.1038/s41586-026-10877-x</a></p>Human brain organoids were developed for over five years in culture to demonstrate that brain cells can continue to mature and record the passage of time, following human-specific endogenous programs, even outside the context of the organism.",
+    "journal": "Nature"
+  },
+  {
+    "id": "33c2078dce19cabd",
+    "title": "Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss",
+    "link": "https://www.nature.com/articles/s41586-026-10912-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10912-x\">doi:10.1038/s41586-026-10912-x</a></p>Recent Antarctic ice mass gain was linked to a recurrent atmospheric teleconnection, but this recurs about once per decade in observations and historical simulations so does not yet reflect a global-warming-driven moistening of Antarctica.",
+    "journal": "Nature"
+  },
+  {
+    "id": "911796e22b0cb7e4",
+    "title": "The HydroGym reinforcement learning platform for fluid dynamics",
+    "link": "https://www.nature.com/articles/s41586-026-10917-6",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10917-6\">doi:10.1038/s41586-026-10917-6</a></p>HydroGym offers over 60 standardized reinforcement-learning flow-control environments and demonstrates zero-shot transfer to a 3D wing, cutting local skin friction by 38% and exploration costs by four orders of magnitude.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b69ed6dfeaf206c4",
+    "title": "An Icelandic pangenome reference",
+    "link": "https://www.nature.com/articles/s41586-026-10924-7",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10924-7\">doi:10.1038/s41586-026-10924-7</a></p>Newly developed methods enable construction of Icelandic haplotypes and mapping of population-scale short reads to a pangenome by reducing reference bias and improving discovery in low-mappability regions, revealing many novel variants, including pathogenic alleles.",
+    "journal": "Nature"
+  },
+  {
+    "id": "417c31157cc117a7",
+    "title": "Psychedelics align brain activity with context",
+    "link": "https://www.nature.com/articles/s41586-026-10910-z",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10910-z\">doi:10.1038/s41586-026-10910-z</a></p>The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a neural basis for the felt continuity between self and world, elucidating how the psychedelic state translates into psychological change.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ece2af55507786c2",
+    "title": "Discovery of a star sensitive to the spin of Sagittarius A*",
+    "link": "https://www.nature.com/articles/s41586-026-10894-w",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10894-w\">doi:10.1038/s41586-026-10894-w</a></p>The discovery of the fast-orbiting star S301 near Sagittarius A* offers a promising new probe of the central black hole spin of the Milky Way through relativistic orbit measurements.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5d2bed2a505f42ca",
+    "title": "Safety and security of large language models in healthcare",
+    "link": "https://www.nature.com/articles/s41586-026-10687-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10687-1\">doi:10.1038/s41586-026-10687-1</a></p>The Review examines rapid LLM adoption in clinical care, outlining emerging security and safety risks across development stages, key protective layers, clinically relevant threats and current mitigation responsibilities in a single integrated framework.",
+    "journal": "Nature"
+  },
+  {
+    "id": "afdf58846e249ba6",
+    "title": "Pervasive phosphorylation by phage T7 kinase disarms bacterial defences",
+    "link": "https://www.nature.com/articles/s41586-026-10934-5",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10934-5\">doi:10.1038/s41586-026-10934-5</a></p>The T7 bacteriophage deactivates bacterial defence systems through T7K phosphorylation of nearly all host and phage proteins during infection.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ccb8247f35dda70e",
+    "title": "A biased allosteric modulator is a molecular glue for \u03b2<sub>2</sub>AR dimerization",
+    "link": "https://www.nature.com/articles/s41586-026-10892-y",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10892-y\">doi:10.1038/s41586-026-10892-y</a></p>AP-7-168, an optimized derivative of a \u03b2-arrestin-biased negative allosteric modulator of the \u03b22-adrenergic receptor (\u03b22AR), functions as a molecular glue to stabilize \u03b22AR homodimerization.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bbe798b6de5b730e",
+    "title": "Twenty-two easy ways to power up your lab meetings",
+    "link": "https://www.nature.com/articles/d41586-026-02037-y",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02037-y\">doi:10.1038/d41586-026-02037-y</a></p>Scientists share help and advice on how they got their research discussions flowing.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cfe77bb7945a888f",
+    "title": "Virus deploys a \u2018loose cannon\u2019 enzyme to overpower bacterial defences",
+    "link": "https://www.nature.com/articles/d41586-026-02537-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02537-x\">doi:10.1038/d41586-026-02537-x</a></p>Viruses that infect bacteria must either evade or counter the defence systems of their host. The viral kinase enzyme T7K has been found to phosphorylate nearly all bacterial proteins, but its specificity for DNA-binding proteins enables it to disable defence systems that target nucleic acids.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1ccff97b1f9df5ac",
+    "title": "South Africa\u2019s scientists must register with official body or risk prison, according to draft law",
+    "link": "https://www.nature.com/articles/d41586-026-02516-2",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02516-2\">doi:10.1038/d41586-026-02516-2</a></p>Many researchers are unaware of an upcoming law that will require them to register with a regulatory body, as is the case for engineers and health-care professionals.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b89669e9d5e313b7",
+    "title": "How do people live beyond 110? Abundance of cancer-killing cells might be key",
+    "link": "https://www.nature.com/articles/d41586-026-02587-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02587-1\">doi:10.1038/d41586-026-02587-1</a></p>Research on people 110 years and older reveals an immune system that continues to adapt.",
+    "journal": "Nature"
+  },
+  {
+    "id": "af445b694d92c308",
+    "title": "Psychedelics tune the brain to the environment",
+    "link": "https://www.nature.com/articles/d41586-026-02377-9",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02377-9\">doi:10.1038/d41586-026-02377-9</a></p>Rather than just scrambling neural activity, the psychedelic substance psilocybin also reorganizes brain dynamics so as to align with a person\u2019s context and experiences.",
+    "journal": "Nature"
+  },
+  {
+    "id": "367e7e754cb7e1d2",
+    "title": "Screening babies\u2019 genomes could save lives. Here\u2019s how it would work",
+    "link": "https://www.nature.com/articles/d41586-026-02528-y",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02528-y\">doi:10.1038/d41586-026-02528-y</a></p>Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7da56c77f24aab1d",
+    "title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
+    "link": "https://www.nature.com/articles/d41586-026-02610-5",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02610-5\">doi:10.1038/d41586-026-02610-5</a></p>His calculations explain the efficiency of batteries and solar cells.",
+    "journal": "Nature"
+  },
+  {
+    "id": "02a6a50127db7d2b",
+    "title": "AI tool lets researchers \u2018vibe code\u2019 in the quantum realm",
+    "link": "https://www.nature.com/articles/d41586-026-02495-4",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02495-4\">doi:10.1038/d41586-026-02495-4</a></p>An autonomous AI agent can write and execute quantum computing code, but it sometimes needs a human touch.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4cb5a779a31e95ce",
+    "title": "Computational \u2018gym\u2019 trains AI models to control turbulence",
+    "link": "https://www.nature.com/articles/d41586-026-02375-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02375-x\">doi:10.1038/d41586-026-02375-x</a></p>The HydroGym computational environment teaches agents strategies for fluid-flow control that can be applied to scenarios they have not encountered before.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f830670d0c50abfe",
+    "title": "Delisted",
+    "link": "https://www.nature.com/articles/d41586-026-02410-x",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02410-x\">doi:10.1038/d41586-026-02410-x</a></p>Called to account.",
+    "journal": "Nature"
+  },
+  {
+    "id": "27d95e3c1184760e",
+    "title": "Human organoids that mimic brain development grown for years in lab",
+    "link": "https://www.nature.com/articles/d41586-026-02585-3",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02585-3\">doi:10.1038/d41586-026-02585-3</a></p>Models of how the brain changes over time could help researchers to understand how diseases affect the organ later in life.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9f1fa6abf031d750",
+    "title": "Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel",
+    "link": "https://www.nature.com/articles/d41586-026-02373-z",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02373-z\">doi:10.1038/d41586-026-02373-z</a></p>Engineering of polymer crystals has vastly increased the activity of these materials as catalysts for producing hydrogen fuel from water, using only sunlight.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e40b15447cdd6cfb",
+    "title": "The Antarctic ice sheet has gained mass \u2014 but probably not for long",
+    "link": "https://www.nature.com/articles/d41586-026-02376-w",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02376-w\">doi:10.1038/d41586-026-02376-w</a></p>Since 2020, snowfall has largely counterbalanced the melting of the Antarctic ice sheet. The atmospheric effect that causes this has been identified \u2014 and it\u2019s temporary.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5cf66055c0669662",
+    "title": "Daily briefing: How 3D printers are changing lab work",
+    "link": "https://www.nature.com/articles/d41586-026-02614-1",
+    "content": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02614-1\">doi:10.1038/d41586-026-02614-1</a></p>Printing custom lab tools can be cheaper than buying them. Plus, South African scientists might soon have to register with a regulatory body and what an exoskeleton-powered future might look like.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1b84581bc819f650",
+    "title": "Daily briefing: \u2018Too hot to sleep\u2019 is harmful to your health",
+    "link": "https://www.nature.com/articles/d41586-026-02600-7",
+    "content": "<p>Nature, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02600-7\">doi:10.1038/d41586-026-02600-7</a></p>Heatwave-driven sleepless nights are robbing people of a crucial aspect of health and recovery. Plus, dolphin calves learn hunting techniques from their mothers and how slavery is linked to health disparities in the United States today.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5c276ce8a9c7bad2",
+    "title": "Scalable dual-step deposition of cascaded nickel oxide enables high-efficiency inverted perovskite solar cells and mini-modules",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00319-3?rss=yes",
+    "content": "A cascaded NiOx film fabricated via a scalable dual-step CBD process establishes a gradient structure that optimizes energetic alignment and mitigates interfacial non-radiative recombination, boosting hole extraction to deliver an efficiency of 27.05% with an FF of 87%.",
+    "journal": "Joule"
+  },
+  {
+    "id": "c55035b8c4573539",
+    "title": "Molecular charge-topology electrolytes enable >630 Wh kg\u22121 lithium-metal batteries",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00318-1?rss=yes",
+    "content": "Electrolyte reduction at lithium metal limits the efficiency and lifetime of high-energy batteries. A molecular charge-topology framework links electron uptake with molecular reorganization, enabling the rational design of intrinsically stable electrolytes. The resulting electrolyte suppresses parasitic reactions, supports highly reversible lithium cycling, and enables 13.0 Ah pouch cells with energy densities above 630 Wh kg\u22121 under ultra-lean conditions.",
+    "journal": "Joule"
+  },
+  {
+    "id": "3ff3ee45a3ff1570",
+    "title": "Iron-mediated reversible lattice-oxygen redox enables stable 200\u2009Wh\u2009kg<sup>\u22121</sup> sodium-ion batteries",
+    "link": "https://www.nature.com/articles/s41560-026-02112-8",
+    "content": "<p>Nature Energy, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41560-026-02112-8\">doi:10.1038/s41560-026-02112-8</a></p>Lattice-oxygen redox can raise the energy density of layered oxide cathodes, but poor reversibility causes structural degradation and capacity loss. Here the authors use iron as a bulk redox mediator to boost oxygen-redox reversibility and stabilize high-energy sodium-ion batteries.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "6931542e49bdff3b",
+    "title": "Reticular chemistry mimics enzyme pockets",
+    "link": "https://www.nature.com/articles/s41563-026-02716-1",
+    "content": "<p>Nature Materials, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02716-1\">doi:10.1038/s41563-026-02716-1</a></p>Two metal\u2013organic frameworks, built from the same node and differing only in the twist of their tritopic linker, reorient metal sites while leaving chemistry, porosity and topology unchanged, showing that confinement can be programmed by design: the more confined framework captures nearly four times as much CO2 from air.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "8e38eaa504172388",
+    "title": "From equilibrium to ultrafast antiferromagnetism",
+    "link": "https://www.nature.com/articles/s41563-026-02686-4",
+    "content": "<p>Nature Materials, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02686-4\">doi:10.1038/s41563-026-02686-4</a></p>This Review presents a symmetry-based classification of antiferromagnetism and discusses the progress and challenges in detecting, exciting and probing the dynamics of antiferromagnets.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "b01380f7256fdda3",
+    "title": "Intranasal vaccines by precision printing",
+    "link": "https://www.nature.com/articles/s41563-026-02696-2",
+    "content": "<p>Nature Materials, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02696-2\">doi:10.1038/s41563-026-02696-2</a></p>Three-dimensional DNA origami nanocarriers with surface-patterned antigens exhibit enhanced mucosal retention and trigger potent, localized respiratory immunity against respiratory syncytial virus.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "f28aa0219f8be5d3",
+    "title": "Bridging ambient- and high-pressure superconductivity in La<sub>2</sub>LnNi<sub>2</sub>O<sub>7</sub> films",
+    "link": "https://www.nature.com/articles/s41563-026-02695-3",
+    "content": "<p>Nature Materials, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02695-3\">doi:10.1038/s41563-026-02695-3</a></p>Lanthanide substitution, ultrahigh magnetic field measurements and high-pressure studies are utilized to compare and contrast ambient- and high-pressure superconductivity in bilayer nickelate films.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "3f58d59fa2b71097",
+    "title": "Krypton-sputtered tantalum films for scalable high-performance quantum devices",
+    "link": "https://www.nature.com/articles/s41563-026-02718-z",
+    "content": "<p>Nature Materials, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02718-z\">doi:10.1038/s41563-026-02718-z</a></p>Krypton sputtering is found to promote the synthesis of body-centred-cubic tantalum films on silicon at temperatures as low as 200\u2009\u00b0C, compatible with back-end-of-line fabrication standards. Superconducting qubits based on these thin films exhibit excellent performance.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "b5be1a3483099c7e",
+    "title": "An aberration-corrected bionic eye for full-colour vision and event-driven motion detection",
+    "link": "https://www.nature.com/articles/s41563-026-02685-5",
+    "content": "<p>Nature Materials, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41563-026-02685-5\">doi:10.1038/s41563-026-02685-5</a></p>A bionic eye system based on a hemispherical tandem retina combines practical resolution, wide-band colour vision, self-powered motion detection and computational efficiency.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "31afbe65273657b5",
+    "title": "SiPu-Modified PVDF Polymer Electrolytes with Multilevel Li<sup>+</sup> Coordination for Fast Li<sup>+</sup> Transport in Solid-State Lithium\u2013Sulfur Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006082?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Hang Yang, Libo Li, Suo Li, Xiangrui Deng, Zhengyu Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "59edcacc07a24e71",
+    "title": "Lignin Side-Chain Engineering Induces Inter-Pore Reconstruction in Bamboo-Derived Hard Carbon for 2 Ah Sodium-Ion Pouch Cells with 10 C Rate Capability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600601X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yilin Wang, Shengbin Zhang, Hao Liu, Changan Li, Tianle Wang, Nairui Bai, Yixuan Mao, Zhanjun Liu, Zonglin Yi, Lijing Xie, Fangyuan Su</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e3fb96c28824e1f2",
+    "title": "Graphite edge architecture as a structural template for interphase evolution under fast charging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006094?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xuanding Wang, Bingqing Hu, Zhao Wang, Jiang Xu, Jianning Ding</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e64526aa3e3cc113",
+    "title": "Targeted editing to enclose pore structure of hard carbon crystallites for expedited sodium storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006070?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Fengxuan Wu, Mingyao Wang, Weijia He, Chen Lu, Jiaping Zhang, Mingwei Jiang, Zhuowen Liu, Xirui Wei, Rui Zhou, Jian-Gan Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c753123f09af05e2",
+    "title": "Constructing directional water nano-pathways in proton exchange membrane realizes holistic and flexible water management of fuel cells and water electrolyzers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006269?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xiaoyang Wang, Xin Liu, Jiandang Xue, Yichao Lin, Hetang Wang, Kun Yao, Xiaomin Xu, Dongxiao Han, Bao Li, Yanzhou Qin, Yuejia Li, Zilan Jin, Jiade Chang, Zhenchao Li, Xiaoyu Zhang, Tianbao Zhao, Gongping Liu, Wanju Luo, Yanan Chen, Qilun Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b852cde72081c9c2",
+    "title": "Polarity and Symmetry Engineering Enables Lateral MoS<sub>2</sub> p-n Homojunctions for Polarization-Sensitive Self-Powered Photodetection and Array Imaging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006282?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Wenbo Peng, Xingyu Zhang, Yicong Xu, Mingyang Bai, Tao Wang, Yuhao Chen, Aolin Liu, Minghua Wang, Yuanzheng Zhang, Haiwu Zheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "beeef9f83ea9ef2a",
+    "title": "Self-Sustained Hybrid Road Units Enabling Continuous and Autonomous Roadway Perception Networks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006270?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 19 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yun Ke, Siyang Zhang, Liwei Dong, Binwen Xiao, Renhao Ni, Mingyuan Gao, Ping Wang, Fan Yang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1bec2b1b9fa4b2a8",
+    "title": "\u201cShadow Mask\u2010Based RGB Color Patterning in QLED Panels via Selective Quenching by Metals\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70987?af=R",
+    "content": "A shadow mask\u2010based RGB color\u2010patterning approach for QLED panels is presented, in which ultrathin metal layers (1\u20132 nm) are deposited through shadow masks to selectively quench the luminescence of QD layers in a tandem stack. This enables different regions to emit different colors under electrical bias, offering a scalable route compatible with established fine metal mask OLED manufacturing processes.\n\n\n\n\n\n\n\n\nABSTRACT\nHigh\u2010resolution color patterning of Quantum Dot Light\u2010Emitting Devices (QLEDs) remains a challenge, since solution\u2010based methods lack the resolution for subpixel patterning and other strategies often reduce scalability or device performance. In this work, we introduce and present results from a new shadow mask\u2010based RGB color\u2010patterning approach for QLED panels. This approach uses very thin metal layers, only 1\u20132\u00a0nm thick, that can be readily deposited through shadow masks to selectively quench luminescence from areas of a tandem stack containing multiple QD layers, enabling different regions of the stack to emit different colors when bias is applied. Photoluminescence, optical transmittance, and topographic measurements are used to study the effect of depositing ultrathin metal layers on the luminescence properties of QD films. Results from red\u2010 and green\u2010emitting QLEDs formed side by side on the same substrate using this approach are presented, demonstrating its feasibility for color patterning. Because the patterning is realized through thermal evaporation of metals using shadow masks, the approach is inherently compatible with established fine metal mask (FMM) RGB patterning processes used in OLED manufacturing, indicating that pixel resolutions similar to those of OLED displays can be readily obtained in QLED displays without necessitating alternative patterning strategies.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "24489dbbd36678a6",
+    "title": "Topologically Robust New Silica Phase Decoupling Intrinsic Zero\u2010Strain Feature and High\u2010Capacity Li+ Storage",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70989?af=R",
+    "content": "Topologically robust silica (TRS) reconciles high lithium\u2010storage capacity with minimal structural deformation. Its rigid Si\u2013O framework and large open cavities deliver \u223c800 mAh g\u22121 while limiting strain to \u223c1.5%, bridging the gap between low\u2010capacity zero\u2010strain Li4Ti5O12 and high\u2010capacity, severely expanding conventional silicon\u2010based anodes.\n\n\n\n\n\n\n\n\nABSTRACT\nConventional silicon\u2010based anodes present high specific capacity but show huge volume expansion, whereas the zero\u2010strain anodes generally show low specific capacity, presenting the zero\u2010strain and capacity paradox. Here, inspired by the typical zero\u2010strain anodes (such as Li4Ti5O12) and the high specific capacity of silicon\u2010based anodes, we report a new topologically robust silica phase (TRS) that enables an intrinsic zero\u2010strain feature with high lithium\u2010ion storage performance by fundamentally decoupling capacity from volume expansion. TRS features rigid Si\u2010O bonds with large topological rings, providing sufficient internal space and mechanical robustness to accommodate numerous lithium\u2010ions and achieving an intrinsic zero\u2010strain feature simultaneously. Comprehensive in\u2010situ transmission electron microscope (TEM), in\u2010situ Raman and in\u2010situ X\u2010ray diffraction (XRD) confirm its zero\u2010strain nature, exhibiting constant phase and lattice parameters during (de)lithiation, and revealing reversible lithium\u2010ion solid\u2010solution storage. The TRS anode delivers a high reversible capacity and energy density, which are higher than those of typical reported zero\u2010strain and graphite anodes, and maintains exceptional cycling stability. This topological structural strategy provides a new paradigm for designing next\u2010generation anodes with zero\u2010strain and high lithium\u2010ion storage performance.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "bbec69a34308894b",
+    "title": "Top\u2010Down Synthesis of Wurtzite Gallium Nitride Colloidal Quantum Dots via Defect\u2010Driven Fragmentation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70956?af=R",
+    "content": "Conventional synthesis of wurtzite gallium nitride (GaN) quantum dots (QDs) demands extreme heat. We overcome this via defect\u2010driven fragmentation at 50\u00b0C. Nitrogen\u2010rich solvents provide a thermodynamic driving force that promotes the outward movement of internal defects. These migration paths evolve into structural channels, causing the bulk crystal to subdivide into high\u2010purity QDs.\n\n\n\n\n\n\n\n\nABSTRACT\nThe synthesis of colloidal gallium nitride (GaN) quantum dots (QDs) is limited by the instability of organic ligands at the high GaN crystallization temperatures. Here, we report a top\u2010down, defect\u2010driven fragmentation strategy that yields high\u2010purity colloidal GaN QDs at 50\u00b0C and ambient pressure. This process is facilitated by nitrogen\u2010containing organic solvents, which we propose lower the energy barrier for native point defect segregation to the crystal surface, thereby promoting controlled structural subdivision. Defect extraction is supported by the progressive suppression of deep\u2010level defect luminescence and the emergence of sharp, quantum\u2010confined emission with a full width at half maximum of 38.8\u00a0nm. Direct observation of crystal fragmentation via identical\u2010location transmission electron microscopy corroborates the mechanism. Post\u2010synthesis analysis reveals extensive crystallite subdivision and the formation of surface Ga2+ states. This strategy offers a scalable route to high\u2010quality GaN QDs and provides a foundation for exploring the defect\u2010mediated synthesis of nanostructures from other chemically robust semiconductors.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "be7e80e6731f4b07",
+    "title": "\u201cWire\u2010Print\u201d as a New Sample Preparation Procedure for Accurate Morphological and Chemical Analysis of Particles and Flakes With Microscopy and Spectroscopy Methods",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70984?af=R",
+    "content": "A new method enables reproducible sample preparation via so\u2010called \u201cwire\u2010print\u201d deposition. It is characterized by ease of handling and is compatible with most substrates and suspensions. Furthermore, it allows for both the morphological analysis of separated flocs and particles and the chemical examination of compact, thick wire\u2010print spots.\n\n\n\n\n\n\n\n\nABSTRACT\nThe newly developed \u201cwire\u2010print\u201d method is a fast, repeatable and flexible sample preparation procedure aimed at depositing isolated particles or flakes on a substrate for morphological/dimensional analysis, but also for the analysis of the chemical composition. The method was successfully tested on graphene\u2010related 2D materials (GR2M) and a set of representative reference particles with sizes in nano\u2010 and micrometer range. Due to their complex morphology and chemistry, the accurate characterization of GR2M is challenging and no standard sample preparation procedure is available. In terms of deposited volume (down to well below 1 nL) and area (down to tens of \u00b5m), wire\u2010print is similar to the piezoelectrical\u2010driven inkjet printing, but without applying shearing forces to the suspension. It allows for high\u2010throughput and repeatable deposition of most particulate materials from liquid dispersion as isolated objects onto a substrate. For chemical analysis with Energy\u2010Dispersive X\u2010Ray Spectroscopy (EDS) or X\u2010Ray Photoelectron Spectroscopy (XPS), wire\u2010printing of \u00b5m\u2010thick and compact spots is also demonstrated. The very short drying times of tiny volumes of suspension imposed by wire\u2010printing lead to the significant reduction or even disappearance of the typical coffee\u2010ring effect and thus, to a more homogeneous deposition.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "89d4350a2c7661b6",
+    "title": "Photothermal Reprogramming of In Vivo Protein Corona on Nanoparticles for Enhanced Breast Cancer Nanotherapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70960?af=R",
+    "content": "This work develops a photothermal strategy for in vivo protein corona reprogramming of theranostic BBT nanoparticles (NPs). Localized photothermal heating dynamically enriches dysopsonins on the NP surface to evade mononuclear phagocyte system clearance, significantly prolongs circulation half\u2010life, and enhances tumor accumulation of BBT NPs, ultimately improving photothermal antitumor efficacy in breast cancer.\n\n\n\n\n\n\n\n\nABSTRACT\nNanomedicines hold great promise for breast cancer theranostics; however, their therapeutic efficacy is frequently compromised by spontaneous protein corona formation in complex physiological environments. Herein, we develop a photothermal strategy for in vivo protein corona reprogramming to enhance nanoparticle (NP) accumulation and anticancer efficacy. This strategy utilizes theranostic BBT (4,7\u2010bis(4\u2010(2\u2010ethylhexyl)thiophen\u20102\u2010yl)benzobis[c][1,2,5]thiadiazole) NPs featuring superior photothermal conversion, stacking\u2010induced charge transfer\u2010enhanced Raman scattering (SICTERS), and photoacoustic imaging capabilities, enabling localized photothermal heating for controlled protein corona regulation and real\u2010time efficacy monitoring. In orthotopic breast cancer models, we demonstrated that localized photothermal heating dynamically reprogrammed protein corona composition in an irradiation time\u2010dependent manner, resulting in significant enrichment of dysopsonins (e.g., albumin and apolipoprotein A\u2010I) on BBT NPs. This compositional remodeling effectively shielded BBT NPs from the mononuclear phagocyte system surveillance. Real\u2010time Raman and photoacoustic imaging revealed that photothermally regulated BBT NPs exhibited a significantly prolonged circulation half\u2010life (from 19.3 to 48.4\u00a0h), reduced hepatic sequestration, and enhanced tumor accumulation relative to untreated controls. Consequently, this in vivo protein corona reprogramming strategy notably improved the photothermal antitumor efficacy of BBT NPs. This work establishes photothermal regulation as a promising modality for optimizing NP delivery efficiency, with broad implications for enhancing nanomedicine\u2010based cancer therapy.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
