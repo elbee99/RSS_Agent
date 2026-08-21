@@ -1230,5 +1230,117 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70960?af=R",
     "content": "This work develops a photothermal strategy for in vivo protein corona reprogramming of theranostic BBT nanoparticles (NPs). Localized photothermal heating dynamically enriches dysopsonins on the NP surface to evade mononuclear phagocyte system clearance, significantly prolongs circulation half\u2010life, and enhances tumor accumulation of BBT NPs, ultimately improving photothermal antitumor efficacy in breast cancer.\n\n\n\n\n\n\n\n\nABSTRACT\nNanomedicines hold great promise for breast cancer theranostics; however, their therapeutic efficacy is frequently compromised by spontaneous protein corona formation in complex physiological environments. Herein, we develop a photothermal strategy for in vivo protein corona reprogramming to enhance nanoparticle (NP) accumulation and anticancer efficacy. This strategy utilizes theranostic BBT (4,7\u2010bis(4\u2010(2\u2010ethylhexyl)thiophen\u20102\u2010yl)benzobis[c][1,2,5]thiadiazole) NPs featuring superior photothermal conversion, stacking\u2010induced charge transfer\u2010enhanced Raman scattering (SICTERS), and photoacoustic imaging capabilities, enabling localized photothermal heating for controlled protein corona regulation and real\u2010time efficacy monitoring. In orthotopic breast cancer models, we demonstrated that localized photothermal heating dynamically reprogrammed protein corona composition in an irradiation time\u2010dependent manner, resulting in significant enrichment of dysopsonins (e.g., albumin and apolipoprotein A\u2010I) on BBT NPs. This compositional remodeling effectively shielded BBT NPs from the mononuclear phagocyte system surveillance. Real\u2010time Raman and photoacoustic imaging revealed that photothermally regulated BBT NPs exhibited a significantly prolonged circulation half\u2010life (from 19.3 to 48.4\u00a0h), reduced hepatic sequestration, and enhanced tumor accumulation relative to untreated controls. Consequently, this in vivo protein corona reprogramming strategy notably improved the photothermal antitumor efficacy of BBT NPs. This work establishes photothermal regulation as a promising modality for optimizing NP delivery efficiency, with broad implications for enhancing nanomedicine\u2010based cancer therapy.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "8174746d1816ee9c",
+    "title": "Synergistic Anode Engineering for Aqueous Aluminium Ion Batteries: From Mechanistic Understanding to Computationally Accelerated Design",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71445?af=R",
+    "content": "Mechanistic anode engineering for aqueous aluminium\u2010ion batteries is discussed through alloying and microstructure control, surface/interface engineering, and electrolyte modification to regulate ion transport, suppress dendrites, passivation, hydrogen evolution, and side reactions, highlighting standardisation, computational acceleration, and integrated multifunctional design strategies.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous aluminium\u2010ion batteries (AAIBs) combine attractive safety, low cost, and high volumetric capacity, yet their progress is limited by instability at the anode\u2010electrolyte interface. In aqueous media, aluminium reversibility is compromised by a cluster of intertwined processes, including hydrogen evolution, corrosion, passivation, and non\u2010uniform deposition. Addressing these issues through simple, scalable approaches is essential for AAIBs to move beyond laboratory research. In this review, we critically examine recent literature with a specific emphasis on studies in which one practical intervention alleviates more than one anode\u2010side failure mode. Through a\u00a0discussion of the underlying mechanisms, this review provides a straightforward yet in\u2010depth understanding of anode optimisation strategies, bridging concepts across materials science, electrochemistry, and interface engineering. Practically, these approaches are organized into three categories: alloying and compositing, surface and interface engineering, and electrolyte modification. Mechanistically, these pathways converge on three main directions: (1) designing heterostructured anodes to regulate ion transport, (2) constructing protective solid electrolyte interphases in situ or ex situ, and (3) suppressing hydrolysis or reinforcing O\u2500H bonds to block parasitic reactions. Through linking mechanistic understanding with anode materials design and electrochemical strategies, this review points to the pathways for AAIBs toward durable performance and application in sustainable energy storage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4cb13cbd02b442b1",
+    "title": "Unraveling Phase Evolution Pathways and Sequential Multi\u2010Metal Reduction Mechanisms in Over\u2010Lithiated NCM Cathodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71435?af=R",
+    "content": "This work proposed a unified over\u2010lithiation model for NCM cathodes, comprising an intercalation region and a subsequent destructive conversion region. During intercalation, excess lithium inserts via sequential multimetal reduction\u2014initiated by Ni3+/2+ or Co3+/2+ at the first plateau, then dominated by Mn4+/2+ at the second plateau. In the conversion region, unstable TM0 formation collapses the layered structure, enhancing lattice strain and accelerating capacity loss.\n\n\n\n\n\n\n\n\nABSTRACT\nLayered ternary oxide cathodes (NCM) play a vital role in advancing lithium batteries, yet their accessible capacity is limited by conventional lithium stoichiometry. Driving NCM cathodes into the over\u2010lithiated regime Li1+xNCM enables excess lithium storage and higher energy density. However, the underlying mechanisms are poorly understood due to compositional complexity and coupled multi\u2010metal redox chemistry. Herein, we established a unified over\u2010lithiation model encompassing NCM cathodes across various compositions (NCM333/523/811, etc.), categorizing the over\u2010lithiation process into intercalation reaction region and conversion reaction region. In the intercalation region, excess lithium is accommodated within the layered structure through a composition\u2010dependent sequential reduction mechanism. Equimolar Ni\u2010Mn NCM333 initiates over\u2010lithiation via Co3+ reduction at the first intercalation plateau, followed by dominant Mn4+ reduction at the second plateau. In contrast, Ni\u2010Mn non\u2010equimolar compositions preferentially undergo sequential Ni3+ and Co3+ reduction, while Mn4+ reduction is largely deferred. Upon deeper lithiation, all compositions converge to a universal conversion reaction region, characterized by the formation of unstable metallic species, severe lattice strain, and irreversible structural degradation. This work establishes a mechanistic framework for over\u2010lithiation in layered NCM cathodes, providing general principles for accessing capacity beyond conventional intercalation chemistry toward high\u2010energy lithium batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "804a16a04f8b0993",
+    "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+    "link": "https://www.nature.com/articles/d41586-026-02626-x",
+    "content": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02626-x\">doi:10.1038/d41586-026-02626-x</a></p>Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+    "journal": "Nature"
+  },
+  {
+    "id": "962065dabe6185ea",
+    "title": "Earth-shaking thunder probes underground geology",
+    "link": "https://www.nature.com/articles/d41586-026-02596-0",
+    "content": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02596-0\">doi:10.1038/d41586-026-02596-0</a></p>Seismologists measured the varying speeds of a \u2018thunderquake\u2019 to survey an area with little seismic activity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a04910a3bb567ab8",
+    "title": "Why we must stop talking about artificial general intelligence \u2014 and instead build \u2018pro-worker\u2019 AI",
+    "link": "https://www.nature.com/articles/d41586-026-02566-6",
+    "content": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02566-6\">doi:10.1038/d41586-026-02566-6</a></p>Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a05aa880d388b4e7",
+    "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+    "link": "https://www.nature.com/articles/d41586-026-02352-4",
+    "content": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02352-4\">doi:10.1038/d41586-026-02352-4</a></p>The case is the latest example of a scientific workhorse being misused in experiments.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c94ed6919c71dad5",
+    "title": "Daily briefing: People older than 100 have more cancer-killing cells",
+    "link": "https://www.nature.com/articles/d41586-026-02617-y",
+    "content": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02617-y\">doi:10.1038/d41586-026-02617-y</a></p>Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
+    "journal": "Nature"
+  },
+  {
+    "id": "32e65bc16de3fcaf",
+    "title": "Low-Spin Mn<sup>3+</sup> Chemistry Enables Jahn-Teller-Resistant MnO<sub>2</sub> Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006173?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 21 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jintao Wang, Minjian Zhao, Jinwen Xu, Lianghan He, Libin Zhang, Xin Wang, Xiangyu Wang, Kun Ding, Haimei Liu, Yonggang Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "1e69c399f383380b",
+    "title": "In Situ Electrochemically Driven A-Site Substitution Suppresses the Jahn\u2013Teller Distortion for Long-Life Manganese-Based Prussian Blue Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006124?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yixuan Wang, Bin Ye, Ling Li, Hong Kang, Jialong Shen, Junpeng Sun, Zhen Li, Rong Huang, Yu Yao, Xiaojun Wu, Xianhong Rui, Hai Yang, Yan Yu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "f6fc8b118ea50a63",
+    "title": "Triple-Anchoring Binder for Improved Cyclability of Dry-Processed NCM811 Cathodes in Lithium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006100?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Mengge Lv, Ran Zhao, Ximin Zhai, Zhifan Hu, Jingjing Yang, Xiaomin Han, Xiying Wang, Xingzhao Zhang, Xinran Wang, Huanli Sun, Chuan Wu, Ying Bai</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "26fd5822b6401f7f",
+    "title": "Molecular Engineering of Amine-Crosslinked Poly(Acrylic Acid) Binder for Robust Si Anodes in Lithium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006161?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xuansheng Wu, Xueao Jiang, Yang Lv, Weijian Liu, Qili Su, Xiwen Wang, Zhe Li, Haijing Liu, Shiguo Zhang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "07efaae528758197",
+    "title": "Intramolecular Redox-Site Interplay Effect on Organic Electrode for Fast-Charging and Wide-Temperature-Range Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006112?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Pan Yang, Yawei Gao, Kangxuan Xia, Bowen Zhao, Chengxiang Chen, Jinghao Huang, Nihao Cai, Xiaohao Jia, Haoming Luo, Han Yu, George Arubi Akpowu, Steven Lam, Amanda L. Musgrove, Vaidya M. Sethuraman, Gabriel M. Veith, Yun Yu, Peng Zhao, Fuwu Zhang, Enyuan Hu, Lei Cheng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "17a97779982b82ca",
+    "title": "On the discoveries of nanogenerators and piezotronics - A reflection at the 20<sup>th</sup> anniversary",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006312?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 21 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zhong Lin Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "928fdee4330061b2",
+    "title": "Reconstructing layered vanadium oxides with accelerated desolvation and electrostatic cation traps enables rapid Zn<sup>2+</sup> storage at ultralow temperatures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006294?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Han Huang, Meijia Qiu, Hongxu Zhang, Huanyong Li, Peng Sun, Wenjie Mai</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1f47b5db4360c863",
+    "title": "Contact-Electro-Dynamic Therapy Combats Oral Squamous Cell Carcinoma by Inducing Mitochondrial Dysfunction and Global Metabolic Collapse",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006300?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Rujie Shi, Yumeng Ai, Quanbin Dai, Jinhao Xu, Zhixiang Le, Jianjun Wu, Kun Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "be05a74dbd78796e",
+    "title": "Volcano-Type Dependence of Bidirectional Catalysis and Dendrite Suppression on Heterostructure Engineering in Li\u2013S Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006191?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 August 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yan Guo, Zheng Shu, Yike Huang, Bo Li, Junpo Guo, Yun Zheng, Jingjun Shen, Ruifeng Zheng, Sen Ding, Jincheng Xu, Wen Lei, Gaoran Li, Huaiyu Shao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
