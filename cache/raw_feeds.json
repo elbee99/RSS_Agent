@@ -61,5 +61,327 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70992?af=R",
     "content": "Enlarged dynamic mismatch is proved to induce the dendrite generation during Zn plating. A dynamic match regulation strategy is proposed as an effective approach to construct dendrite\u2010free Zn anodes. The electrolyte regulated by imidazolidinyl urea enables uniform deposition under 10 mAh cm\u22122, contributing to Zn anodes with high reversibility (99.7% CE) and long lifetime (1700 h).\n\n\n\n\n\n\n\n\nABSTRACT\nThe undesirable Zn\u2010dendrite growth seriously impedes the development of aqueous zinc metal batteries. Compared to thermodynamic improvements reported in most strategies, kinetic manipulation is neglected, limiting the deep research on metal plating process and narrowing the solution design for dendrite\u2010free anode. In this work, a dynamic match regulation strategy is proposed to build dendrite\u2010free zinc anode inspired by the close association between dendrite formation and dynamic mismatch. The dynamic transition is proved to reflect the morphology change from block deposits to dendrite growth. Then, imidazolidinyl urea, is developed as interfacial regulator to restrict the kinetic gap between charge transfer and interfacial diffusion and ensure consistent dynamic model during continuous plating, contributing to uniform deposition layer without dendrite generation under a high capacity of 10 mAh cm\u22122. The Zn anode also delivers both high CE of over 99.70% and extended lifetime of 1700\u00a0h under 20%DOD. This work not only proves the effectiveness of kinetic regulation in dendrite suppression, but also provides a new dimension of interfacial dynamic design for metal anode stabilization.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "8de2a97138143fab",
+    "title": "Challenges and Design Strategies Toward Aqueous Zinc\u2010Ion Batteries Beyond Laboratory",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71454?af=R",
+    "content": "The practical applications of aqueous ZIBs remain hindered by the gap between laboratory\u2010scale breakthroughs and industrial requirements. This review summarizes key challenges, including energy density, fast charging, cycling stability, and temperature adaptability, and discusses recent strategies in cathodes, zinc anodes, electrolytes, and separators toward practical ZIBs.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous zinc\u2010ion batteries (ZIBs) are widely regarded as one of the most promising candidates for next\u2010generation large\u2010scale energy storage due to their high safety, cost\u2010effectiveness, and environmental benignity. Despite recent progress in materials design and interfacial chemistry, practical deployment remains hindered by the gap between laboratory\u2010scale breakthroughs and industrial requirements. In this review, the critical bottlenecks hindering the practical application of aqueous ZIBs are analyzed from the perspectives of energy density, fast\u2010charging capability, cycling stability, and wide\u2010temperature adaptability. The main limitations underlying these challenges, together with their physicochemical origins, are discussed. This is followed by the corresponding approaches involving cathode design, zinc anode regulation, electrolyte optimization, and separator modification for addressing these issues and challenges. Finally, fundamental perspectives on future development pathways toward practical application of high\u2010energy, safety, and long\u2010life aqueous ZIBs are presented.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "538ae7c5ce59c554",
+    "title": "Rationally Designed Cooperative Self\u2010Assembled Monolayers Enable Holistic Modulations of Wide\u2010Bandgap Perovskites for High\u2010Performance Perovskite\u2010Silicon Tandem Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71512?af=R",
+    "content": "A cooperative self\u2010assembled monolayer consisting of a methoxy\u2010long\u2010chain alkyl molecule and a traditional carbazole molecule enables holistic modulations of the bulk, buried interface, and top surface properties of perovskite film, leading to substantial efficiency improvements of single\u2010junction wide\u2010bandgap perovskite solar cells (24.11%) and associated perovskite\u2010silicon tandem devices (32.16%).\n\n\n\n\n\n\n\n\nABSTRACT\nPerovskite\u2010silicon tandem solar cells hold great promise for the development of next\u2010generation cost\u2010effective photovoltaic technologies, and their performance gains largely rely on advanced materials and interface engineering of wide\u2010bandgap perovskite sub\u2010cells. Herein, we develop a cooperative self\u2010assembled monolayer (co\u2010SAM) strategy by incorporating a rationally designed alkyl\u2010phosphonic acid, 12\u2010methoxydodecylphosphonic acid (MeODPA), into commonly used carbazole\u2010based SAMs, leading to an obvious enhancement in the performance of single\u2010junction wide\u2010bandgap (WBG) (1.68\u00a0eV) and tandem PSCs. We demonstrate that the methoxy terminal group and flexible alkyl chain of MeODPA synergistically improve substrate wettability and molecular coverage of SAMs on the buried substrate, promoting perovskite crystallization and stabilizing the buried interfacial contacts. Moreover, we uncover a previously overlooked function of the co\u2010SAMs in regulating the PbI2 distribution at the top surface, which facilitates more effective surface passivation, leading to improved light stability of resultant perovskite films. Leveraging these advancements, we fabricate single\u2010junction WBG and perovskite\u2010silicon tandem devices with exceptional power conversion efficiencies (PCEs) of 24.11% and 32.16%, respectively. This work provides a comprehensive understanding of the coordinated effects of co\u2010SAM on bulk and dual\u2010interface properties of perovskite films, offering valuable insights for further performance improvements of both single\u2010junction and tandem perovskite photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d03e0db0ad1f1a8b",
+    "title": "Ultrafast Synthesis of High\u2010Purity LiMnxFe1\u2010xPO4 With Locked\u2010Nanosize From Spent LiFePO4",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71487?af=R",
+    "content": "The spent LiFePO4 (S\u2010LFP, left) suffers from prevalent lithium vacancies. To address this, a stoichiometric compensation of Li, Mn, and P precursors is introduced. A rapid heating technique is then employed to mitigate lithium sources/carbon loss and suppress grain growth, successfully regenerating S\u2010LFP into well\u2010ordered LiMnxFe1\u2212xPO4 cathode (right) with a complete crystal structure.\n\n\n\n\n\n\n\n\nABSTRACT\nThe impending wave of large\u2010scale spent LiFePO4 (S\u2010LFP) batteries makes the recycling and reuse of their materials an urgent priority. However, materials recovered via existing direct regeneration methods suffer from inferior performance and low added\u2010value, which directly leads to poor economic viability and hinders the establishment of a closed\u2010loop recycling process. Herein, we propose an innovative upcycling strategy that directly converts S\u2010LFP into high\u2010voltage, high\u2010energy\u2010density LiMnxFe1\u2212xPO4 (LMFP) cathode via rapid thermal processing. This method simultaneously accomplishes structural repair and homogeneous Mn doping within seconds, effectively suppressing grain coarsening and lithium sources/carbon loss, and enabling the regeneration of a solid solution with precisely controlled composition. Consequently, the regenerated LMFP delivers a remarkable specific capacity of 161 mAh g\u22121 at 0.1C, exceptional cycling stability (98% capacity retention after 500 cycles at 1C), and superior rate capability (79% retention at 5C). Notably, this process slashes energy consumption by approximately 30%,\u00a0to 19.09\u00a0MJ kg\u22121 and promises a high profit of USD 7.17 per kg feedstock, demonstrating both environmental and economic superiority. This work opens a new technical pathway for the low\u2010carbon and value\u2010added upcycling of spent LFP batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d1383b161f189fb9",
+    "title": "Multi\u2010Scale Lattice Strain Engineering Enables Reduced Deformation Potential and High Thermoelectric Performance in GeTe Alloys",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71495?af=R",
+    "content": "A dopant\u2010free, multi\u2010scale lattice\u2010strain strategy simultaneously increases lattice symmetry and preserves ordered domain boundaries in Ge0.94Bi0.06Te. The engineered strain reduces the deformation potential, prolongs carrier relaxation time, and strongly suppresses lattice thermal conductivity, enabling decoupled electron\u2013phonon transport. Consequently, a high peak ZT value and an improved device efficiency are achieved.\n\n\n\n\n\n\n\n\nABSTRACT\nChemical doping is a widely adopted strategy for optimizing carrier concentration and tailoring the electronic band structure in thermoelectric (TE) materials. However, in intrinsically cation\u2010deficient systems such as p\u2010type GeTe, its effectiveness is often limited because the coexistence of abundant Ge vacancies and aliovalent dopants intensifies charge\u2010carrier scattering, thereby deteriorating carrier mobility (\u00b5). Herein, we report a facile dopant\u2010free strategy to enhance the TE performance of Ge0.94Bi0.06Te through the construction of multi\u2010scale lattice strain. Increasing lattice symmetry and preserving ordered domain boundaries, combined with reduced deformation potential and prolonged carrier relaxation time, thereby improving \u00b5 and further boosting weighted mobility (\u00b5W) and power factor. Moreover, the engineered multi\u2010scale lattice defects strongly suppress lattice thermal conductivity (\u03balat), yielding an increased \u00b5W/\u03balat ratio within the optimal carrier concentration range, indicating weakened electron\u2010phonon coupling. Consequently, the peak figure of merit (ZT) of 2.21 and average ZT of 1.4 over 303\u2013803 K are achieved. Furthermore, a single\u2010stage TE device fabricated using this material attains a conversion efficiency of 7.83% at a temperature difference of 400 K. This work highlights the effectiveness of strain engineering in decoupling electronic and phononic transport and demonstrates its broad applicability for developing high\u2010performance TE materials.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f0dda9b4a3ba94f0",
+    "title": "Composite Hydrogels With Controlled Liquid Metal Release for Dendrite\u2010Free Zinc Anodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71504?af=R",
+    "content": "A liquid metal\u2010loaded PVA hydrogel controllably releases LM to construct an in situ protective interface, preventing Zn anode embrittlement while regulating Zn (103) deposition and dissolving dendrites. The stabilized Zn anodes achieve an ultralong lifespan of 6000 h, highlighting a promising strategy for flexible and wearable energy\u2010storage applications.\n\n\n\n\n\n\n\n\nABSTRACT\nRechargeable aqueous zinc\u2010ion batteries offer a cost\u2010effective and safe solution for large\u2010scale energy storage. However, uncontrolled Zn dendrite growth, parasitic hydrogen evolution, and poor Zn plating/stripping reversibility still limit their practical deployment. Herein, a Ga\u2010In liquid metal\u2010containing hydrogel electrolyte is designed to stabilize the Zn anode. The controlled release of liquid metal regulates the Zn/electrolyte interfacial environment, promotes preferential Zn deposition along the (103) plane, and alleviates structural embrittlement, thereby improving long\u2010term interfacial stability. Meanwhile, liquid metal released within the hydrogel facilitates the dissolution of Zn dendrites, reducing the risk of internal short circuits. As a result, Zn symmetric cells using the designed hydrogel electrolyte deliver stable cycling for 6000\u00a0h at 1\u00a0mA cm\u22122 and 1 mAh cm\u22122. Moreover, Zn || NH4+\u2010V2O5 full cells operate steadily for over 1750\u00a0h at 200\u00a0mA g\u22121 with 85% capacity retention. These results demonstrate that a hydrogel electrolyte with controllable liquid metal release provides an effective strategy for stabilizing Zn anodes in aqueous zinc\u2010ion batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "1bb52ace4c8456e7",
+    "title": "Molecular Regulation toward SAM/Perovskite Interface for Efficient p\u2010i\u2010n Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71482?af=R",
+    "content": "Two asymmetric SAMs (LW\u20101, LW\u20102) are designed for regulating the bottom interface of inverted perovskite solar cells via hydrogen bonding and coordination passivation. Different Cl\u2212 position is found to remarkably affect interfacial properties. LW\u20101 yields higher FAPbI3 crystallinity, lower trap densities and superior charge collection, presenting 26.38% PCE (26.0% steady\u2010state PCE) and better operational stability at 60\u00b0C.\n\n\n\n\n\n\n\n\nABSTRACT\nPerovskite solar cells with a typical layered structure, defects and unsatisfied energy band arrangement at the interfaces have significantly affected carrier extraction/transportation even device stability. Therefore, appropriate interface modification is essential for constructing efficient and stable devices. In this work, we designed two asymmetric SAM materials, LW\u20101 and LW\u20102, to regulate the bottom interface of inverted perovskite solar cells, including passivating the FTO/SAM buried interface and the bottom interface of perovskite films by their substituted groups (Cl\u2212 and S2\u2212). Typically, Cl\u2212 substitution positions were found to have remarkable impact on dipole moment and interfacial properties, and detailed discussion about these effects has been carried out. More uniform perovskite grains and higher crystallinity on the LW\u20101 substrate were obtained, thus leading to lower trap densities of the perovskite bulk and the perovskite interface and higher charge collection efficiency (\u03b7C). Consequently, LW\u20101 based devices exhibited 26.38% efficiency, outperforming corresponding LW\u20102 based devices. Moreover, LW\u20101 based devices exhibited steady\u2010state output efficiency of 26.0% and maintained 90.9% of its original efficiency after 500 h MPP operational stability testing under 60 \u00b0C heating, continuous illumination from a white LED lamp and bias voltage close to the maximum power point voltages.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2342d44871fb9ca7",
+    "title": "Delocalized Li2MnO3\u2010Like Domains for Enhanced Structural Stability in 4.2\u00a0V\u2010Class O3\u2010Type Sodium Layered Cathodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71496?af=R",
+    "content": "Li/Sn co\u2010doping induces the formation of delocalized Li2MnO3\u2010like domains in O3\u2010type NaNi0.5Mn0.5O2. These local structural features stabilize lattice oxygen by suppressing O\u2013O dimer formation and inhibit in transition metal migration, thereby enhancing structural robustness and maintaining a stable framework during electrochemical cycling.\n\n\n\n\n\n\n\n\nABSTRACT\nNi/Mn\u2010based O3\u2010type layered oxides are promising high\u2010energy\u2010density cathodes for sodium\u2010ion batteries, yet their practical application at high voltages is hindered by irreversible oxygen redox and structural degradation. Herein, we demonstrate that Li/Sn co\u2010doping in O3\u2010NaNi0.5Mn0.5O2 induces the formation of delocalized Li2MnO3\u2010like domains, deviating from the conventional random substitution model. These domains comprise spatially dispersed Li\u2010centered local configurations (e.g., LiMn6, LiNiMn5, LiSnMn5) and serve as structural pillars within the layered framework. Multimodal characterizations\u00a0reveal that these domains regulate both local structure and electronic configuration. Charge compensation is dominated by Ni redox, while lattice oxygen participation, irreversible oxygen redox, and O\u2013O dimer formation are effectively suppressed. Meanwhile, the stabilized local structure inhibits transition metal migration, mitigates layer gliding, and suppresses c\u2010axis contraction, enabling a reversible O3\u2010P3\u2010O3 phase transition. The optimized cathode delivers 98.06% capacity retention after 100 cycles at 0.1C and 82.42% after 200 cycles at 1C. This work provides atomic\u2010scale insights and a promising strategy for designing high\u2010performance sodium layered cathodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b2b45c5adf102107",
+    "title": "Empowering Triboelectric Nanogenerators With Origami and Kirigami Mechanics: From Metamaterials to Self\u2010Powered Systems",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71484?af=R",
+    "content": "Origami\u2010 and kirigami\u2010inspired structures significantly enhance triboelectric nanogenerators by coupling mechanical deformation with electrical output. Their folding and cutting geometries enable efficient contact\u2010separation behavior and stretchability for complex interfaces. This review proposes a unified design framework linking application requirements, structural mechanics, and triboelectric performance, and highlights emerging opportunities for energy harvesting, sensing, and scalable self\u2010powered systems.\n\n\n\n\n\n\n\n\nABSTRACT\nOrigami\u2010 and Kirigami\u2010inspired structures have emerged as transformative strategies for enhancing the performance and versatility of triboelectric nanogenerators (TENGs). Their folding mechanisms facilitate efficient for contact\u2010separation TENGs, as well as their geometric patterns provide essential stretchability for complex interfaces. This review emphasizes that the core mechanism of these architectures lies in their ability to bridge mechanical deformation and electrical output of TENGs. On this basis, we summarize the representative origami and kirigami configurations and their mechanical characteristics. More importantly, we propose a general design framework to clarify how these structural strategies adapt to different operating conditions by leveraging their inherent mechanical characteristics. Typical applications include blue energy harvesting, vibration and biomechanical energy harvesting for micro/nano energy systems, self\u2010powered sensing for environmental and health monitoring, tactile sensing, and wearable electronics that benefit from the stretchability and deformability of kirigami structures. Finally, the current challenges and outline emerging opportunities toward deeper functional integration and scalable implementation of origami\u2010 and kirigami\u2010inspired TENGs are concluded.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "3346bdf0c180fe4c",
+    "title": "Temperature\u2010Responsive Electrical Double Layer for Self\u2010Adaptive Solid Electrolyte Interphase Unlocks Wide\u2010Temperature Aqueous Zinc Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71472?af=R",
+    "content": "The self\u2010adaptive solid electrolyte interface is in situ constructed by designing temperature\u2010responsive electrical double layer via low\u2010concentration 1,3\u2010Dimethyl\u20102\u2010imidazolidinone additive with the highest donor number and continual adsorption toward Zn anode in the flat\u2010lying configuration. Moreover, the correlation of self\u2010adaptive solid electrolyte interface and establishment of temperature\u2010responsive chemistry is unveiled.\n\n\n\n\n\n\n\n\nABSTRACT\nConstructing a self\u2010adaptive solid electrolyte interphase (SEI) for wide\u2010temperature aqueous zinc ion batteries (AZIBs) remains unexplored yet highly challenging. Herein, a temperature\u2010responsive electrical double layer (EDL) is designed via screening high donor\u2010number additive, and the EDL composition exhibits temperature\u2010responsive behavior where elevated temperatures promote anion accumulation and low\u2010to\u2010ambient temperatures favor additive enrichment, thereby driving distinct self\u2010adaptive interfacial chemistries. Experimental and theoretical analyses reveal that low\u2010to\u2010ambient temperatures facilitate organic\u2010inorganic hybrid SEI formation through preferential additive decomposition, whereas high temperatures yield a robust inorganic\u2010rich SEI via anion decomposition. The self\u2010adaptive SEIs can significantly modulate Zn2+ nucleation kinetics across temperatures, promoting uniform Zn deposition with progressively increasing grain sizes during prolonged cycling. Consequently, Zn||Zn cell showcases highly reversible plating/stripping exceeding 5300 cycles at 50\u00a0mA cm\u22122, while exhibiting broad thermal tolerance across a wide temperature range of \u221240\u00b0C to 60\u00b0C. Zn||I2 full batteries deliver good cycling life of 1000\u201330\u00a0000 cycles, and Ah\u2010level pouch cell further validates practicality. This work builds the correlation among the temperature\u2010responsive EDL, interfacial chemistry, and electrochemical performance, advancing wide\u2010temperature batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "be2128eb22a3068b",
+    "title": "Pt Single\u2010Atom Catalysts on FTO for Optically Invisible pH\u2010Universal Hydrogen Evolution Electrodes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71493?af=R",
+    "content": "Comparison of the overpotential (\u03b7) at 10 mA cm\u22122 in acidic electrolyte of Pt SA on FTO (this work) and other literature.\n\n\n\n\n\n\n\n\nABSTRACT\nTransparent hydrogen\u2010evolution electrodes are essential for photoelectrochemical and optoelectronic energy\u2010conversion devices, yet typically suffer from a trade\u2010off between catalytic activity and optical transmission. Here, we demonstrate that an ultra\u2010low loading of Pt single atoms (SA, 0.03 at%) directly anchored on fluorine\u2010doped tin oxide (FTO) via a reactive deposition delivers hydrogen evolution reaction (HER) kinetics approaching bulk Pt, while remaining optically invisible. At this low SA loading, HAADF\u2010STEM directly resolves atomically isolated Pt sites, while x\u2010ray photoelectron and absorption spectroscopy confirm exclusively cationic Pt\u03b4+ (\u03b4 \u2248 2) in Pt\u2013O4 coordination. The Pt SA/FTO electrodes exhibit pH\u2010universal HER activity, alongside turnover frequencies exceeding 500\u00a0s\u22121 at moderate overpotentials. Density Functional Theory calculations support the high stability of Pt SA/FTO and explain exceptional HER activity by optimized energetics of intermediate formation. Achieving comparable kinetics with conventional sputtered Pt films requires >1000\u2010fold higher Pt loading and leads to substantial optical losses. Owing to its optical neutrality, the Pt SA/FTO electrode enables 2\u20133 \u00d7 higher photocurrents than activity\u2010matched Pt films when used as a counter electrode in sandwich\u2010type photoelectrochemical cells. These results on Pt SA\u2010decorated FTO thus describe a general strategy to unite noble\u2010metal utilization, high catalytic efficiency, and optical transparency in electro\u2010 and photoelectrochemical devices.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "560563b65dbe7e0d",
+    "title": "How single-atom catalysts reframe stability as adaptability",
+    "link": "https://www.nature.com/articles/s41578-026-00960-0",
+    "content": "<p>Nature Reviews Materials, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41578-026-00960-0\">doi:10.1038/s41578-026-00960-0</a></p>Single-atom catalysts were initially developed to maximize metal utilization, but they have evolved into a powerful platform for interrogating the fundamental principles of catalysis. Recent studies reveal that their active sites continuously adapt through interactions with supports, defects and reactants. These findings challenge the conventional view of catalyst stability as structural persistence, redefining it as controlled adaptability and opening the way to catalysts that sense, switch and evolve with their reaction environment.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "86d15e7e1c30ff95",
+    "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+    "link": "https://www.nature.com/articles/s41586-026-11017-1",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11017-1\">doi:10.1038/s41586-026-11017-1</a></p>Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+    "journal": "Nature"
+  },
+  {
+    "id": "d1a8572222874a5d",
+    "title": "Amend copyright licences to halt AI misuse and reassert human control",
+    "link": "https://www.nature.com/articles/d41586-026-02633-y",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02633-y\">doi:10.1038/d41586-026-02633-y</a></p>Amend copyright licences to halt AI misuse and reassert human control",
+    "journal": "Nature"
+  },
+  {
+    "id": "53a4a1e7e2690f90",
+    "title": "The future of peer review requires AI support, not AI bans",
+    "link": "https://www.nature.com/articles/d41586-026-02631-0",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02631-0\">doi:10.1038/d41586-026-02631-0</a></p>The future of peer review requires AI support, not AI bans",
+    "journal": "Nature"
+  },
+  {
+    "id": "2024b9d2b2187267",
+    "title": "Protecting education in the middle of war zones",
+    "link": "https://www.nature.com/articles/d41586-026-02634-x",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02634-x\">doi:10.1038/d41586-026-02634-x</a></p>Protecting education in the middle of war zones",
+    "journal": "Nature"
+  },
+  {
+    "id": "7a52124b9122bc63",
+    "title": "Ancient surveying instrument found in Egypt",
+    "link": "https://www.nature.com/articles/d41586-026-02382-y",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02382-y\">doi:10.1038/d41586-026-02382-y</a></p>The earliest known example of a tool used to build in a straight line, and remembering an early trailblazer in radio communication in this week\u2019s pick from the Nature archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9103e22cba47bd98",
+    "title": "Assessing students in the AI era",
+    "link": "https://www.nature.com/articles/d41586-026-02632-z",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02632-z\">doi:10.1038/d41586-026-02632-z</a></p>Assessing students in the AI era",
+    "journal": "Nature"
+  },
+  {
+    "id": "d313fc3fc6aa62fa",
+    "title": "Asthma in some boys stops at puberty: mouse results hint at why",
+    "link": "https://www.nature.com/articles/d41586-026-02611-4",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02611-4\">doi:10.1038/d41586-026-02611-4</a></p>Study suggests that male hormones have an effect on nerve endings in the lungs.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ee667e1db898b613",
+    "title": "How to manage AI risks while reaping the benefits",
+    "link": "https://www.nature.com/articles/d41586-026-02567-5",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02567-5\">doi:10.1038/d41586-026-02567-5</a></p>As the world debates how to regulate artificial intelligence, Europe\u2019s lawmakers are doing a lot of the heavy lifting.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b12acf548fdb8f2a",
+    "title": "The brain struggles to make new neurons in people with depression",
+    "link": "https://www.nature.com/articles/d41586-026-02661-8",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02661-8\">doi:10.1038/d41586-026-02661-8</a></p>High resolution, wide-coverage map of the hippocampus reveals possible pathways for therapy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f9412151e9f2b8bd",
+    "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+    "link": "https://www.nature.com/articles/d41586-026-02115-1",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02115-1\">doi:10.1038/d41586-026-02115-1</a></p>How early-career researchers can strengthen their track record, boost their research proposal and assess institutional fit.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4bb80877308e739e",
+    "title": "How one researcher captured a vanished world of UK government science",
+    "link": "https://www.nature.com/articles/d41586-026-02094-3",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02094-3\">doi:10.1038/d41586-026-02094-3</a></p>Oral historian Emmeline Ledgerwood\u2019s PhD investigated how privatization affected civil-service scientists at the end of the twentieth century.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a3578fffcfadd227",
+    "title": "China is changing the shape of global health. The terms are still up for negotiation",
+    "link": "https://www.nature.com/articles/d41586-026-02622-1",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02622-1\">doi:10.1038/d41586-026-02622-1</a></p>Health-care partnerships can provide other nations with cheap diagnostics, medicines and more \u2014 but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cef6214af2134ef7",
+    "title": "How tech-enhanced sleep could improve rest but erode privacy",
+    "link": "https://www.nature.com/articles/d41586-026-02573-7",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02573-7\">doi:10.1038/d41586-026-02573-7</a></p>Technologies that promise better-than-usual sleep could improve people\u2019s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "16b0fe1dbaad50f5",
+    "title": "AI-detection tools have made huge leaps forward \u2014 how good are they?",
+    "link": "https://www.nature.com/articles/d41586-026-02569-3",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02569-3\">doi:10.1038/d41586-026-02569-3</a></p>Scientists and publishers are testing a new breed of software that promises impressive accuracy at spotting AI-written text.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8017c70a754a4c4b",
+    "title": "These rodent OnlyFans stars are helping to fund scientific research",
+    "link": "https://www.nature.com/articles/d41586-026-02550-0",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02550-0\">doi:10.1038/d41586-026-02550-0</a></p>The platform, mostly known for its adult content, has provided a financial lifeline amid US federal-funding uncertainty. And now the marmots have their own cryptocurrency too.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e51e3e1f3502294f",
+    "title": "More than 18,000 questionable images found in antibody catalogues of 15 companies",
+    "link": "https://www.nature.com/articles/d41586-026-02635-w",
+    "content": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02635-w\">doi:10.1038/d41586-026-02635-w</a></p>Science sleuth\u2019s findings raise questions for researchers working to improve the reliability of commercial antibodies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "81077a3df20d9e2d",
+    "title": "The exoskeletons are coming (to a store near you)",
+    "link": "https://www.nature.com/articles/d41586-026-02641-y",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02641-y\">doi:10.1038/d41586-026-02641-y</a></p>Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2209b07664b59d1b",
+    "title": "Frontier-technology markets are too narrow \u2014 here\u2019s how to widen them",
+    "link": "https://www.nature.com/articles/d41586-026-02572-8",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02572-8\">doi:10.1038/d41586-026-02572-8</a></p>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2c4917dcc131b079",
+    "title": "Daily briefing: How \u2018thunderquakes\u2019 probe underground geology",
+    "link": "https://www.nature.com/articles/d41586-026-02665-4",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02665-4\">doi:10.1038/d41586-026-02665-4</a></p>Thunder generates acoustic waves that can help scientists probe Earth, a person\u2019s own mitochondria have been injected into their eyes in an attempt to restore their vision and economists call for \u2018pro-worker\u2019 AI.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a238029c6abfa73c",
+    "title": "Billion-dollar machine aims to set a fusion-energy record \u2014 and study nuclear weapons",
+    "link": "https://www.nature.com/articles/d41586-026-02620-3",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02620-3\">doi:10.1038/d41586-026-02620-3</a></p>Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8a3ea6b3fa670e63",
+    "title": "Patient\u2019s own mitochondria injected into eyes in attempt to restore vision",
+    "link": "https://www.nature.com/articles/d41586-026-02616-z",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02616-z\">doi:10.1038/d41586-026-02616-z</a></p>Injection of a person\u2019s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "journal": "Nature"
+  },
+  {
+    "id": "57d6267a04a9531e",
+    "title": "Can AI ever be conscious? The question stems from a misconception",
+    "link": "https://www.nature.com/articles/d41586-026-02571-9",
+    "content": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02571-9\">doi:10.1038/d41586-026-02571-9</a></p>A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5038329af0547db2",
+    "title": "Daily briefing: Personalized mRNA vaccine shows promise for cancer",
+    "link": "https://www.nature.com/articles/d41586-026-02638-7",
+    "content": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02638-7\">doi:10.1038/d41586-026-02638-7</a></p>Good news from a trial of a vaccine against melanoma. Plus, the US NSF is set to issue its lowest number of new grants in 40 years, and the living layer that protects and produces desert soils.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a1350877f021cc29",
+    "title": "Steric-gated dual-site chelation enables 27.3% efficient perovskite solar cells and ultra-stable 22% bifacial modules",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00328-4?rss=yes",
+    "content": "Making perovskite solar cells efficient and durable requires molecules that fix defects without blocking charge flow. This work shows that ADA-DA, a rigid 3D molecule with two binding arms, can strongly passivate lead-related defects while controlling interfacial packing. The strategy delivers 27.10% certified stabilized efficiency in inverted cells and stable, >22% bifacial modules, offering a molecular design rule for scalable perovskite photovoltaics.",
+    "journal": "Joule"
+  },
+  {
+    "id": "771173ac8ef5a965",
+    "title": "Electrochemical conversion of (bi)carbonate-based CO2 capture solutions to ethylene on porous copper-based nanowire electrodes",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00324-7?rss=yes",
+    "content": "Utilizing captured atmospheric CO2 is a promising route toward a circular carbon economy. This work studies feeding carbon capture solutions directly into electrolyzers to make ethylene, a key feedstock for the plastics industry, thus demonstrating that copper nanowire-modified porous electrodes promote the mass transport of reactants/intermediates, leading to improved ethylene selectivity.",
+    "journal": "Joule"
+  },
+  {
+    "id": "1865c184d7f4fc96",
+    "title": "The dual role of iron in alkaline water electrolysis: A friend or a foe?",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00323-5?rss=yes",
+    "content": "Trace iron impurities are often viewed as beneficial for alkaline water electrolysis, yet their full role during long-term operation has remained unclear. We show that iron moves through the cell during operation, where it can both improve catalytic performance and form metallic deposits and dendrites that threaten long-term stability. By identifying the operating conditions that govern iron ion mobility, this work provides a framework for managing impurities toward improving electrolyzer durability.",
+    "journal": "Joule"
+  },
+  {
+    "id": "6d230d632920316d",
+    "title": "Quantifying the impact of cell-to-cell inconsistency on electric vehicle battery degradation and utilization",
+    "link": "https://www.nature.com/articles/s41560-026-02131-5",
+    "content": "<p>Nature Energy, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41560-026-02131-5\">doi:10.1038/s41560-026-02131-5</a></p>Cell-to-cell inconsistency is a key barrier to realizing full performance in electric vehicle batteries. Using large-scale real-world fleet data, the researchers quantify its impact and show considerable losses in battery health, pack lifetime, power capability and usable energy.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "8b5369b97603f1ba",
+    "title": "Artificial photosynthetic reduction of nitrogen to ammonia at room temperature using natural seawater",
+    "link": "https://www.nature.com/articles/s41557-026-02218-2",
+    "content": "<p>Nature Chemistry, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41557-026-02218-2\">doi:10.1038/s41557-026-02218-2</a></p>Ammonia production is responsible for 1.8% of greenhouse gas emissions, inspiring research efforts into alternative, renewable-powered approaches. Now it has been shown that artificial photosynthesis, coupling nitrogen reduction to water oxidation, can proceed efficiently and with high selectivity in seawater or under ambient air.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "3615159301befb2b",
+    "title": "Aliovalent Doping Enabled Defect Engineering of FeOF Cathode for High-Performance All-Solid-State Lithium Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006252?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 25 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Qing Qiao, Shunlong Ju, Hongyu Zhang, Guanglin Xia, Weiming Teng, Songqiang Zhu, Tengfei Zhang, Baozhong Liu, Xuebin Yu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e61a848a8dc34ee1",
+    "title": "Differentiated Active Centers Enable Chain-Length-Dependent Cascaded Catalysis for Efficient Sulfur Conversion in Lithium-Sulfur Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006239?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Tao Wang, Yuhui Ding, Cheng Tong, Qin Dong, Minhua Shao, Cunpu Li, Zidong Wei</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b80f3e5dbdc687fe",
+    "title": "Molecular Coordination Engineering Enables Triple-Synergy Cathode Design for All-Solid-State Li-S Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006240?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Wang Yanjie, Du Pengyu, Liu Songtao, Liang Fei, Gu Yi, Yao Yao, Liu Hengzhi, Liao Jiaxuan, Chen Chuanmin, Wang Sizhe</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "74a5733810e006d3",
+    "title": "Spin-Selective Electron Transfer Promoting Oxygen Evolution Kinetics in Ni<sub>1-x</sub>Fe<sub>x</sub>OOH",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006397?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Ximin Li, Yali Li, Bo Shi, Xiangji Zhou, Zhilong Zheng, Hongxia Yin, Canglong Li, Zhiwen Li, Jin Chen, Longfei Zhao, Pengxiang Lei, Song Li, Yixing Li, Lihua Qian</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "bc038c884d54ca7c",
+    "title": "Fibrous percolation electronics enabled by direct writing of MXene networks on hierarchical cellulose architectures using aerosol jet printing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600635X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Joon Jang, Md. Abu Mosa, Sang-Hyeon Park, Yeoung-Eun Seo, Jong-Hyun Jang, Byung Jun Kim, Jong-Woong Kim, Hak Shin, Kye-Si Kwon, Han-Ki Kim</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "bc65b9c0d4f2bc7c",
+    "title": "Interfacial C-M-O bond engineering in CoMoO<sub>4</sub>/graphdiyne heterostructures for high-current-density anion exchange membrane water electrolysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006403?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Wenhui Shang, Kai Li, Mei Wu, Xiaoyu Jia, Luping Zeng, Nan Wang, Luozhen Jiang, Juan Gao, Zhiyu Jia</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "3b8236b771068de0",
+    "title": "Mechanisms and Strategies for in Situ Regeneration of Sensing Interfaces for Real\u2010Time Monitoring",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70999?af=R",
+    "content": "In situ regeneration restores fouled or degraded sensing interfaces, enabling stable, long\u2010term real\u2010time monitoring. Interface failure mechanisms and four regeneration strategies\u2014physical, chemical/electrochemical, biocatalytic, and materials\u2010enabled self\u2010healing and active regeneration\u2014are summarized across electrochemical, field\u2010effect transistor, and enzyme\u2010based sensors, highlighting intelligent triggering, multimodal regeneration, rational interface design, and closed\u2010loop architectures for wearable, implantable, and point\u2010of\u2010care platforms.\n\n\n\n\n\n\n\n\nABSTRACT\nIn situ regeneration of sensing interfaces has emerged as a pivotal enabling strategy for real\u2010time monitoring, addressing the persistent challenge of maintaining long\u2010term operational stability, as biofouling, recognition\u2010layer deactivation, signal drift, and structural degradation remain major bottlenecks limiting practical deployment. This review systematically examines the structural features and failure mechanisms of sensing interfaces, clarifies their underlying regeneration principles, and categorizes four major regeneration strategies: physical regeneration, chemical/electrochemical regeneration, biocatalytic regeneration, and materials\u2010enabled self\u2010healing and active regeneration. We comprehensively compare the mechanisms, operational boundaries, and application\u2010specific suitability across three dominant sensing systems: electrochemical, field\u2010effect transistor (FET)\u2010based, and enzyme\u2010based sensors. In the context of wearable, implantable, and point\u2010of\u2010care testing (POCT) applications, the trade\u2010offs among interfacial stability, regeneration efficiency, analytical performance, and system integration are further discussed. Finally, we highlight future opportunities to advance in situ regeneration technology, including intelligent triggering of regeneration, synergistic multi\u2010mechanism regeneration, rational interfacial materials design, and closed\u2010loop system architecture. This review provides a conceptual framework for designing robust, long\u2010lived sensing platforms that meet the demands of real\u2010time monitoring across diverse technological and clinical contexts.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
