@@ -383,5 +383,138 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70999?af=R",
     "content": "In situ regeneration restores fouled or degraded sensing interfaces, enabling stable, long\u2010term real\u2010time monitoring. Interface failure mechanisms and four regeneration strategies\u2014physical, chemical/electrochemical, biocatalytic, and materials\u2010enabled self\u2010healing and active regeneration\u2014are summarized across electrochemical, field\u2010effect transistor, and enzyme\u2010based sensors, highlighting intelligent triggering, multimodal regeneration, rational interface design, and closed\u2010loop architectures for wearable, implantable, and point\u2010of\u2010care platforms.\n\n\n\n\n\n\n\n\nABSTRACT\nIn situ regeneration of sensing interfaces has emerged as a pivotal enabling strategy for real\u2010time monitoring, addressing the persistent challenge of maintaining long\u2010term operational stability, as biofouling, recognition\u2010layer deactivation, signal drift, and structural degradation remain major bottlenecks limiting practical deployment. This review systematically examines the structural features and failure mechanisms of sensing interfaces, clarifies their underlying regeneration principles, and categorizes four major regeneration strategies: physical regeneration, chemical/electrochemical regeneration, biocatalytic regeneration, and materials\u2010enabled self\u2010healing and active regeneration. We comprehensively compare the mechanisms, operational boundaries, and application\u2010specific suitability across three dominant sensing systems: electrochemical, field\u2010effect transistor (FET)\u2010based, and enzyme\u2010based sensors. In the context of wearable, implantable, and point\u2010of\u2010care testing (POCT) applications, the trade\u2010offs among interfacial stability, regeneration efficiency, analytical performance, and system integration are further discussed. Finally, we highlight future opportunities to advance in situ regeneration technology, including intelligent triggering of regeneration, synergistic multi\u2010mechanism regeneration, rational interfacial materials design, and closed\u2010loop system architecture. This review provides a conceptual framework for designing robust, long\u2010lived sensing platforms that meet the demands of real\u2010time monitoring across diverse technological and clinical contexts.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "a867309856e3d9a2",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71347?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "5cabf1673dbea5cc",
+    "title": "Sputtering Mechanism of an Unsintered Organic\u2013Inorganic Sputtering Target for Perovskite Solar Cells (Adv. Energy Mater. 32/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71345?af=R",
+    "content": "Perovskite Solar Cells\nIn article number e71109, Byunghong Lee, Han\u2010Ki Kim, and co\u2010workers reveal the plasma\u2010induced decomposition pathway of an unsintered MAPbI3 sputtering target. Volatile MAI\u2010derived species are readily dissociated and removed in the plasma, whereas less volatile Pb\u2013I species remain and dominate film growth, leading to PbI2\u2010rich deposits. The work provides fundamental insights into vacuum\u2010based perovskite processing and scalable photovoltaic manufacturing for next\u2010generation photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6e4d9006b3a107a1",
+    "title": "Coupled Atmospheric Water Harvesting and Protonic Ceramic Electrolysis Enabling Self\u2010Sustained Green Hydrogen Production in Arid Regions (Adv. Energy Mater. 32/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71346?af=R",
+    "content": "Green Hydrogen Production\nMacroporous hygroscopic polyacrylamide beads extract moisture from dry air and release hot vapor using recycled waste heat for protonic ceramic electrolysis. The vapor\u2010fed system enables continuous, efficient, liquid\u2010water\u2010free green hydrogen production, overcoming the mismatch between renewable energy abundance and freshwater scarcity in arid regions. More in article number e71199, Yingle Tao, Chuan Zhou, Haiqing Li, Wei Zhou, and co\u2010workers.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2c5460edfcc1d417",
+    "title": "Nanocrystalline LCO/LLZO Composite Cathode Films for Solid State Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71490?af=R",
+    "content": "A single precursor solution is solution\u2010deposited and calcined at only 750\u00b0C to yield a dense, nanograined LiCoO2/LLZO composite cathode, in which both phases crystallize independently with minimal interdiffusion. Assembled into all\u2010solid\u2010state Li\u2010metal batteries, the composite delivers 111.7 mAh g\u22121\u00a0initial discharge capacity and retains 93% after 100 cycles, offering a scalable, low\u2010thermal\u2010budget route to oxide\u2010based solid\u2010state batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nScalable fabrication of high\u2010performing composite cathodes remains a key hurdle for oxide\u2010based all\u2010solid\u2010state batteries (ASSBs). Li\u2010garnet (Li7La3Zr2O12, LLZO) electrolytes provide high ionic conductivity and compatibility with lithium metal, yet, combining them with high\u2010voltage layered oxides is often limited by high\u2010temperature ceramic processing that complicates manufacturing and promotes interfacial side reactions. Here we report a LiCoO2/LLZO composite cathode prepared by single\u2010solution spray deposition that co\u2010deposits all constituents at a maximum processing temperature of 750\u00b0C. The process produces dense, crack\u2010free, micrometer\u2010thick layers with nanograined, phase\u2010separated microstructures. The two phases of cubic LLZO and layered LiCoO2 crystallize independently, only minor secondary phases form, and no cobalt migration into the LLZO substrate is detected. Consistent with a low cathode\u2010electrolyte interfacial resistance observed after the first charge, full cells with lithium metal exhibit 111.7\u00a0mAh\u00a0g\u22121CAM initial discharge capacity and retain 93% of the capacity over 100 cycles. Capacity fade is dominated by progressive growth of cathode\u2010electrolyte interfacial impedance, whereas post\u2010mortem microscopy reveals preserved adhesion and morphology, suggesting the nanograined architecture accommodates cathode volume changes without severe cracking or delamination. Overall, single\u2010solution co\u2010deposition offers a practical, low\u2010thermal\u2010budget route to oxide composite cathodes and a scalable platform for extending LLZO\u2010based ASSBs to broader cathode chemistries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "dbd3ca4f3ff3794e",
+    "title": "Functional Motif Directed Decoupling\u2010Recoupling Strategy for Constructing Multi\u2010Site Pt\u2010Based Catalyst Toward Efficient Hydrogen Oxidation in Fuel Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71431?af=R",
+    "content": "The functional motif directed decoupling\u2010recoupling strategy leverages the unique structure in IMC to precisely tailor functionalities for the catalyst. Functional motifs are decoupled from IMC due to the fixed atomic coordinates for each element, screened motifs according to the functionalities, and recoupled into the IMC framework. The engineered PtRuFeGaMo\u2010I overcomes the HOR issues and realizes high performance in both RDE and MEA.\n\n\n\n\n\n\n\n\nABSTRACT\nHydrogen oxidation reaction (HOR) in alkaline media suffers from multiple challenges of sluggish kinetics, CO poisoning, and active\u2010site degradation. Multi\u2010metallic catalysts with multiple active sites hold promise for addressing the issues; however, they are thwarted by structural heterogeneity at the atomic level and reliance on empirical trial\u2010and\u2010error screening. Herein, we introduce a novel functional motif directed decoupling\u2010recoupling strategy for the design of multi\u2010site catalysts capable of super\u2010active and durable HOR electrocatalysis. Leveraging the well\u2010defined atomic coordinates for each element and superlattice ordering structure of the PtM intermetallic compound (IMC), the development of a multi\u2010functional Pt\u2010based HOR catalyst is decoupled into the independent screening of discrete Pt\u2013M functional motifs. These optimally selected Pt\u2013M motifs were subsequently recoupled into an L10\u2010PtFe framework, constructing the designed PtRuFeGaMo\u2010I catalyst. PtRuFeGaMo\u2010I integrates the multifunctionality of Pt\u2013Ru/Ga/Mo motifs to simultaneously overcome the key limitations of alkaline HOR. Consequently, the engineered PtRuFeGaMo\u2010I exhibits exceptional HOR performance. In an anion exchange membrane fuel cell (AEMFC), PtRuFeGaMo\u2010I achieves a remarkable mass activity of 0.84 A mgtotal PGM\u22121, surpassing commercial Pt/C and most reported noble\u2010metal\u2010based catalysts. This work provides a new platform to design advanced catalysts tailored to diverse electrocatalytic demands.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "441f42e9780d149d",
+    "title": "Dynamic Strain Homogenization Regulation for Thermomechanically Robust Sn\u2500Pb Perovskite Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71497?af=R",
+    "content": "We introduce a dynamic strain homogenization regulation strategy in situ forming supramolecular networks featuring multisite interactions and dynamic hydrogen bonding to synchronize the Sn/Pb species crystallization, achieving the strain homogenization. The device achieves a power conversion efficiency of 24.1%, retaining 92.1% after 50 thermal cycles. This work demonstrates the optimization strategy toward long\u2010term stable Sn\u2500Pb perovskite solar cells.\n\n\n\n\n\n\n\n\nABSTRACT\nTin\u2010lead perovskite solar cells (PSCs) feature an ideal bandgap, making them approach the Shockley\u2010Queisser limit. However, under cyclic temperature fluctuations, asynchronous Sn/Pb crystallization\u2010induced compositional inhomogeneity aggravates defect evolution, lattice distortion, and tensile\u2010strain accumulation, ultimately amplifying thermomechanical degradation and limiting device durability. Herein, we introduce a \u201cdynamic strain homogenization regulation strategy\u201d by in situ forming supramolecular networks featuring multisite interactions and dynamic hydrogen bonding. This network modulates the coordination environment of Sn2+\u2010related species, thereby suppressing compositional segregation and improving crystallization uniformity to achieve strain homogenization. The reversible reconstruction of hydrogen bonds under temperature fluctuations enables continuous strain dissipation and redistribution, effectively alleviating local stress concentration and lattice distortion. Meanwhile, the supramolecular species located at grain boundaries provide multisite defect passivation. Based on this strategy, the device achieves a power conversion efficiency of 24.1%, retaining 84.7% of its initial efficiency after 450 h at the maximum power point under one\u2010sun illumination, and 92.1% after 50 thermal cycles.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "47bfd8fbf02fc488",
+    "title": "Unraveling the Proton Co\u2010Insertion Chemistry through Electrolyte Hydrogen\u2010Bond Intervention for Zinc\u2010Manganese Dioxide Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71483?af=R",
+    "content": "A hydrogen\u2010bond intervention strategy is proposed to directly suppress deleterious proton co\u2010insertion in MnO2. This hydrogen\u2010bond intervention enables the effective suppression of the second discharge plateau's attenuation\u2014a long\u2010standing mystery in MnO2 electrochemistry. Such structural reconfiguration tunes the ion\u2010insertion chemistry to balance capacity and long\u2010term cycling stability, while simultaneously mitigating side reactions and zinc dendrite growth.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous Zn\u2010MnO2 batteries are promising for large\u2010format energy deployment due to their inherent safety and environmental compatibility. Nevertheless, their commercial implementation is critically bottlenecked by the elusive proton co\u2010insertion mechanism at the cathode, in contrast to the relatively well\u2010understood anode stability. Herein, we unveil the underlying H+\u2010storage phenomenon within MnO2 via a tailored hydrogen\u2010bond intervention strategy. Our findings reveal that the catastrophic capacity degradation originates squarely from the second discharge plateau, which is intrinsically governed by the hydrogen\u2010bond network. By reinforcing the hydrogen\u2010bond environment, we effectively modulate proton intercalation kinetics and suppress the excessive H+ flux that otherwise triggers structural collapse. While traditional aqueous electrolytes lead to severe manganese dissolution and irreversible vacancy formation, our strategy preserves the structural integrity of the MnO2\u2019s 2 \u00d7 2 tunnel framework. Theoretical calculations confirm that the incorporation of H+ into \u03b1\u2010HxMnO2 weakens the Mn\u2500O bonds with notable vacancy formation. Leveraging these mechanistic insights, we demonstrate Zn\u2010MnO2 pouch cells under stringent practical conditions\u2014high areal capacity (2.62 mAh cm\u22122), restricted N/P ratio (2.2), and lean electrolyte (30\u00a0\u00b5L mAh\u22121)\u2014yielding a specific energy of 167\u00a0Wh kg\u22121. Meanwhile, this electrolyte demonstrates an excellent one\u2010year cycling lifespan at \u221210\u00b0C. This work provides insight for high\u2010performance aqueous batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "82aefa5c64b77a1b",
+    "title": "Open AgRh Hollow Nanocubes With Interfacial Step Matching for Selective Nitrate\u2010to\u2010Ammonia Electrosynthesis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71507?af=R",
+    "content": "This work presents open AgRh alloy hollow nanocubes that turn nitrate pollutants into ammonia with high efficiency and stability. The catalyst uses cooperative silver and rhodium sites to activate nitrate and complete hydrogenation, while its porous hollow structure improves transport. It also enables a low\u2010voltage nitrate reduction\u2013hydrazine oxidation electrolyzer for energy\u2010saving nitrogen conversion.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrochemical nitrate\u2010to\u2010ammonia (NO3\u2212 to NH3) conversion offers a promising route for NO3\u2212 removal and distributed NH3 synthesis. However, its efficiency is constrained by sluggish NO3\u2212 activation, incomplete hydrogenation, and competing hydrogen evolution. Herein, open AgRh alloy hollow nanocubes (AgRh hNCs) are reconstructed from Ag nanocubes through a chloride\u2010assisted alloying and etching process. The catalyst possesses a porous, nanograin\u2010assembled framework with a Rh\u2010enriched near\u2010surface region, enhancing both mass transport and interfacial electronic coupling. Consequently, AgRh hNCs achieve up to 98% Faradaic efficiency for NH3, an NH3 yield rate of 10.6\u00a0mg h\u22121 mgcat\u22121, and excellent durability in the alkaline nitrate reduction reaction (NO3RR). Combined theoretical and experimental studies reveal a tandem\u2010like interfacial step\u2010matching mechanism, in which Ag promotes the NO3\u2010to\u2010NO2 step, while Rh\u2010centered sites drive deep hydrogenation of nitrogen\u2010containing intermediates to NH3. Moreover, AgRh hNCs show high hydrazine oxidation reaction (HzOR) activity, enabling a membrane\u2010separated NO3RR||HzOR electrolyzer with a 1.58\u00a0V lower cell voltage than the oxygen evolution reaction\u2010coupled system at 10\u00a0mA cm\u22122. This work demonstrates that integrating an open hollow structure with cooperative Ag\u2010Rh interfacial sites is an effective strategy for selective NO3\u2212\u2010to\u2010NH3 electrosynthesis.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d43ce39c73ec76c0",
+    "title": "An All\u2011in\u2011One Bridging Coordination Additive for Scalable, High\u2010Efficiency Perovskite Solar Modules",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71508?af=R",
+    "content": "Glutaramide (GTA) is introduced as an all\u2010in\u2010one bridging coordination additive for perovskite solar cells (PSCs). By synergistically optimizing crystallization, passivating defects, and improving scalability, GTA enables blade\u2010coated large\u2010area modules to achieve a champion efficiency up to 24.61% with negligible scaling loss and nearly doubled operational stability, offering a practical pathway for commercialization of PSCs.\n\n\n\n\n\n\n\n\nABSTRACT\nAdditive engineering has propelled lab\u2010scale perovskite solar cell efficiencies exceeding 27%, yet translating these achievements to industrial manufacturing requires multifunctional additives that simultaneously optimize crystallization, passivate defects, enhance mechanical robustness, and maintain compatibility with high\u2010throughput coating processes. Here, we introduce glutaramide (GTA) as an all\u2010in\u2010one bridging coordination additive that addresses these challenges. Density functional theory calculations reveal that GTA forms a thermodynamically favored bidentate bridging coordination between adjacent [PbI6]4\u2212 octahedra. This unique configuration retards crystallization kinetics during annealing, yielding micron\u2010scale grains with reduced defect density. Upon annealing, GTA spontaneously migrates to the film surface, where it passivates undercoordinated Pb2+ and halide ions, toughens perovskite lattice, relieves residual stress, and increases hydrophobicity. Crucially, GTA enhances ink wettability, enabling pinhole\u2010free, blade\u2010coated large\u2010area films. Small\u2010area rigid and flexible cells achieve champion efficiencies of 26.65% and 25.22%, respectively. Remarkably, blade\u2010coated 22.95 cm2 modules deliver efficiencies of 24.61% (rigid) and 22.57% (flexible), retaining up to 99.6% of small\u2010area performance. Encapsulated target devices achieve a T90 lifetime of 1020\u00a0h under continuous 1\u2010sun tracking, nearly doubling the control (520\u00a0h), while flexible devices demonstrate superior bending endurance. This work establishes that a single bridging additive can synergistically balance efficiency, stability, and scalability for commercial perovskite photovoltaics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "786ddae646f93c8e",
+    "title": "Toward Scalable Water Electrolysis Catalysts: Mechanistic Insights, Structure\u2010Activity Relationships and Multiscale Design",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71510?af=R",
+    "content": "Water electrolysis offers a promising pathway for green hydrogen production, yet the translation of lab catalyst discovery into scalable production remains impeded by the activity\u2010stability\u2010manufacturability trade\u2010off. This Review discusses mechanistic insights, scalable manufacturing strategies, multiscale design principles and structure\u2010activity relationships, together with highlighting prevailing challenges and future trajectories in this field.\n\n\n\n\n\n\n\n\nABSTRACT\nHighly active catalysts have substantially advanced water electrolysis for green hydrogen production and decarbonized energy systems. However, large\u2010scale deployment remains hindered by the challenge of simultaneously achieving high catalytic activity, long\u2010term durability, and scalable manufacturability. Despite remarkable progress in developing non\u2010noble electrocatalysts, most materials remain confined to lab\u2010scale demonstrations owing to complex synthesis routes and non\u2010industrial evaluation conditions, inducing a significant gap between catalyst discovery and practical implementation. This review summarizes recent progress in bridging laboratory innovation and scalable manufacturing for water electrolysis electrocatalysts. Fundamental reaction mechanisms, scalable synthesis strategies, structure\u2010activity relationships, and multiscale design principles are systematically discussed, spanning atomic\u2010level regulation of intrinsic activity and active site density to macroscopic architectures engineering for optimized mass transport and operational stability. Finally, the prevailing challenges and future trajectories for sustainable catalyst manufacturing and industrial deployment are presented.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d6af865e06b2ef7f",
+    "title": "Impact of silicon substrate topography on sequentially evaporated perovskite film growth",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00330-2?rss=yes",
+    "content": "Thermal evaporation enables scalable, solvent-free fabrication of perovskite-silicon tandem solar cells, but the mechanisms governing perovskite formation remain underexplored. Using in situ X-ray diffraction during evaporation, the formation of sequentially evaporated perovskite films was studied, enabling the first fully solvent-free tandem top cell with a champion efficiency of 27.3%.",
+    "journal": "Joule"
+  },
+  {
+    "id": "48b1eaa6557517f4",
+    "title": "CsCl seed layer homogenizes co-evaporated perovskite growth for high-efficiency, fully textured perovskite-silicon tandem solar cells",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00329-6?rss=yes",
+    "content": "CsCl seed layer enables uniform growth of co-evaporated perovskite films on textured silicon, suppressing the formation of interfacial defects caused by uneven hole-transport layer coverage. The resulting improvement in film quality enables 30.3% efficient perovskite-silicon tandem solar cells.",
+    "journal": "Joule"
+  },
+  {
+    "id": "7099bc1053fbe1be",
+    "title": "Lattice Bond Anchoring and Vacancy Engineering Modulation of micro-nano LiMn<sub>0.7</sub>Fe<sub>0.3</sub>PO<sub>4</sub>/C with robust structure and Fast Kinetics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006264?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 25 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Jiahui Wu, Lei Su, Huan Ni, Qianqian Li, Ke Du, Fangyang Liu, Guorong Hu, Zhongdong Peng, Zhimin Liu, Yanbing Cao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "7509f537b5acb79a",
+    "title": "Balancing Accuracy and Early Predictability: A Flexible Framework for Battery Lifetime Prediction via Analytical Mapping Discovery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006215?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 25 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ruohan Guo, Jinpeng Tian, Wanzhou Sun, Weixiang Shen, Chi Yung Chung</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b511fee146ae3766",
+    "title": "Dipole-dipole interaction immobilizing residual solvent for stable polymer-based solid-state lithium batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006476?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Qian Cheng, Chao Wang, Ke Fan, Zezhou Lin, Yao Liu, Shengjie Xia, Jing Zhang, Yipeng Sun, Changhong Wang, Hongwei Chen, Xueliang Sun, Haitao Huang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "504c3b68fda4e0e6",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70873?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4936b68020820307",
+    "title": "Dual Quantum Dot Molecular FRET Probes for Picomolar DNA Hexaplexing (Small Methods 16/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70872?af=R",
+    "content": "Front Cover\nIn article number e70776, Thomas J. S\u00f8rensen, Niko Hildebrandt, and co\u2010workers present the development and characterization of luminescent nanoprobes for higher\u2010order multiplexing via time\u2010resolved FRET from terbium complexes to quantum dots. The application of the FRET\u2010probes in the simultaneous quantification of six different DNAs from a single sample is showcased. The image (by N. Hildebrandt) represents the multidimensionality of the spectro\u2010temporal multiplexing approach described in the article.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "49eb9fff4eddadc7",
+    "title": "Direct Measurement of Protein Corona Thickness on Nanomaterials Using Dual\u2010Color Stochastic Optical Reconstruction Microscopy (STORM) (Small Methods 16/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70939?af=R",
+    "content": "Inside Front Cover\nBy labeling the surfaces of nanoparticles and the outer edge of adsorbed protein coronas with spectrally distinct fluorophores, dual\u2010color STORM was used to measure protein corona thicknesses. These detailed measurements revealed a remarkably consistent thickness of \u223c50 nm across different types of particles. Accurate measurement of how the protein corona thickness changes in different environments is crucial to understanding how nanoparticles act in biological media. More in article number e02394, Christopher C. Landry, and co\u2010workers.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "207b31d22e136595",
+    "title": "Molecularly Engineered 2D Xene Heterostructures With Implanted Peroxidase\u2010Like Activity for Mimicking Enzyme Functions (Small Methods 16/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70940?af=R",
+    "content": "Inside Back Cover\nIn article number e70716, Jose Mu\u00f1oz and co\u2010workers applied molecular engineering to endow enzymatic\u2010like activity on emerging 2D Xene. To this end, a Co(II)\u2010based molecular catalysts has been anchored onto allyl 2D\u2013Ge via electropolymerization. The resulting 2D Xene nanozyme exhibits robust electrochemical H2O2 detection, even in biologically relevant environments.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
