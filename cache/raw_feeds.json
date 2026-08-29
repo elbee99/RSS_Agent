@@ -565,5 +565,103 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70998?af=R",
     "content": "A low\u2010iridium (Ir) content (4.9 at.%) peroxidase\u2010mimicking nanozyme was designed via a nickel (Ni) core\u2013Ir shell strategy to maximize Ir utilization while preserving high catalytic activity. The nanozyme was applied in ELISA for sensitive detection of a cancer biomarker and a food contaminant, outperforming conventional enzyme\u2010based assays.\n\n\n\n\n\n\n\n\nABSTRACT\nPeroxidase\u2010mimicking nanozymes have emerged as powerful catalytic alternatives to natural enzymes for a wide range of applications. Among them, iridium (Ir)\u2010based nanozymes exhibit exceptional intrinsic peroxidase\u2010like activity. However, the high cost and scarcity of noble\u2010metal Ir severely limit practical and large\u2010scale use. Herein, we address this challenge by engineering a core\u2013shell Ni\u2013Ir nanozyme in which inexpensive nickel (Ni) serves as the core and catalytically active Ir forms a thin surface shell, resulting in a low Ir content of only 4.9 at.% (denoted as Ir4.9%Ni). This architecture maximizes Ir utilization while preserving excellent catalytic performance. Importantly, the resulting Ir4.9%Ni nanozyme was successfully applied as a catalytic label in both sandwich and competitive ELISA formats for sensitive detection of a prostate cancer biomarker and the food contaminant aflatoxin B1, respectively. In both assays, the nanozyme\u2010based platforms outperformed conventional enzyme\u2010based assays in analytical sensitivity. This work provides an effective strategy for engineering highly active yet cost\u2010efficient nanozymes for bioanalytical and diagnostic applications.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "b82782538e951569",
+    "title": "Rechargeable Seawater Batteries: From Electrochemistry to Energy Storage",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71491?af=R",
+    "content": "Rechargeable seawater batteries transform natural seawater from a passive medium into an active electrolyte and ion reservoir. The evolution from primary cells to membrane\u2010free fourth\u2010generation systems is mapped, revealing how multi\u2010ion storage, interfacial chemistry, and corrosion control shape a promising route toward safe, sustainable marine energy storage.\n\n\n\n\n\n\n\n\nABSTRACT\nRechargeable seawater batteries are emerging as sustainable electrochemical energy\u2010storage systems that directly exploit natural seawater as an abundant electrolyte and ion reservoir. Beyond conventional seawater\u2010activated primary batteries and half\u2010seawater rechargeable systems, fourth\u2010generation seawater batteries represent a distinct concept in which both electrodes operate directly in natural seawater without nonaqueous anolytes or NASICON\u2010type ceramic separators. This review clarifies the conceptual boundary between seawater\u2010based batteries, where seawater mainly serves as a solvent, catholyte, or supporting medium, and genuine rechargeable seawater batteries, where intrinsic seawater ions participate in charge storage and charge compensation. We discuss the fundamental electrochemistry of seawater electrolytes, including ion transport, oxygen/chlorine side reactions, and seawater\u2013electrode interfacial chemistry. Recent advances in cathode materials, including cation\u2010intercalation hosts and oxygen electrocatalysts, are summarized together with emerging anode materials for single\u2010ion storage and multi\u2010ion costorage. Key challenges involving chloride\u2010induced corrosion, competitive ion storage, interfacial instability, and marine deployment are critically assessed. Future directions are proposed to guide the development of efficient, durable, and scalable rechargeable seawater batteries for marine energy storage.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "d3bc33178ae33148",
+    "title": "Heat-driven elastocaloric cooling with shape memory films",
+    "link": "https://www.nature.com/articles/s41560-026-02122-6",
+    "content": "<p>Nature Energy, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/s41560-026-02122-6\">doi:10.1038/s41560-026-02122-6</a></p>Elastocaloric cooling in shape memory alloy films is efficient but limited by electrically powered actuators. Here the authors demonstrate a heat-driven system that achieves a temperature span of up to 12.9\u2009K (4.0\u2009K at device level), showing that waste heat can be used for electricity-minimized cooling.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "c9b3247990e2b9ef",
+    "title": "Built-In-Field-Regulated Low-Temperature Failure in LiFePO<sub>4</sub> Cathodes through Joule-Heating-Induced Riveting Engineering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006197?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 26 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Rui Tang, Yuefeng Su, Jinyang Dong, Yibiao Guan, Qi Shi, Yun Lu, Kang Yan, Ning Li, Yi Jin, Jiaxin Gao, Lai Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "cd84d7efa239cecf",
+    "title": "Deciphering Interfacial Challenges for Li Metal Anodes across Liquid and Solid State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006136?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 26 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yijia Wang, Yang Zhao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "6bbd2a603221e688",
+    "title": "Modulating Electronic Structure and Organization of Redox-Active Sites in Bipolar Porous Organic Polymers for High-Rate, Ultralong-Life, and Wide-Temperature Sodium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006306?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 26 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Xinyuan Wu, Ji Li, Kang Huang, Yuxin Luo, Youlong Zhu, Wei Zhang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "dcf1670093187290",
+    "title": "Unveiling the Multiple Mechanistic Effects of K Regulation on the Local Structure of Li-Containing Sodium Layered Oxide Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006276?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 26 August 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ce-Heng Duan, Jia-Qi Huang, Xiao-Juan Chen, Zhuo-Zheng Hong, Huai-Chao Yi, Xing-Yu Du, Fang-Zhou Zhao, Yu-Qi Zhou, Tian-Yuan Xiao, Dan Xiao, Yao Xiao, Yan Meng</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "b965659048a5beee",
+    "title": "Asymmetric \"All-in-One\" hydrogel thermocell for synergistic thermal management and heat-to-electricity conversion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006440?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Yingying He, Yuan Wei, Chunyu Wang, Hongfu Bi, Feng Chen, Gang Chen</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "c9ec67255919d200",
+    "title": "Self-powered dual-modal intelligent password lock via triboelectric nanogenerators for bio-behavioral and gesture recognition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600652X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Yu Xie, Zhi Cao, Yanyang Cao, Mengzhe Kang, Jiaheng Nie, Qing Song, Hanlin Zhou, Weihua Han, Yan Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ff9b5d1c2191fa65",
+    "title": "Ionic potential-mediated electrolyte structuring enables highly reversible tin metal anode for low temperature aqueous batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006415?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Diyu Xu, JinJun He, Ang Yi, Haozhe Zhang, Yi Wang, Zujin Yang, Gongming Wang, Siyu Cai, Xihong Lu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "3c83b91c7a4e8c48",
+    "title": "Activating high-entropy oxide/carbon via an electron transport layer accelerates polysulfide conversion in Na\u2013S batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600649X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Guangming Cao, Youcun Bai, Junquan Cheng, Zhichao Ye, Ruguang Ma, Lang Qiu, Heng Zhang, Wei Sun, Chang Ming Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9e971a0b3bae53b6",
+    "title": "Functional-group-directed construction of a nanoscale Li<sub>2</sub>O/LiF-rich hetero-interphase for stable PEO-SN all-solid-state batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006488?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Jintao Du, Shufen Wu, Nian Zhang, Hui Zhang, Fengrui Zhang, Xiaosong Liu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9b52f2d9003d3b54",
+    "title": "Interfacial Ru-O-Ti coordination coupled with nanoconfinement to break the scaling relations of hydrogen electrocatalysis for reversible hydrogen-gas batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006324?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Mingjie Jia, Zhenyu Wang, Wen-Hao Li, Yongjian Ai, Zilong Liu, Xin Chen, Chengzhi Zhang, Shengyin Luo, You Fu, Siqinhaolu Hao, Lei Shi, Guangwen Xu, Dingsheng Wang, Hong-bin Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "c37085c3cbadb64f",
+    "title": "Single-device 1C-XNOR operation in charge-trap memcapacitor crossbar for high-density in-memory computing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006518?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Dahoon Lee, Hwiho Hwang, Dayeon Yu, Hyungjin Kim</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ae5c1c1a0fc68ef4",
+    "title": "Electrochemical strategies for sustainable recycling of spent lithium iron phosphate batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006543?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Quanhui Yang, Junfeng Li, Shiqin Liu, Jialin Liu, Weifeng Liu, Dongju Fu, Guangmin Zhou, Xuguang Liu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
