@@ -824,5 +824,138 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71009?af=R",
     "content": "Redox homeostasis fluctuates continuously within living systems, demanding probes that respond rapidly and reversibly. This Perspective surveys fluorescent probes built on FRET, ICT, PET, and ESPT mechanisms, comparing their reversibility, response kinetics, and signal stability for tracking redox dynamics. It highlights coupling reversible probes with high\u2010throughput imaging to advance redox monitoring from static snapshots toward dynamic network\u2010level analysis.\n\n\n\n\n\n\n\n\nABSTRACT\nRedox homeostasis is essential for cellular function and organismal health, and its dysregulation is linked to inflammation, cancer, and neurodegenerative diseases. Precise, dynamic monitoring is critical yet challenging due to the reversible and fluctuating nature of redox processes. Fluorescent probes offer a promising solution through non\u2010invasiveness, high sensitivity, and reversible responsiveness. This Perspective systematically reviews recent advances in reversible fluorescent probes for tracking redox homeostasis, focusing on four major sensing mechanisms: FRET, ICT, PET, and ESPT. For each, we evaluate applicability, reversibility, response kinetics, and signal stability across diverse redox contexts. We further highlight that integrating reversible probes with high\u2010throughput or multiplexed imaging platforms will be essential to advance redox monitoring from static snapshots to dynamic network\u2010level analysis.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "e245e6345bae9b72",
+    "title": "Elucidating the Suppression of High\u2010Voltage Degradation in O3\u2010type NaNi1/3Fe1/3Mn1/3O2: A Voltage\u2010Switching Strategy for Na\u2010ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71535?af=R",
+    "content": "For sodium\u2010ion batteries, the NaNi1/3Fe1/3Mn1/3O2 cathode produces massive damaged regions under aggressive 2\u20134.3\u00a0V cycling. Simply switching to 2\u20134.0\u00a0V halts their rapid generation without continuous degradation of the surrounding intact regions. This stabilization mechanism enables the 2\u20134.3\u00a0V degraded cells to deliver capacity retention comparable to that of cells cycled only under 2\u20134.0\u00a0V conditions.\n\n\n\n\n\n\n\n\nABSTRACT\nElevating depth\u2010of\u2010charge (DoC) enhances the energy density of layered oxide cathodes for sodium\u2010ion batteries; however, such high\u2010DoC cycling inevitably triggers severe structural and interfacial degradation. In practice, battery management systems commonly adapt voltage\u2010derating strategies dynamically according to battery state of health, achieving a favorable trade\u2010off between energy density and cycle life. Nevertheless, a critical yet overlooked question remains: how high\u2010DoC\u2010induced damaged regions evolve when reverted to moderate\u2010DoC cycling. Here, using NaNi1/3Fe1/3Mn1/3O2 (NFM111) as a prototype, a voltage\u2010switching strategy is employed to elucidate the dynamic and long\u2010term behavior of these damaged regions. During high\u2010DoC cycling (charging to 4.3\u00a0V), the rapid capacity fading is driven by pronounced formation of bulk defects and interfacial disordered spinel phases. However, upon switching these cells to moderate\u2010DoC cycling (charging to 4.0\u00a0V), these pre\u2010existing damaged regions become stabilized: their rapid propagation is suppressed, and they no longer accelerate degradation in surrounding intact regions. This enables degraded NFM111 to deliver capacity retention comparable to that of cells cycled solely under moderate\u2010DoC conditions. This work presents a dynamic and evolving picture of high\u2010DoC degradation and subsequent moderate\u2010DoC stabilization in NFM111 cathodes, providing mechanistic insights into voltage\u2010derating process and the lifetime prolongation of compromised cells.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "9e6d5d1c577b4cdd",
+    "title": "Machine Learning for Rational Electrolyte Design in Lithium Batteries: Bridging Macroscopic Performance and Physically Interpretable Descriptors",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71542?af=R",
+    "content": "This review proposes a future\u2010oriented framework for rational electrolyte design centered on descriptor\u2010driven ML. We systematically examine physically interpretable descriptors as the foundation of rational design and assess the capability of ML models to predict them for high\u2010throughput virtual screening. Building on current advances in performance\u2010guided autonomous experimentation, we discuss the feasibility and key challenges of descriptor\u2010guided closed\u2010loop discovery, and outline a pipeline integrating virtual screening, active learning, and robotic experimentation toward autonomous electrolyte optimization.\n\n\n\n\n\n\n\n\nABSTRACT\nRational design of high\u2010performance electrolytes is central to the development of next\u2010generation lithium batteries, but it remains hindered by vast molecular design space, intricate multiscale structure\u2013property relationships, and multiple performance requirements. Although machine learning (ML) accelerates electrolyte discovery through data\u2010driven performance prediction, most existing studies rely on sparse performance data and provide limited physical interpretability, thereby falling short of true rational design. This review traces the evolution of ML\u2010enabled electrolyte research from macroscopic performance prediction to mesoscale mechanistic understanding, with particular emphasis on the limited coverage of electrolyte chemical space in existing performance datasets and the insufficient evaluation of model extrapolation. We then review the physically interpretable descriptors and examine their intercorrelations and domains of applicability using a common set of 26 representative solvents. The current maturity and remaining limitations of ML\u2010based descriptor prediction are further assessed to support the high\u2010throughput virtual screening of electrolyte candidates. Finally, we review recent advances in performance\u2010guided autonomous experimentation and discuss the key challenges associated with establishing descriptor\u2010guided closed\u2010loop discovery platforms. Although descriptor\u2010driven rational electrolyte design has yet to be fully realized, this review outlines an actionable roadmap for integrating physically interpretable descriptors, generalizable ML models, and autonomous experimentation toward interpretable, data\u2010driven electrolyte discovery.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "dae023a01a457cfb",
+    "title": "Field\u2010Regulated Triboelectric Nanogenerators for Enhanced Energy Conversion",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71464?af=R",
+    "content": "Multifield coupling provides a powerful strategy for enhancing triboelectric nanogenerators by introducing optical, thermal, magnetic, and electric fields into a single device system. This review summarizes field\u2010induced regulation mechanisms involving polarization dynamics, surface charge density, equivalent capacitance, and output impedance, and discusses future opportunities for next\u2010generation high\u2010performance self\u2010powered systems.\n\n\n\n\n\n\n\n\nABSTRACT\nTriboelectric nanogenerators (TENGs) provide a versatile platform for distributed mechanical energy harvesting and self\u2010powered sensing. However, their practical deployment remains constrained by insufficient surface charge density, high output impedance, impedance mismatch, and environmental instability, particularly under low\u2010frequency and low\u2010intensity mechanical excitation. To move beyond purely mechanically driven contact electrification, optical, thermal, magnetic, and electric fields have recently been introduced into TENG systems to regulate interfacial charge generation, separation, transport, and retention. Unlike reviews centered on the simple structural integration or output superposition of otherwise independent energy\u2010harvesting units, this review focuses on mechanistic external\u2010field coupling and adopts field\u2010assisted charge modulation as a unifying framework for analyzing multifield\u2010coupled TENGs. Starting from Maxwell's displacement current, the fundamental working mechanism of conventional TENGs and the key parameters governing their output performance are discussed. Coupling mechanisms involving localized surface plasmon resonance, photon\u2010generated carriers, pyroelectric effects and heat\u2010excitation effects, magnetic nanomaterials, magnetically assisted structures, charge injection, and charge pumping are then highlighted. Finally, current challenges and future opportunities in unified theoretical modeling, field\u2010responsive materials, system\u2010level integration, power management, and long\u2010term reliability are discussed. By linking external\u2010field coupling mechanisms with materials design and device architecture, this review provides guidance for developing high\u2010output, adaptive, and multifunctional self\u2010powered systems.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "8a88252f39b9b04a",
+    "title": "Decoding Multiscale Degradation of Layered Cathodes in All\u2010Solid\u2010State Lithium Batteries: An Advanced Diagnostics\u2010Driven Framework",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71528?af=R",
+    "content": "Layered oxide cathodes in all\u2010solid\u2010state lithium batteries fail through coupled chemical, structural, and mechanical pathways spanning atomic to electrode scales. This review decodes these failure modes by integrating advanced microscopy, spectroscopy, 3D imaging, and in situ/operando diagnostics, and highlights AI/ML tools that translate complex diagnostic signatures into predictive design principles for durable, high\u2010energy solid\u2010state batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nAll\u2010solid\u2010state lithium batteries (ASSLBs) with layered oxide cathodes such as LiNi1\u2010x\u2010yMnxCoyO2 (NMC), LiNi1\u2010x\u2010yCoxAlyO2 (NCA), LiNiO2 (LNO), and lithium\u2010rich layered oxides (LLOs) offer superior energy density and safety, yet their performance is severely limited by complex, coupled degradation mechanisms at the cathode/inorganic solid\u2010state electrolyte (SSE) interface and within the cathode bulk. This review establishes a Diagnosis\u2010Mechanism\u2010Mitigation (D\u2010M\u2010M) framework that decodes these multiscale degradation phenomena by cross\u2010validating multimodal diagnostic evidence from electronic structure to the cell level. Two categories are dissected: interfacial degradation, encompassing chemical decomposition, space\u2010charge layer formation, and resistive interphase growth; and bulk cathode degradation, including structural phase transitions, cation disorder, oxygen loss, and microstructural cracking. Drawing on advanced spectroscopy, microscopy, 3D imaging, and in situ/operando methods, each degradation cascade is traced from its diagnostic signature to its mechanism and to the validated mitigation it informed, from interfacial coatings to dopant engineering and microstructure optimization. Machine learning and artificial intelligence are assessed for interpreting complex diagnostic datasets and guiding predictive cathode design. The framework is further extended to practically relevant conditions (thick electrodes, low stack pressure, and large\u2010format cells), and the field's unresolved controversies are delineated together with the experiments that would decide them.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "41dbe41584e990a0",
+    "title": "Enhanced Figure\u2010of\u2010Merit Energy Harvesting in [001]\u2010Oriented PMN\u2010PZT Ceramics Via Synergistic Multi\u2010Scale Engineering",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71541?af=R",
+    "content": "High figure\u2010of\u2010merit (FOM) Pb(Mg1/3Nb2/3)O3\u2010PbZrO3\u2010PbTiO3 textured ceramics are realized by integrating [001] grain orientation, defect engineering, and morphotropic phase boundary design. Piezoelectric anisotropy boosts d33 and g33, while Mn\u2010induced defect dipoles minimize dielectric loss. The resulting high FOM (30,180 \u00d7 10\u221212 m2\u00b7N\u22121) enables a cantilever energy harvester with an outstanding power density of 0.72 \u00b5W\u00b7mm\u22123.\n\n\n\n\n\n\n\n\nABSTRACT\nDeveloping piezoelectric materials with a high figure\u2010of\u2010merit (FOM = d33\u00d7g33/tan\u03b4) is crucial for advanced energy\u2010harvesting technologies. Here, a high FOM is achieved in [001]\u2010oriented Pb(Mg1/3Nb2/3)O3\u2010PbZrO3\u2010PbTiO3 (PMN\u2010PZT) textured ceramics by synergistically integrating grain orientation, defect engineering, and morphotropic phase boundary (MPB) design. The textured ceramic exhibits exceptional properties (piezoelectric charge coefficient d33 = 1120 pC\u00b7N\u22121, piezoelectric voltage coefficient g33 = 62 \u00d7 10\u22123 V\u00b7m\u00b7N\u22121, and an ultralow dielectric loss tan\u03b4 = 0.23%). Atomic\u2010scale analysis reveals that the [001] intrinsic anisotropy and mixed rhombohedral\u2010tetragonal domains facilitate polarization rotation to boost d33 and g33, while Mn doping\u2010induced defect dipoles suppress dielectric loss. Consequently, an ultrahigh FOM of 30,180 \u00d7 10\u221212 m2\u00b7N\u22121 is realized. Furthermore, a cantilever energy harvester utilizing this textured ceramic delivers an outstanding power density of 0.72 \u00b5W\u00b7mm\u22123, which is 78 times higher than that of commercial soft PZT. This work provides an effective strategy for designing high\u2010FOM piezoelectric materials for high performance energy harvesting applications.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "18fd4f1cb81041d0",
+    "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+    "link": "https://www.nature.com/articles/s41586-026-11091-5",
+    "content": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11091-5\">doi:10.1038/s41586-026-11091-5</a></p>Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+    "journal": "Nature"
+  },
+  {
+    "id": "893e5e17fd9878a1",
+    "title": "Immune therapy engineered inside the body eases multiple sclerosis",
+    "link": "https://www.nature.com/articles/d41586-026-02765-1",
+    "content": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02765-1\">doi:10.1038/d41586-026-02765-1</a></p>Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a884f4cc41e9d6d5",
+    "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy, in mice",
+    "link": "https://www.nature.com/articles/d41586-026-02744-6",
+    "content": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02744-6\">doi:10.1038/d41586-026-02744-6</a></p>Study shows that psilocybin acts on nerves to prevent the painful condition called peripheral neuropathy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8092abe0771ec4db",
+    "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+    "link": "https://www.nature.com/articles/d41586-026-02650-x",
+    "content": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02650-x\">doi:10.1038/d41586-026-02650-x</a></p>The awards highlight weird, funny and improbable research that also makes you think.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4c31fcac7dad4e04",
+    "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
+    "link": "https://www.nature.com/articles/d41586-026-02517-1",
+    "content": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02517-1\">doi:10.1038/d41586-026-02517-1</a></p>India, Peru and Vietnam are rolling out policies that limit opportunities for scientists who fall foul of research-integrity guidelines.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fd721a218c00205c",
+    "title": "Daily briefing: A thrilling hint of dark-matter discovery",
+    "link": "https://www.nature.com/articles/d41586-026-02781-1",
+    "content": "<p>Nature, Published online: 02 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02781-1\">doi:10.1038/d41586-026-02781-1</a></p>A single data point from a dark-matter detector could be the first discovery of the elusive particle. Plus, the grim progress of climate change and whether AI is homogenizing culture and cognition.",
+    "journal": "Nature"
+  },
+  {
+    "id": "70382378cdf80d4b",
+    "title": "Achieving 27.35% efficiency in perovskite-organic tandem solar cells by improving near-infrared absorption with a low-band-gap acceptor",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00354-5?rss=yes",
+    "content": "A ladder-type heteroheptacene-based low-band-gap (LBG) acceptor is designed and synthesized for ternary organic solar cells (OSCs), exhibiting a high open-circuit voltage of 0.853 V and enhanced external quantum efficiencies in the long-wavelength range. By combining this LBG ternary organic subcell with a wide-band-gap perovskite subcell, the resulting perovskite-organic tandem solar cells achieve a power conversion efficiency of 27.35%.",
+    "journal": "Joule"
+  },
+  {
+    "id": "ccb7619f28af7f6b",
+    "title": "Costs of demand-side solutions for decision-making",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00352-1?rss=yes",
+    "content": "Comprehensive, comparable cost data for demand-side climate solutions have been lacking. This study presents a validated method for assessing the costs of demand-side interventions across sectors and regions, showing that most cost less than supply-side alternatives, positioning demand-side action as an affordable, low-regret complement to the energy transition.",
+    "journal": "Joule"
+  },
+  {
+    "id": "6314dd2f33957b6a",
+    "title": "Catalytic strategies for hydrogen release from carriers",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00334-X?rss=yes",
+    "content": "Chemical carriers can make hydrogen easier to store, transport, and release where it is needed. This review compares thermal, electrical, and light-driven catalytic routes for extracting hydrogen from ammonia, methane, methanol, and liquid organic hydrogen carriers. By linking carrier-specific reaction bottlenecks with active-site design, reactor engineering, purification, durability, and energy efficiency, it outlines how integrated carrier-to-hydrogen systems could support cleaner, safer, and more flexible hydrogen supply chains.",
+    "journal": "Joule"
+  },
+  {
+    "id": "1e06658a76a91a43",
+    "title": "Mn-doped 2D hexagonal boron nitride: Boosting supercapacitor performance via point defects",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600629X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Mohamad Hasan Aleinawi, Ameen Uddin Ammar, Mohammad Khairul Islam, Oluwatosin Johnson Ajala, Feray Bakan Misirlioglu, Fatma Hussain Emamy, Lucian Barbu-Tudoran, Maria Mihet, Cristian Leostean, Arpad Mihai Rostas, Steven L. Suib, Emre Erdem</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "6020707b01364ea8",
+    "title": "Revealing the Dominant Role of Spatial Lithium Distribution in the Kinetics of Lithium-Ion Batteries via Operando Neutron Depth Profiling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006331?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yuanhan Sun, Hao Liu, Liang Zhao, Wenxin Tong, Tao Zeng, Wenqing Yao, Tiancheng Yi, Songlin Wang, Caijin Xiao, Yuguang Pu, Yinguo Xiao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "4ef80e246afa94fb",
+    "title": "A multiphysics model for triboelectric nanogenerator design with explicit surface roughness representation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600618X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): MD Tanzib Ehsan Sanglap, Jack Perris, Rudra Mukherjee, Charchit Kumar, Daniel M. Mulvihill, Chris J. Pearce, Lukasz Kaczmarczyk, Andrei G. Shvarts</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "a130e285f74bd5ef",
+    "title": "Proximity Proteomics Maps Candidate Cellular Uptake Pathways for Cell\u2010Derived Nanovesicles",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71014?af=R",
+    "content": "TurboID\u2010based dual\u2010sided proteomics compares mechanically generated cell\u2010derived nanovesicles with naturally secreted small extracellular vesicles. Vesicle proteomes define candidate interaction signatures, while recipient\u2010cell proximity labelling identifies exposure\u2010associated proteins. Together, the complementary datasets reveal shared and condition\u2010associated molecular features across both systems, prioritizing testable vesicle\u2013cell interactions for mechanistic validation and nanocarrier engineering.\n\n\n\n\n\n\n\n\nABSTRACT\nAlthough extracellular vesicles (EVs) facilitate selective molecular exchange between cells, their low yields and inherent heterogeneity limit translational applications. Cell\u2010derived nanovesicles (CDNs), produced by mechanical extrusion of donor cells, offer a scalable alternative while retaining key membrane features of EVs. Yet how fabrication reshapes vesicle\u2013cell communication remains poorly understood. Here, vesicle\u2010side proteomics is integrated with TurboID proximity labeling of recipient\u2010cell proteins to construct quantitative, dual\u2010sided maps of CDN and small extracellular vesicle (sEV) interactions. Despite similar size and surface charge, CDNs displayed a substantially more diverse proteome and a broader repertoire of predicted uptake\u2010associated signatures. Recipient\u2010cell proximity proteomics further resolved distinct molecular cohorts. The CDN\u2010associated cohort contained recipient\u2010derived CALR and NCL, which are literature\u2010linked to LRP1/CD91\u2010associated efferocytic recognition and NCL\u2010associated macropinocytic processes, respectively, whereas the sEV\u2010associated cohort contained signatures consistent with HSPG\u2010assisted docking and clathrin\u2010mediated or CLIC/GEEC\u2010related uptake. Together, these complementary datasets reveal molecular interfaces for extrusion\u2010generated CDNs that are distinct from those of naturally secreted sEVs. Receptor dependence and the contributions of surface association and internalization require direct testing; however, the identified associations define specific mechanistic targets for further investigation. This dual\u2010sided proteomic strategy establishes a quantitative framework for dissecting vesicle\u2013cell communication and engineering membrane\u2010based nanocarriers.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "7410612784ff453e",
+    "title": "Rational Sulfur Vacancy Design Enhances the Electrochemical and Nonlinear Optical Properties of V2CTx/WS2",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71016?af=R",
+    "content": "The V2CTx/WS2 composite enhances interfacial charge transfer through an interfacial reconstruction process. The WS2 nanoflowers not only facilitate rapid ion and electron transport but also provide abundant active sites, thereby exhibiting exceptional capacitive performance and excellent cycling stability. Furthermore, the defect levels induced by vacancies enhance nonlinear absorption effects, endowing the material with highly efficient third\u2010order nonlinear optical properties.\n\n\n\n\n\n\n\n\nABSTRACT\nThe concurrent optimization of electrochemical energy storage and third\u2010order nonlinear optical (NLO) performance within a single material system remains a fundamental challenge. Here, V2CTx/WS2 composites were fabricated via a solvothermal method on carbon cloth substrates, and (V2CTx/WS2)x/PMMA were prepared for optical measurements. Interfacial interactions between V2CTx surface functional groups and WS2 promote the formation of sulfur vacancies and interfacial charge redistribution during compositing. The enlarged interlayer spacing, three\u2010dimensional WS2 nanoflower architecture, and defect\u2010rich structure collectively increase accessible active sites and facilitate charge transport. The V2CTx/WS2 electrode delivers a specific capacity of 2251.95 F\u00b7g\u22121 at 1 A\u00b7g\u22121, retaining 94.80% of its initial capacity after 10\u00a0000 cycles. The assembled supercapacitor achieves an energy density of 47.93 Wh\u00b7kg\u22121 at a power density of 983.45 W\u00b7kg\u22121. For NLO performance, the (V2CTx/WS2)8/PMMA sample exhibits a nonlinear absorption coefficient \u03b2 of 232 cm\u00b7GW\u22121, a nonlinear refraction coefficient \u03b3 of \u22129.29\u00a0\u00d7\u00a010\u22124 cm2\u00b7GW\u22121, and an optical limiting threshold of 1.09 J\u00b7cm\u22122. The results demonstrate that V2CTx/WS2 exhibits excellent electrochemical and NLO properties through composite structure design and defect engineering.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
