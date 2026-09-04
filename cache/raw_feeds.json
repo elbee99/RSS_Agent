@@ -957,5 +957,166 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71016?af=R",
     "content": "The V2CTx/WS2 composite enhances interfacial charge transfer through an interfacial reconstruction process. The WS2 nanoflowers not only facilitate rapid ion and electron transport but also provide abundant active sites, thereby exhibiting exceptional capacitive performance and excellent cycling stability. Furthermore, the defect levels induced by vacancies enhance nonlinear absorption effects, endowing the material with highly efficient third\u2010order nonlinear optical properties.\n\n\n\n\n\n\n\n\nABSTRACT\nThe concurrent optimization of electrochemical energy storage and third\u2010order nonlinear optical (NLO) performance within a single material system remains a fundamental challenge. Here, V2CTx/WS2 composites were fabricated via a solvothermal method on carbon cloth substrates, and (V2CTx/WS2)x/PMMA were prepared for optical measurements. Interfacial interactions between V2CTx surface functional groups and WS2 promote the formation of sulfur vacancies and interfacial charge redistribution during compositing. The enlarged interlayer spacing, three\u2010dimensional WS2 nanoflower architecture, and defect\u2010rich structure collectively increase accessible active sites and facilitate charge transport. The V2CTx/WS2 electrode delivers a specific capacity of 2251.95 F\u00b7g\u22121 at 1 A\u00b7g\u22121, retaining 94.80% of its initial capacity after 10\u00a0000 cycles. The assembled supercapacitor achieves an energy density of 47.93 Wh\u00b7kg\u22121 at a power density of 983.45 W\u00b7kg\u22121. For NLO performance, the (V2CTx/WS2)8/PMMA sample exhibits a nonlinear absorption coefficient \u03b2 of 232 cm\u00b7GW\u22121, a nonlinear refraction coefficient \u03b3 of \u22129.29\u00a0\u00d7\u00a010\u22124 cm2\u00b7GW\u22121, and an optical limiting threshold of 1.09 J\u00b7cm\u22122. The results demonstrate that V2CTx/WS2 exhibits excellent electrochemical and NLO properties through composite structure design and defect engineering.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "affaa4c256d0edff",
+    "title": "Enabling Low\u2010Temperature Fast\u2010Charging Anode\u2010Free Sodium Metal Batteries: A Synergistic Design of Electrolyte Solvation and Current Collector Interface",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71533?af=R",
+    "content": "Anode\u2010free sodium metal batteries operating under low\u2010temperature and fast\u2010charging conditions are limited by sodium inventory and interfacial kinetics. This review presents a synergistic framework combining electrolyte solvation engineering, collector functionalization, and AI\u2010driven design, providing a roadmap for achieving >200 Wh kg\u22121 under extreme conditions.\n\n\n\n\n\n\n\n\nABSTRACT\nAnode\u2010free sodium metal batteries (AFSMBs) promise ultrahigh energy density (>350 Wh kg\u22121) and low cost, yet their operation under low\u2010temperature and fast\u2010charging conditions is critically hindered by limited sodium inventory and sluggish interfacial kinetics. This conflict creates a \u201cstability paradox\u201d: the pursuit of high energy density amplifies interfacial instability, leading to inhomogeneous sodium deposition and rapid capacity decay. This review systematically analyzes AFSMB failure mechanisms under extreme conditions and demonstrates that overcoming these bottlenecks requires integrated co\u2010design across four synergistic domains: (1) engineering electrolyte solvation structures (weakly solvating, high\u2010concentration, and high\u2010entropy designs) to lower the desolvation barrier and stabilize the solid\u2013electrolyte interphase; (2) tailoring current collector interfaces with sodiophilic coatings or three\u2010dimensional architectures to guide uniform sodium deposition; (3) incorporating rational pre\u2010sodiation strategies to compensate irreversible sodium loss; and (4) leveraging artificial intelligence and molecular simulations for data\u2010driven electrolyte screening. We critically assess the trade\u2010offs of each strategy and provide a forward\u2010looking perspective on reversible sodium compensation, multi\u2010scale AI platforms, and full\u2010cell integration. This review offers a roadmap for developing practical, wide\u2010temperature\u2010range, high\u2010energy\u2010density AFSMBs, with recent pouch cells already demonstrating >200 Wh kg\u22121 and stable cycling from \u221240\u00b0C to 60\u00b0C.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "76142624b316908a",
+    "title": "Strain Engineering in High\u2010Entropy Electrocatalysts: Mechanisms, Strategies and Water Splitting Applications",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71540?af=R",
+    "content": "This review highlights strain engineering for modulating high\u2010entropy electrocatalysts toward efficient water splitting and summarizes key preparation strategies. Furthermore, it outlooks in situ characterization techniques and artificial intelligence to guide rational catalyst design.\n\n\n\n\n\n\n\n\nABSTRACT\nStrain engineering has emerged as an effective strategy for tailoring the electronic structure and catalytic behavior of materials at the atomic scale. For electrochemical water splitting, the sluggish kinetics of the hydrogen evolution reaction and oxygen evolution reaction are largely limited by scaling relationships and nonoptimized adsorption energetics of key intermediates. High\u2010entropy materials, featuring multiprincipal\u2010element compositions and pronounced lattice distortion, offer a unique platform for strain\u2010mediated catalytic regulation. Their intrinsic microstrain fields, derived from atomic size mismatch together with sluggish diffusion and cocktail effects, enable tunable electronic structures and abundant metastable active sites. This review summarizes recent advances in strain engineering of high\u2010entropy materials for water splitting. Fundamental concepts of strain and its influence on d\u2010band centers, adsorption energetics, and reaction kinetics are first introduced. This is followed by a discussion of strain modulation strategies, including doping, solid solution alloying, and defect engineering. Special emphasis is placed on the distinct behavior of high\u2010entropy materials compared with conventional alloys, particularly their nonlinear electronic hybridization and multisite synergy. Finally, key challenges involving strain quantification, operando evolution, and strain\u2010entropy coupling are highlighted, providing guidance for the rational design of next\u2010generation water\u2010splitting catalysts.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "437879ece4b0e59a",
+    "title": "Surface\u2010Strained NiMo Cathodes Enable Kinetics\u2010Decoupled Hydrogen Bubble Management for Stable Near\u2010Neutral Water Electrolysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71545?af=R",
+    "content": "Surface strain tunes the NiMo/electrolyte interface without altering intrinsic hydrogen evolution reaction (HER) kinetics. The strained surface exhibits a lower effective bubble\u2010detachment tendency and faster release of smaller H2 bubbles, sustaining a more accessible catalytic interface in near\u2010neutral electrolyte. Reduced bubble\u2010induced transport and ohmic losses lower overpotential and improve single\u2010cell durability, establishing bubble management as an independent electrode\u2010design strategy.\n\n\n\n\n\n\n\n\nABSTRACT\nGas evolution during water electrolysis forms bubble layers that block active sites and increase transport and ohmic losses. Decoupling bubble\u2010mediated mass transport from intrinsic hydrogen evolution reaction (HER) kinetics remains challenging because surface modifications affect both activity and bubble dynamics. Here, a surface\u2010strained NiMo cathode (s\u2010NiMo) enables kinetics\u2010decoupled hydrogen bubble management in a near\u2010neutral electrolyte. In 0.5 m potassium phosphate buffer (pH 7.0), NiMo and s\u2010NiMo exhibit nearly identical intrinsic HER kinetics, consistent with similar H* adsorption energetics. Under bubble\u2010regulated operation, s\u2010NiMo shows a 63 mV lower steady\u2010state overpotential at \u221220 mA cm\u22122. High\u2010speed imaging reveals smaller, faster\u2010departing H2 bubbles, reducing the mean residence time from 0.5 s to 0.2 s. Interfacial analyses indicate enhanced hydrophilicity and more negative surface\u2010charge\u2010related characteristics. Ensemble calculations based on the Universal Model for Atoms show that the surface\u2010associated *H2 state is 0.52 eV higher in the s\u2010NiMo\u2010representative environment, while electrochemical fluorescence lifetime imaging microscopy reveals a 1.5\u2010fold higher nanobubble event density. In a single\u2010cell electrolyzer at 300 mA cm\u22122, s\u2010NiMo maintains a 280 mV lower cell voltage over 100 h. These findings establish bubble management as an independent design axis for stable near\u2010neutral water electrolysis.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "31bc7cb26b15f10f",
+    "title": "Nanoscale In2O3 Induced Fast Kinetics and Stable Interface for High\u2010Loading Solid\u2010State Cathode",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71543?af=R",
+    "content": "Nano In2O3, incorporated into high\u2010loading solid\u2010state cathodes, can create a continuous Li+ pathway and a rapid electron\u2010percolation network, thereby enhancing the kinetics of thick electrodes. Moreover, replacing the conventional carbon\u2010based conductive additive VGCF with nano In2O3 effectively improves the interfacial stability with LPSC, thereby enabling high\u2010capacity utilization and stable cycling of high\u2010loading solid\u2010state batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nSulfide\u2010based all\u2010solid\u2010state lithium batteries (ASSLBs) with high\u2010loading cathodes are currently hindered by sluggish Li+/electron kinetics and poor interfacial compatibility. Conventional carbon additives, despite their high conductivity, often trigger detrimental side reactions with sulfide electrolytes. To mitigate these issues, we introduce a multifunctional nanoscale In2O3 conductive agent, integrated via a facile one\u2010step ball milling process. This nano\u2010In2O3 effectively mediates interactions between large Li5.5PS4.5Cl1.5 (LPSC) and LiNi0.8Co0.1Mn0.1O2 (NCM811) particles, enhancing mixing homogeneity and collision efficiency. The resulting composite cathode features a low\u2010tortuosity Li+ transport network and establishes rapid \u201cNCM\u2010nano In2O3\u2010NCM\u201d electronic pathways within particle gaps. Crucially, In2O3 improves interfacial compatibility between the LPSC and conductive additives, suppressing interfacial degradation. Consequently, a high\u2010loading cathode (18.34\u00a0mg cm\u22122) demonstrates a specific capacity of 131 mAh g\u22121 at 3C and exhibits excellent cyclability, retaining 97.6% capacity after 500 cycles in NCM811||Li cells. This strategy highlights the potential of nanoscale metal oxide additives for achieving high\u2010energy\u2010density ASSLBs through optimized interfacial and transport kinetics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "6d3bb01a26b119de",
+    "title": "Breaking the Degradation Domino in Li\u2010Rich Layered Oxide Cathode Via Precise Electrostatic Pinning and Gradient Shielding",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71518?af=R",
+    "content": "Precisely incorporating electrostatic pinning suppresses transition\u2010metal migration and vacancy\u2010cluster growth, while near\u2010surface gradient shielding stabilizes the layered framework and electrode\u2013electrolyte interface, collectively enhancing the structural and electrochemical stability of Li\u2010rich cathodes.\n\n\n\n\n\n\n\n\nABSTRACT\nBenefiting from the anionic redox activity, lithium\u2010rich layered oxide cathodes exhibit high specific capacity, but the migration of transition metal (TM) can exacerbate vacancy clustering, resulting in domino\u2010like structural degradation. To stabilize the structure, the electrostatic pinning effect is precisely incorporated into the Li layer to mitigate the TM migration via strong electrostatic repulsion. Concurrently, this configuration effectively modulates the electronic distribution around the oxygen ligands, thereby stabilizing the oxygen redox. Furthermore, robust electrostatic interactions endow the material with the capability to adaptively adjust its interlayer spacing, thereby buffering the structural evolution of the layered framework during (de)lithiation processes. The modified cathode achieves an 89.1% capacity retention over 400 cycles in half\u2010cells and an impressive 96.2% over 1000 cycles in full cells. To further decouple the capacity\u2010stability trade\u2010off while concurrently enhancing both bulk and interfacial stability, we engineered a gradient shielding architecture. This design not only attains 219.8 mAh g\u22121 at 0.5C and delivers capacity retention of 90.8% after 400 cycles but also promotes the formation of a compact CEI at the near\u2010surface region, markedly improving interfacial stability under harsh conditions. This progressive structural engineering paradigm offers fresh insights into overcoming the intrinsic structural challenges of lithium\u2010rich cathode materials.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "212aea5d7d7cacc6",
+    "title": "Integrating Machine Learning and High\u2010Throughput Calculations for the Rational Design of Photocatalytic 2D\u2010COFs on Overall Water Splitting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71537?af=R",
+    "content": "ABSTRACT\nTwo\u2010dimensional covalent organic frameworks (2D\u2010COFs) with tunable structures offer a promising platform for photocatalytic overall water splitting (OWS) under visible\u2010light. However, it is challenging to quickly find photocatalytic OWS materials from the massive amounts of 2D\u2010COFs and then achieve precise synthesis. In this work, we constructed 11\u00a0934 hcb\u2010type 2D\u2010COFs by assembling 28 building blocks and 9 linkages. The machine learning (ML) and high\u2010throughput computation (HTC) were integrated to predict feasible photocatalytic OWS hcb\u2010type 2D\u2010COFs. Through training 10 initial algorithms and optimizing the hyperparameters of top 4 algorithms in terms of performance, the ETR model for predicting the band\u2010edge levels with R2 of 0.97 and 0.99 was developed, and the KNR and RFR models were built for predicting \u0394G*H and \u0394G*OH with R2 of 0.99 and 0.83, respectively. 2581 2D\u2011COFs (21.63% of dataset) are screened to be potential structures for visible\u2011light\u2011driven water splitting. After applying the optimal ML models on all assembled 2D\u2010COFs, a list of high\u2010frequency building blocks and linkages is suggested as a set of suitable candidates for the first time. Then TBTZ_FBN0_Imine (TBTZ\u2010FBN0\u2010COF) was assembled and experimentally synthesized. Its OWS activity verified our ML\u2010HTC paradigm, which provides the researchers recommendation to construct photocatalytic OWS 2D\u2010COFs.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "37c164829dd4ed07",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71350?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "56de0d4db16b2371",
+    "title": "Tuning Interfacial Water Dynamics via Gd\u2010Doped Cu2O for High\u2010Rate Selective CO2\u2010to\u2010Ethanol Conversion (Adv. Energy Mater. 33/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71348?af=R",
+    "content": "CO2 Reduction\nIn article number e71129, Kyeongsu Kim, Byoung Koun Min, Woong Hee Lee, Hyung\u2010Suk Oh, and co\u2010workers illustrate how lanthanide\u2010engineered Gd\u2010Cu2O catalysts create a free\u2010water\u2010rich interfacial environment that promotes proton transfer and stabilizes key C\u2010C coupling intermediates during electrochemical CO2 reduction. The synergistic effect of interfacial water and catalyst structure drives the reaction pathway toward highly selective ethanol production.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "e46d718ec0f725f3",
+    "title": "Accelerated Oxygen Evolution Kinetics in Layered Double Perovskites via Hydroxide Surface Engineering for Anion Exchange Membrane Water Electrolysis (Adv. Energy Mater. 33/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71349?af=R",
+    "content": "Anion Exchange Membrane Water Electrolysis\nA conformal NiFe(OH)x coating transforms layered double perovskite into a highly active and durable oxygen evolution electrode for anion exchange membrane water electrolysis. The engineered oxide\u2013hydroxide interface promotes electron transfer while balancing cation dissolution and re\u2010deposition through hydrogen bond mediated interfacial stabilization, enabling exceptional catalytic activity and 1000\u2010hour operational durability. More in article number e71133, Sung Mook Choi, Hosik Lee, Jihwan An, Juchan Yang, and co\u2010workers.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "9b79a7835beb1cb7",
+    "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+    "link": "https://www.nature.com/articles/d41586-026-02800-1",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02800-1\">doi:10.1038/d41586-026-02800-1</a></p>Nature staff discuss the winners of the 2026 Ig Nobel prizes \u2014 plus, the isolated energy flash that could be the first glimpse of dark matter.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e2a9718c8fcc132b",
+    "title": "Super-precise optical clocks in four nations tick in harmony",
+    "link": "https://www.nature.com/articles/d41586-026-02741-9",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02741-9\">doi:10.1038/d41586-026-02741-9</a></p>Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b6f303f0fe9227ae",
+    "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+    "link": "https://www.nature.com/articles/d41586-026-02739-3",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02739-3\">doi:10.1038/d41586-026-02739-3</a></p>Coffin decorations and wall paintings were made with tissue from a broad range of organisms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "82b17d30c3d9edca",
+    "title": "Tropical cyclones could be predicted with an extra day\u2019s warning, thanks to an AI model",
+    "link": "https://www.nature.com/articles/d41586-026-02643-w",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02643-w\">doi:10.1038/d41586-026-02643-w</a></p>The track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bafcd71d80e39081",
+    "title": "Ada Yonath obituary: Crystallographer who overcame \u2018impossible\u2019 challenge of mapping the ribosome",
+    "link": "https://www.nature.com/articles/d41586-026-02801-0",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02801-0\">doi:10.1038/d41586-026-02801-0</a></p>Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f3d64f6802341af9",
+    "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+    "link": "https://www.nature.com/articles/d41586-026-02799-5",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02799-5\">doi:10.1038/d41586-026-02799-5</a></p>An agreement paves the way for hundreds of millions of dollars\u2019 worth of projects to be transferred from the NIH\u2019s institute for infectious diseases to the Department of Defense.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c41545e0ccd8fc52",
+    "title": "Bunsen burners\u2019 reputation for sterilizing workplaces flames out",
+    "link": "https://www.nature.com/articles/d41586-026-02758-0",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02758-0\">doi:10.1038/d41586-026-02758-0</a></p>Study shows that the venerable device does not waft bacteria away from workbenches, as is often assumed.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f9998926354befc8",
+    "title": "CRISPR therapy cuts cholesterol for at least 12 months",
+    "link": "https://www.nature.com/articles/d41586-026-02740-w",
+    "content": "<p>Nature, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02740-w\">doi:10.1038/d41586-026-02740-w</a></p>Small trial targeted liver proteins that play a part in the regulation of lipid levels.",
+    "journal": "Nature"
+  },
+  {
+    "id": "61600d3fa63d37b9",
+    "title": "Harnessing Strain-Stress Modulation of Heterogeneous Catalyst via Sonochemistry for Advanced Lithium-Sulfur Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600646X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 3 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Kuiyou Wang, Zixiong Shi, Yunhong Dai, Yunfeng Zhang, Bo Zhao, Hechao Xu, Wenbin Kang, Lixian Song, Jingyu Sun, Yingze Song</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "ad6fe1071b859d13",
+    "title": "Surface-dominant pseudocapacitance in graphene@hard carbon heterostructure for fast and durable sodium storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006609?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Fangyan Liu, Jieqiong Qin, Chen Li, Sen Wang, Zhuobin Guo, Junwei Sun, Xiaoyu Shi, Yuejiao Li, Zhong-Shuai Wu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b83a8933a335577b",
+    "title": "Tailoring emission pathways in Ag-In-Ga-S quantum dots through vacancy-regulated cation engineering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006646?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Ali Imran Channa, Lei Jin, Xiao Wei Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "c76ee7696792ab2f",
+    "title": "Machine learning-guided design of rare-earth single-atom catalysts for the oxygen reduction reaction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006701?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Tianyou Zhao, Yuqing Liu, Xinqiang Wang, Wen-Gang Cui, Hongge Pan, Dingsheng Wang, Wen-Hao Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9fb30e08fc3450b2",
+    "title": "Towards High\u2010Throughput Testing of Bipolar Plate Materials for Proton Exchange Membrane Water Electrolyzers: Correlative Contact Resistance and Stability Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71010?af=R",
+    "content": "Bipolar plates are a major cost driver in proton exchange membrane water electrolyzers (PEMWE) and require novel cost\u2010effective materials combining high corrosion resistance with low interfacial contact resistance (ICR). We present a correlative workflow for spatially resolved dissolution and ICR measurements by developing a miniaturized ICR measurement setup providing a powerful high\u2010throughput approach for identifying novel PEMWE materials.\n\n\n\n\n\n\n\n\nABSTRACT\nBipolar plates (BPP) are a major cost driver in proton exchange membrane water electrolyzers for green hydrogen production that require replacement with more cost\u2010effective materials. However, novel materials must combine high corrosion resistance and low dissolution rates with low interfacial contact resistance (ICR). Herein, we introduce a correlative workflow for determining electrochemical dissolution using a scanning flow cell coupled on\u2010line to an inductively coupled plasma spectrometer and ICR, utilizing a novel miniaturized ICR setup with a sample diameter of 2\u00a0mm. The applicability of the setup is demonstrated using titanium (Ti), for which the ICR is found to increase depending on the applied oxidation potential. Furthermore, automated ICR mapping across pristine Ti sheets with a platinum (Pt) coating featuring a thickness gradient reveals a pronounced ICR decrease when the Pt layer exceeds \u223c3.8\u00a0\u00b1\u00a01.4\u00a0nmPt, while thicker Pt coatings (up to \u223c80\u00a0nmPt) do not provide further improvement. These results demonstrate that ultrathin Pt coatings can already substantially reduce the ICR of titanium\u2010based BPP materials. Our setup enables high\u2010throughput screening of material libraries and provides a powerful tool for developing optimized PEMWE components with low ICR and high electrochemical stability.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "514bf62ce9608ab0",
+    "title": "Resonance\u2010Enhanced Four\u2010Wave Mixing Imaging for Mapping Defect Regions in Vanadium\u2010Doped WS2 Monolayers",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70996?af=R",
+    "content": "Resonant four\u2010wave mixing (FWM) microscopy reveals a spatial modulation of the third\u2010order nonlinear optical response in vanadium\u2010doped WS2 monolayers. This robust nonlinear contrast technique tracks the preferential accumulation of vanadium dopants along the structural bisection lines of the synthesized flakes.\n\n\n\n\n\n\n\n\nABSTRACT\nDefect engineering is crucial for tuning 2D transition metal dichalcogenide properties for quantum and optoelectronic applications. While conventional photoluminescence (PL) and Raman spectroscopies are important characterization tools, their mapping in large area samples can be time\u2010consuming and lacks direct sensitivity for comprehensive defect characterization. Here, we introduce resonance\u2010enhanced four\u2010wave mixing (FWM) imaging for precise imaging and characterization of vanadium\u2010induced defect states in WS2${\\rm WS}_2$ monolayers. Our multi\u2010modal investigation, integrating hyperspectral PL, Raman, and supported by density functional calculations, reveals nanoscale doping inhomogeneities, their influence on excitonic and vibrational properties. We observe resonance\u2010enhanced FWM signals correlating with vanadium\u2010induced defect regions, evidencing their unique nonlinear optical response. This work establishes FWM as an essential platform for high\u2010resolution, defect\u2010sensitive imaging, advancing defect\u2010engineered excitonic devices and enabling novel nonlinear quantum\u00a0photonics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
