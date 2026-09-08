@@ -54,5 +54,278 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71004?af=R",
     "content": "One scan, swift answers: a 19F\u2010MRI honeycomb captures reporter ligand displacement across dozens of non\u2010fluorinated drug candidates in parallel. Miniaturized arrays with compressed sensing speed up acquisition, delivering rapid, quantitative readouts for ligand screening.\n\n\n\n\n\n\n\n\nABSTRACT\n19F NMR is a well\u2010established technique for screening ligands in early drug discovery. However, conventional NMR measurements are inherently sequential, which limits experimental throughput. We recently demonstrated that 19F MR imaging (MRI) enables spatial parallelization of such measurements. In this study, we leverage the reporter assay format, where the transverse relaxation (T2$T_2$) of a fluorinated reporter ligand is monitored in the presence of potential competitors. Using T2$T_2$\u2010weighted MR images, up to 61 miniaturized samples can be resolved simultaneously. The screening assay operates at microliter\u2010scale volumes in a custom miniaturized honeycomb sample holder, providing a readily accessible and scalable quantitative binding assay. To further accelerate data acquisition, we developed optimized imaging protocols based on compressed sensing (CS), enabling substantial reductions in measurement time without compromising quantitative accuracy. This approach allows parallel screening of 55 potential ligands and efficient determination of relative binding affinities through simultaneous dose\u2010response experiments. We demonstrate the method on the model protein trypsin and the antibiotic target PPAT, characterizing several ligands with distinct binding properties. This study highlights the potential of MRI to enhance throughput and efficiency in early\u2010stage drug discovery\u00a0markedly.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "84bbff789f32c0f2",
+    "title": "Recyclable Triboelectric Nanogenerators Enabled by Biodegradable Pollen\u2010Paper Nanoarchitectonics for Sustainable Energy Harvesting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71517?af=R",
+    "content": "Recyclable triboelectric nanogenerators are engineered from tough, hydrogen\u2010bonded pollen paper, delivering 5.07 W m\u22122 and enduring over 100\u00a0000 cycles. Integrated into footwear, they harvest human\u2010motion energy for sustainable sensing and IoT applications. Water\u2010assisted disassembly enables component recovery, performance\u2010preserving reassembly, and substrate biodegradation within 12 days.\n\n\n\n\n\n\n\n\nABSTRACT\nTriboelectric nanogenerators (TENGs) are promising devices for harvesting ambient mechanical energy, however, their development is hindered by low power output, limited energy conversion efficiency, and reliance on synthetic polymers. Here, we report a pollen\u2010based recyclable TENG (PRTENG) achieving a power density of 5.07\u00a0W m\u22122, rivaling synthetic polymeric TENGs. The seamless integration of bleached pollen paper with PEDOT:PSS and poly(vinyl alcohol) via strong hydrogen\u2010bonding networks exhibits a 21% increase in maximum stress and 82\u2010fold toughness enhancement alongside robust durability of over 100\u00a0000 contact\u2010separation cycles. Moreover, when integrated into footwear, the PRTENG effectively converts human motion into electrical energy. Critically, water\u2010assisted disassembly enables complete component recovery for reassembly with negligible performance loss, while the recovered substrates can biodegrade within 12 days. Overall, this study provides a sustainable approach to engineer fully flexible, recyclable, and eco\u2010friendly TENGs for deployment in wearable electronics, decentralized sensing networks, and next\u2010generation sustainable IoT infrastructures.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "bc73698f85f9dd1f",
+    "title": "Anion\u2010Transferring Electrolyte Enables In Situ Construction of Uniform LiF\u2010Rich Interphases for Long\u2010Cycling Lithium\u2013Sulfur Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71550?af=R",
+    "content": "Non\u2010consumable tetramethylammonium (TMA+) cations shuttle PF6\u2212 anions to both electrodes during the charge/discharge processes, enabling in situ formation of LiF\u2010rich inorganic interphases that suppress dendrites and side reactions for long\u2010cycling lithium\u2013sulfur batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nStabilizing electrode/electrolyte interphases is crucial for high\u2010performance lithium\u2013sulfur batteries; however, simultaneously fabricating robust interphases on both the lithium anode and sulfur cathode is challenging. Here, we report an anion\u2010transferring functional electrolyte containing non\u2010expendable tetramethylammonium (TMA) bromide that enables the in situ formation of LiF\u2010rich interphases on both electrodes. The TMA+ cations act as ion carriers that electrostatically shuttle PF6\u2212 anions from the bulk electrolyte to the electrode/electrolyte interfaces in the form of ion pairs. This localized enrichment of PF6\u2212 facilitates its electrochemical decomposition, leading to the formation of a uniform LiF\u2010rich solid electrolyte interphase on the anode and a cathode\u2010electrolyte interphase on the sulfur cathode. The LiF\u2010rich interphases show a high Young's modulus, which help suppress interfacial parasitic reactions and Li dendrite formation. The adsorbed TMA+ cations form an electrostatic shielding layer that mitigates local Li+ flux heterogeneity, further suppressing dendrite growth. When applied to Li\u2010SPAN batteries, they maintain a 92% capacity retention after 350 cycles at 1 C and deliver a high reversible capacity of 1039\u00a0mAh\u00a0g\u22121 after 300 cycles at 0.5 C. This work provides an innovative alternative to conventional interphase engineering for stabilizing lithium battery interphases.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f432701e50ec9d53",
+    "title": "Electronic\u2010Brake\u2010Enabled Generation and Stabilization of Dynamic Active Interfaces for CO2\u2010to\u2010Formate Electroreduction",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71561?af=R",
+    "content": "Doping with elements that have a lower valence state and a higher electronegativity (e.g., Bi) than Sn4+ is beneficial for stabilizing the active catalyst interface.\n\n\n\n\n\n\n\n\nABSTRACT\nControlling the dynamic reconstruction of oxide\u2010derived catalysts is critical for electrochemical CO2 reduction because their active structures are often metastable under cathodic conditions. For SnO2\u2010based catalysts, partial reduction generates reconstructed SnO2/Sn interfacial structures that favor formate production, whereas excessive reduction to metallic Sn destroys these interfaces and promotes hydrogen evolution. Here, we develop a dopant\u2010regulated reconstruction strategy in which low\u2010valence, high\u2010electronegativity Bi acts as an electronic brake to modulate SnO2 reduction kinetics. The optimized Bi0.2 catalyst delivers a formate Faradaic efficiency above 93% for more than 130\u00a0h at 250\u00a0mA cm\u22122 in a flow cell and maintains robust performance across diverse electrolyte environments. In situ and ex situ structural/electronic characterizations show that Bi incorporation mitigates deep SnO2 reduction and helps preserve the reconstructed SnO2/Sn interface under cathodic operating conditions. In situ Raman spectroscopy and attenuated total reflection surface\u2010enhanced infrared absorption spectroscopy measurements reveal potential\u2010dependent changes in the interfacial water environment and support the involvement of activated CO2\u2010related and *OCHO\u2010related species in formate formation. Density functional theory calculations further show that Bi lowers the largest uphill Gibbs free\u2010energy step for *OCHO formation while increasing that for the competing hydrogen evolution reaction pathway. These results establish dopant\u2010regulated reconstruction and interfacial proton\u2010coupled reaction regulation as design principles for sustainable CO2 valorization.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f8df09fecfc0bb9c",
+    "title": "Composite Polymer Electrolytes With Hierarchical Confinement of Anions and Solvents for Stable Solid\u2010State Li Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71556?af=R",
+    "content": "This work reports a precisely modulated PVDF\u2010based composite polymer electrolyte system that integrates anion\u2010dominated solvation architecture with accelerated lithium\u2010ion mobility under solvent\u2010lean conditions using 3D MoS2 fillers. The engineered electrolyte significantly reduces ion\u2010transport energy barriers while stabilizing interfacial chemistry, achieving remarkable ionic conductivity (1.13 mS cm\u22121 at 30\u00b0C) and Li+ transference number (0.68).\n\n\n\n\n\n\n\n\nABSTRACT\nSolid\u2010state lithium\u2010metal batteries leveraging solid polymer electrolytes (SPEs) represent a promising technological pathway. Among these, polyvinylidene fluoride (PVDF)\u2010based SPEs are particularly noteworthy, yet they face a fundamental dilemma: electrode/electrolyte interfacial degradation from solvent\u2010dominated Li+ coordination versus constrained Li+ transport under solvent\u2010deficient conditions. To resolve this paradox, a 3D porous few\u2010layered MoS2 was synthesized and employed as the filler in PVDF\u2010based SPEs. The fillers concurrently weaken Li+ coordination with both FSI\u2212 and solvent through targeted dipole interactions, thereby enhancing Li+ migration rate and inducing structural reorganization to anion\u2010dominated Li+ solvation. The optimized PVDF\u2010based electrolyte demonstrates record\u2010breaking ionic conductivity (1.13 mS cm\u22121), Li+ transference number (0.68), and exceptional compatibility with lithium metal anodes under solvent\u2010lean conditions. The LiNi0.8Co0.1Mn0.1O2||Li cell demonstrates exceptional cycling stability, achieving a record\u2010high capacity retention of 90.5% after 1500 cycles at 2 C. Furthermore, practical applicability is confirmed through a 54 mAh pouch cell configuration. The ultra\u2010stable interfacial characteristics establish new performance benchmarks, demonstrating a viable pathway toward practical solid\u2010state batteries with minimal solvent dependence.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b56c409873357d73",
+    "title": "Surface Lattice\u2010Adaptive Integrity Reconstruction of Perovskite Quantum Dots for Efficient Solar Cells",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71547?af=R",
+    "content": "A facile surface lattice\u2010adaptive integrity reconstruction strategy is reported to regulate the surface lattice of perovskite quantum dots, which could substantially ameliorate the surface lattice integrity and thus improve the optoelectronic properties and structure stability of perovskite quantum dots. Consequently, a high efficiency of up to 19.32% is obtained in FAPbI3 quantum dot solar cells.\n\n\n\n\n\n\n\n\nABSTRACT\nFormamidinium lead triiodide perovskite quantum dots (FAPbI3 PQDs) receive increasing attention for next\u2010generation solar cells owing to their remarkable optoelectronic properties and solution processability. However, the dynamic binding of native surface ligands inevitably induces surface lattice vacancies and distortions, significantly deteriorating the optoelectronic properties and stability of PQDs. Herein, a facile surface lattice\u2010adaptive integrity reconstruction strategy is reported to regulate the surface lattice of PQDs. After molecule screening, the 3\u2010guanidinopropionic acid (GPA) with a geometry\u2010adaptive configuration can effectively passivate the intrinsic surface lattice vacancies through the Pb\u2010O coordination and guanidinium\u2010mediated hydrogen\u2010bonding interactions. Meanwhile, the surface lattice\u2010adaptive configuration of the GPA can also substantially ameliorate the distorted surface lattice, which largely improves the surface lattice integrity and enhances the electronic coupling of PQDs, facilitating charge carrier transport in the PQD solids. Consequently, the power conversion efficiency is increased from 16.15% for the control solar cell to 19.32% for the GPA\u2010based solar cell. This work provides important insight into the physical design principles for the surface lattice of PQDs through lattice\u2010adaptive molecules and offers implementable strategies for the development of high\u2010performance optoelectronic devices.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "56ae536a29dbafef",
+    "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+    "link": "https://www.nature.com/articles/s41586-026-11081-7",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11081-7\">doi:10.1038/s41586-026-11081-7</a></p>Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+    "journal": "Nature"
+  },
+  {
+    "id": "854e3e3de91aa19d",
+    "title": "Put patients at the centre of medical AI governance",
+    "link": "https://www.nature.com/articles/d41586-026-02796-8",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02796-8\">doi:10.1038/d41586-026-02796-8</a></p>Put patients at the centre of medical AI governance",
+    "journal": "Nature"
+  },
+  {
+    "id": "2cac1f4484f60056",
+    "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
+    "link": "https://www.nature.com/articles/d41586-026-02794-w",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02794-w\">doi:10.1038/d41586-026-02794-w</a></p>Nepal disaster is a wake-up call to take compound climate risks seriously",
+    "journal": "Nature"
+  },
+  {
+    "id": "031c87d8c129293c",
+    "title": "Sideline vested interests to reform China\u2019s research",
+    "link": "https://www.nature.com/articles/d41586-026-02797-7",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02797-7\">doi:10.1038/d41586-026-02797-7</a></p>Sideline vested interests to reform China\u2019s research",
+    "journal": "Nature"
+  },
+  {
+    "id": "3cc1716a8d617eef",
+    "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
+    "link": "https://www.nature.com/articles/d41586-026-02795-9",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02795-9\">doi:10.1038/d41586-026-02795-9</a></p>Limit bets on clinical-trial outcomes being placed on prediction markets",
+    "journal": "Nature"
+  },
+  {
+    "id": "9121e1a3710e50bd",
+    "title": "The Kelvin scale\u2019s creator William Thomson made many scientific advances",
+    "link": "https://www.nature.com/articles/d41586-026-02722-y",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02722-y\">doi:10.1038/d41586-026-02722-y</a></p>A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week\u2019s pick from the Nature archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bd3c371149e59dc2",
+    "title": "The World Bank is right to prioritize reproducibility",
+    "link": "https://www.nature.com/articles/d41586-026-02678-z",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02678-z\">doi:10.1038/d41586-026-02678-z</a></p>The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f0bb4f8e9cc0a7a0",
+    "title": "China\u2019s fast-track clinical trials are in the spotlight after child deaths",
+    "link": "https://www.nature.com/articles/d41586-026-02407-6",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02407-6\">doi:10.1038/d41586-026-02407-6</a></p>A new government policy seeks to balance innovation and safety.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fde14e2bc3c26473",
+    "title": "Two children died from gene therapies in China: where the field goes next",
+    "link": "https://www.nature.com/articles/d41586-026-02497-2",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02497-2\">doi:10.1038/d41586-026-02497-2</a></p>Strengthened laws should help to ensure future deaths are quickly disclosed to the public, but China\u2019s reputation for such research is at risk.",
+    "journal": "Nature"
+  },
+  {
+    "id": "388b8651fa6631cb",
+    "title": "Why this neuroscientist is taking the plunge into science advocacy",
+    "link": "https://www.nature.com/articles/d41586-026-02457-w",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02457-w\">doi:10.1038/d41586-026-02457-w</a></p>As funding cuts reshape the US research landscape, Stefano Cataldi is turning towards policy and advocacy work to defend science.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0199c268e18e344e",
+    "title": "A data leak shut a top research biobank: lessons from the recovery",
+    "link": "https://www.nature.com/articles/d41586-026-02803-y",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02803-y\">doi:10.1038/d41586-026-02803-y</a></p>The UK Biobank is imposing new safety measures after a security incident, but safeguarding biomedical data while enabling researcher access remains a challenge.",
+    "journal": "Nature"
+  },
+  {
+    "id": "695823bddc4d884c",
+    "title": "DeepMind\u2019s new genome \u2018atlas\u2019 charts effects of all 9 billion human gene mutations",
+    "link": "https://www.nature.com/articles/d41586-026-02835-4",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02835-4\">doi:10.1038/d41586-026-02835-4</a></p>AI model AlphaGenome forecasts the consequences of altering every single DNA letter in the human genome.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9db15d3b954b0229",
+    "title": "OpenAI claims huge maths breakthrough on a famed \u2018Millennium Problem\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-02842-5",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02842-5\">doi:10.1038/d41586-026-02842-5</a></p>The company says it has cracked the physics of fluids using AI, solving one of the toughest puzzles in mathematics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4a996f0fe9e84ec8",
+    "title": "\u2018Mother of Hubble\u2019: how Nancy Grace Roman ushered in a new era of astronomy",
+    "link": "https://www.nature.com/articles/d41586-026-02802-z",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02802-z\">doi:10.1038/d41586-026-02802-z</a></p>The scientist honoured by the newest telescope in space spearheaded a pioneering programme as NASA\u2019s first chief astronomer.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7a765c47e85e3aa1",
+    "title": "How countries can grow without impoverishing future generations",
+    "link": "https://www.nature.com/articles/d41586-026-02807-8",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02807-8\">doi:10.1038/d41586-026-02807-8</a></p>Governments should invest to develop all types of capital, and not just income, to improve the lives of future citizens and to protect the planet.",
+    "journal": "Nature"
+  },
+  {
+    "id": "461470ecb1586acc",
+    "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress\u2013growth switch",
+    "link": "https://www.nature.com/articles/s41586-026-11103-4",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11103-4\">doi:10.1038/s41586-026-11103-4</a></p>Author Correction: AhR inhibition promotes axon regeneration via a stress\u2013growth switch",
+    "journal": "Nature"
+  },
+  {
+    "id": "460ea3b411eb5f45",
+    "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-\u03bcm resolution",
+    "link": "https://www.nature.com/articles/s41586-026-11094-2",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11094-2\">doi:10.1038/s41586-026-11094-2</a></p>Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-\u03bcm resolution",
+    "journal": "Nature"
+  },
+  {
+    "id": "cd6f7539498bffbb",
+    "title": "Probing the proteome at cellular scale",
+    "link": "https://www.nature.com/articles/d41586-026-02805-w",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02805-w\">doi:10.1038/d41586-026-02805-w</a></p>Rapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dc0fbebdc8c2ef9f",
+    "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
+    "link": "https://www.nature.com/articles/d41586-026-02470-z",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02470-z\">doi:10.1038/d41586-026-02470-z</a></p>A newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b1827017b3692fe5",
+    "title": "Daily briefing: Bunsen burners don\u2019t waft bacteria away from workbenches",
+    "link": "https://www.nature.com/articles/d41586-026-02831-8",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02831-8\">doi:10.1038/d41586-026-02831-8</a></p>A new study could fuel debate about whether the Bunsen burner still has a place in the modern lab. Plus, the United States is shifting a huge swathe of biomedical research to the military and boat-bashing orcas are just having a good time.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4891bab0e6659776",
+    "title": "Isaac Newton\u2019s remarkable year \u2014 and the plagiarism accusations that followed",
+    "link": "https://www.nature.com/articles/d41586-026-02808-7",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02808-7\">doi:10.1038/d41586-026-02808-7</a></p>A deep dive into Newton\u2019s major work, Principia Mathematica, reveals his hate of hypotheses and a habit of courting controversy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e867583b35f9c17f",
+    "title": "Anthropic AI \u2018formalizes\u2019 proof of Fermat\u2019s last theorem \u2014 a milestone for mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-02822-9",
+    "content": "<p>Nature, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02822-9\">doi:10.1038/d41586-026-02822-9</a></p>Claude produced a 13-million-line, computer-checked proof of the famed conjecture in just 11 days.",
+    "journal": "Nature"
+  },
+  {
+    "id": "710b169127c36f22",
+    "title": "Daily briefing: Psilocybin blocks side-effect of chemotherapy in mice",
+    "link": "https://www.nature.com/articles/d41586-026-02812-x",
+    "content": "<p>Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02812-x\">doi:10.1038/d41586-026-02812-x</a></p>Two doses of psilocybin completed prevented debilitating neuropathy in mice. Plus, a new direction for \u2018time\u2019s arrow\u2019 and this year\u2019s fun and thought-provoking Ig Nobel prizes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "642031024aab6ea4",
+    "title": "Quasi-ballistic ion transport boosts evaporation-driven electricity generation",
+    "link": "https://www.nature.com/articles/s41560-026-02142-2",
+    "content": "<p>Nature Energy, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02142-2\">doi:10.1038/s41560-026-02142-2</a></p>Evaporation-driven electricity generation can utilize the abundant thermal energy in the atmosphere, but is limited by ion scattering in the energy-harvesting material. Machine learning has now enabled the design of vertical microrod generators that achieve quasi-ballistic ion transport, boosting the power density and power conversion efficiency.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "3f66902021b4ebf1",
+    "title": "Applying causal machine learning to assess and improve cleantech policy design",
+    "link": "https://www.nature.com/articles/s41560-026-02134-2",
+    "content": "<p>Nature Energy, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02134-2\">doi:10.1038/s41560-026-02134-2</a></p>Effective clean technology (cleantech) policies, such as subsidies and carbon pricing, require an understanding of how interventions shape environmental and socioeconomic outcomes. To support targeted, evidence-based policy design, we discuss how causal machine learning can compare alternative policy scenarios and reveal where, how and for whom cleantech policies work.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "57e23616612871c5",
+    "title": "Ionic clusters as high-connectivity secondary building units for crystalline porous organic salts",
+    "link": "https://www.nature.com/articles/s41557-026-02248-w",
+    "content": "<p>Nature Chemistry, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02248-w\">doi:10.1038/s41557-026-02248-w</a></p>Rigid coordination bonds readily generate highly connected secondary building units in metal\u2013organic frameworks, but weaker and less directional interactions have rarely afforded comparable architectures in molecular crystals. Now ammonium halide ion pairs are shown to aggregate into discrete clusters that function as soft secondary building units, opening a route to non-metallic organic frameworks with diverse topologies.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "0b72e5313f59f71f",
+    "title": "Coordination\u2212Engineered Low\u2212Concentration Electrolytes via Solvation Network Regulation for Wide Temperature High\u2212Rate Sodium Ion Pouch Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006513?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Haomiao Zhao, Pengyu Li, Gaojing Xia, Pujun Zhang, Shu Zhang, Mengqiang Wu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "42555040a62b0e4d",
+    "title": "Coupling Ion-Transport Bridging with Surface Heterogeneity Healing in Polycrystalline Ultrahigh-Ni Cathodes Toward 4.6 V Halide All-Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006501?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Qiankun Meng, Yanfeng Zhang, Le Kang, Pengfei Liu, Enyue Zhao, Xiaoling Xiao</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2339b4651f1168e8",
+    "title": "A flexible super-resolution tactile sensing system based on sparse-electrode TENG and deep-learning decoding",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006737?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Yiwen Tan, Yingjie Wang, Liuyang Liang, Yushi Song, Junzhi Wang, Xu Zhang, Yonghui Wu, Haiwu Zheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "5ffb0ea80302b6fd",
+    "title": "Organic solvent-assisted pore structure modulation in porous carbons for superior energy storage performance in supercapacitors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600666X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Jibi Kunjumon, Gurwinder Singh, Ajanya M. Ruban, Harleen Kaur, Alan Larson, Ranjit Pati, Puspamitra Panigrahi, D. Sajan, Thi Thuy Kieu Tran, Antonio Tricoli, Sanje Mahasivam, Vipul Bansal, Ajayan Vinu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9aa20ce8edc6de1f",
+    "title": "A Few\u2010Layer Quasi\u2010Graphite Anode With Rigid\u2013Flexible Synergy for High\u2010Performance Potassium\u2010Ion Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71032?af=R",
+    "content": "A few\u2010layer quasi\u2010graphite architecture featuring rigid\u2013flexible synergy mitigates stress accumulation during K+ intercalation while preserving a low\u2010voltage plateau, leading to significantly improved cycling stability (1200 cycles) over bulk graphite.\n\n\n\n\n\n\n\n\nABSTRACT\nPotassium\u2010ion batteries (KIBs) have emerged as promising candidates for grid\u2010scale energy storage due to abundant K resources and reversible K+ de\u2010/intercalation in graphite (KC8, 279 mAh g\u22121). However, practical application is hindered by severe volume expansion (\u224860% for K+ vs. \u224810% for Li+), which induces stress accumulation, structural degradation, and capacity fading. Here, we develop a few\u2010layer quasi\u2010graphite (QGr) via structural reconstruction of graphite to regulate its mechanical stability and kinetics. The resulting QGr architecture integrates ordered domains with mechanically compliant graphene interfaces, creating a rigid\u2013flexible synergy that alleviates intercalation\u2010induced stress and lowers the kinetic barrier for K+ intercalation. As a result, the QGr anode delivers a reversible capacity of 279.2 mAh g\u22121 at 0.1 A g\u22121 and maintains stable cycling over 1200 cycles. Notably, QGr exhibits a pronounced low\u2010voltage plateau of 246.1 mAh g\u22121 below 0.5\u00a0V. Combined in situ Raman spectroscopy and kinetic analysis demonstrates that K+\u2010storage in QGr is dominated by an intercalation mechanism. This work demonstrates that rational structural engineering of graphite can simultaneously regulate structural stability and ion transport kinetics, providing a promising strategy for designing high\u2010energy KIBs.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9ab5c86707bb2fb7",
+    "title": "Anchor\u2010Reinforced Deep Eutectic Solvent Gel With Robust Skin Adhesion and Toughness for Stable Bio\u2010interface",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71027?af=R",
+    "content": "Polymerizable DES anchored PDMAA\u2010DES gel is prepared via in\u2010situ polymerization. Featuring boosted cohesive energy, balanced high toughness and low modulus, strong adhesion, enhanced conductivity, long\u2010term anti\u2010drying and cycling stability, this biocompatible gel is assembled into a wireless wearable sensor. It achieves high precision ECG/EOG signals with superior resistance to motion artifacts, ideal for skin\u2010electrode interfaces.\n\n\n\n\n\n\n\n\nABSTRACT\nConventional tough hydrogels generally suffer from high Young's modulus, which severely weakens their mechanical compliance with human skin and further impairs the interfacial adhesion. Herein, a PDMAA\u2010deep eutectic solvent (PDMAA\u2010DES) gel is fabricated by anchoring polymerizable DES onto the network backbone during in\u2010situ polymerization. The synergistic covalent and hydrogen bonding interactions between the solvent molecules and the polymeric matrix drastically boost the cohesive energy of the gel. In conjunction with dense polymer network and macromolecular crosslinking, it resolves the contradiction between high toughness and mechanical compliance (high toughness of 21.36\u00a0MJ/m3 and skin compatible low Young's modulus of 200.92\u00a0kPa). Combined with abundant surface groups, the gel realizes robust adhesive strength of 2.85\u00a0MPa on glass and 390\u00a0kPa on pigskin. Besides, doping with dimethyl diallyl ammonium chloride improves the gel's conductivity. This material also presents long\u2010term anti\u2010drying property and electrochemical stability after 10000 cycles. Coupled with its good biocompatibility, the gel is assembled into a wireless wearable sensor, which achieves high precision ECG/EOG signal collection (SNR of 30.09\u00a0dB), and outstanding resistance to motion artifacts over commercial hydrogel electrodes. This work offers a facile strategy to construct advanced interfacial materials for wearable dynamic physiological signal monitoring.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "30437afb342b30c2",
+    "title": "Enhancing Chiroptical Selectivity and Device Stability of Chiral Perovskite Photodetectors Via Interfacial AlF3 Passivation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71019?af=R",
+    "content": "An ALD\u2010grown AlF3 underlayer promotes grain growth, defect passivation, and improved crystalline ordering in chiral perovskite films. The resulting films exhibit enhanced chiroptical properties, superior circularly polarized light photodetector performance, and improved stability, establishing an inorganic interface\u2010engineering strategy broadly applicable to perovskite chiral optoelectronic devices.\n\n\n\n\n\n\n\n\nABSTRACT\nChiral halide perovskites are promising materials for circularly polarized light (CPL) optoelectronics owing to their strong light absorption, long carrier diffusion lengths, and intrinsic chiroptical activity. However, most reported CPL perovskite devices still suffer from limited chiroptical selectivity and poor operational stability, hindering practical applications. Here, we report a facile interfacial passivation strategy using an atomic layer deposition (ALD)\u2010grown AlF3 film for high\u2010performance and stable CPL photodetectors (PDs). The dense AlF3 underlayer modifies the local interfacial environment of the perovskite, promotes grain growth, and reduces defect sites in the chiral perovskite films. Consequently, the AlF3\u2010based films exhibit enhanced apparent chiroptical properties, with circular dichroism (CD) and circularly polarized photoluminescence (CPL\u2010PL) g\u2010factors increasing by approximately 3.8\u2010fold and 2\u2010fold, respectively, compared with pristine films. CPL PDs fabricated on the AlF3 underlayer achieve a photoresponsivity of 54\u00a0mA W\u22121, a specific detectivity of 1.68 \u00d7 1011 Jones, and a photocurrent g\u2010factor of 0.48, representing an 84% enhancement over pristine devices. Interfacial AlF3 passivation also significantly improves device durability, providing a T70 operational lifetime more than 9.3 times longer under ambient conditions. This work demonstrates an effective interface\u2010engineering strategy for simultaneously enhancing chiroptical selectivity, device performance, and operational stability in CPL perovskite optoelectronics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "a8428eaa5d978dd8",
+    "title": "Single\u2010Atom Defects Optimize Oxygen Evolution Performance of Monolayer NiFe\u2010Layered Double Hydroxides",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71026?af=R",
+    "content": "An in situ Al3+\u2010incorporation and selective etching strategy creates precise single\u2010atom defects within monolayer NiFe\u2010layered double hydroxide nanosheets. This atomic\u2010scale engineering reconfigures the local coordination environment and electronic structure of active Ni and Fe sites. Consequently, the catalyst exhibits superior oxygen evolution activity with a low overpotential, providing a robust paradigm for designing high\u2010performance 2D electrocatalysts through defect modulation.\n\n\n\n\n\n\n\n\nABSTRACT\nPrecise control over atomic\u2010scale defects is crucial for elucidating structure\u2010activity relationships but remains a formidable synthetic challenge. Benefiting from the ordered distribution of trivalent cations within their host layers, layered double hydroxides (LDHs) offer an ideal platform for atomic\u2010scale defect engineering. Herein, we report an in situ Al3+\u2010incorporation and selective etching strategy to introduce well\u2010defined single\u2010atom defects into monolayer NiFe\u2010LDH (mLDH) nanosheets. Free from layered lattice interference, these single\u2010atom\u2010defected mLDH (SAD\u2010mLDH) nanosheets serve as a well\u2010defined model system to probe intrinsic catalytic behaviors. Electrocatalytic evaluations in 1.0\u00a0M KOH demonstrate that SAD\u2010mLDH exhibits exceptional oxygen evolution reaction (OER) activity, requiring an overpotential of just 269\u00a0mV at 10\u00a0mA cm\u22122, significantly outperforming defect\u2010free mLDH (300\u00a0mV) and commercial RuO2 (340\u00a0mV). Mechanistic investigations reveal that the isolated single\u2010atom defects reconfigure the local coordination and electronic structure of the Ni and Fe centers. The upward shifts of the Ni and Fe d\u2010band centers, together with the site\u2010dependent redistribution of metal\u2010oxygen covalency revealed by M\u2010O ICOHP analysis, optimized the adsorption energetics of OER intermediates and reduced the thermodynamic free\u2010energy requirement of the rate\u2010determining *O\u2010to\u2010*OOH step. This work establishes a robust paradigm for designing high\u2010performance electrocatalysts via atomic defect engineering in 2D systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
