@@ -327,5 +327,474 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71026?af=R",
     "content": "An in situ Al3+\u2010incorporation and selective etching strategy creates precise single\u2010atom defects within monolayer NiFe\u2010layered double hydroxide nanosheets. This atomic\u2010scale engineering reconfigures the local coordination environment and electronic structure of active Ni and Fe sites. Consequently, the catalyst exhibits superior oxygen evolution activity with a low overpotential, providing a robust paradigm for designing high\u2010performance 2D electrocatalysts through defect modulation.\n\n\n\n\n\n\n\n\nABSTRACT\nPrecise control over atomic\u2010scale defects is crucial for elucidating structure\u2010activity relationships but remains a formidable synthetic challenge. Benefiting from the ordered distribution of trivalent cations within their host layers, layered double hydroxides (LDHs) offer an ideal platform for atomic\u2010scale defect engineering. Herein, we report an in situ Al3+\u2010incorporation and selective etching strategy to introduce well\u2010defined single\u2010atom defects into monolayer NiFe\u2010LDH (mLDH) nanosheets. Free from layered lattice interference, these single\u2010atom\u2010defected mLDH (SAD\u2010mLDH) nanosheets serve as a well\u2010defined model system to probe intrinsic catalytic behaviors. Electrocatalytic evaluations in 1.0\u00a0M KOH demonstrate that SAD\u2010mLDH exhibits exceptional oxygen evolution reaction (OER) activity, requiring an overpotential of just 269\u00a0mV at 10\u00a0mA cm\u22122, significantly outperforming defect\u2010free mLDH (300\u00a0mV) and commercial RuO2 (340\u00a0mV). Mechanistic investigations reveal that the isolated single\u2010atom defects reconfigure the local coordination and electronic structure of the Ni and Fe centers. The upward shifts of the Ni and Fe d\u2010band centers, together with the site\u2010dependent redistribution of metal\u2010oxygen covalency revealed by M\u2010O ICOHP analysis, optimized the adsorption energetics of OER intermediates and reduced the thermodynamic free\u2010energy requirement of the rate\u2010determining *O\u2010to\u2010*OOH step. This work establishes a robust paradigm for designing high\u2010performance electrocatalysts via atomic defect engineering in 2D systems.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "dc1b865bba99e0f5",
+    "title": "Free Charge Generation in Organic Photoconversion Devices\u2013the Impact of Electrostatic Potentials",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71553?af=R",
+    "content": "Free charge generation in organic photovoltaic and photodetector devices typically requires an external driving force to separate bound excitons formed upon photoexcitation. This review details how electrostatic potentials, arising from molecular charge distributions in organic semiconductors, can impact interfacial energetic landscapes and promote charge separation. Beyond donor\u2010acceptor heterojunctions, these effects also facilitate free charge generation in neat materials, giving rise to single\u2010component devices. Together, these insights offer guidelines toward rational design of efficient, next\u2010generation organic photoconversion devices.\n\n\n\n\n\n\n\n\nABSTRACT\nThe generation of free charges in organic semiconductors is fundamentally limited by the formation of tightly bound electron\u2010hole pairs (excitons) arising from their low dielectric screening. Conventional donor/acceptor (D/A) heterojunctions overcome this limitation through interfacial energetic offsets at the cost of high voltage losses that limit organic photoconversion device efficiency compared to inorganic counterparts. The success of non\u2010fullerene acceptors (NFAs), enabling efficient charge generation at relatively small energetic offsets, challenges this picture and suggests the need to consider additional charge generation mechanisms. In this review, we highlight the critical role of molecular electrostatic potentials in free charge generation within organic semiconductors. The molecular origins of electrostatic potentials are discussed within the multipole expansion framework, with particular emphasis on quadrupole moments arising from anisotropic charge distributions within a molecule. The role of these electrostatic effects in modulating interfacial energetics, inducing band bending, and facilitating charge separation in donor/acceptor heterojunctions is examined, alongside their extension to single\u2010component systems. In single\u2010component systems, orientation\u2010dependent molecular packing creates functional energetic offsets without the need for distinct donor and acceptor materials. Based on these observations, key molecular and device design strategies for harnessing electrostatic effects in next\u2010generation organic photoconversion devices are outlined.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "b089b2f59f1958eb",
+    "title": "Earth\u2010Abundant Oxides Promoting High\u2010Performance Mg3(Sb,Bi)2 Thermoelectrics via a Metathesis Strategy",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71563?af=R",
+    "content": "Earth\u2010abundant oxides\u2014Fe2O3, ZrO2, and TiO2\u2014enable superior thermoelectric performance of Mg3(Sb,Bi)2 via a simple metathesis strategy, offering an eco\u2010friendly and low\u2010cost route to defect engineering, promoting the large\u2010scale application of Mg3(Sb,Bi)2 thermoelectrics for near\u2010room\u2010temperature power generation and solid\u2010state cooling at 200\u2013373 K.\n\n\n\n\n\n\n\n\nABSTRACT\nThe bright promise of Mg3(Sb,Bi)2 as a next\u2010generation near\u2010room\u2010temperature thermoelectric material is challenged both by the need for reliable and economical synthesis and by performance degradation from detrimental Mg\u2010vacancy defects at grain boundaries and within grains. Here, we reveal that Earth\u2010abundant oxides (Fe2O3, ZrO2 and TiO2) can unlock superior thermoelectric performance in Mg3(Sb,Bi)2 via a simple metathesis strategy. Incorporation of the oxides (at only 1\u20133 mol%) in Mg\u2010excess Mg3(Sb,Bi)2 powders during spark\u2010plasma sintering initiates \u201cMg\u2010oxide\u201d reduction reactions; the subsequent \u201ctransition metal\u2010Mg3(Sb,Bi)2\u201d reactions release a source of additional Mg, whose global diffusion refills cationic vacancies in the bulk matrix, enabling markedly enhanced power factors and figures of merit. Our fabricated 8\u2010pair Mg3Sb0.75Bi1.25/MgAgSb device attained remarkable conversion efficiency and output power density of 11.7% and 1.0 W cm\u22122 at a temperature gradient (\u0394T) of 315 K. Notably, a Mg3Sb0.5Bi1.5/Bi0.5Sb1.5Te3 module demonstrated maximum cooling \u0394Ts competitive with state\u2011of\u2011the\u2011art Bi2Te3 coolers at 200\u2013373 K. The proposed metathesis strategy not only offers an eco\u2010friendly and cost\u2010effective route to defect engineering, promoting applications of Mg3(Sb,Bi)2 TEs, but also provides key insights into the structure\u2010property relationships and thermoelectric performance optimization of other Mg\u2010based TEs and Zintl phases.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2ef19a52fc87606e",
+    "title": "Constructing Bimetallic Photoredox Sites to Synergistically Modulate Carbon\u2010Oxygen Intermediate Species Toward Efficient Methanol Synthesis from Methane",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71565?af=R",
+    "content": "Pd and FeOx bimetallic redox sites supported on TiO2 enhance charge carrier separation, facilitate interfacial charge transfer, optimize reactant adsorption and activation behavior, and guide the formation and coupling of specific carbon\u2010oxygen intermediates (CH3* and \u2022OH), thereby enabling efficient and highly selective methane valorization to methanol under mild conditions.\n\n\n\n\n\n\n\n\nABSTRACT\nSelective photocatalytic methane (CH4) conversion into high\u2010value liquid methanol (CH3OH) using O2 in aqueous media under mild conditions offers a promising sustainable route for chemical manufacturing. However, in previous catalytic systems, inadequately engineered catalytic sites impede the precise regulation of reactive carbon\u2010oxygen intermediate formation, which triggers undesired overoxidation by\u2010products and severely restricts both the activity and selectivity of CH4 transformation. Herein, a facile bimetallic photoredox site design strategy is reported to construct TiO2 photocatalysts co\u2010modified with palladium nanoparticles (Pd NPs) and iron oxide sub\u2010nanoclusters (FeOx SCs) for the highly active (5.25 times that of pristine TiO2) and selective (78.60%) transformation of CH4 to CH3OH. Mechanistic studies demonstrate that uniformly dispersed FeOx facilitates CH4 adsorption and oxidation to efficiently generate CH3* intermediates, while the adjacent Pd precisely steers O2 into a side\u2010on adsorption configuration, promoting its reduction toward methanol\u2010productive hydroxyl radicals (\u2022OH). Benefiting from the interfacial synergy between bimetallic redox sites, key carbon\u2010oxygen intermediates are directionally and precisely generated and then efficiently coupled, achieving selective CH4\u2010to\u2010CH3OH transformation. This work highlights the substantial potential of rationally designing bimetallic photoredox sites to selectively modulate intermediates in photoredox half\u2010reactions for sustainable photochemical synthesis.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "15c7ec7517709897",
+    "title": "Facet\u2010guided Photocarrier Decoupling in SrTaO2N Photocatalyst: A 600 nm\u2010Responsive Platform Toward Efficient Solar\u2010Driven Overall Water Splitting",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71525?af=R",
+    "content": "A crystal facet\u2010guided photocarrier decoupling mechanism is identified in SrTaO2N. Well\u2010defined {202} and {001}/{110} facets create an internal electric field that directs the spatial separation and unidirectional migration of photocarriers to distinct facets. This design, combined with selective cocatalyst deposition, enables highly robust and stable overall water splitting under visible\u2010light and simulated sunlight irradiation.\n\n\n\n\n\n\n\n\nABSTRACT\nA crystal facet\u2010guided photocarrier decoupling mechanism has been identified in strontium tantalum oxynitride (SrTaO2N), representing a critical determinant for unlocking its intrinsic photocatalytic overall water splitting (POWS) capability. Single\u2010crystalline SrTaO2N particles with low defect density and well\u2010defined {202} and {001}/{110} crystal facets were successfully synthesized via a charge\u2010compensated, molten salt\u2010assisted nitridation strategy. Combined experimental and theoretical investigations confirm that this distinctive facet architecture generates an intrinsic internal electric field within the crystals, which efficiently directs the separation and unidirectional migration of photocarriers toward spatially resolved crystal facets, laying a robust foundation for the POWS performance. Upon the selective deposition of RhCrOx (H2\u2010evolution cocatalyst) and CoOOH (O2\u2010evolution cocatalyst) onto the corresponding crystal facets, SrTaO2N can stably drive POWS under both visible\u2010light (\u03bb \u2265 420\u00a0nm) and simulated sunlight (AM1.5G) illumination, achieving stoichiometric H2 and O2 evolution (2:1 molar ratio). This study provides fundamental mechanistic insights into the structure\u2010activity relationship governing POWS over SrTaO2N, offering a rational materials\u2010design framework for the development of high\u2010performance photocatalysts toward efficient solar\u2010to\u2010hydrogen conversion.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2936276ced59f32c",
+    "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+    "link": "https://www.nature.com/articles/s41586-026-11118-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11118-x\">doi:10.1038/s41586-026-11118-x</a></p>Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+    "journal": "Nature"
+  },
+  {
+    "id": "808fec09b4fb153b",
+    "title": "Phone tutoring boosts math scores when schools are forced to close",
+    "link": "https://www.nature.com/articles/d41586-026-02843-4",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02843-4\">doi:10.1038/d41586-026-02843-4</a></p>Evidence suggests that regular calls can keep kids learning when schooling is disrupted \u2014 plus, why a familiar world map may be about to change.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4592e24b3f20dbef",
+    "title": "How AI is changing PhD programmes: join our free webinar",
+    "link": "https://www.nature.com/articles/d41586-026-02751-7",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02751-7\">doi:10.1038/d41586-026-02751-7</a></p>Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7b7c64aa14e7c51e",
+    "title": "Bacteria recruited to treat cancer",
+    "link": "https://www.nature.com/articles/d41586-026-02823-8",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02823-8\">doi:10.1038/d41586-026-02823-8</a></p>Anticancer drugs could be manufactured and delivered by modified microorganisms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "50bc5d52c8d01d4b",
+    "title": "Breaking timescales with generative sampling of conformational transitions",
+    "link": "https://www.nature.com/articles/s41586-026-11025-1",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11025-1\">doi:10.1038/s41586-026-11025-1</a></p>A generative committor-guided path-sampling framework reconstructs rare biomolecular transition pathways and reveals the underlying thermodynamics and kinetics without using predefined collective variables or brute-force sampling, at an acceptable computational cost.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f18f33b632bfe2ee",
+    "title": "Within-family effect of ancestry on complex traits in a Mexican population",
+    "link": "https://www.nature.com/articles/s41586-026-11039-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11039-9\">doi:10.1038/s41586-026-11039-9</a></p>This study uses a within-family design to identify significant ancestry differences in complex traits such as height and type 2 diabetes in a genetically diverse population from Mexico City.",
+    "journal": "Nature"
+  },
+  {
+    "id": "36d974a33fe045e6",
+    "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
+    "link": "https://www.nature.com/articles/s41586-026-10876-y",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10876-y\">doi:10.1038/s41586-026-10876-y</a></p>In mice, a sparse population of sleep-active long-range inhibitory neurons in the neocortex promote widespread cortical synchronization and sleep, revealing a cortical mechanism that contributes to the regulation of sleep.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4b58cc0ffbb8180e",
+    "title": "An operational perturbation proteomics-based virtual cell model",
+    "link": "https://www.nature.com/articles/s41586-026-11001-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11001-9\">doi:10.1038/s41586-026-11001-9</a></p>Temporal protein-abundance measurements from systematically perturbed breast cancer cell lines were generated to develop ProteinTalks, a virtual cell model that functions as an operational tool for diverse drug discovery tasks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9845344cefec805b",
+    "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10954-1",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10954-1\">doi:10.1038/s41586-026-10954-1</a></p>A specific population of macrophages that express high levels of the enzyme PLA2G2D in tumour-draining lymph nodes is associated with poor prognosis in patients, and inhibiting PLA2G2D improves anti-tumour immunity in mouse models.",
+    "journal": "Nature"
+  },
+  {
+    "id": "60c1b6e04d60ba14",
+    "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
+    "link": "https://www.nature.com/articles/s41586-026-10968-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10968-9\">doi:10.1038/s41586-026-10968-9</a></p>Deep-foam photolithography uses light-controlled polymer foaming to create high-resolution, multifunctional microstructures with tunable optical, wetting and fluid-handling properties for advanced manufacturing applications.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9952322456b34ab5",
+    "title": "Advancing conflict research and response through satellite-derived data",
+    "link": "https://www.nature.com/articles/s41586-026-11004-6",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11004-6\">doi:10.1038/s41586-026-11004-6</a></p>Integrating satellite-derived war-damage data with text-based fatality records through improvement, enrichment and fusion mitigates limitations inherent in each source, revealing complex violence dynamics beyond fatality-centric paradigms, as case studies from Ukraine and Myanmar illustrate.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bfcfa4de2ce464ba",
+    "title": "Denisovans from southwestern China and their subsistence strategies",
+    "link": "https://www.nature.com/articles/s41586-026-10997-4",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10997-4\">doi:10.1038/s41586-026-10997-4</a></p>Evidence from Bianfu Cave shows specialized hunting, expedient stone-tool production and extensive bone use of Denisovans, providing new insights into their ecology, behaviour and cultural legacy in eastern Asia.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ca621545aa1a577f",
+    "title": "A serpin\u2013myeloid axis in pancreatic cancer heterogeneity and immune evasion",
+    "link": "https://www.nature.com/articles/s41586-026-11002-8",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11002-8\">doi:10.1038/s41586-026-11002-8</a></p>SERPINE1 and SERPINB2-driven fibrin-rich niches locally programme immunosuppressive macrophages and exclude T cells, enabling spatially organized immune evasion in pancreatic ductal carcinoma.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5f5127a08ba8e28f",
+    "title": "Mobile education builds resilience during shocks in five countries",
+    "link": "https://www.nature.com/articles/s41586-026-10990-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10990-x\">doi:10.1038/s41586-026-10990-x</a></p>Remote phone-based targeted tutoring in five countries produced large, cost-effective learning gains during school closures, outperforming text messaging and working effectively when delivered by governments or non-governmental organizations to strengthen education resilience.",
+    "journal": "Nature"
+  },
+  {
+    "id": "26a705ac76b06527",
+    "title": "Ancient proteins identify various Denisovan remains from Southwest China",
+    "link": "https://www.nature.com/articles/s41586-026-10976-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10976-9\">doi:10.1038/s41586-026-10976-9</a></p>Identification and proteomic analysis of bone fragments and teeth from an excavation in Southwest China provide insight into the evolution and phenotype of Denisovans and fill a geographical gap in their documented distribution.",
+    "journal": "Nature"
+  },
+  {
+    "id": "07fb6a69517503c0",
+    "title": "Predicting genome-wide functional constraints with GPN-Star",
+    "link": "https://www.nature.com/articles/s41586-026-11005-5",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11005-5\">doi:10.1038/s41586-026-11005-5</a></p>GPN-Star, a genomic language model with a phylogeny-aware architecture for whole-genome alignment data, is shown to be a scalable and flexible tool for genetic variant effect prediction across species.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8acbc6ff52f001cf",
+    "title": "Imaging cellular activity across all organs reveals body-wide circuits",
+    "link": "https://www.nature.com/articles/s41586-026-10979-6",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10979-6\">doi:10.1038/s41586-026-10979-6</a></p>An imaging system developed to record cellular activity throughout the whole body of zebrafish captures cellular organ dynamics and identifies multiple distributed circuits.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1e19ff5c7236de12",
+    "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK",
+    "link": "https://www.nature.com/articles/s41586-026-10998-3",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10998-3\">doi:10.1038/s41586-026-10998-3</a></p>TRI-611 induces the degradation of ALK fusion proteins via a previously undescribed CRBN recruitment motif, and its preclinical anti-tumour activity highlights TRI-611 as a potential new way of treating ALK-positive non-small-cell lung cancer.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0b0144beafa0a8c0",
+    "title": "Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+    "link": "https://www.nature.com/articles/s41586-026-11008-2",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11008-2\">doi:10.1038/s41586-026-11008-2</a></p>An electrochemical cell with molten hydroxide and a Pd membrane actively extracts H2 and thereby boosts ammonia and methylcyclohexane conversion, while also delivering purified H2 ready for use.",
+    "journal": "Nature"
+  },
+  {
+    "id": "02f85173f4498c60",
+    "title": "Integrated signatures define mutational processes in prostate cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10468-w",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10468-w\">doi:10.1038/s41586-026-10468-w</a></p>Eight integrated mutational footprints collectively explain the mutational processes in 85% of primary prostate cancer genomes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e1beecb53f5c395b",
+    "title": "TM184C is a GPCR-like regulator of intercellular exchange and autophagy",
+    "link": "https://www.nature.com/articles/s41586-026-10993-8",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10993-8\">doi:10.1038/s41586-026-10993-8</a></p>TM184C\u2014an ancient G-protein-coupled receptor-like superdark protein involved in regulation of autophagy, intercellular connectivity and material exchange\u2014underscores the promise of exploring the understudied human proteome and beyond.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bb69fc4e0df38fcf",
+    "title": "Proximity-guided graph learning reveals tumour-associated proximity antigens",
+    "link": "https://www.nature.com/articles/s41586-026-11003-7",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11003-7\">doi:10.1038/s41586-026-11003-7</a></p>A proximity-mapping atlas defines tumour-associated proximity antigens, revealing disease-associated membrane spatial communities, and identifies EGFR\u2013CDCP1 as a co-target pair that enhances tumour killing by multispecific therapeutics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "458f69ec5c51ad63",
+    "title": "In the basement of miniaturized relics",
+    "link": "https://www.nature.com/articles/d41586-026-02416-5",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02416-5\">doi:10.1038/d41586-026-02416-5</a></p>Thinking small.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4fe13a42ef8795ce",
+    "title": "AI model predicts which breast-cancer drugs work best",
+    "link": "https://www.nature.com/articles/d41586-026-02845-2",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02845-2\">doi:10.1038/d41586-026-02845-2</a></p>Model trained on millions of protein measurements can gauge drug effectiveness in tissue samples taken from people with triple-negative breast cancer.",
+    "journal": "Nature"
+  },
+  {
+    "id": "688a67f0901f59c3",
+    "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
+    "link": "https://www.nature.com/articles/d41586-026-02793-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02793-x\">doi:10.1038/d41586-026-02793-x</a></p>Awards that celebrate humour, curiosity and irreverence are a balm in hard times.",
+    "journal": "Nature"
+  },
+  {
+    "id": "57d32440d22a35c7",
+    "title": "These six advances could change how drugs are delivered",
+    "link": "https://www.nature.com/articles/d41586-026-02654-7",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02654-7\">doi:10.1038/d41586-026-02654-7</a></p>Medication triggered by your circadian clock, self-assembling delivery systems based on DNA and other highlights from studies and trials.",
+    "journal": "Nature"
+  },
+  {
+    "id": "83c1eb458a9a7a6f",
+    "title": "DNA-editing \u2018pencils\u2019 probe early human development",
+    "link": "https://www.nature.com/articles/d41586-026-02840-7",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02840-7\">doi:10.1038/d41586-026-02840-7</a></p>A genome-rewriting approach known as adenine base editing offers a precise way to investigate gene function in early human embryos.",
+    "journal": "Nature"
+  },
+  {
+    "id": "623fba7c9bcafb04",
+    "title": "Popular open-science platform to stop hosting data and code amid funding concerns",
+    "link": "https://www.nature.com/articles/d41586-026-02598-y",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02598-y\">doi:10.1038/d41586-026-02598-y</a></p>Changes to the Open Science Framework\u2019s policies will come into effect in November, forcing researchers to reconsider their workflows.",
+    "journal": "Nature"
+  },
+  {
+    "id": "30976256b93420fd",
+    "title": "Special delivery: bacterial couriers are smuggling drugs into cancers",
+    "link": "https://www.nature.com/articles/d41586-026-02657-4",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02657-4\">doi:10.1038/d41586-026-02657-4</a></p>Microorganisms that deliver treatments to tumours could make chemotherapy, radiotherapy and immunotherapy safer and more effective.",
+    "journal": "Nature"
+  },
+  {
+    "id": "dab07ed63cd43ffc",
+    "title": "Uniform film formation helps tandem solar cells work better for longer",
+    "link": "https://www.nature.com/articles/d41586-026-02709-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02709-9\">doi:10.1038/d41586-026-02709-9</a></p>When making mixed-halide perovskite films for use in solar cells, bromide-rich domains crystallize faster than iodide-rich ones do, leading to defects. Adding a molecule tuned to bind selectively to bromide-bound lead synchronizes the crystallization rates, yielding uniform films, better operating stability and a more-efficient perovskite\u2013organic tandem.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5a3336b6255158a6",
+    "title": "Use AI as a sparring partner, not an oracle",
+    "link": "https://www.nature.com/articles/d41586-026-02846-1",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02846-1\">doi:10.1038/d41586-026-02846-1</a></p>As artificial-intelligence tools become crucial collaborators in science, universities must teach students to challenge such systems and assess their ability to do so.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cf68db3e955b286d",
+    "title": "Who were the Denisovans? Rich trove of fossils and tools paints new picture",
+    "link": "https://www.nature.com/articles/d41586-026-02810-z",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02810-z\">doi:10.1038/d41586-026-02810-z</a></p>Objects found in a cave in southwestern China suggest that these enigmatic ancient humans were accomplished hunters.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9157a9ee528f4e10",
+    "title": "Combined satellite and news data capture unseen aspects of war",
+    "link": "https://www.nature.com/articles/d41586-026-02523-3",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02523-3\">doi:10.1038/d41586-026-02523-3</a></p>Records of war extracted from news reports have shaped what researchers know about violence. Satellite images could transform that understanding \u2014 if access stays open.",
+    "journal": "Nature"
+  },
+  {
+    "id": "566705d611cfe5e0",
+    "title": "Drug-delivering particles aim to breach the blood\u2013brain barrier",
+    "link": "https://www.nature.com/articles/d41586-026-02655-6",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02655-6\">doi:10.1038/d41586-026-02655-6</a></p>The inability to get drugs into the brain has impeded the treatment of cancer and neurodegenerative diseases for decades. Techniques based on nanoparticles and exosomes are vying to provide a solution.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e33f9a74f21e43be",
+    "title": "Phone-based tutoring improves learning during school closures",
+    "link": "https://www.nature.com/articles/d41586-026-02471-y",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02471-y\">doi:10.1038/d41586-026-02471-y</a></p>One-to-one phone sessions substantially increased students\u2019 numeracy test scores in low- and middle-income countries that experience emergencies that disrupt schooling.",
+    "journal": "Nature"
+  },
+  {
+    "id": "007806fda83a71a3",
+    "title": "Medicines do no good if people don\u2019t take them",
+    "link": "https://www.nature.com/articles/d41586-026-02658-3",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02658-3\">doi:10.1038/d41586-026-02658-3</a></p>Health psychologist Rob Horne explains why medication non-adherence is such a problem, and how behavioural science can help to address it.",
+    "journal": "Nature"
+  },
+  {
+    "id": "36a6cf8c35a24ce5",
+    "title": "Hello Equal Earth: what the UN\u2019s new world map will change",
+    "link": "https://www.nature.com/articles/d41586-026-02820-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02820-x\">doi:10.1038/d41586-026-02820-x</a></p>What the UN vote to ditch the Mercator projection means for education, navigation and public perception.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9fe439e259ae4f12",
+    "title": "Why we need an International Panel on Inequality",
+    "link": "https://www.nature.com/articles/d41586-026-02806-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02806-9\">doi:10.1038/d41586-026-02806-9</a></p>Disparities in income and wealth are growing. A scientific assessment process can give governments the information they need to tackle them.",
+    "journal": "Nature"
+  },
+  {
+    "id": "128500fdac329580",
+    "title": "Pick up the phone! Phone calls with tutors keep kids learning when schools shut down",
+    "link": "https://www.nature.com/articles/d41586-026-02825-6",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02825-6\">doi:10.1038/d41586-026-02825-6</a></p>The low-cost intervention was trialled in five countries during the COVID-19 pandemic.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6dd4fb6d62ac633a",
+    "title": "Phone-call tutorials improve learning cost-effectively during education emergencies",
+    "link": "https://www.nature.com/articles/d41586-026-02700-4",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02700-4\">doi:10.1038/d41586-026-02700-4</a></p>Across five randomized trials in India, Kenya, Nepal, the Philippines and Uganda, weekly 20-minute mobile-phone-call tutorials produced large learning gains for primary-school children during school closures caused by the COVID-19 pandemic. Governments can keep children learning through societal shocks using this approach, which combines low-cost, high-access mobile-phone technology with high-quality tutoring targeted to each child\u2019s learning level.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d5a1f02c2a072176",
+    "title": "A good drug is useless if it misses its target",
+    "link": "https://www.nature.com/articles/d41586-026-02653-8",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02653-8\">doi:10.1038/d41586-026-02653-8</a></p>The best medicines go exactly where they\u2019re needed in the body\u2014 and nowhere else.",
+    "journal": "Nature"
+  },
+  {
+    "id": "92c399cb4002d31d",
+    "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
+    "link": "https://www.nature.com/articles/d41586-026-02804-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02804-x\">doi:10.1038/d41586-026-02804-x</a></p>Scientists are probing whether language models trained on historical data can reproduce creative breakthroughs.",
+    "journal": "Nature"
+  },
+  {
+    "id": "19ed6bdbacb4e39a",
+    "title": "Electric charge makes drops of water more destructive",
+    "link": "https://www.nature.com/articles/d41586-026-02705-z",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02705-z\">doi:10.1038/d41586-026-02705-z</a></p>In many real-world settings, water droplets can become slightly charged as they slide across solid surfaces. This charge has been found to enable water droplets to damage protective coatings more easily than uncharged droplets do, and to cause the underlying metal to corrode.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2ac484b76f5a78d0",
+    "title": "Family-based analyses show how children\u2019s genetics shape key traits",
+    "link": "https://www.nature.com/articles/d41586-026-02689-w",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02689-w\">doi:10.1038/d41586-026-02689-w</a></p>The Norwegian Mother, Father and Child Cohort Study, called MoBa, includes genetic data from around 230,000 parents and children. Using about 44,000 father\u2013mother\u2013child trios, child and parental genetics were modelled together to estimate the effects of the children\u2019s own genetic differences on their height, educational achievement, sleep duration and depressive symptoms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "00cfc5f6b5532b1c",
+    "title": "Genetic associations with the Big Five personality traits probed in one million people",
+    "link": "https://www.nature.com/articles/d41586-026-02790-0",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02790-0\">doi:10.1038/d41586-026-02790-0</a></p>Human DNA has been linked to personality traits \u2014 how individuals think, feel and act \u2014 thus identifying hundreds of genetic variants that contribute to the traits\u2019 moderate heritability. The pathways from DNA to personality are robust yet complex, with widespread relevance for health, wealth, work and love.",
+    "journal": "Nature"
+  },
+  {
+    "id": "186cad7603c39cea",
+    "title": "Dose once, treat forever: drugs are being engineered to last much longer",
+    "link": "https://www.nature.com/articles/d41586-026-02660-9",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02660-9\">doi:10.1038/d41586-026-02660-9</a></p>Medication that persists inside the body for months or years could transform the treatment and prevention of many conditions \u2014 especially in low- and middle-income countries.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fb624cdaeccb11dc",
+    "title": "Nasal vaccines could stop pandemics before they begin",
+    "link": "https://www.nature.com/articles/d41586-026-02656-5",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02656-5\">doi:10.1038/d41586-026-02656-5</a></p>Sparking an immune response where microbes enter the body should not only stop a person getting sick, but also prevent them spreading the infection to others.",
+    "journal": "Nature"
+  },
+  {
+    "id": "816412db5cf69d78",
+    "title": "\u2018Superdark\u2019 protein looks like a G-protein-coupled receptor \u2014 but shows unconventional behaviour",
+    "link": "https://www.nature.com/articles/d41586-026-02472-x",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02472-x\">doi:10.1038/d41586-026-02472-x</a></p>Mining millions of AI-predicted structures reveals an evolutionarily conserved protein that resembles a receptor family member but functions differently.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a779b3b667e5b27c",
+    "title": "Oddball fossils suggest that the first insects were a mixed bunch",
+    "link": "https://www.nature.com/articles/d41586-026-02710-2",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02710-2\">doi:10.1038/d41586-026-02710-2</a></p>As the most diverse class of animals, insects have dominated terrestrial ecosystems for the past 320 million years. However, the origins of this successful group have faded into the abysses of geological time. A collection of fossils reveals the unusual body plans and evolutionary experiments that could have contributed to the success of insects.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7507bcedc8ed5002",
+    "title": "Drug delivery gets subcellular",
+    "link": "https://www.nature.com/articles/d41586-026-02659-2",
+    "content": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02659-2\">doi:10.1038/d41586-026-02659-2</a></p>Therapies that target mitochondria and other organelles are being put to test in the clinic.",
+    "journal": "Nature"
+  },
+  {
+    "id": "10fff95118aa7664",
+    "title": "Daily briefing: Gene-therapy deaths put spotlight on trials in China",
+    "link": "https://www.nature.com/articles/d41586-026-02838-1",
+    "content": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02838-1\">doi:10.1038/d41586-026-02838-1</a></p>The deaths of two children in separate gene-therapy trials could have a profound effect on China\u2019s biomedical industry, say researchers. Plus, an AI system has formalized Fermat\u2019s last theorem and the impact of Nancy Grace Roman.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3cc935b19fa7f651",
+    "title": "Buried-interface healing and durability enhancement in perovskite solar cells via fluorinated ionic molecules",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00355-7?rss=yes",
+    "content": "An in situ fluorinated molecule-directed ionic regulation strategy is developed by incorporating functional ionic compounds into perovskite precursors. Synergistic cation-anion interactions optimize crystallization, redistribute buried SAMs, passivate defects, strengthen interfaces, suppress degradation and electrode corrosion, and enhance efficiency and stability, with applicability to wide-band-gap perovskites.",
+    "journal": "Joule"
+  },
+  {
+    "id": "59daf5c118bd9875",
+    "title": "A heat-driven route to elastocaloric cooling",
+    "link": "https://www.nature.com/articles/s41560-026-02128-0",
+    "content": "<p>Nature Energy, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02128-0\">doi:10.1038/s41560-026-02128-0</a></p>A heat-driven elastocaloric cooling system is demonstrated in which two shape memory alloys perform complementary roles: one converts heat into mechanical work, while the other converts that work into cooling. This approach offers a pathway to electricity-minimized solid-state cooling using abundant low-grade heat sources.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "78b0055f7e7dc2f9",
+    "title": "Understanding solvent-free electrode viscoelastic behaviour and its effect on springback in Li-ion battery manufacture",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006148?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 9 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Benjamin G. Meyer, Wenjia Du, Enzo Liotti, Ed Darnbrough, Jacob Lewis-Fell, Paul R. Shearing, Patrick S. Grant, Guillaume Matthews</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "50b139508798da72",
+    "title": "Oriented Nanocrystalline Interfaces Couple Li<sup>+</sup> Insertion and Interfacial Solvation Chemistry for Fast-Charging Graphite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006537?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Yong Qian, Yang Du, Yujian Tang, Chuanpei Sun, Yanfeng Zheng, Jie Shi, Chunli Guo, Ning Lin</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e148e2a9e2e23e84",
+    "title": "Hierarchical interfacial assembly enables dual-conductive porous geopolymers for structural energy storage",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006525?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ao Zhou, Guangzhao Yang, Jingbo Zhuo, Tiejun Liu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "71f0572efb26b06e",
+    "title": "Crystallization-controlled phase purification and optical coupling strategy for efficient all-inorganic perovskite-organic tandem solar cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006798?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Xiaoyu Gu, Yu Han, Xue Lai, Yizhao Wang, Xiaowei Xu, Chengwei Shan, Feng Yan, Gang Li, Aung Ko Ko Kyaw</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "61396b45435a8ab9",
+    "title": "Luminescent small-molecule-mediated suppression of non-radiative energy loss and morphology optimization for efficient ternary organic solar cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006786?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Haiyue Ren, Shiji Zhou, Keteng Zhu, Lingling Han, Zhipeng Mei, Panpan Zhang, Yuchuan Tian, Junyu Li, Jinyuan Zhang, Chaohua Cui, Haijun Bin, Yongfang Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "d9a1026050308ae2",
+    "title": "Anisotropic bonding regulation enables reversible oxygen redox in entropy-stabilized layered oxide cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006762?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Zilong Wang, Yinda Li, Yuxuan Wu, Jian Xie, Chunyang Wu, Jicheng Jiang, Aijun Zhou, Bo Xu, Fei Song, Weixiang Chen, Fang Chen, Yifan Zhao, Cheng Huang, Jian Tu, Jinlong Zheng, Yunhao Lu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "2b91bc3e346b796d",
+    "title": "Constructing a liquid column via plasma-oxidized electrode to trigger bulk effect for wave energy harvesting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006658?dgcid=rss_sd_all",
+    "content": "<p>Publication date: November 2026</p><p><b>Source:</b> Nano Energy, Volume 158</p><p>Author(s): Yingda Zhao, Hanli Zhang, Ke Xiao, Shuyang Lu, Jiahui Ma, Rui Zhang, Yuhang Zhuo, Jinyan Chen, Jinjin Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "75ab45e32ad21c4d",
+    "title": "The Power of Pristine Interfaces: Unmodified Glass Nanopores for Nucleic Acid Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71020?af=R",
+    "content": "This review presents a comprehensive framework for nucleic acid analysis using unmodified glass nanopores. It categorizes sensing methodologies into amplification\u2010free strategies for high\u2010fidelity conformational fingerprinting and amplification\u2010coupled approaches for ultra\u2010sensitive clinical detection. By addressing technical bottlenecks and improving specificity, this work guides the development of standardized single\u2010molecule diagnostic platforms.\n\n\n\n\n\n\n\n\nABSTRACT\nDetection of nucleic acids at the single\u2010molecule level is a cornerstone of next\u2010generation diagnostics. Unmodified glass nanopore\u2010based sensing stands out among single\u2010molecule detection techniques for its simplicity and versatility. This review presents the key advantages of unmodified glass nanopore, including its chemically homogeneous interface, tunable conical geometry, and inherent ion current rectification, which together enable high\u2010fidelity resistive pulse sensing of nucleic acids. We propose a classification framework that differentiates two categories of methods. Amplification\u2010free strategies retain molecular fidelity and conformational dynamics, while amplification\u2010coupled approaches overcome limitations of low target concentrations to achieve ultrasensitive detection. Furthermore, we highlight recent breakthroughs, including standardized encapsulation for long\u2010term stability, automated declogging systems, and the combination of DNA nanotechnology approaches to enhance specificity. By integrating these advancements, this review provides a comprehensive framework for understanding unmodified glass nanopore technology and outlines a strategic roadmap for developing integrated, intelligent, and portable single\u2010molecule analytical tools for precision medicine.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "fb85f56df8eabc8a",
+    "title": "Separator\u2010Inspired Redox\u2010State\u2010Selective Confinement for Reversible Retention in Anthraquinone\u2010Based Aqueous Soft\u2010Gel Electrode Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71030?af=R",
+    "content": "This review explains how redox reactions can change the charge, hydration, and mobility of anthraquinones, allowing them to escape from aqueous soft\u2010gel electrodes. It introduces separator\u2010inspired anchoring, confinement, and conductive interception strategies that delay molecular loss while preserving ion transport and electrochemical recovery, and presents a species\u2010first framework for designing more stable soft\u2010gel electrode systems.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous anthraquinone\u2010based organic redox batteries offer a promising route toward safe and sustainable energy storage, but their stability is often limited by redox\u2010state\u2010dependent active\u2010material migration. In soft\u2010gel electrodes, oxidized anthraquinone derivatives can remain confined within the original matrix, whereas reduction may alter charge distribution, protonation, polarity, ion association, and hydration affinity, promoting migration into water\u2010rich regions and the bulk electrolyte. This review interprets this instability as a coupled phase\u2010partitioning and transport problem rather than simply insufficient gel density. Inspired by functional separators, we discuss electrode\u2010internal selective\u2010confinement strategies, including physical confinement, reversible anchoring, electrostatic and solvation regulation, conductive interception, catalytic conversion, and structural stabilization. The key design target is reversible retention: reduced anthraquinone species should be delayed from escaping while remaining electronically connected and ionically accessible for subsequent oxidation. Future efforts should clarify reduced\u2010state speciation, balance retention\u2010transport\u2010reversibility trade\u2010offs, and establish standardized evaluation methods for soft\u2010gel electrode systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "47fecff90b7abf1f",
+    "title": "Confined Electrochemiluminescence Generation From Individual Molecular Crystals Assembled via the Coffee\u2010Ring Effect",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71024?af=R",
+    "content": "The coffee\u2011ring effect directs the assembly of 9,10\u2011bis(phenylethynyl)anthracene (BPEA) crystals into distinct distribution patterns with four morphologies, enabling single\u2011crystal electrochemiluminescence (ECL) imaging that reveals morphology\u2011correlated waveguiding and terminal emission enhancement.\n\n\n\n\n\n\n\n\nABSTRACT\nMolecular crystals (MCs) can confine and propagate self\u2010generated electrochemiluminescence (ECL), yet the relationship between crystal morphology and ECL performance remains largely unexplored. The main challenge lies in achieving precise morphological control. Herein, we exploit the coffee\u2010ring effect in evaporating droplets as a spatiotemporal confinement strategy to direct the self\u2010assembly of 9,10\u2010bis(phenylethynyl)anthracene (BPEA) MCs. Real\u2010time optical microscopy reveals that the coffee\u2010ring effect generates ring\u2010shaped deposits on the electrode surface, where crystals exhibit three distinct distribution patterns from the edge to the center, namely orderly packing at the periphery, well\u2010separated dispersion and clustered aggregation in the inner portion. The well\u2010separated crystals in the intermediate zone enable in situ ECL imaging of four distinct morphologies, including rod\u2010like, etched, needle\u2010like, and branched, within a single assembly. Notably, rod\u2010like crystals exhibit strong waveguiding behavior with enhanced ECL emission at their terminals, whereas branched crystals show no obvious waveguiding effect. This work provides new insights into the correlation between crystal morphology and ECL performance at the single entity level.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
