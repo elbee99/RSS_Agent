@@ -1237,5 +1237,103 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71033?af=R",
     "content": "The covalent organic frameworks (COFs) materials TTF\u2010BPDA and TTF\u2010Bpy are successfully deposited and served as interface layers to passivate the defects and improve the charge transporting for antimony chalcogenide solar cells for the first time. the solar cells with TTF\u2010BPDA modification achieve an enhanced power conversion efficiency (PCE) of 8.80%.\n\n\n\n\n\n\n\n\nABSTRACT\nTwo tetrathiafulvalene (TTF) based covalent organic frameworks (COFs) TTF\u2010BPDA and TTF\u2010Bpy are successfully deposited on antimony chalcogenides films and served as interface layers for antimony chalcogenide solar cells. The TTF\u2010based COFs passivated the defects, increased the charge transfer ability and improved the band bending alignment, resulting a superior Voc and Jsc. Finally, after multiple optimizations, the photovoltaic performances of Sb\u2010based solar cells were uprisen from 7.14% to 8.80%, with an increase of over 20%. The results demonstrated that COF materials were highly effective in improving the performance of Sb\u2010based solar cells.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "8114e18c29b08f9a",
+    "title": "Generalizable Mechanism\u2010Anchored Health Management for Lithium\u2010Ion Batteries Across Complex Degradation Trajectories",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71572?af=R",
+    "content": "A generalizable mechanism\u2010anchored health\u2010management framework links a degradation\u2010sensitive 3.3\u20133.4 V charging fingerprint with condition\u2010aware mixture\u2010of\u2010experts estimation, continual cross\u2010dataset adaptation, and unscented Kalman filter trajectory updating. The integrated workflow enables interpretable state\u2010of\u2010health estimation and online degradation\u2010trajectory prediction, supporting robust, reliable, updatable battery health assessment across changing operating conditions and data sources.\n\n\n\n\n\n\n\n\nABSTRACT\nComplex degradation trajectories compromise the lifetime reliability and operational safety of lithium\u2010ion batteries in advanced energy\u2010storage systems. Aging pathways induced by temperature, rate, and voltage\u2010abuse stresses are often entangled in conventional health\u2010estimation models, limiting transferable degradation representation and future\u2010trajectory updating under distribution shifts. Here, a generalizable, mechanism\u2010anchored health\u2010management framework is developed for lithium\u2010ion batteries under heterogeneous aging conditions. Using aging\u2010condition identification as a proxy task, we identify a degradation\u2010sensitive 3.3\u20133.4\u00a0V charging window in LiFePO4/graphite cells, where statistically selected features are linked to incremental\u2010capacity fingerprints. These electrochemically anchored features are integrated with a condition\u2010aware soft mixture\u2010of\u2010experts model to disentangle heterogeneous feature\u2013state\u2010of\u2010health (SOH) relationships with and without condition labels during inference. Cross\u2010dataset continual learning enables adaptation to an unseen data source while mitigating catastrophic forgetting. Finally, data\u2010driven SOH observations are assimilated into a physics\u2010inspired parametric degradation model through an adaptive unscented Kalman filter, converting pointwise health estimates into online\u2010updatable degradation trajectories. The framework achieves robust SOH estimation across multi\u2010stress aging conditions and stable 100\u2013300\u2010step look\u2010ahead trajectory prediction, establishing an interpretable route from electrochemical fingerprints to trajectory\u2010level battery prognostics.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "27286ce1b72005a2",
+    "title": "Monolithic Host\u2010Separator Continuum Decouples Polyiodide Confinement and Reversibility in Lithium\u2010Iodine Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71575?af=R",
+    "content": "A monolithic host\u2010separator continuum integrates iodine chemistry and ion regulation into a seamless framework. The GA@SOL core enables mixed\u2010valence iodine formation and reversible redox conversion, whereas the SCP shell suppresses polyiodide shuttling through selective ion sieving, overcoming the confinement\u2010reversibility dilemma in Li\u2010I2 batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium\u2010iodine batteries are hindered by the polyiodide shuttle effect, where conventional mitigation strategies face a fundamental trade\u2010off between active material confinement and redox reversibility. Herein, we report a monolithic host\u2010separator continuum that address this dilemma through spatially organized compartmentalization. The architecture integrates an oxidized sulfonated lignin\u2010functionalized graphene aerogel (GA@SOL) core with an encapsulating sulfonated cellulose polymer (SCP) shell via sequential infiltration and freeze\u2010drying, minimizing the interfacial discontinuities inherent in stacked configurations. Within the conductive scaffold, iodine adsorption spontaneously generates a mixed\u2010valence iodine species (I\u2212/I2/I3\u2212) via balanced Lewis acid\u2010base interactions, establishing a redox\u2010active environment that preserves electronic connectivity without compromising reaction kinetics. Concurrently, the sulfonate\u2010rich SCP shell establishes an electrostatic Donnan barrier that selectively repels polyiodide anions while facilitating Li+ transport. The resulting GA@SOL\u2010I2@SCP cathode delivers 252 mAh g\u22121 at 1 C with 89.6% retention over 1500 cycles, a Li+ transference number of 0.63, and mitigated self\u2010discharge (76.1% capacity retention after 120\u00a0h). Operando spectroscopy and in situ impedance monitoring confirm sustained polyiodide accessibility and suppressed anode corrosion. This work demonstrates that structural continuity and mixed\u2010valence\u2010enabled charge transport can decouple confinement from kinetic penalty, offering a design framework for conversion\u2010type energy storage systems plagued by soluble intermediates.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "68ea033535a6aa96",
+    "title": "A hidden leak in solids",
+    "link": "https://www.nature.com/articles/s41560-026-02133-3",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02133-3\">doi:10.1038/s41560-026-02133-3</a></p>Solid electrolytes have long been treated as materials that block electronic conduction while enabling fast lithium-ion transport. Two studies now show that residual electronic conductivity can drive self-discharge in solid-state batteries at open circuit, particularly in thin practical cells, and identify the limits needed to ensure long shelf life.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "f88c07ae2bc5d80f",
+    "title": "Halogen-assisted sulfur oxidation",
+    "link": "https://www.nature.com/articles/s41560-026-02086-7",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02086-7\">doi:10.1038/s41560-026-02086-7</a></p>Lithium-sulfur batteries have long been limited by lower operating voltage and shorter lifetime compared to traditional lithium-ion technologies. Now, system-level engineering enables the conversion of sulfur to disulfur dichloride, accessing the S+1 oxidation state, thereby delivering higher voltage and improved cycling stability.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "1679a1c2ea360754",
+    "title": "Ironing out the wrinkles",
+    "link": "https://www.nature.com/articles/s41560-026-02127-1",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02127-1\">doi:10.1038/s41560-026-02127-1</a></p>Ultrawide-bandgap perovskites are essential for all-perovskite triple-junction solar cells, yet their high bromide content causes surface wrinkling and halide disorder, limiting the performance. A surface reconstruction and halide homogenization strategy now enables a certified efficiency of 29.3% in all-perovskite triple-junction devices.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "47c764b941064615",
+    "title": "Integrated photovoltaics need design innovation and cross-sector collaboration",
+    "link": "https://www.nature.com/articles/s41560-026-02132-4",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02132-4\">doi:10.1038/s41560-026-02132-4</a></p>Integrated photovoltaics need design innovation and cross-sector collaboration",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "60abb3ade6f2368a",
+    "title": "Lithium\u2013disulfur dichloride batteries",
+    "link": "https://www.nature.com/articles/s41560-026-02120-8",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02120-8\">doi:10.1038/s41560-026-02120-8</a></p>Rechargeable Li\u2013S batteries offer high energy density but are limited by low voltage, sluggish kinetics and polysulfide shuttling. Here the authors report a chlorine-mediated Li||S2Cl2 chemistry enabling reversible three-electron sulfur redox with increased voltage and capacity.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "a59aba863e9f5931",
+    "title": "Crystallization control of 2.0-eV bandgap perovskites for all-perovskite triple-junction solar cells",
+    "link": "https://www.nature.com/articles/s41560-026-02135-1",
+    "content": "<p>Nature Energy, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02135-1\">doi:10.1038/s41560-026-02135-1</a></p>Ultrawide-bandgap perovskites suffer from heterogeneities during crystallization. Zhang et al. use solvent and additive engineering to smooth the process for 2.0-eV bandgap perovskites, enabling 30.1% efficiency in all-perovskite triple-junction solar cells.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "2b1d07807dc04b1a",
+    "title": "Spent Graphite as a Novel Resource: Advanced Regeneration Technologies and Life Closed-loop Sustainability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006574?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Taoxiang Qian, Guobin Xu, Shaoyu Hou, Yi Feng, Yaping Wang, Qian Cheng, Guobin Zhang, Shuzhang Niu, Dongju Fu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "92c12d5ad682b4b8",
+    "title": "Cation-Anion Co-Doping Engineering Enables Octahedral Reconstruction to Suppress Structural Distortion in P\u20322-Type Mn-Rich Layered Oxide Cathodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007081?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 12 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Yi He, Haoji Wang, Jinqiang Gao, Jie Li, Weishun Jian, Kai Wang, Xinyu Zhang, Yumin Liu, Hongyi Chen, Wentao Deng, Hongshuai Hou, Guoqiang Zou, Xiaobo Ji</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "411cc3baf05ec87b",
+    "title": "Electrode-Driven Self-Powered Triboelectric Nanogenerator System for Transdermal Drug Delivery of Macromolecular Drugs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006865?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xintao Wang, Maosheng Yan, Jialong Gao, Ao Li, Hongjie Yang, Na Zhang, Yucheng Yang, Jing Ye, Meitian Xiao, Ranjith Kumar Kankala, Wenxi Guo, Xueqin Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "94353cb5a3f83bd2",
+    "title": "Advanced Electrode Engineering Toward Stable Potassium Metal Batteries: Progress and Prospects",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006920?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 11 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Qisheng Zang, Tong Yuan, Hao Yu, Fuqin Zhang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ebcb13cb70f074b1",
+    "title": "Rational Design and Screening of Polyhydroxy Electrolyte Additives via Artificial Intelligence Framework for Ultrastable Zinc Anodes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71038?af=R",
+    "content": "We present an artificial intelligent workflow integrating quantum chemistry datasets with graph neural networks for accurate molecular property prediction. Coupled with literature mining, SHAP analysis, and DFT/MD validation, this strategy unveils the correlation between hydroxyl mass density and molecular properties, enabling the rational design of inositol (INO) as a high\u2010performance additive. Consequently, INO enables Zn||Zn cells to achieve \u223c4000\u00a0h cycling, Zn||Cu cells to deliver 99.82% CE over 3200 cycles, and Zn||NVO cells to operate stably over 1000 cycles.\n\n\n\n\n\n\n\n\nABSTRACT\nElectrolyte additives represent a cost\u2010effective strategy to address Zn anode interfacial instability in aqueous zinc\u2010ion batteries (AZIBs). However, conventional experimental trial\u2010and\u2010error is inherently inefficient, impeding commercialization progress. Herein, we propose an artificial intelligence\u2010driven framework to rationally design and screen electrolyte additives. A graph neural network (GNN) is constructed to simultaneously predict multiple quantum chemical properties with high accuracy, eliminating costly calculations. Crucially, through systematic analysis of a series of cyclohexanol derivatives, we propose hydroxyl mass density (HMD) as a key structural descriptor. Unlike conventional approaches focusing solely on hydroxyl number while neglecting molecular weight, HMD captures the intrinsic density of functional groups, and we reveal its strong correlations with diverse molecular properties, elucidating the underlying theoretical mechanisms. Guided by HMD, inositol (INO), exhibiting the highest HMD and most balanced property profile, is identified as the optimal additive. INO synergistically reconstructs the Zn2+ solvation sheath, preferentially adsorbs on Zn facets, retards surface migration, lowers desolvation energy, and suppresses HER and corrosion. Consequently, the INO\u2010modified electrolyte delivers \u223c4000\u00a0h Zn||Zn cycling, 99.82% CE over 3200 cycles, and 1000\u2010cycle full\u2010cell stability. This work establishes a closed\u2010loop paradigm from data\u2010driven prediction to experimental validation, offering a transferable framework for rational electrolyte design.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9ecc8d8b4bd2ea38",
+    "title": "An Antibacterial and Toughening Strategy Based on Carbonaceous Nano\u2010Lamellae Applying for Food Preservation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71015?af=R",
+    "content": "Walnut green husk is transformed into defect\u2010 and edge\u2010rich carbonaceous nano\u2010lamellae (WCNL) and incorporated into casein films. Interfacial hydrogen bonding and the interconnected WCNL network reinforce the protein matrix, improving mechanical and barrier properties. Meanwhile, physical membrane disruption, bacterial immobilization, and ROS\u2010mediated oxidative stress provide multimodal antibacterial activity, enabling sustainable food\u2010packaging applications.\n\n\n\n\n\n\n\n\nABSTRACT\nIntegrating walnut green husk\u2010derived carbonaceous nano\u2010lamellae (WCNL) into casein films (CF) addresses the challenge of combining mechanical strength, barrier performance, and antibacterial activity in sustainable food packaging. The hydrothermally synthesized WCNL features defect\u2010rich hierarchical networks that induces strong interfacial hydrogen bonding, creating a nano\u2010confined network, which dramatically improves mechanical strength (563% increase in tensile strength) and reduces water vapor permeability by 22.77% of CF\u2010WCNL, while offering excellent UV shielding and antioxidant activity. Standardized colony\u2010counting assays demonstrated antibacterial efficiencies approaching 100% against both E. coli and S. aureus under the tested conditions. Time\u2010kill kinetic analysis and live/dead fluorescence staining further reveal a pronounced time\u2010dependent loss of bacterial viability, supporting a bactericidal rather than merely bacteriostatic effect. It is posited that the antibacterial behavior may be comprised of multiple concurrent processes, including edge\u2010mediated membrane disruption, physical immobilization by the interconnected WCNL architecture, and ROS\u2010induced oxidative stress. This hypothesis is supported by bacterial morphological observations and ROS analyses. These findings demonstrate the potential of biomass\u2010derived carbonaceous nano\u2010lamellae for developing mechanically robust and multifunctional bio\u2010based food\u2010packaging films.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
