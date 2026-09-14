@@ -5,7 +5,7 @@ https://www.sciencedirect.com/journal/journal-of-power-sources
 http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840
 
 # Journal of the American Chemical Society
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
+https://pubs.acs.org/rss/jacsat/asap.xml
 
 # Nature Reviews Materials
 http://feeds.nature.com/natrevmats/rss/current
@@ -41,13 +41,13 @@ https://www.science.org/journal/science
 https://www.science.org/journal/sciadv
 
 # Energy & Fuels
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
+https://pubs.acs.org/rss/enfuem/asap.xml
 
 # ACS Energy Letters
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
+https://pubs.acs.org/rss/aelccp/asap.xml
 
 # ACS Applied Energy Materials
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
+https://pubs.acs.org/rss/aaemcq/asap.xml
 
 # Nano Energy
 https://rss.sciencedirect.com/publication/science/22112855
