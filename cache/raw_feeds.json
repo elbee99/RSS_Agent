@@ -460,5 +460,628 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71043?af=R",
     "content": "Using microRNA as a model, we developed an enhanced strategy for amplified single\u2010molecule analysis of short nucleic acid markers optimized for solid\u2010state nanopore detection. This strategy reduces nanopore fabrication precision requirements and, via unilateral hairpin engineering, enables kinetically regulated amplification. The approach improves product length uniformity and stabilizes translocation conformations in solid\u2010state nanopores. \n\n\n\n\n\n\n\n\nABSTRACT\nSolid\u2010state nanopore sensing has become a common method for biomarker detection, but it still faces challenges with short nucleic acid markers (<50\u00a0nt) such as microRNAs (miRNAs). A simple but effective signal amplification strategy, specifically optimized for nanopore detection, is therefore needed. Here, we have developed an efficient workflow based on hybridization chain reaction (HCR) to specifically extend the target miRNA and conduct single\u2010molecule analysis within solid\u2010state nanopores. The miRNA translocation signals in nanopores were amplified with an enhanced signal\u2010to\u2010noise ratio (SNR) through multi\u2010step optimization and screening of amplification system design, enabling effective analysis across a wide range of nanopore sizes and voltages. We then introduced kinetically regulated hairpin engineering, validated by thermodynamic and molecular dynamics simulations, to address the challenges posed by the high heterogeneity of standard amplification products. This modification enables controlled amplification to improve product length uniformity, promote natural folding of DNA concatemers, and increase inter\u2010molecule repulsive forces, thereby enhancing signal quality. With further optimization of nanopore size, we achieved accurate detection of target miRNA below 10 pM and verified quantitative performance in serum samples. Our work is expected to provide an easy and robust pathway for enhanced sensing of small nucleic acids using solid\u2010state nanopores.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "a96921a79cb54e05",
+    "title": "Dual\u2010Phase Activation and Mo\u2010Mediated Interfacial Stabilization Enable Active and Durable Seawater Oxidation on a Monolithic High\u2010Entropy Alloy Electrode",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71559?af=R",
+    "content": "Phase\u2010selective activation of a dual\u2010phase high\u2010entropy alloy enables the FCC\u2010derived region to generate a continuous Ni\u2010rich reconstructed interface, while the retained B2 framework preserves structural integrity. Mo\u2010derived oxidized species stabilize the reconstructed layer, suppressing chloride\u2010associated degradation and enabling durable alkaline seawater oxygen evolution.\n\n\n\n\n\n\n\n\nABSTRACT\nSeawater oxygen evolution reaction (OER) anodes require high activity and long\u2010term durability in chloride\u2010containing electrolytes, yet reconstructed active interfaces are often destabilized by halide\u2010induced corrosion and dissolution. To address this issue, we report a Mo\u2010containing dual\u2010phase nanoporous high\u2010entropy alloy electrode that integrates phase\u2010selective activation with Mo\u2010mediated interfacial stabilization. By comparing Mo\u2010free single\u2010phase, Mo\u2010free dual\u2010phase, and Mo\u2010containing dual\u2010phase electrodes, we distinguish the respective contributions of the dual\u2010phase architecture and Mo incorporation to OER activity and stability. The FCC/B2 dual\u2010phase architecture enlarges the electrochemically accessible interface through selective activation of the FCC\u2010derived region. Mo incorporation further improves the apparent site\u2010normalized OER activity and assists the formation of a continuous Ni\u2010rich mixed oxyhydroxide/oxide reconstructed layer. Time\u2010dependent analysis reveals a cooperative reconstruction process, where the B2\u2010type phase preserves the structural framework and further consumption of the FCC\u2010derived region becomes strongly limited after surface\u2010layer formation. Consequently, the Mo\u2010containing dual\u2010phase electrode operates for over 10\u00a0000\u00a0h at 1000 mA\u00b7cm\u22122 in 6.0\u00a0M KOH + 1.5\u00a0M NaCl and over 3500\u00a0h at 200 mA\u00b7cm\u22122 in 1.0\u00a0M KOH + natural seawater. This work provides a structure\u2010interface cooperative strategy for active and durable alkaline seawater OER anodes.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "80dc9bb428008439",
+    "title": "Hydrogen\u2010Bond\u2010Regulated and Rheologically Adaptive Interphase for Corrosion\u2010Suppressed Dense Zinc Deposition in Long\u2010Lasting 4 Ah Zinc Metal Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71600?af=R",
+    "content": "Through complementary regulation of the interfacial hydrogen\u2010bonding environment and frequency\u2010dependent viscoelastic adaptation, a water\u2010poor functional sequence interphase is constructed on Zinc anode. This architecture suppresses water\u2010induced parasitic reactions while accommodating interfacial deformation, thereby enabling stable Zn deposition for high\u2010capacity aqueous Zn metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nThe practical implementation of ampere\u2010hour\u2010scale aqueous zinc metal batteries is severely hindered by hydrogen evolution corrosion and dendritic growth under high\u2010current operation. Although regulating electrode\u2013electrolyte interphase water via hydrogen bonding has been recognized as an effective strategy to suppress parasitic reactions, achieving dense, and uniform zinc deposition at high current densities remains a critical challenge due to interfacial instability and stress accumulation. Here, we construct a hydrogen\u2010bond\u2010network\u2010regulated ionic liquid layer coupled with a rheologically adaptive polydimethylsiloxane gel to establish a water\u2010poor and mechanically resilient interphase. The modified hydrogen\u2010bond network modulates the interfacial water environment, thereby contributing to suppressing corrosion. Simultaneously, the polydimethylsiloxane gel layer provides a hydrophobic barrier against water penetration and dynamically accommodates interfacial stress, enabling dense and uniform zinc deposition under high\u2010rate conditions. As a result, Zn||Zn symmetric cells exhibit exceptional cycling stability exceeding 1800\u00a0h at 50 and 25 mAh cm\u22122. More importantly, a 4 Ah pouch cell delivers stable cycling for 300 cycles with a cumulative capacity exceeding 1200 Ah. This work establishes a rational interphase engineering strategy for achieving durable, high\u2010capacity aqueous zinc metal batteries under practical high\u2010current conditions.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "2eda5065af9619a9",
+    "title": "Process\u2010Oriented Interphase Regulation in Lithium Metal Batteries with Non\u2010Aqueous Liquid Electrolytes",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71582?af=R",
+    "content": "A process\u2010oriented framework links six consecutive steps of lithium deposition\u2014bulk transport, desolvation, interphase transport, charge transfer, nucleation, and growth\u2014with electrolyte additives, artificial interphases, and solvation regulation. This unified perspective reveals how targeted control of interfacial kinetics promotes uniform lithium deposition, suppresses dendrites and side reactions, and advances practical high\u2010energy lithium metal batteries.\n\n\n\n\n\n\n\n\nABSTRACT\nLithium metal batteries (LMBs) are promising candidates for high\u2010energy\u2010density energy storage systems. However, their practical applications are severely hindered by interfacial instability and uncontrolled lithium deposition, which lead to dendrite growth, low Coulombic efficiency, and rapid capacity decay. In this review, we systematically analyze interfacial processes in LMBs with non\u2010aqueous liquid electrolytes from a process\u2010oriented perspective. We employ a six\u2010step kinetic framework involving ion transport, desolvation, interphase transport, charge transfer, nucleation, and morphological evolution. We first discuss the fundamental structure and dynamic evolution of electrode\u2010electrolyte interphases, followed by an overview of advanced characterization techniques across multiple length and time scales. Furthermore, recent strategies for regulating interfacial stability are critically summarized, including electrolyte additives, artificial protective layers, and solvation regulation designs. Instead of categorizing these strategies solely by materials, we emphasize their roles in regulating key kinetic steps and clarify the underlying mechanisms within the six\u2010step process. Finally, we highlight current challenges and future directions toward practical LMBs, including full\u2010cell and pouch\u2010cell validation, high energy density, cost reduction, and manufacturing compatibility. This work aims to provide a unified framework for understanding, characterizing, and regulating interfacial stability in lithium metal batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "97e35be6acb66f01",
+    "title": "Recent Progress Toward Practical Aqueous Zn\u2010I2 Batteries: From Lab to Practical",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71594?af=R",
+    "content": "This review elucidates the fundamental energy\u2010storage mechanisms of Zn\u2013I2 batteries, focusing on iodine\u2010species conversion pathways, the evolution of polyiodide intermediates, and their intrinsic coupling with Zn plating/stripping. It also systematically examines the principal strategies used to suppress polyiodide dissolution and migration, accelerate sluggish iodine redox kinetics, and stabilize the Zn\u2010anode interface, including physical confinement, chemical adsorption, supramolecular recognition, catalytic conversion, interfacial regulation, and electrolyte engineering.\n\n\n\n\n\n\n\n\nABSTRACT\nAqueous zinc\u2010iodine (Zn\u2010I2) batteries are considered promising energy storage systems due to their low cost, high theoretical energy density, intrinsic safety and strong environmental adaptability. However, their practical application remains hindered by several challenges. At the I2 cathode, soluble polyiodides are readily generated during charge and discharge, leading to severe shuttle effects, active material loss and self\u2010discharge. At the Zn anode, dendrite growth, hydrogen evolution, corrosion and by\u2010product formation compromise coulombic efficiency and cycling stability. Moreover, these challenges are intensified under high I2 loading and in pouch cell configurations. Accordingly, this review systematically summarizes recent advances in physical confinement, chemical adsorption, supramolecular regulation, catalytic conversion, interfacial engineering and electrolyte engineering to address the associated limitations. On this basis, particular attention is devoted to the practical energy density and the underlying degradation mechanisms of aqueous Zn\u2010I2 batteries under high iodine loading and pouch cell conditions, aiming to provide guidance for the rational design and practical application of durable aqueous Zn\u2010I2 batteries with high energy density.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "623f36d6c6089eed",
+    "title": "Moist\u2010Electric Wallpaper With Engineered Unidirectional Moisture Transport for Indoor Energy Harvesting and Humidity Management",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603?af=R",
+    "content": "A wallpaper\u2010type moist\u2010electric generator is introduced, employing a peripheral\u2010absorption, center\u2010evaporation architecture on a single paper sheet to sustain unidirectional moisture transport and continuous power generation from indoor humidity. Concealed through\u2010hole interconnections enable a visually seamless 1596\u2010unit array that powers a wireless keyboard while passively buffering indoor humidity\u2014uniting energy harvesting and environmental regulation in one architectural surface.\n\n\n\n\n\n\n\n\nABSTRACT\nMoist\u2010electric generators (MEGs) convert ambient humidity into electricity, but their inherently low power output makes outdoor deployment as a general energy source impractical. Indoor environments, where humidity is stable and low\u2010power electronics demand only microwatt\u2010to\u2010milliwatt supplies, present a more realistic opportunity\u2014and wallpaper, with its large continuously exposed surface area and seamless architectural integration, is the most compelling platform to realize it. Here we report the first wallpaper\u2010type MEG, enabled by a peripheral\u2010absorption, center\u2010evaporation architecture that achieves engineered unidirectional moisture transport on a single paper sheet. Glycerol at the periphery captures atmospheric moisture; polyvinylpyrrolidone in the intermediate region acts as a bound\u2010water sink whose reduced porosity and lowered water activity drive inward transport through Laplace pressure and chemical potential gradients; and a wax\u2010treated center exploits the phase\u2010selective behavior of hydrophobic pores\u2014blocking liquid while transmitting vapor\u2014to confine evaporation without a solid seal. A concealed through\u2010hole interconnection strategy enables modular scaling with no visible wiring. A single unit delivers \u223c0.34\u00a0V and \u223c2.2 \u00b5W/cm2 at 80% RH with stable output over 90 min. A 1596\u2010unit array powers a wireless keyboard and simultaneously reduces indoor humidity from 38% to 32%, transforming passive wall surfaces into self\u2010powered, climate\u2010responsive interfaces.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "a1240f4d89e47b7a",
+    "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+    "link": "https://www.nature.com/articles/s41586-026-11134-x",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11134-x\">doi:10.1038/s41586-026-11134-x</a></p>Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+    "journal": "Nature"
+  },
+  {
+    "id": "5262ab37641e70c4",
+    "title": "Mercury is shrinking with age \u2014 faster than thought",
+    "link": "https://www.nature.com/articles/d41586-026-02898-3",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02898-3\">doi:10.1038/d41586-026-02898-3</a></p>Impacts by space objects have obscured some of the evidence of the planet\u2019s contraction over the past 4.5 billion years.",
+    "journal": "Nature"
+  },
+  {
+    "id": "41240e3219a69324",
+    "title": "Schoolhouse meals serve up an income bump",
+    "link": "https://www.nature.com/articles/d41586-026-02896-5",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02896-5\">doi:10.1038/d41586-026-02896-5</a></p>Modelling shows a link between feeding programmes and higher potential earning in five African nations.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5e3115f629062ebc",
+    "title": "How fast are you ageing? Ask AI",
+    "link": "https://www.nature.com/articles/d41586-026-02913-7",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02913-7\">doi:10.1038/d41586-026-02913-7</a></p>A new system will help scientists to refine large language models for longevity research and clarify \u2018biological\u2019 age.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a5ab5bd95bf8ad6e",
+    "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun\u2019s tomb",
+    "link": "https://www.nature.com/articles/d41586-026-02621-2",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02621-2\">doi:10.1038/d41586-026-02621-2</a></p>Geophysical survey yields \u2018tantalizing\u2019 data that could point to Nefertiti\u2019s burial place \u2013 but it\u2019s too early to draw definitive conclusions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0d37bb41a2df7a73",
+    "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
+    "link": "https://www.nature.com/articles/d41586-026-02911-9",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02911-9\">doi:10.1038/d41586-026-02911-9</a></p>Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7c443ef14ed41d82",
+    "title": "How a team of AIs discovered a promising lung-cancer drug",
+    "link": "https://www.nature.com/articles/d41586-026-02954-y",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02954-y\">doi:10.1038/d41586-026-02954-y</a></p>Researchers developed a \u2018virtual biotech\u2019 made up of as many as 37,000 agents reporting to an 'chief scientist'.",
+    "journal": "Nature"
+  },
+  {
+    "id": "65383bcbdab23aab",
+    "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
+    "link": "https://www.nature.com/articles/d41586-026-02910-w",
+    "content": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02910-w\">doi:10.1038/d41586-026-02910-w</a></p>Controversy around OpenAI\u2019s claim to have solved the Navier\u2013Stokes problem highlights how researchers could be inadvertently sharing \u2014 and absorbing\u2014 ideas through chatbots.",
+    "journal": "Nature"
+  },
+  {
+    "id": "eacf80a81b0d6d2c",
+    "title": "Inflection points and transitions in Alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41586-026-11110-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11110-5\">doi:10.1038/s41586-026-11110-5</a></p>Inflection points and transitions in Alzheimer\u2019s disease",
+    "journal": "Nature"
+  },
+  {
+    "id": "5670e65585e4677b",
+    "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+    "link": "https://www.nature.com/articles/s41586-026-11123-0",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11123-0\">doi:10.1038/s41586-026-11123-0</a></p>Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+    "journal": "Nature"
+  },
+  {
+    "id": "b972412217987f07",
+    "title": "Why most  stars don\u2019t have outbursts like our Sun\u2019s",
+    "link": "https://www.nature.com/articles/d41586-026-02833-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02833-6\">doi:10.1038/d41586-026-02833-6</a></p>A strong magnetic field can disrupt a star\u2019s ability to produce the fountains of matter called coronal mass ejections.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ae1ad4da52e227ee",
+    "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+    "link": "https://www.nature.com/articles/d41586-026-02927-1",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02927-1\">doi:10.1038/d41586-026-02927-1</a></p>Extensive cellular integration might provide platform for in vivo testing of new therapies \u2014 plus, the AI tool that turns papers into \u2018virtual corresponding authors\u2019.",
+    "journal": "Nature"
+  },
+  {
+    "id": "55fa0d89bb78d789",
+    "title": "Development of a random background to understand ligand optimization",
+    "link": "https://www.nature.com/articles/s41586-026-11013-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11013-5\">doi:10.1038/s41586-026-11013-5</a></p>An approach to improve efficiency and establish a background expectation for ligand potency optimization is described.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ae71e44ffb991871",
+    "title": "Developmental xenocortication using human-derived organoids in mice",
+    "link": "https://www.nature.com/articles/s41586-026-11032-2",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11032-2\">doi:10.1038/s41586-026-11032-2</a></p>Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.",
+    "journal": "Nature"
+  },
+  {
+    "id": "542de1e491700cab",
+    "title": "Mitochondrial fission factor senses and governs ferroptosis",
+    "link": "https://www.nature.com/articles/s41586-026-11020-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11020-6\">doi:10.1038/s41586-026-11020-6</a></p>The mitochondrial\u2013peroxisomal fission adaptor MFF is identified as a selective pro-ferroptotic mediator, and the newly developed MFF\u2013SPARK sensor enables high-content screening of ferroptosis-sensitizing compounds and the discovery of upstream regulators of MFF.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e72715cb6aebe7f2",
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "link": "https://www.nature.com/articles/s41586-026-11044-y",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11044-y\">doi:10.1038/s41586-026-11044-y</a></p>Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b06653b56b16e8dd",
+    "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
+    "link": "https://www.nature.com/articles/s41586-026-11042-0",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11042-0\">doi:10.1038/s41586-026-11042-0</a></p>Electroluminescent photoresists synthesized via atom transfer radical polymerization can be directly patterned by ultraviolet and electron-beam lithography, and used to fabricate monolithic, multicolour organic-light-emitting-diode micro-pixel arrays.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3b36a25f5fe1ab41",
+    "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
+    "link": "https://www.nature.com/articles/s41586-026-11011-7",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11011-7\">doi:10.1038/s41586-026-11011-7</a></p>Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly stable and robust solid-state optical nuclear clock.",
+    "journal": "Nature"
+  },
+  {
+    "id": "471246f62e34808f",
+    "title": "Mutational constraints on RSV F and its neutralization by antibodies",
+    "link": "https://www.nature.com/articles/s41586-026-11030-4",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11030-4\">doi:10.1038/s41586-026-11030-4</a></p>How respiratory syncytial virus mutations affect antibody neutralization is defined, and a biophysical model of the mechanism is provided, to show how Fab potency and epitope specificity combine to determine the effects of viral mutations on antibody neutralization.",
+    "journal": "Nature"
+  },
+  {
+    "id": "59f9d8001dc591b5",
+    "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
+    "link": "https://www.nature.com/articles/s41586-026-11035-z",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11035-z\">doi:10.1038/s41586-026-11035-z</a></p>A rapid autopsy programme provides valuable resources to enable detailed molecular and genetic analyses of the temporal evolution of aggressive histological subtypes and therapy resistance in metastatic bladder cancer.",
+    "journal": "Nature"
+  },
+  {
+    "id": "83ef954a678a0baa",
+    "title": "Topographic structure and function of locus coeruleus noradrenaline neurons",
+    "link": "https://www.nature.com/articles/s41586-026-11026-0",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11026-0\">doi:10.1038/s41586-026-11026-0</a></p>Dorsal and ventral noradrenergic neurons in the locus coeruleus form topographic subpopulations whose projection patterns and activity encode choice switching, reward-prediction errors and disregard of reward-predictive cues, supporting flexible learning behaviour.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7b233ae69d5f5906",
+    "title": "Overmassive black holes and little red dots naturally form in simulations",
+    "link": "https://www.nature.com/articles/s41586-026-10985-8",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10985-8\">doi:10.1038/s41586-026-10985-8</a></p>Observations from the JWST reveal an unexpectedly abundant population of little red dots and overmassive black holes in the early Universe, which are confirmed by their formation in fully cosmological radiation-hydrodynamic simulations.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5e2446560ba42a5a",
+    "title": "A retinoic acid autoregulatory loop governing prefrontal\u2013motor arealization",
+    "link": "https://www.nature.com/articles/s41586-026-11014-4",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11014-4\">doi:10.1038/s41586-026-11014-4</a></p>MEIS2, encoding a transcription factor linked to intellectual disability and autism spectrum disorder, is a key hub of a retinoic-acid-associated gene regulatory network.",
+    "journal": "Nature"
+  },
+  {
+    "id": "427eaede986c9d5f",
+    "title": "Road transport of trapped antiprotons",
+    "link": "https://www.nature.com/articles/s41586-026-11019-z",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11019-z\">doi:10.1038/s41586-026-11019-z</a></p>Researchers demonstrate successful road transport of trapped antiprotons, establishing a practical method for moving antimatter to quieter laboratories and substantially improving future tests of matter\u2013antimatter symmetry.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6d452ee49002523d",
+    "title": "Transcriptional activation of plant immunity by salicylic acid",
+    "link": "https://www.nature.com/articles/s41586-026-11021-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11021-5\">doi:10.1038/s41586-026-11021-5</a></p>A mechanistic basis for how the hormone salicylic acid promotes transcriptional activation during plant immune responses is described.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fabd39c9e7aaa310",
+    "title": "Rapid patient-specific neural networks for X-ray to volume registration",
+    "link": "https://www.nature.com/articles/s41586-026-11045-x",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11045-x\">doi:10.1038/s41586-026-11045-x</a></p>xvr makes pan-anatomical 2D/3D rigid registration accessible to broad clinical and research communities.",
+    "journal": "Nature"
+  },
+  {
+    "id": "68d47b8245d0d311",
+    "title": "Heterogeneous photonic integration of single-crystalline nanomembranes",
+    "link": "https://www.nature.com/articles/s41586-026-11000-w",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11000-w\">doi:10.1038/s41586-026-11000-w</a></p>A framework consisting of advanced epitaxy and layer lift-off techniques uses heterogeneous photonic integration of single-crystalline nanomembranes to infuse desired functionalities into silicon and silicon nitride photonics, demonstrating ultraefficient electro-optical and magneto-optical modulation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "313b4dd8c3485d51",
+    "title": "Molecular-level observation of the self-assembly of a virus-like particle",
+    "link": "https://www.nature.com/articles/s41586-026-10948-z",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10948-z\">doi:10.1038/s41586-026-10948-z</a></p>Using mass photometry combined with a single-molecule trapping method allows real-time monitoring of the assembly of individual virus-like particles with molecular resolution, enabling observation and quantification of their self-assembly pathways and dynamics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bbe8e493d97285e8",
+    "title": "Targeted genomic integration and rearrangement using prime assembly",
+    "link": "https://www.nature.com/articles/s41586-026-11024-2",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11024-2\">doi:10.1038/s41586-026-11024-2</a></p>Prime assembly enables RNA-guided integration of medium-to-large DNA sequences in human cells without requiring double-strand breaks or cell cycle progression, and supports exon recoding, transgene insertion and megabase-scale rearrangements.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c2bd408a813333bd",
+    "title": "Sex without crossovers mimics clonal reproduction in <i>Rhynchospora tenuis</i>",
+    "link": "https://www.nature.com/articles/s41586-026-11057-7",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11057-7\">doi:10.1038/s41586-026-11057-7</a></p>Rhynchospora tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b860a0ad6cb8ac0e",
+    "title": "Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy",
+    "link": "https://www.nature.com/articles/s41586-026-11012-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11012-6\">doi:10.1038/s41586-026-11012-6</a></p>Delphy makes near-real-time and scalable Bayesian phylogenetics possible for growing viral outbreaks, enabling public health bodies anywhere to analyse and react to their own data with state-of-the-art accuracy and minimal friction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ba0e79b8ffa6e19c",
+    "title": "Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations",
+    "link": "https://www.nature.com/articles/s41586-026-11135-w",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11135-w\">doi:10.1038/s41586-026-11135-w</a></p>Author Correction: Obesity rise plateaus in developed nations and accelerates in developing nations",
+    "journal": "Nature"
+  },
+  {
+    "id": "0ad4a1fdbd57fa82",
+    "title": "Electrically controllable superconducting memory effect in UTe<sub>2</sub>",
+    "link": "https://www.nature.com/articles/s41586-026-11015-3",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11015-3\">doi:10.1038/s41586-026-11015-3</a></p>Observations of a memory effect in the p-wave superconductor candidate UTe2, which can be controlled by varying the strength and duration of the electrically applied stimuli, are described.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fbc4fd849d15815a",
+    "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal",
+    "link": "https://www.nature.com/articles/s41586-026-11034-0",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11034-0\">doi:10.1038/s41586-026-11034-0</a></p>Cohesin-mediated loop extrusion limits sister-fork coupling and tethers nearby replication forks under replication stress, promoting fork reversal and slowing fork progression to safeguard genome stability.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7611f5a6bbec8e68",
+    "title": "Assessing biological degradation of non-hydrolysable synthetic polymers",
+    "link": "https://www.nature.com/articles/s41586-026-10918-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10918-5\">doi:10.1038/s41586-026-10918-5</a></p>The evidence for biological degradation of non-hydrolysable synthetic polymers is critically evaluated to propose best-practice principles for experimental design that should promote reproducibility and impact across this field.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5deaa81e894e0237",
+    "title": "Identification of broadly tumour-reactive \u03b3\u03b4 TCRs from multiple myeloma",
+    "link": "https://www.nature.com/articles/s41586-026-11055-9",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11055-9\">doi:10.1038/s41586-026-11055-9</a></p>A machine-learning algorithm, PreGame, is developed to identify tumour-reactive \u03b3\u03b4 T\u2009cells from single-cell CITE sequencing data, and expansion of this cell population can be used as a biomarker of therapeutic response.",
+    "journal": "Nature"
+  },
+  {
+    "id": "73653e4bf2133f49",
+    "title": "Predictors and prevalence of support for white nationalism in the United States",
+    "link": "https://www.nature.com/articles/s41586-026-11018-0",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11018-0\">doi:10.1038/s41586-026-11018-0</a></p>Explicit support for white nationalism is uncommon overall, but higher among young white men, disadvantaged and politically disaffected white people, conservatives, Republicans, and those with primarily online friendships.",
+    "journal": "Nature"
+  },
+  {
+    "id": "13ee4564a208a2a0",
+    "title": "A thermodynamically favoured molecular computer",
+    "link": "https://www.nature.com/articles/s41586-026-10996-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10996-5\">doi:10.1038/s41586-026-10996-5</a></p>Scaffolded DNA Computer performs diverse computations while thermodynamically relaxing towards equilibrium, demonstrating simplicity, reusability, speed, robustness and scalability of the approach by running 10 programs, including parity, multiplication and 25-bit addition.",
+    "journal": "Nature"
+  },
+  {
+    "id": "916e9ca1ce90156c",
+    "title": "Marine bacteria cooperate to break down complex algal carbohydrates",
+    "link": "https://www.nature.com/articles/d41586-026-02873-y",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02873-y\">doi:10.1038/d41586-026-02873-y</a></p>Marine algae produce sulfated carbohydrates called fucoidans that are chemically too complex for any bacteria to digest alone. Instead, marine bacteria split the task between them in a modular fashion: some strains degrade the molecular backbone, whereas others remove the side branches.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ce709dc562a63a34",
+    "title": "Antimatter: coming soon to a lab near you?",
+    "link": "https://www.nature.com/articles/d41586-026-02647-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02647-6\">doi:10.1038/d41586-026-02647-6</a></p>Antiprotons have been transported by road at CERN. This advance might one day enable laboratories outside the site to use antimatter in their experiments.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f093ca410b520ab5",
+    "title": "Molecular computation that rolls energetically downhill",
+    "link": "https://www.nature.com/articles/d41586-026-02878-7",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02878-7\">doi:10.1038/d41586-026-02878-7</a></p>A DNA-based computer that operates by relaxing to thermodynamic equilibrium has been demonstrated on ten molecular programs, which completed computations in as little as one minute. Some programs were rerun using distinct inputs up to 25 times and others were scaled up to 100-bit computations \u2014 although this slowed them down substantially.",
+    "journal": "Nature"
+  },
+  {
+    "id": "345516c28b76f60f",
+    "title": "Turning scientific research papers into interactive AI agents",
+    "link": "https://www.nature.com/articles/d41586-026-02880-z",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02880-z\">doi:10.1038/d41586-026-02880-z</a></p>Scientific knowledge is mostly stored in static papers. An automated framework called Paper2Agent can now transform each paper into an active artificial intelligence agent \u2014 a virtual corresponding author that answers questions, applies the paper\u2019s methods to new data, and collaborates with other paper agents. This makes research easier to reproduce, reuse and extend.",
+    "journal": "Nature"
+  },
+  {
+    "id": "481d37d81e1695e9",
+    "title": "Is it safe to use consumer wearable devices for research?",
+    "link": "https://www.nature.com/articles/d41586-026-02671-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02671-6\">doi:10.1038/d41586-026-02671-6</a></p>Wearable technology is a boon for studying health behaviours, but it comes with some thorny ethical concerns, says researcher Wuyou Sui.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e6294d25855b78fb",
+    "title": "Nearly one in seven young, male white voters in the US support white nationalism",
+    "link": "https://www.nature.com/articles/d41586-026-02648-5",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02648-5\">doi:10.1038/d41586-026-02648-5</a></p>Three national surveys reveal how factors such as gender, age, political alignment and income are correlated with support for white nationalism in the United States.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0a90e0cfcd162fab",
+    "title": "Map of brain \u2018microproteins\u2019 could offer new clues to Alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/d41586-026-02914-6",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02914-6\">doi:10.1038/d41586-026-02914-6</a></p>Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that are altered in Alzheimer\u2019s disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5a4c95f4980f25c5",
+    "title": "AI companies must work with the research community to protect attribution",
+    "link": "https://www.nature.com/articles/d41586-026-02886-7",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02886-7\">doi:10.1038/d41586-026-02886-7</a></p>An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+    "journal": "Nature"
+  },
+  {
+    "id": "78aca0f70282a07e",
+    "title": "Will wearable technologies transform clinical trials?",
+    "link": "https://www.nature.com/articles/d41586-026-02844-3",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02844-3\">doi:10.1038/d41586-026-02844-3</a></p>Digital wearables are increasingly being used in a research setting, but their scientific rigour and impact are subjects of debate.",
+    "journal": "Nature"
+  },
+  {
+    "id": "525da38f8a647014",
+    "title": "Human brain cells transplanted into mice in \u2018most extensive\u2019 integration ever",
+    "link": "https://www.nature.com/articles/d41586-026-02912-8",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02912-8\">doi:10.1038/d41586-026-02912-8</a></p>Lab-grown organoids wire into mice missing a key part of their brain, offering a new way to test drugs for developmental conditions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5c4d4502f5325fe0",
+    "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
+    "link": "https://www.nature.com/articles/d41586-026-02849-y",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02849-y\">doi:10.1038/d41586-026-02849-y</a></p>Researchers are racing to culture a menagerie of exotic organisms and finding lots of surprises along the way.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2d520ea0b7e77cb4",
+    "title": "Tumour cells shape their environment to protect them from the immune system",
+    "link": "https://www.nature.com/articles/d41586-026-02703-1",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02703-1\">doi:10.1038/d41586-026-02703-1</a></p>A subset of pancreatic cancer cells express the genes SERPINE1 or SERPINB2, which form a molecular mesh around them. This sticky matrix helps to retain immunosuppressive cells and exclude the immune cells that kill cancer cells. Disrupting this process in mice improves immune control of pancreatic tumours and sensitizes them to immunotherapy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b141875fb9ec0f5c",
+    "title": "AI tool turns any paper into an \u2018agent\u2019 that can collaborate and answer complex queries",
+    "link": "https://www.nature.com/articles/d41586-026-02899-2",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02899-2\">doi:10.1038/d41586-026-02899-2</a></p>The Paper2Agent system makes it easier for researchers to reproduce papers and understand work in unfamiliar fields, authors say.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b9f34aa74e59ed5d",
+    "title": "I who have never known trees",
+    "link": "https://www.nature.com/articles/d41586-026-02859-w",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02859-w\">doi:10.1038/d41586-026-02859-w</a></p>Lost connections.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b3e982c2d6f2e477",
+    "title": "Virus-like particles observed assembling in real time",
+    "link": "https://www.nature.com/articles/d41586-026-02644-9",
+    "content": "<p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02644-9\">doi:10.1038/d41586-026-02644-9</a></p>Scientists have long dreamt of being able to track and analyse each step in the assembly of a virus\u2019s protein shell. An ingenious experiment shows how this can be done.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ebd19e8a2fd4b5f7",
+    "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+    "link": "https://www.nature.com/articles/s41586-026-11139-6",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11139-6\">doi:10.1038/s41586-026-11139-6</a></p>Quality control of glycogen through direct ubiquitylation by RNF213",
+    "journal": "Nature"
+  },
+  {
+    "id": "c9c7b2a68421e9a4",
+    "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+    "link": "https://www.nature.com/articles/s41586-026-11137-8",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11137-8\">doi:10.1038/s41586-026-11137-8</a></p>Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+    "journal": "Nature"
+  },
+  {
+    "id": "512155c6885d13b3",
+    "title": "A wake-up call: diversify global research funding",
+    "link": "https://www.nature.com/articles/d41586-026-02904-8",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02904-8\">doi:10.1038/d41586-026-02904-8</a></p>A wake-up call: diversify global research funding",
+    "journal": "Nature"
+  },
+  {
+    "id": "3aea1a57e1e412a4",
+    "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+    "link": "https://www.nature.com/articles/d41586-026-02907-5",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02907-5\">doi:10.1038/d41586-026-02907-5</a></p>Why Nepal floods resulted in a disaster even after satellites spotted danger",
+    "journal": "Nature"
+  },
+  {
+    "id": "e2cfce23014ec565",
+    "title": "The geometric genius of Ren\u00e9 Descartes",
+    "link": "https://www.nature.com/articles/d41586-026-02723-x",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02723-x\">doi:10.1038/d41586-026-02723-x</a></p>The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week\u2019s pick from the Nature archive.",
+    "journal": "Nature"
+  },
+  {
+    "id": "27b7f19dedad5d33",
+    "title": "Make AI traceable before it shapes global climate assessments",
+    "link": "https://www.nature.com/articles/d41586-026-02905-7",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02905-7\">doi:10.1038/d41586-026-02905-7</a></p>Make AI traceable before it shapes global climate assessments",
+    "journal": "Nature"
+  },
+  {
+    "id": "bdbd5acda97c3af4",
+    "title": "Why the NIH must resist the metrics trap",
+    "link": "https://www.nature.com/articles/d41586-026-02906-6",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02906-6\">doi:10.1038/d41586-026-02906-6</a></p>Why the NIH must resist the metrics trap",
+    "journal": "Nature"
+  },
+  {
+    "id": "78ba4f17fc3a7139",
+    "title": "Global inequality panel is a chance for research to change lives",
+    "link": "https://www.nature.com/articles/d41586-026-02885-8",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02885-8\">doi:10.1038/d41586-026-02885-8</a></p>The scientific panel is welcomed. It must now invite all interested researchers to participate.",
+    "journal": "Nature"
+  },
+  {
+    "id": "61e4d791030b7265",
+    "title": "CRISPR crops are coming to Europe \u2014 why bolder would be better",
+    "link": "https://www.nature.com/articles/d41586-026-02848-z",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02848-z\">doi:10.1038/d41586-026-02848-z</a></p>For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9c99c2f984d3ae54",
+    "title": "Underground hydrogen could spur a green-energy revolution \u2014 if companies can find it",
+    "link": "https://www.nature.com/articles/d41586-026-02850-5",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02850-5\">doi:10.1038/d41586-026-02850-5</a></p>Firms are racing to drill for hydrogen in hopes of finding a dirt-cheap green-energy source.",
+    "journal": "Nature"
+  },
+  {
+    "id": "07c2b91d720854c5",
+    "title": "Cities and countryside are intimately linked \u2014 green initiatives must recognize that",
+    "link": "https://www.nature.com/articles/d41586-026-02853-2",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02853-2\">doi:10.1038/d41586-026-02853-2</a></p>Urban areas depend on resources from the land that surrounds them. Managing regions in their entirety is the best way to avoid rural decline.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a1956f058583cddd",
+    "title": "\u2018Stomach bugs\u2019 send protective immune cells rushing from gut to brain",
+    "link": "https://www.nature.com/articles/d41586-026-02891-w",
+    "content": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02891-w\">doi:10.1038/d41586-026-02891-w</a></p>Voyaging gut-derived immune cells \u2018remember\u2019 past stomach infections in mice.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c9a38a133d0222e6",
+    "title": "Daily briefing: How this year\u2019s super El Ni\u00f1o is different",
+    "link": "https://www.nature.com/articles/d41586-026-02915-5",
+    "content": "<p>Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02915-5\">doi:10.1038/d41586-026-02915-5</a></p>Climate change makes the event difficult to predict. Plus, signs of success from an early trial of an osteoporosis therapy and how to safeguard reptiles and amphibians from illegal trafficking.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8629941a770e9952",
+    "title": "Disentangling degradation of non-fullerene organic solar cells operated in air",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00365-X?rss=yes",
+    "content": "Organic solar cells are vulnerable to air, yet the roles of oxygen and moisture during degradation remain elusive. This study unravels the dominant role of oxygen in device failure, driving irreversible polymer oxidation, while moisture mainly induces reversible twisting of the polymer backbone. Importantly, direct excitation of the polymer is not required for its oxidation. Excitons formed as charge-transfer states or localized on the acceptor can generate singlet oxygen through triplet exciton transfer, rendering even infrared light harmful in the presence of oxygen.",
+    "journal": "Joule"
+  },
+  {
+    "id": "356dc053e7545ae0",
+    "title": "Spatially informed policies can accelerate green hydrogen demand",
+    "link": "https://www.nature.com/articles/s41560-026-02139-x",
+    "content": "<p>Nature Energy, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02139-x\">doi:10.1038/s41560-026-02139-x</a></p>Realized green hydrogen demand lags behind policy targets but could be accelerated by accounting for spatial spillovers, which refer to demand-side interdependencies where adoption by one user encourages further adoption by nearby users. Revising EU green hydrogen policies, including Hydrogen Valleys and European Hydrogen Bank auctions, to better account for these location-specific demand-side patterns could improve their effectiveness.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "12594ac8cb6043bb",
+    "title": "Spatially informed demand-side policies for green hydrogen diffusion in Europe",
+    "link": "https://www.nature.com/articles/s41560-026-02126-2",
+    "content": "<p>Nature Energy, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s41560-026-02126-2\">doi:10.1038/s41560-026-02126-2</a></p>EU green hydrogen policies could be more effective if they accounted for spatial spillovers. These spillovers are a primary driver of diffusion, and spatially informed demand-side policies could improve cost-effectiveness by up to 41%.",
+    "journal": "Nature Energy"
+  },
+  {
+    "id": "1326110396e904e5",
+    "title": "Non-flammable Asymmetric Electrolyte Design for High-Voltage Lithium-Ion Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006690?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 17 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Boyu Xing, Zibing Pi, Xinyue Yao, Qian Liu, Xue Liu, Xinfei Wu, Zhaohui Deng, Hongwei Cai, Wencong Feng, Wen Luo</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "abc7155bd1f79366",
+    "title": "Sequentially segment-based identification of key parameters and effective reconstruction of electrochemical impedance spectroscopy for lithium-ion batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006719?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ying Kung, Cheng-Hsi Tien, Yi-An Chen, Chi-Jyun Ko, Kuo-Ching Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5222d28b1e937d31",
+    "title": "Electric Double Layer Reconstruction via Dielectric-Response-Driven Dynamic Adsorption Enables Ultralow-Overpotential Long-Life Zn Anodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006707?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Ziyou Zhong, Ke Huang, Gongzheng Yang, Chengxin Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "c6222aaaaa01691e",
+    "title": "Orbital Hybridization Engineering Stabilizes Sulfate Cathodes by Strengthening Fe\u2013O Covalency and Suppressing Fe Migration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006720?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Guoli Xu, Fan Peng, Youqi Chu, Hao Wang, Shaowei Kang, Xiaoyu Liu, Anjie Lai, Shunchao Wang, Qimeng Zhang, Chenghao Yang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "e3103c7d36c46ddd",
+    "title": "Polarization-Sensitive NbOI<sub>2</sub> p\u2013n Homojunction Photodetector Modulated by Ferroelectric Domains in Periodically Poled Lithium Niobate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007226?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 17 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Wei Qi, Yushuo Zhi, Wenbo Peng, Hao Chen, Fangqi Cheng, Tao Wang, Haiwu Zheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "680b003478803a8b",
+    "title": "Symbiotic Bioelectronics: Toward Energy\u2011Autonomous, Bioabsorbable, and Closed\u2011Loop Therapeutic Systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007147?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Chunlin Liu, Yukun Mao, Kunyang Fan, Yu Chen, Xulin Hu, Zhou Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "e8a129f434b1b712",
+    "title": "Machine learning-based force and activity recognition in total knee replacement using hybrid triboelectric/piezoelectric PVDF sensors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007044?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Mahmood Chahari, Emre Salman, Milutin Stanacevic, Ryan Willing, Shahrzad Towfighian</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "b54593580f6cc699",
+    "title": "Dielectric-Enhanced Mixed Ionic-Electronic Conductor Heterointerfaces for Solid-State Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600724X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Huinan Lin, Jianming Tao, Fuqiang Dong, Gaurav Pandey, Zhicong Liu, Zhifa Zhang, Sanjay Mathur, Yingbin Lin</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ff65bc0459e6263b",
+    "title": "Vacancies Modulation in CuS by Ga<sup>3+</sup> Doping for Hole-Selective Crystalline Silicon Heterojunction Solar Cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007160?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 16 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hang Zhou, Jianqiao Wang, Penghui Ren, Yuchao Wang, Kaishun Dong, Xiaoping Wu, Ping Lin, Lingbo Xu, Tiantian Liu, Shan-Ting Zhang, Xuegong Yu, Can Cui, Dongdong Li, Peng Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "cca67b1e414a3194",
+    "title": "Single\u2010Source Lithium Phosphate Precursor Engineering for Sustainable and Supply\u2010Chain\u2010Resilient Lithium Iron Phosphate Cathodes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71028?af=R",
+    "content": "ABSTRACT\nSynthesis of lithium iron phosphate (LiFePO4, LFP), a dominant cathode material for lithium\u2010ion batteries, typically relies on multi\u2010precursor systems involving phosphoric acid, whose production is sulfuric\u2010acid\u2010intensive and associated with environmental burden and supply\u2010chain volatility. Here, a greener single\u2010source method is introduced using lithium phosphate (Li3PO4, LPO) as the sole Li\u2010P precursor for hydrothermal LFP synthesis. Because LPO remains largely solid during hydrothermal processing, its physical characteristics directly influence LFP formation. Mechanistic analysis shows that the smaller particle size, finer crystallite structure and reduced agglomeration of self\u2010synthesized LPO (Self\u2010LPO) shorten diffusion distances and improve solid\u2010liquid interfacial accessibility, promoting more homogeneous conversion, nucleation and crystal growth while limiting coalescence and lattice distortion during subsequent calcination. Consequently, LFP@C\u2010Self\u2010LPO delivers 150.9\u00a0mAh g\u22121 at 0.1 C and 89% capacity retention after 500 cycles at 5 C. A Si || LFP@C\u2010Self\u2010LPO full cell further achieves an initial energy density of 364\u00a0Wh kg\u22121 at 1 C. By linking single\u2010source precursor design with reaction\u2010structure evolution, electrochemical performance and supply\u2010chain considerations, this method provides a simplified and more sustainable framework for LFP cathode manufacturing, with reduced chemical handling and compatibility with emerging LPO\u2010recycling pathways.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "4eaea478c0961771",
+    "title": "Single\u2010Vesicle Functional Nanophenotyping Reveals Heterogeneous PD\u2010L1 Accessibility in Triple\u2010Negative Breast Cancer",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71041?af=R",
+    "content": "Graphical Abstract. High\u2010speed atomic force microscopy enables real\u2010time, label\u2010free visualization of antibody interactions with individual extracellular vesicles. By quantifying binding frequency and dwell time, this approach reveals functional PD\u2010L1 accessibility that cannot be inferred from protein abundance alone, uncovering nanoscale heterogeneity among breast cancer\u2010derived vesicles and establishing a platform for single\u2010vesicle functional nanophenotyping.\n\n\n\n\n\n\n\n\nABSTRACT\nThe functional accessibility of membrane proteins is a fundamental determinant of biological activity but cannot be accurately inferred from protein abundance alone. Current extracellular vesicle (EV) analyses primarily quantify expression levels, providing limited information on whether surface ligands are physically accessible for molecular interactions. Here, we establish high\u2010speed atomic force microscopy (HS\u2010AFM) as a label\u2010free, real\u2010time approach for directly visualizing and quantifying ligand accessibility on individual small extracellular vesicles (sEVs) under near\u2010physiological conditions. Using programmed death\u2010ligand 1 (PD\u2010L1) as a model immune checkpoint, we characterize antibody binding dynamics on sEVs derived from luminal breast cancer cells, triple\u2010negative breast cancer (TNBC) cells, and patient\u2010derived TNBC cells. PD\u2010L1\u2010high TNBC sEVs exhibit frequent, stable antibody docking with prolonged dwell times, whereas PD\u2010L1\u2010low luminal sEVs display predominantly transient interactions despite detectable PD\u2010L1 expression. Patient\u2010derived sEVs show intermediate binding dynamics, revealing functional heterogeneity that is not captured by bulk protein measurements. By integrating binding frequency and interaction dwell time, we establish a quantitative framework for nanoscale functional phenotyping of individual vesicles. These findings identify ligand accessibility as a distinct biophysical property complementary to protein abundance and establish HS\u2010AFM as a platform for investigating membrane protein function at single\u2010vesicle resolution.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "597481e0c12ddfdd",
+    "title": "Accurate (n,m) Assignment of Single\u2010Walled Carbon Nanotubes From Electron Diffraction Patterns Via Local Candidate Search and Self\u2010Consistency Correction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71039?af=R",
+    "content": "A practical workflow combining local candidate search, overlap\u2010ratio ranking, and self\u2010consistency correction enables reliable chirality assignment of single\u2010walled carbon nanotubes (SWCNTs) from nanobeam electron diffraction. Semiautomated analysis increases exact (n,m) assignment accuracy from 71.6% to 97.7% across 2394 simulated patterns, while supporting more reproducible evaluation of SWCNT structural distributions without data\u2010driven model training or instrument calibration.\n\n\n\n\n\n\n\n\nABSTRACT\nThe chirality (n,m) of single\u2010walled carbon nanotubes (SWCNTs) critically governs their properties and growth behavior, yet reliable assignment from nanobeam electron diffraction (NBED) remains challenging because of analyst\u2010dependent procedures, manual measurement errors, and nanotube tilt relative to the incident electron beam. Here, a practical and interpretable chirality\u2010assignment protocol is developed by extending a calibration\u2010free diffraction\u2010analysis framework with local candidate search and self\u2010consistency\u2010based cross\u2010check correction. Feature extraction and candidate screening are semiautomated using an ImageJ script and an Excel VBA macro to improve efficiency and reproducibility. The protocol is evaluated using 2394 simulated NBED images spanning diameters of 0.48\u20132.3\u00a0nm, chiral angles of 0\u00b0\u201330\u00b0, and tilt angles of 0.5\u00b0\u201316.5\u00b0. The exact assignment accuracy increases from 71.6% with conventional TRUNC\u2010based analysis to 97.7% with the proposed protocol, while errors in the mean diameter, mean chiral angle, and metallic SWCNT fraction are substantially reduced. The improvement is mainly enabled by the newly introduced overlap ratio, which serves as the primary criterion for final candidate ranking. This error\u2010resilient workflow provides a reproducible route for extracting reliable structural information from experimentally imperfect diffraction patterns without requiring instrument calibration or data\u2010driven model training.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "2001f27020653f94",
+    "title": "Gold\u2010Modified Mesoporous Carbon Enables Serum Metabolic Fingerprinting for Papillary Thyroid Carcinoma Diagnosis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71048?af=R",
+    "content": "A novel MCHS\u2011Au\u2011LA substrate is developed for carbon\u2011gold nanostructure\u2010initiator mass spectrometry (C\u2011Au\u2011NIMS), which acquires\u00a0metabolic fingerprints of serum samples from papillary thyroid carcinoma (PTC), benign thyroid nodules (BTN), and healthy controls (HC). Combined with machine\u2011learning algorithms, this platform enables non\u2011invasive differentiation of thyroid\u2011related clinical participants, offering a rapid strategy for auxiliary thyroid disease diagnosis.\n\n\n\n\n\n\n\n\nABSTRACT\nPapillary thyroid carcinoma (PTC) is the most common thyroid malignancy, and early diagnosis is critical for timely intervention and improved therapeutic outcomes. However, convenient and accurate PTC diagnosis is challenging due to the lack of reliable biomarkers. Herein, mesoporous carbon hollow spheres (MCHS) modified with gold nanoparticles and lauric acid (MCHS\u2010Au\u2010LA) are developed as a novel substrate to enable carbon nanostructure initiator mass spectrometry (MS) based sensitive metabolic profiling for PTC diagnosis. The designed carbon nanostructure incorporated with gold nanoparticles enhances both analyte ionization and desorption, thus significantly improving metabolite detection sensitivity. This platform has been applied to generate serum metabolic fingerprints (SMFs) from 131 PTC patients, 79 individuals with benign thyroid nodules (BTN), and 71 healthy controls (HC). Machine learning analysis of SMFs has revealed strong diagnostic performance with area\u2010under\u2010the\u2010curve (AUC) values of 0.896\u20130.937. Moreover, a seven\u2010metabolite biomarker panel is identified for differentiating PTC from controls, providing a reliable approach for early PTC diagnosis and outperforming conventional serum indicators such as thyroglobulin and thyroid\u2010stimulating hormone (TSH). This study provides a convenient and precise diagnostic tool that can be applied in other clinical applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "bb5d988cb685e272",
+    "title": "Stimulus\u2010Responsive Nanozymes for Mitochondria\u2010Targeted Therapy: Design, Mechanisms, and Biomedical Applications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71046?af=R",
+    "content": "This review presents a paradigm integrating mitochondria\u2010targeting, stimuli\u2010responsive nanozymes, and pathological cues, wherein the mitochondrial microenvironment serves as dual\u2010function signals for both navigation and activation, enabling spatiotemporally controlled catalysis. It systematically examines design strategies, regulatory mechanisms, and therapeutic applications across major diseases, and establishes a cross\u2010scale effect chain from mitochondrial events to immunomodulation, offering a framework for intelligent nanotherapeutics.\n\n\n\n\n\n\n\n\nABSTRACT\nMitochondrial dysfunction represents a common pathological hub in tumors, neurodegenerative diseases, cardiovascular diseases, and inflammatory degenerative diseases. Nanozymes offer new opportunities for precision intervention. However, inadequate targeting and uncontrollable activity remain major obstacles to their clinical translation. This review proposes a \u201ctrinity\u201d synergistic design paradigm, which exploits pathological mitochondrial signals as dual\u2010functional cues for both subcellular navigation and catalytic activation, thereby achieving temporal coupling of \u201ctargeting enrichment\u201d and \u201cresponsive activation.\u201d Within this framework, we first summarize the three major categories of nanozyme material systems and their mitochondrial targeting strategies. Subsequently, we systematically analyze the structural design and activation mechanisms of endogenous, exogenous, and multi\u2010stimulus synergistic responsive nanozymes. We also establish a cross\u2010scale effect chain model that cascades from catalytic events to mitochondrial metabolic remodeling, programmed cell death, and immune regulation. On this basis, we comprehensively review the therapeutic applications of these nanozymes in oncology, neurological disorders, cardiovascular diseases, and inflammatory degenerative diseases. Finally, we analyze the critical challenges confronting this field and provide perspectives on future directions, with the aim of offering theoretical references and research ideas for the development of mitochondria\u2010targeted intelligent nanomedicines.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "9a332f31bbe4e799",
+    "title": "Peptide Fingerprinting of Single Protein Molecules Using In\u2010Plane Nanopore Sensors Integrated to an Extended Immobilized Nanoscale Enzymatic Reactor (eINER)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71044?af=R",
+    "content": "The protein Time\u2010of\u2010Flight (P\u2010ToF) chip can peptide fingerprint a single protein molecule by subjecting it to a solid phase endopeptidase cleavage reaction in\u2010line with a combination of resistive pulse sensing of the resulting single peptides and machine\u2010learning aided identification.\n\n\n\n\n\n\n\n\nABSTRACT\nWe report a thermoplastic nanofluidic device that combines an extended immobilized nanoscale enzymatic reactor (eINER) with a dual in\u2010plane nanopore time\u2010of\u2010flight (DNP\u2010ToF) reader for label\u2010free peptide fingerprinting of single protein molecules. As opposed to traditional membrane\u2010based nanopores, the DNP\u2010ToF reader uses two sub\u201010\u00a0nm pores placed in series and are made from plastic to allow securing the resistive pulse sensing (RPS) independent ToF variable as well as the traditional RPS variables. The device enables on\u2010chip proteolytic digestion with downstream identification of peptide fragments. Using amyloid\u2010\u03b2 (A\u03b2) as a model system, we demonstrate efficient digestion under nanoscale confinement consistent with a reaction\u2010limited regime and convection\u2010dominated transport. The device achieved robust event detection with >95% successful pairing of dual nanopore RPS signals enabling extraction of five key features (\u0394I1/I0, \u0394I2/I0, tD1, tD2, and ToF) from individual peptide events. Machine learning provided high\u2010confidence peptide identification with a random forest (RF) classifier achieving 100% accuracy and a cross\u2010validated accuracy of 99.6%\u00a0\u00b1\u00a00.9%. Digestion efficiency was tunable through occupancy\u2010controlled conditions with RF\u2010assigned intact A\u03b2 events decreasing from \u223c9.5% at 1\u00a0nM to \u223c0.33% at 100 pM. These results establish a scalable, high\u2010sensitivity platform for integrated single molecule analysis to secure proteomic data from mass\u2010limited samples.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
