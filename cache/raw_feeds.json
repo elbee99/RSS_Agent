@@ -2651,5 +2651,495 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71051?af=R",
     "content": "Polydopamine\u2010mediated interfacial regulation creates a favorable interfacial microenvironment, promotes Pt anchoring, and reinforces the PDI\u2010COOH supramolecular framework. In particular, PDA\u2010induced interfacial polarization modulates photogenerated\u2010carrier dynamics and improves charge utilization. Together, these functions establish PDA as an active interfacial regulator rather than a passive coating, enabling a 3.5\u2010fold enhancement in hydrogen evolution.\n\n\n\n\n\n\n\n\nABSTRACT\nEfficient and durable hydrogen evolution with PDI\u2010based organic supramolecular photocatalysts remains limited by insufficient surface\u2010active sites, structural instability and inefficient charge utilization. Here, we design a bioinspired polydopamine (PDA)\u2010mediated interface to construct a PDA\u2010coated PDI\u2010COOH (PDI\u2010COOH@PDA) photocatalyst. The optimized Pt/PDI\u2010COOH@PDA achieves a hydrogen evolution rate of 18.8\u00a0mmol\u00a0g\u22121\u00a0h\u22121 and an apparent quantum yield (AQY) of 2.1% at 420\u00a0nm, representing a 3.5\u2010fold enhancement over Pt/PDI\u2010COOH. Rather than acting as a passive coating, PDA functions as an active interfacial regulator by creating a favorable interfacial reaction microenvironment, anchoring the Pt cocatalyst, and stabilizing the supramolecular framework. The hydrophilic PDA surface promotes water enrichment, while PDA\u2010induced interfacial polarization regulates photogenerated charge dynamics, favoring charge separation and utilization. Meanwhile, the catechol and amino groups of PDA facilitate Pt anchoring, and hydrogen bonding and \u03c0\u2013\u03c0 stacking interactions between PDA and PDI\u2010COOH reinforce the supramolecular framework. These coupled effects enable efficient and durable hydrogen evolution, highlighting PDA\u2010mediated interfacial engineering as an effective strategy for advancing PDI\u2010based supramolecular photocatalysts.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "aaa4317e4c1f1533",
+    "title": "Programming Structural Disorder in MOFs for a Stable Bifunctional Water\u2010Splitting Electrocatalyst",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71632?af=R",
+    "content": "Introducing structural disorder into a highly active metal\u2013organic framework enhances its stability. This improvement arises from the mitigation of destructive reconstruction during activation, thereby maintaining structural integrity and enabling long\u2010term durability. As a result, the electrocatalyst delivers stable operation for up to 1500\u00a0h at 1 A cm\u22122, a performance level that remains challenging for most MOF electrocatalysts.\n\n\n\n\n\n\n\n\nABSTRACT\nFor practical water electrolysis, electrocatalysts must deliver both high activity and stability. Metal\u2013organic frameworks (MOFs) provide a programmable platform for constructing tailored active sites and coordination environments, offering considerable potential for high activity. However, MOF electrocatalysts typically undergo activation\u2010induced reconstruction, during which their ordered frameworks transform into disordered active states, generating reconstruction\u2010induced strain. Poor accommodation of this strain can lead to morphological collapse, metal\u2010site leaching, and ultimately compromised stability. To address these issues, we leveraged the programmability of MOFs to restrict the long\u2010range extension of their secondary building units, thereby pre\u2010introducing disorder into the framework to facilitate strain accommodation during reconstruction. Consequently, activation increased the electrochemically active surface area of the disordered structure, in contrast to the decrease observed for the ordered counterpart, suggesting that destructive reconstruction was effectively mitigated. The resulting active phase retained M\u2013O\u2013M bridging vibrational features even at 1.9\u00a0V (vs. RHE), whereas the corresponding features in the ordered MOF were markedly weakened at 1.4\u00a0V (vs. RHE), indicating better structural integrity after reconstruction. These advantages enabled stable operation for up to 500\u00a0h in an electrolyzer and 1500\u00a0h at 1 A cm\u22122 in a two\u2010electrode cell, demonstrating excellent durability for overall water splitting.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "608f57e1f6ebe819",
+    "title": "An Azacrown Electrolyte for High\u2010Performance Sodium\u2010Ion Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71631?af=R",
+    "content": "An azacrown was found to chelate Na+ via its cavity, thereby forming a compact disc\u2010like complex. This solvation structure not only affords superior Na+ transport properties but also facilitates the formation of an inorganic\u2010rich SEI on the anode surface. SIBs prepared with the azacrown\u2010based electrolyte exhibit outstanding performance metrics in all key device parameters for both half\u2010 and full\u2010cell configurations.\n\n\n\n\n\n\n\n\nABSTRACT\nSodium (Na)\u2010ion batteries (SIBs) are promising energy storage devices. However, they still do not exhibit satisfactory performance metrics largely because the relatively large ionic radius of Na+ results in unfavorable solvation structures. This work demonstrates that using an azacrown (i.e., 1,4,7,10,13\u2010pentamethyl\u20101,4,7,10,13\u2010pentaazacyclopentadecane, PMPAC) as a co\u2010solvent of the electrolyte can overcome the fundamental issues associated with SIBs. PMPAC features a cavity that not only matches the ionic radius of Na+ but chelates the metal ions as well. As a result, PMPAC effectively encapsulates Na+ and affords a disc\u2010like solvation complex with a relatively small solvation radius. These characteristics bestow the PMPAC\u2010based electrolytes with high ion conductivity and Na+ transference number, which promote battery operation by enabling Na to plate in a homogeneous manner. The PMPAC also prompts anions to locate in the inner sheath of the Na+ solvation structure such that inorganic\u2010rich solid\u2010electrolyte interphase layers with high structural integrity and low charge transfer resistance are formed at the anodes. SIBs that utilize PMPAC\u2010based electrolytes exhibit outstanding rate capacities (38 mAh g\u22121 at 100 C), along with ultralow capacity decay rates (0.0024% per cycle over 20\u00a0000 cycles for a half cell and 0.0062% per cycle over 10\u00a0000 cycles for a full cell).",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "ce473b7060ada1f4",
+    "title": "Dual Anchoring Effect Achieves Active and Ultrastable Oxygen Reduction Catalysis",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71606?af=R",
+    "content": "A dual anchoring effect promotes PtNiCo PNWs to achieve the high ORR and MEA performances for PEMFC device. This optimized Pr\u2010PtNiCo PNWs/ZnNC delivers the MA of 0.79\u00a0A\u00a0mgPt\u22121 and PPD of 2.33\u00a0W\u00a0cm\u22122, along with the remarkable MEA lifetime of 71.7% residual PPD even after 90\u00a0000 cycles, confirming its more active and ultrastable characters than commercial Pt/C. \n\n\n\n\n\n\n\n\nABSTRACT\nSuppressing the dissolution of transition metals in multi\u2010component platinum (Pt)\u2010based oxygen reduction reaction (ORR) catalysts is critical yet challenging for proton exchange membrane fuel cell (PEMFC). Herein, we employ a dual anchoring strategy of rare earth (RE) surface stabilization and metal\u2010nitrogen\u2010carbon (MNC) interaction with porous Pt\u2010nickel\u2010cobalt nanowires (PtNiCo PNWs) to achieve satisfactory ORR and membrane electrode assembly (MEA) performances. The single site and cluster of praseodymium (Pr) tune the Pt electronic structure and protect the Ni/Co sites from dissolution, while zinc\u2010N\u2010C (ZnNC) provides extra active sites and stronger anchoring effect, yielding 9.0/9.5 times higher than those of commercial Pt/C in ORR mass and specific activities. Furthermore, the MEA exhibits high peak power density of 2.33\u00a0W\u00a0cm\u22122, mass activity of 0.79\u00a0A\u00a0mgPt\u22121 at 0.9 ViR\u2010free and long\u2010term lifetime of operating 30000/90000 cycles with 8.2%/28.3% decay, further reflecting our reasonable design conception of Pt\u2010based ORR catalysts for PEMFC device.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "74aa112b369ebf5f",
+    "title": "Harnessing Endogenous Quinones to Orchestrate Water Dynamics and Electron Transfer at a Self\u2010Reinforcing Bio\u2010Abiotic Interface",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71618?af=R",
+    "content": "An electrode architecture designed with a nanoforest surface actively modulates endogenous quinone mediators, lowering their adsorption barrier and accelerating redox cycling. These mediators simultaneously reconfigure the interfacial hydrogen\u2010bond network, creating localized free\u2010water domains that minimize proton transport resistance. This closed\u2010loop synergy between charge transfer and water dynamics establishes a self\u2010reinforcing bio\u2010abiotic interface for efficient CO2\u2010to\u2010acetate conversion.\n\n\n\n\n\n\n\n\nABSTRACT\nThe bio\u2010abiotic interface is the central bottleneck in bioelectrochemical CO2 conversion, where electron and mass transport are governed by an intricate interplay among the electrode, microbial mediators, and interfacial water. Here we show that endogenous quinone mediators serve two coupled roles: shuttling electrons and reconfiguring the interfacial hydrogen\u2011bond network. Using a CoP nanoparticle\u2010decorated carbon nanoforest electrode that actively modulates these mediators, we find that the nanoforest surface lowers the adsorption barrier for quinones, accelerating their redox cycling and reducing overpotential for electron injection. Molecular dynamics simulations further reveal that these quinones disrupt the rigid hydrogen\u2011bond network, creating a localized free\u2011water zone that minimizes proton transport resistance. The interplay of this accelerated redox cycling and water restructuring generates a self\u2010reinforcing synergy, reflected by a ten\u2010fold drop in charge\u2011transfer resistance at 2.5\u00a0V vs. bare carbon felt and a Faradaic efficiency of 89.8% for acetate. This closed\u2011loop regulation, where material chemistry programs mediator behavior and mediators orchestrate both water dynamics and electron flux, offers a paradigm for engineering bio\u2011abiotic interface beyond empirical optimization.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "f3bd089bcd1141ab",
+    "title": "Programming Interfacial\nFunction through Alternating\nSequence in Amphiphilic Copolymers",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10701/5435892/Programming-Interfacial-Function-through",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Control over monomer\nsequence in synthetic polymers remains\na fundamental\nchallenge, particularly for amphiphilic systems where spatial organization\ngoverns interfacial function. While recent advances have enabled alternating\ncopolymer formation in select vinyl systems, translation of these\nstrategies to functional amphiphilic polymers has remained largely\nunexplored. Here, we report a transformable bulky-monomer strategy\nthat extends alternating copolymerization to methacrylamide\u2013acrylate\nsystems and enables the synthesis of cationic alternating copolymers\nwith well-defined amphiphilic sequences. Post-polymerization modification\naffords polymers in which hydrophobic and charged units are uniformly\ndistributed along the backbone, allowing direct comparison with composition-matched\ngradient or random analogues. Comparative experimental analysis reveals\nthat sequence dictates interfacial behavior: the alternating architecture\npromotes more efficient engagement with lipopolysaccharide-rich membranes,\nleading to enhanced outer-membrane permeabilization, reduced hemolytic\nactivity, and improved antibiotic potentiation. Molecular dynamics\nsimulations provide a mechanistic basis for these observations by\nshowing that alternating chains adsorb more favorably to the <span style=\"font-style: italic;\">Escherichia coli</span> outer membrane, adopt a curled conformation\nwith extended cationic side chains more evenly exposed toward negatively\ncharged LPS motifs, and maintain greater hydration during membrane\ninsertion. Potential-of-mean-force and interaction energy analyses\nfurther indicate that the alternating sequence lowers the free-energy\nand dehydration penalties associated with productive membrane engagement\nrelative to a gradient or random architecture. Together, the experimental\nand computational results support a model in which sequence-defined\nspatial organization controls chain conformation, hydration, interfacial\nenergy landscapes, and membrane disruption thresholds. This work establishes\nalternating sequence as a programmable design parameter in amphiphilic\npolymers and expands sequence-controlled polymer chemistry to biologically\nrelevant interfacial systems.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "0819b013b1690004",
+    "title": "Diastereodivergent\nAccess to  cis , cis - and  cis , trans -Angular\nTriquinanes: Total Synthesis of (\u00b1)-Arnicenone",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09019/5435696/Diastereodivergent-Access-to-cis-cis-and-cis-trans",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Angular triquinanes constitute an important class of\npolycyclic\nnatural products characterized by compact, angularly fused ring systems\nand multiple contiguous stereocenters. Herein, we report a diastereodivergent\nstrategy for stereocontrolled access to both <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">trans</span>- and <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">cis</span>-angular\ntriquinanes from common allene precursors. The <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">trans</span>-fused triquinanes were constructed through\na Lewis acid-promoted intramolecular [3+2] Danheiser annulation, whereas\nthe complementary <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">cis</span> frameworks\nwere accessed via photochemical [2+2] cycloaddition followed by oxidative\nring expansion. Notably, substitution at the R<sup>1</sup> position\nof the allene precursor reversed the diastereoselectivity of the [3+2]\nannulation, providing direct access to a <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">cis</span>-angular triquinane. DFT calculations indicate that the\ninitial spirocyclization governs both the reactivity and stereochemical\noutcome of the [3+2] pathway, with substrate-dependent steric interactions\naccounting for the observed diastereodivergence. The synthetic utility\nof this strategy was demonstrated through the total synthesis of (\u00b1)-arnicenone\nvia the [2+2] cycloaddition/oxidative ring-expansion pathway, while\nan alternative synthesis from the <span style=\"font-style: italic;\">cis</span>,<span style=\"font-style: italic;\">cis</span>-[3+2] Danheiser annulation product further highlights the complementary\nnature of the two approaches. Together, these results establish a\nunified platform for stereodivergent access to angular triquinanes\nand their application to complex natural product synthesis.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "9ad4f9da3401afd9",
+    "title": "Selective\nC18-Methyl Oxidation of Sclareol via an\nEngineered P450 Enables the Synthesis of Spiromyrrhene B",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16907/5435690/Selective-C18-Methyl-Oxidation-of-Sclareol-via-an",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>While\nselective oxidation of unactivated C\u2013H bonds has emerged\nas an effective tactic to reshape retrosynthetic strategies in the\nsynthesis of natural products, the primary methyl C\u2013H bonds\nremain inert and inaccessible to contemporary methods without preinstalled\ndirecting groups. Herein, we report a biocatalytic C\u2013H oxidation\nstrategy that leverages an engineered P450<sub>BM3</sub> platform\nfor the selective C18-methyl hydroxylation of sclareol. Through five\nrounds of directed evolution, variant Ox18M3\u20133 was developed,\nelevating the regioselectivity from 4% to &gt;99% alongside a 2.2-fold\nincrease in catalytic activity. The site-specific enzymatic hydroxylation\nfacilitated the first synthesis of the complex heptacyclic tumor stemness\ninhibitor spiromyrrhene B in 10 steps (longest linear sequence) from\nsclareol, underscoring the benefits of merging precision biocatalysis\nwith classical synthesis to streamline access to bioactive natural\nproducts.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "1d55a4a599e089c5",
+    "title": "Millisecond Lifetime\nFree Carriers from Symmetry-Breaking\nCharge Separation in Morphology-Engineered Tetrachloroperylenediimide\nCrystals",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14913/5435660/Millisecond-Lifetime-Free-Carriers-from-Symmetry",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photodriven symmetry-breaking\ncharge separation (SB-CS)\nhas been\nproposed as a method for producing free charge carriers in organic\nelectronic materials because charge separation can occur with minimal\nphoton energy loss. The challenge in achieving this goal lies in minimizing\nthe rapid charge recombination of the initial charge transfer (CT)\nexciton to permit charge diffusion away from the site at which the\nCT exciton is created. Here, we leverage specific crystal packing\nmotifs elicited by hydrogen-bonding core-twisted 1,6,7,12-tetrachloroperylenediimide\nderivatives substituted at their imide nitrogen atoms with 2-(2-hydroxyethoxy)ethyl\nor 5-hydroxypentyl chains. Femtosecond transient absorption microscopy\nreveals that photoexcitation of these derivatives in single crystals\nresults in subpicosecond SB-CS. The initial CT exciton then separates\nto give mobile charge carriers that live for over 1 ms, as determined\nby time-resolved microwave conductivity. This investigation shows\nhow controlling crystal morphology and environment can generate high-energy\nfree charge carriers following SB-CS in solid-state organic materials.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "ae5af5f533eb4390",
+    "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "link": "https://www.nature.com/articles/s41586-026-11189-w",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11189-w\">doi:10.1038/s41586-026-11189-w</a></p>Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "journal": "Nature"
+  },
+  {
+    "id": "04e7151db75b0cfa",
+    "title": "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
+    "link": "https://www.nature.com/articles/s41586-026-11169-0",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11169-0\">doi:10.1038/s41586-026-11169-0</a></p>Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
+    "journal": "Nature"
+  },
+  {
+    "id": "b6668432bcbfcbe1",
+    "title": "Bank accounts reveal the fingerprints of abusive financial control",
+    "link": "https://www.nature.com/articles/d41586-026-03021-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03021-2\">doi:10.1038/d41586-026-03021-2</a></p>Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse \u2014 plus, how opposing forces within the Earth can alter the length of a day.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8e85e441238cfabc",
+    "title": "Competition heats up in the regenerative-medicine ranks",
+    "link": "https://www.nature.com/articles/d41586-026-02856-z",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02856-z\">doi:10.1038/d41586-026-02856-z</a></p>The United States leads, but China poses strong competition, according to the latest Nature Index data.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6f8c824ec385793c",
+    "title": "Huge hoard of metal bars hints at vast Iron Age trade",
+    "link": "https://www.nature.com/articles/d41586-026-02986-4",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02986-4\">doi:10.1038/d41586-026-02986-4</a></p>One-tonne cache of iron is the largest ever found \u2014 and enough to make roughly 500 swords.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4839ac49ee9798b1",
+    "title": "The gene-regulatory evolution of the human skeleton",
+    "link": "https://www.nature.com/articles/s41586-026-11053-x",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11053-x\">doi:10.1038/s41586-026-11053-x</a></p>Massively parallel reporter assays and human\u2013ape hybrid skeletal cells are used to study the evolution of human cis-regulatory elements (CREs), revealing how differences in CREs have shaped the composition of human skeletal tissue.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cdc69256d711019b",
+    "title": "The anthropogenic fingerprint on emerging infectious diseases",
+    "link": "https://www.nature.com/articles/s41586-026-11058-6",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11058-6\">doi:10.1038/s41586-026-11058-6</a></p>Emerging infectious disease outbreak risks are ubiquitous worldwide, and highest in landscapes where people, livestock and fragmented natural ecosystems coexist, but detection and data on outbreaks are currently limited by inequalities in healthcare access.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4cce24dbae3ebc4f",
+    "title": "Gravitational torque drives multidecadal variations in length of day",
+    "link": "https://www.nature.com/articles/s41586-026-10999-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10999-2\">doi:10.1038/s41586-026-10999-2</a></p>Multidecadal fluctuations in Earth\u2019s length of day are shown to be driven by gravitational torque and resisted by electromagnetic and topographic forces, improving our understanding of the material properties and dynamics of Earth\u2019s deep interior.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ba7cc3ea9c7c7aa4",
+    "title": "Single-nucleus transcriptome-wide association study of human brain disorders",
+    "link": "https://www.nature.com/articles/s41586-026-10836-6",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10836-6\">doi:10.1038/s41586-026-10836-6</a></p>Single-nucleus transcriptomics across diverse populations is used to explore how genetic risk for brain disorders affects specific cell types, revealing previously hidden gene\u2013trait associations and conserved, cell-type-specific mechanisms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4bb0129982bde42e",
+    "title": "Lu<sup>+</sup> optical frequency references with accuracy verified at the 19th digit",
+    "link": "https://www.nature.com/articles/s41586-026-11072-8",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11072-8\">doi:10.1038/s41586-026-11072-8</a></p>Two independent 176Lu+ single-ion optical clocks achieve fractional frequency uncertainties near 10\u221219 and agree at 5.7\u2009\u00d7\u200910\u221219, advancing precision timekeeping.",
+    "journal": "Nature"
+  },
+  {
+    "id": "17f0855a47dd13e3",
+    "title": "Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils",
+    "link": "https://www.nature.com/articles/s41586-026-11016-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11016-2\">doi:10.1038/s41586-026-11016-2</a></p>Nine-residue peptides can encode discrete interaction motifs that direct the formation of hexagonal pores, which hierarchically tile into laterally expandable multichannel nanofibrils with defined topology.",
+    "journal": "Nature"
+  },
+  {
+    "id": "956c6533e12df8ce",
+    "title": "Banking records reveal characteristics of financial abuse",
+    "link": "https://www.nature.com/articles/s41586-026-11049-7",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11049-7\">doi:10.1038/s41586-026-11049-7</a></p>An analysis of UK banking data reveals that people who reported being victim-survivors of financial abuse experience worse financial outcomes compared with a control group.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0b05476149afb250",
+    "title": "Hepatocytes promote liver metastasis of pancreatic cancer by providing serine",
+    "link": "https://www.nature.com/articles/s41586-026-11051-z",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11051-z\">doi:10.1038/s41586-026-11051-z</a></p>Metastatic pancreatic ductal adenocarcinoma (PDAC) in the liver that lack the enzyme necessary to synthesize serine can reprogram hepatocytes to produce this amino acid, thus promoting tumour growth and survival.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e81f70cc6b235ce6",
+    "title": "A design approach for bitopic kinase inhibitors",
+    "link": "https://www.nature.com/articles/s41586-026-11056-8",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11056-8\">doi:10.1038/s41586-026-11056-8</a></p>Detailed analyses of ligand choice, linkage vector and linker length enabled the development of bitopic inhibitors of ABL1 and EGFR kinases, including an ABL1 inhibitor with enhanced activity against resistance mutations and reduced off-target toxicity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "38ccd5decb34ed3e",
+    "title": "A methanogen hydrolase reveals the structure of archaeal peptidoglycan",
+    "link": "https://www.nature.com/articles/s41586-026-11028-y",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11028-y\">doi:10.1038/s41586-026-11028-y</a></p>ArmA from Methanobrevibacter smithii, a dominant member of the human gut microbiome, is identified and characterized as a glycosyl hydrolase specific for cleaving the cell wall of methanogens, revealing an unsuspected chemical structure of archaeal peptidoglycan that includes a previously unidentified sugar.",
+    "journal": "Nature"
+  },
+  {
+    "id": "62cb8d84659f4119",
+    "title": "Reference genomes and fossils revise bat family phylogeny and biogeography",
+    "link": "https://www.nature.com/articles/s41586-026-11007-3",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11007-3\">doi:10.1038/s41586-026-11007-3</a></p>An updated phylogeny of bats is presented, based on new genome assemblies and many ancient fossils and including all known bat families.",
+    "journal": "Nature"
+  },
+  {
+    "id": "888a7f072d74fdd0",
+    "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+    "link": "https://www.nature.com/articles/s41586-026-11054-w",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11054-w\">doi:10.1038/s41586-026-11054-w</a></p>Reactive astrocytes emerge as a primary consequence of TSC2 loss in tuberous sclerosis complex, implicating glial dysfunction as a primary driver of pathogenesis and highlighting the astrocytes as potential therapeutic targets for tuberous sclerosis complex-related neuropathology.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5b2dd64348c317c1",
+    "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion",
+    "link": "https://www.nature.com/articles/s41586-026-11059-5",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11059-5\">doi:10.1038/s41586-026-11059-5</a></p>ZMYND8 suppresses IL-2R\u2013STAT5 signalling by inhibiting p300-mediated transcriptional activation of Il2ra to enforce CD8+ T cell terminal exhaustion, and its deletion boosts effector-like states and markedly enhances antiviral and antitumour immunity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "22733f5e6a0d2699",
+    "title": "Anomalous metal and superconducting phases in rhombohedral graphene",
+    "link": "https://www.nature.com/articles/s41586-026-11033-1",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11033-1\">doi:10.1038/s41586-026-11033-1</a></p>Observations of rhombohedral graphene on a WSe2 substrate at varying temperature, magnetic field and current indicate the presence of regions of gate space with zero-resistance superconductivity alongside others with finite saturation resistance.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cadb0fb641c4f1d3",
+    "title": "Lifespan single-cell transcriptomic atlas of the human prefrontal cortex",
+    "link": "https://www.nature.com/articles/s41586-026-10271-7",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10271-7\">doi:10.1038/s41586-026-10271-7</a></p>The dorsolateral prefrontal cortex exhibits non-linear, cell-type-specific transcriptional trajectories characterized by dynamic remodelling during development, relative stability in midlife and selective molecular reactivation in late adulthood.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c0a410225539a17b",
+    "title": "Agricultural liming is a carbon sink in the Mississippi River Basin",
+    "link": "https://www.nature.com/articles/s41586-026-11040-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11040-2\">doi:10.1038/s41586-026-11040-2</a></p>Century-scale records of agricultural liming and anthropogenic acidity inputs for the Mississippi River Basin show that agricultural liming has acted as a net carbon sink over the past century.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6964c08e9de47fdd",
+    "title": "Stacking-induced direct band gap in CVD-grown 1H MoS<sub>2</sub> bilayers",
+    "link": "https://www.nature.com/articles/s41586-026-11069-3",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11069-3\">doi:10.1038/s41586-026-11069-3</a></p>Atomically aligned 1H bilayer MoS2 exhibits a direct band gap, enhanced excitonic emission and stronger valley polarization, establishing its potential for advanced optoelectronic and valleytronic applications.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cc52d73d50a0e8d6",
+    "title": "TRAM promotes Toll-like-receptor-free myddosome signal transduction",
+    "link": "https://www.nature.com/articles/s41586-026-11052-y",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11052-y\">doi:10.1038/s41586-026-11052-y</a></p>TRAM is a regulator of myddosome assembly through dissociating MyD88 from the TLR\u2013TIRAP complex to enable myddosome maturation and durable downstream signal transduction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "10e0983683bb032e",
+    "title": "Lsp2 links mTORC1 to TOP mRNA translation and lifespan in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41586-026-11029-x",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11029-x\">doi:10.1038/s41586-026-11029-x</a></p>In Drosophila, the protein Lsp2, which is induced by dietary essential amino acids, is a key physiological effector of mTORC1, and mutant flies that lack the Lsp2 gene exhibit reduced translation of TOP mRNAs and improved longevity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "62b0bdf88c661ff5",
+    "title": "Lsp2 links early-life diet to adult translation and lifespan in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41586-026-11031-3",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11031-3\">doi:10.1038/s41586-026-11031-3</a></p>Isotope tracing is used to determine the fate of larval dietary amino acids in adult flies, and identifies Lsp2 as a key regulator of translation and lifespan that forms the molecular basis of the effects of early-life protein restriction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4454316adbdcdf3a",
+    "title": "The lipidomic architecture of the mouse brain",
+    "link": "https://www.nature.com/articles/s41586-026-11050-0",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11050-0\">doi:10.1038/s41586-026-11050-0</a></p>A spatial lipidomic atlas of the mouse brain reveals more than 500 biochemical territories that mirror cell types and connectivity, capture oligodendrocyte heterogeneity and ventricular zonation, and are remodelled during pregnancy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f040fc8efc459e13",
+    "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders",
+    "link": "https://www.nature.com/articles/s41586-025-09573-z",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-025-09573-z\">doi:10.1038/s41586-025-09573-z</a></p>A population-scale single-cell transcriptomic atlas of the human dorsolateral prefrontal cortex provides a perspective of the transcriptomic landscape in neurodegenerative and neuropsychiatric disorders, and offers potential targets for therapeutic intervention.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9477c73226650ac7",
+    "title": "MMEJ repair of breaks at TA repeats maintains ecDNA and cancer fitness",
+    "link": "https://www.nature.com/articles/s41586-026-11048-8",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11048-8\">doi:10.1038/s41586-026-11048-8</a></p>Stability of extrachromosomal DNA (ecDNA) relies on microhomology-mediated end joining at fragile TA-rich sites, with FANCM suppressing break formation, suggesting that Pol\u03b8 disruption may destabilize ecDNA and sensitize ecDNA-driven tumours to therapeutic intervention.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4ed80f180372b0d5",
+    "title": "A quadruped robot designed to complete a marathon on a single battery charge",
+    "link": "https://www.nature.com/articles/s41586-026-11102-5",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11102-5\">doi:10.1038/s41586-026-11102-5</a></p>RAIBO2, an energy-efficient quadruped robot, completed a full marathon in 4\u2009hours, 19\u2009minutes and 52\u2009seconds on a single battery charge, achieving a total cost of transport of 0.25 that surpasses the human benchmark of 0.37.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d370a73dcbebae4c",
+    "title": "Neuronal detection of social actions directs collective escape behaviour",
+    "link": "https://www.nature.com/articles/s41586-026-11041-1",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11041-1\">doi:10.1038/s41586-026-11041-1</a></p>Collective escape in Danionella cerebrum arises from visual detection of rapid, biologically realistic motion of other fish, with midbrain and thalamic neurons encoding social offsets that enable fish to infer danger from others\u2019 behaviour.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cad34c656f80c746",
+    "title": "Organic two-dimensional van der Waals heterostructures",
+    "link": "https://www.nature.com/articles/s41586-026-11074-6",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11074-6\">doi:10.1038/s41586-026-11074-6</a></p>Sequential on-water-surface assembly enables layer-by-layer stacking of two-dimensional polymers to create both lattice-matched and controlled lattice-mismatched van der Waals heterostructures with defined lattice registry, stacking sequence and thickness.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d5895e74c6f2dd7e",
+    "title": "The mutational dynamics of the <i>Arabidopsis</i> centromeres",
+    "link": "https://www.nature.com/articles/s41586-026-11046-w",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11046-w\">doi:10.1038/s41586-026-11046-w</a></p>Centromeres in Arabidopsis thaliana evolve through frequent insertions and deletions of repeat units and increased rates of point mutations driven by homology-directed repair, a mutation spectrum that is sufficient to generate and maintain large homogenized tandem-repeat blocks.",
+    "journal": "Nature"
+  },
+  {
+    "id": "367dbb0ddec60a76",
+    "title": "Brain lipids are organized into zones \u2014 and reorganized during pregnancy",
+    "link": "https://www.nature.com/articles/d41586-026-02772-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02772-2\">doi:10.1038/d41586-026-02772-2</a></p>A map of fats across the whole mouse brain reveals a spatial architecture that differs from that seen in gene-expression and protein atlases.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d9449cce38dd5ba7",
+    "title": "Efficient yet stable large perovskite solar modules made using surface treatment",
+    "link": "https://www.nature.com/articles/d41586-026-02937-z",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02937-z\">doi:10.1038/d41586-026-02937-z</a></p>Non-uniformities in the layer of passivator molecules, which are used to fix defects and protect the surface of perovskite material in solar cells, can limit the durability of the resulting modules. Large modules treated instead with chemically stable lead carboxylate passivators were efficient, reliable and had a higher yield than did commercial silicon modules.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1a7d0cd2f5fb8cff",
+    "title": "Lack of female researchers and participants in regenerative-medicine research holds everyone back",
+    "link": "https://www.nature.com/articles/d41586-026-02857-y",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02857-y\">doi:10.1038/d41586-026-02857-y</a></p>The field will not reach its potential using data sets in which women and non-binary people are not fully represented.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f998f8e1d8bbd070",
+    "title": "Gravitational tug-of-war inside Earth is changing the length of our days",
+    "link": "https://www.nature.com/articles/d41586-026-03018-x",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03018-x\">doi:10.1038/d41586-026-03018-x</a></p>A battle of forces, driven by the motion of Earth\u2019s core, can explain small variations in the planet\u2019s rotation, study finds.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bb9690e8901ae947",
+    "title": "This weird form of boron is a million times more conductive than chemists expected",
+    "link": "https://www.nature.com/articles/d41586-026-03001-6",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03001-6\">doi:10.1038/d41586-026-03001-6</a></p>A boron phase prepared under pressure can be stretched.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7d28aa10ea5ffa95",
+    "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+    "link": "https://www.nature.com/articles/d41586-026-02949-9",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02949-9\">doi:10.1038/d41586-026-02949-9</a></p>An AI revolution is sweeping through education. But teachers who can convey the excitement of thinking and learning are irreplaceable.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cae603cf5f141ac2",
+    "title": "\u2018Remarkably encouraging\u2019: stem-cell treatments for autoimmune diseases enter new phase",
+    "link": "https://www.nature.com/articles/d41586-026-02855-0",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02855-0\">doi:10.1038/d41586-026-02855-0</a></p>Scientists are working to transform the body\u2019s most versatile cells into viable therapies, but the challenge of immunosuppression looms.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cc5d1f5a84192a55",
+    "title": "A plant that reproduces sexually but has clone-like offspring",
+    "link": "https://www.nature.com/articles/d41586-026-02789-7",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02789-7\">doi:10.1038/d41586-026-02789-7</a></p>The plant Rhynchospora tenuis has no exchange of DNA between parental chromosomes during the production of male and female sex cells. Even so, it still transmits chromosomes and retains sexual reproduction. This unusual system restores parental genetic variants, leading to clonal-like inheritance across generations despite sex-cell production and fertilization.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d7019950f7e44029",
+    "title": "Landmark map of human brain\u2019s gene activity holds clues to Alzheimer\u2019s disease and more",
+    "link": "https://www.nature.com/articles/d41586-026-02947-x",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02947-x\">doi:10.1038/d41586-026-02947-x</a></p>The atlas of gene expression in the prefrontal cortex was created using samples from almost 1,500 donors of all ages \u2014 from infants to centenarians.",
+    "journal": "Nature"
+  },
+  {
+    "id": "23a8ee2eb7c366ff",
+    "title": "How to stay smart in the age of AI: the science of critical thinking",
+    "link": "https://www.nature.com/articles/d41586-026-02930-6",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02930-6\">doi:10.1038/d41586-026-02930-6</a></p>There is growing concern that AI can blunt memory and reasoning. But science shows ways to keep the brain sharp.",
+    "journal": "Nature"
+  },
+  {
+    "id": "534818ee23006900",
+    "title": "Vast cellular gene-expression atlas could transform how scientists understand brain ageing and disease",
+    "link": "https://www.nature.com/articles/d41586-026-02770-4",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02770-4\">doi:10.1038/d41586-026-02770-4</a></p>Single-nucleus RNA sequencing captures molecular changes in the prefrontal cortex across the lifespan and in health and disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "78b3d4d7f5c828a4",
+    "title": "The human skeleton\u2019s unique adaptations relied on gene regulatory changes",
+    "link": "https://www.nature.com/articles/d41586-026-02775-z",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02775-z\">doi:10.1038/d41586-026-02775-z</a></p>Variants in genes involved in the production of extracellular matrix molecules could have enabled the skeletal adaptations that distinguish humans from other great apes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5874d75a760a50f0",
+    "title": "Gravitational forces inside Earth drag some decades out \u2014 and make others fly by",
+    "link": "https://www.nature.com/articles/d41586-026-02773-1",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02773-1\">doi:10.1038/d41586-026-02773-1</a></p>Variations in day length that occur on multidecadal timescales are caused by gravitational coupling between Earth\u2019s inner core and its solid mantle.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2c102d6b374b2209",
+    "title": "A guide to the Nature Index",
+    "link": "https://www.nature.com/articles/d41586-026-02858-x",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02858-x\">doi:10.1038/d41586-026-02858-x</a></p>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.",
+    "journal": "Nature"
+  },
+  {
+    "id": "acaade3b5a0b76d9",
+    "title": "How do I rekindle my motivation for earning my PhD?",
+    "link": "https://www.nature.com/articles/d41586-026-02563-9",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02563-9\">doi:10.1038/d41586-026-02563-9</a></p>An early-career researcher has hit a roadblock. Here\u2019s how they can persevere in their studies.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6be58fb34e0b39db",
+    "title": "Best clock ever: timekeeper based on lutetium atoms wows researchers",
+    "link": "https://www.nature.com/articles/d41586-026-03019-w",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03019-w\">doi:10.1038/d41586-026-03019-w</a></p>The device is a step towards redefining the second using a new generation of ultra-accurate timepieces.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3af06aa269892472",
+    "title": "A widespread agricultural practice is an unexpected CO<sub>2</sub> sink",
+    "link": "https://www.nature.com/articles/d41586-026-02646-7",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02646-7\">doi:10.1038/d41586-026-02646-7</a></p>\u2018Liming\u2019 to reduce soil acidity has long been considered a carbon dioxide source, but in North America\u2019s largest river basin, it has resulted in net capture of atmospheric carbon.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6c0ac43d4b693cbb",
+    "title": "Conifer trees can prosper half a world away from their usual home",
+    "link": "https://www.nature.com/articles/d41586-026-02771-3",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02771-3\">doi:10.1038/d41586-026-02771-3</a></p>Northern Hemisphere trees planted in the Southern Hemisphere can thrive, displaying increased stem growth and physiological signals linked to reduced stress.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bffb38cfcdc7f504",
+    "title": "Genome project opens the next chapter for studying bat evolution",
+    "link": "https://www.nature.com/articles/d41586-026-02637-8",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02637-8\">doi:10.1038/d41586-026-02637-8</a></p>A landmark collection of bat genomes reveals fresh clues about the evolution of one of the world\u2019s most unusual groups of mammals.",
+    "journal": "Nature"
+  },
+  {
+    "id": "76105b55fc23963c",
+    "title": "What is needed for regenerative medicine to flourish?",
+    "link": "https://www.nature.com/articles/d41586-026-02854-1",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02854-1\">doi:10.1038/d41586-026-02854-1</a></p>Although the field\u2019s breakthrough research has the potential to save lives, it requires a more in-depth and equitable foundation of research.",
+    "journal": "Nature"
+  },
+  {
+    "id": "99b3593a6cd05758",
+    "title": "Surprising protein links dietary restriction to increased lifespan in flies",
+    "link": "https://www.nature.com/articles/d41586-026-02774-0",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02774-0\">doi:10.1038/d41586-026-02774-0</a></p>A fruit-fly protein thought only to store amino acids in fact responds to nutritional deficiency in both development and adulthood, resulting in lifespan extension.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c17f01eddc15f081",
+    "title": "The courier",
+    "link": "https://www.nature.com/articles/d41586-026-02861-2",
+    "content": "<p>Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02861-2\">doi:10.1038/d41586-026-02861-2</a></p>A special delivery.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8bb8e2e64e1d09d7",
+    "title": "Non-bonding orbital programming enables ruthenium oxides for robust and economical proton exchange membrane water electrolysis",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00366-1?rss=yes",
+    "content": "Ruthenium oxides are promising low-cost anodes for proton exchange membrane water electrolysis but suffer from poor acidic stability. By eliminating non-bonding oxygen states and using oxygen charge as a descriptor, we show that Tb-B-RuO2 achieves high activity and 3,200-h durability in the test of the device, thereby offering a route toward scalable hydrogen production.",
+    "journal": "Joule"
+  },
+  {
+    "id": "f7b253676f456ddf",
+    "title": "Sodium-ion Batteries from Materials to Commercialization: An Industry Perspective on Manufacturing, Cost, Safety and Scale-up",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006823?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Muhammad Kashif Aslam, Syed Shoaib Ahmad Shah, Iftikhar Hussain, Liang Wang, Ali H. Al Marzouqi, Maowen Xu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "5a95b4c11037b312",
+    "title": "When Voltage Sensors Fail: Electrochemically Constrained Fault-Tolerant State Estimation for Flat-Plateau LFP Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006859?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Feng Guo, Luis D. Couto, Hamid Hamed, Khiem Trad, Dong Zhang, Ru Hong, Guangdi Hu, Mohammadhosein Safari</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "0a4175e61bb4dbbf",
+    "title": "Chemo-Mechanical Modeling of Crystallographic Anisotropy-Driven Intergranular Cracking in Realistic Ni-Rich Cathode Particles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006860?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zhiheng Yao, Ying Chen, Yiming Yao, Weiling Luan, Haofeng Chen</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "3c0c746084eefc78",
+    "title": "Cu-Doped\nMesoporous Coal Fly Ash for Ammonia-Free\nDenitration in Cement Kilns: Synergistic Catalytic Mechanism",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03531/5435949/Cu-Doped-Mesoporous-Coal-Fly-Ash-for-Ammonia-Free",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>This study proposes a novel strategy to achieve ammonia-free\ndirect\nNO decomposition in cement pyroprocessing by utilizing Cu-doped modified\ncoal fly ash (Cu-MCFA) as a consumable catalytic additive. This study\naims to clarify the synergistic effect between the Fe sites within\nMCFA and the supported Cu species toward direct NO decomposition.\nThe findings indicate that alkaline\u2013acid modification constructs\na mesoporous conduit and exposes intrinsic Fe<sup>3+</sup> active\nsites, while the introduction of Cu alters NO activation. Specifically,\nCu doping generates binuclear [Cu\u2013O\u2013Cu]<sup>2+</sup> dimers and abundant surface oxygen vacancies. These dimeric centers\nexecute the complete cleavage of the N\u2013O bond via a Langmuir\u2013Hinshelwood\nbimolecular coupling mechanism, achieving 89% NO conversion and 99%\nN<sub>2</sub> selectivity. In situ DRIFTS revealed that the undoped\nMCFA can form stable bidentate nitrates, the robust reducibility of\nCu sites drives rapid oxygen desorption and averts nitrate accumulation.\nFurthermore, while incomplete NO decomposition over unpromoted sites\nleads to massive N<sub>2</sub>O byproduct emissions, the Cu-driven\nredox cycle suppresses this pathway. Importantly, leveraging the compositional\nhomology between the CFA substrate and cement raw materials, the exhausted\ncatalyst seamlessly undergoes in situ calcination into cement clinker.\nThis research reveals the potential of utilizing industrial solid\nwaste for efficient denitration, providing a viable pathway for collaborative\nresource utilization in cement-kiln systems and other energy-intensive\nindustries.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "384593cb25d98425",
+    "title": "Solvation Chemistry and Interfacial Modulation by Zwitterionic 2\u2010Cyclohexylaminoethanesulfonic Acid for Highly Reversible Aqueous Zinc Batteries",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71057?af=R",
+    "content": "An amphoteric additive with steric hindrance effects and both amino and sulfonic acid groups has been developed. CHES synergistically regulates solvation chemistry and interfacial reactions while guiding Zn deposition along the (002) plane, achieving highly reversible aqueous zinc\u2010ion batteries with suppressed dendrite growth.\n\n\n\n\n\n\n\n\nABSTRACT\nThe practical application of aqueous zinc\u2010ion batteries (AZIBs) is hindered by Zn dendrite growth, water\u2010induced parasitic reactions, and interfacial instability at the Zn anode. Herein, we propose a multifunctional molecular engineering strategy by introducing 2\u2010cyclohexylaminoethanesulfonic acid (CHES), an amphiphilic electrolyte additive containing sulfonic acid, amino, and hydrophobic cyclohexyl groups, to regulate the Zn anode microenvironment. Experimental investigations and theoretical calculations reveal that CHES coordinates with Zn2+ to reconstruct the solvation structure, while its multifunctional groups reorganize the hydrogen\u2010bond network and reduce the reactivity of interfacial water, thereby suppressing hydrogen evolution and interfacial corrosion. Meanwhile, CHES molecules preferentially adsorb onto the Zn surface to form a stable molecular protective layer, which homogenizes Zn2+ flux, promotes uniform nucleation, and enables compact Zn deposition. The hydrophobic cyclohexyl moiety further provides steric shielding against water attack, enhancing interfacial stability. Consequently, Zn||Zn symmetric cells achieve stable cycling for over 3000\u00a0h at 2\u00a0mA\u00a0cm\u22122 and 1\u00a0mAh\u00a0cm\u22122. Moreover, Zn||NVO full cells retain 84% of their capacity after 3000 cycles at 5\u00a0A\u00a0g\u22121. This work highlights the importance of multi\u2010site molecular regulation in constructing durable Zn anodes and provides a versatile strategy for advanced aqueous zinc\u2010ion batteries.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "b4f189d79fffd905",
+    "title": "What Does SERS Measure in Nucleic Acids? An Interface\u2010Defined Perspective",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71055?af=R",
+    "content": "A hierarchical selection mechanism\u2014governing interfacial accessibility, adsorption configuration, conformational reorganization, and electromagnetic selection\u2014reveals that SERS primarily reports interface\u2010selected conformational ensembles (diverging from intrinsic solution\u2010phase structures), decoding the origin of spectral variability.\n\n\n\n\n\n\n\n\nABSTRACT\nSurface\u2010enhanced Raman scattering (SERS) has emerged as a powerful platform for nucleic acids analyses due to its ultrahigh sensitivity and intrinsic molecular specificity. However, unlike small\u2010molecule systems, SERS responses of nucleic acids remain highly variable and strongly dependent on experimental conditions, limiting structural interpretability and reproducibility. In this Review, we provide a unified perspective that reframes SERS of nucleic acids as an interface\u2010defined physicochemical process rather than a direct molecular fingerprinting technique. We systematically analyze how interfacial accessibility, adsorption configuration, conformational reorganization, and electromagnetic (EM) selection collectively govern spectral formation through a hierarchical selection mechanism. On this basis, we propose that SERS spectra predominantly encode ensembles of interface\u2010selected conformations, which generally diverge from intrinsic solution\u2010phase structures, thereby explaining the widespread inconsistencies observed across different studies. This framework establishes a conceptual foundation for transforming SERS of nucleic acids from an empirical sensing approach into a controllable and predictive platform for structural analysis and biosensing applications.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "e4340bd776ad210e",
+    "title": "Overcoming Steric Hindrance for Precise Multiplexed Protein Profiling of Single Extracellular Vesicles",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71053?af=R",
+    "content": "We systematically deconstruct steric hindrance in multiplexed EV labeling via nano\u2010flow cytometry to identify compact dyes and nanobodies as optimal probes. This enables nanoscale mapping of membrane protein topography and a clinical diagnostic assay with 90.0% accuracy for breast cancer via dual\u2010nanobody profiling.\n\n\n\n\n\n\n\n\nABSTRACT\nMultiplexed protein profiling of single extracellular vesicles (EVs) is crucial for precise liquid biopsy but is severely limited by steric hindrance arising from bulky detection probes. This study systematically deconstructs the sources and consequences of this limitation using high\u2010sensitivity nano\u2010flow cytometry (nFCM), revealing how the spatial footprint of antibody\u2010fluorophore conjugates fundamentally compromises co\u2010detection fidelity. To overcome this, we developed a sterically optimized framework through the sequential minimization of the spatial footprint of detection elements: first, by replacing large fluorophores with compact organic dyes and, most effectively, by employing nanobodies. This approach significantly enhanced the detection of dual\u2010protein\u2010positive EV subpopulations by mitigating mutual steric interference. Notably, the persistent labeling limitation observed for closely apposed protein pairs, such as CD9/CD63, was repurposed as a sensitive probe for inferring nanoscale membrane topography. Clinically, simultaneous dual\u2010nanobody detection of PD\u2010L1 and CD47 on plasma\u2010derived EVs achieved an overall accuracy of 90.0% for breast cancer diagnosis. This work establishes a generalizable framework for accurate, multiplexed EV profiling in clinical diagnostics.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
