@@ -3141,5 +3141,432 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71053?af=R",
     "content": "We systematically deconstruct steric hindrance in multiplexed EV labeling via nano\u2010flow cytometry to identify compact dyes and nanobodies as optimal probes. This enables nanoscale mapping of membrane protein topography and a clinical diagnostic assay with 90.0% accuracy for breast cancer via dual\u2010nanobody profiling.\n\n\n\n\n\n\n\n\nABSTRACT\nMultiplexed protein profiling of single extracellular vesicles (EVs) is crucial for precise liquid biopsy but is severely limited by steric hindrance arising from bulky detection probes. This study systematically deconstructs the sources and consequences of this limitation using high\u2010sensitivity nano\u2010flow cytometry (nFCM), revealing how the spatial footprint of antibody\u2010fluorophore conjugates fundamentally compromises co\u2010detection fidelity. To overcome this, we developed a sterically optimized framework through the sequential minimization of the spatial footprint of detection elements: first, by replacing large fluorophores with compact organic dyes and, most effectively, by employing nanobodies. This approach significantly enhanced the detection of dual\u2010protein\u2010positive EV subpopulations by mitigating mutual steric interference. Notably, the persistent labeling limitation observed for closely apposed protein pairs, such as CD9/CD63, was repurposed as a sensitive probe for inferring nanoscale membrane topography. Clinically, simultaneous dual\u2010nanobody detection of PD\u2010L1 and CD47 on plasma\u2010derived EVs achieved an overall accuracy of 90.0% for breast cancer diagnosis. This work establishes a generalizable framework for accurate, multiplexed EV profiling in clinical diagnostics.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "6d09ebad8a58f51a",
+    "title": "Issue Information",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71478?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "eeebadb60c8a06aa",
+    "title": "Aqueous Synthesis of Na3\u20102xSb1\u2010xWxS4\u2010xIx Chalcogenide Solid\u2010State Electrolytes With Ultrahigh Ionic Conductivity (Adv. Energy Mater. 36/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71477?af=R",
+    "content": "Solid\u2010State Batteries\nIn article number e71294, Chengwei Gao, Yuanzheng Yue, Changgui Lin, and co\u2010workers present a highly conductive chalcogenide solid\u2010state electrolyte (SSE) synthesized via aqueous strategy. Unexpectedly, oxygen rather than moisture is identified as the dominant factor driving the chemical degradation, owing to a higher oxidation potential and lower decomposition barrier of SSEs. This work provides a scalable strategy for advancing high\u2010performance all\u2010solid\u2010state sodium batteries.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "4f15cd4629bd67f7",
+    "title": "Direct Hydrogen Storage From Water to Diphenylmethane via Liquid Organic Hydrogen Carrier Electrochemical Hydrogenation System (Adv. Energy Mater. 36/2026)",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71498?af=R",
+    "content": "Hydrogen Storage\nIn article number e71322, Jong Hyun Jang, Hyung\u2010Kyu Lim, Seung\u2010Ho Yu, Hee\u2010Young Park, and co\u2010workers demonstrate, for the first time, an electrochemical hydrogenation system for direct hydrogen storage from water to diphenylmethane. The practically relevant full\u2010cell couples diphenylmethane hydrogenation with water oxidation at a proton\u2010exchange\u2010membrane water\u2010electrolyzer\u2010type anode, integrating hydrogen production and storage within a single electrochemical process.",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "0eef438e7554d9b1",
+    "title": "Correction to \u201cSelective Charge Extraction Allows Fast Photomultiplication and Imaging in Rigid and Ultra\u2010Flexible SWIR Organic Photodiodes\u201d",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71562?af=R",
+    "content": "",
+    "journal": "Wiley: Advanced Energy Materials: Table of Contents"
+  },
+  {
+    "id": "753602c464468689",
+    "title": "Switchable Altermagnetism\nin a Layered van der Waals\nMetal\u2013Organic Framework Driven by Spin-Crossover",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15502/5437223/Switchable-Altermagnetism-in-a-Layered-van-der",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Dynamical control\nof altermagnetism is a key requirement\nfor translating\nits unique spin-dependent functionalities into practical spintronic\ndevices, yet effective switching mechanisms remain largely unexplored.\nHere, we open an unprecedented, versatile, and programmable route\nbased on spin-crossover to switch altermagnetism on demand in molecular\nmaterials. Using density functional theory calculations, we demonstrate\nan altermagnetic ground state in the layered van der Waals metal\u2013organic\nframeworks MnX<sub>2</sub>(tdz)<sub>2</sub> (X = Cl, Br; tdz = thiadiazole),\nstabilized by anisotropic interlayer exchange interactions, which\ngives rise to a characteristic d-wave momentum-space spin splitting\nand an associated spin-splitter transport response. Our findings reveal\nthat under hydrostatic pressure, a high-spin-to-low-spin transition\nreconfigures the Mn d-orbital occupation, thus modifying the magnetic\nexchange network and stabilizing a different antiferromagnetic ground\nstate whose symmetry suppresses the nonrelativistic spin splitting.\nCrucially, spin-crossover switches altermagnetism not by directly\naltering the electronic structure but by changing the symmetry of\nthe magnetic ground state. These results establish molecular spin-crossover\naltermagnets as a platform for externally reconfigurable spintronic\ndevices.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "8853d5cce1a77f7d",
+    "title": "Ligand-Mediated Control\nof Zn  x  Se  y   Intermediates\nfor Defect-Free\nZnSe Heteroepitaxy on Quantum Dots",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08553/5437222/Ligand-Mediated-Control-of-ZnxSey-Intermediates",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>ZnSe is a cornerstone shell material for enhancing the\nefficiency\nand stability of quantum dots (QDs). However, the chemical mechanisms\ngoverning detrimental zinc vacancy (V<sub>Zn</sub>) formation remain\nunclear, limiting the predictive synthesis of high-quality heterostructures.\nHerein, we demonstrate that rational manipulation of Zn<sub><span style=\"font-style: italic;\">x</span></sub>Se<sub><span style=\"font-style: italic;\">y</span></sub> intermediates via\nfree oleic acid (OA) effectively suppresses both V<sub>Zn</sub> and\nmorphological inhomogeneity in CdSe/ZnSe core/shell QDs. Under OA-deficient\nconditions, sluggish precursor conversion yields a broad distribution\nof Zn<sub><span style=\"font-style: italic;\">x</span></sub>Se<sub><span style=\"font-style: italic;\">y</span></sub> intermediates,\nincluding Zn-deficient heavy clusters like Zn<sub>2</sub>Se<sub>3</sub>(TOP), that lead to V<sub>Zn</sub> incorporation. Conversely, excess\nOA shifts the intermediate landscape toward Zn-rich light species\nand suppresses the shift of intermediates into oxidized forms. This\nintermediate-level control enables the growth of V<sub>Zn</sub>-free,\nmorphologically uniform ZnSe shells with near-unity photoluminescence\nquantum yield. Our findings establish intermediate stoichiometry as\na deterministic handle for the defect-free heteroepitaxy.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "1b1fcf7dd79cafff",
+    "title": "Beyond\nDirect Two-Electron Oxidation: High-Potential\nFormaldehyde Oxidation on Palladium Still Generates Hydrogen Atoms",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14579/5436970/Beyond-Direct-Two-Electron-Oxidation-High",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrochemical oxidation\nis typically regarded as incompatible\nwith hydrogen intermediate formation, particularly at highly positive\npotentials where surface hydrogen species are expected to be rapidly\noxidized. Formaldehyde oxidation reaction (FOR) on palladium represents\na prominent example: low-potential FOR has been associated with hydrogen\ngeneration, whereas high-potential FOR is commonly interpreted as\na direct two-electron oxidation to formate that bypasses hydrogen\nintermediates. Here we challenge this conventional view using a Janus\npalladium membrane electrode (J-Pd<sub>m</sub>) that spatially decouples\nhydrogen generation, absorption, permeation, and detection. By monitoring\nthe hydrogen oxidation reaction (HOR) current on the electrochemically\nisolated detection side of J-Pd<sub>m</sub>, we directly quantify\nhydrogen atoms generated during FOR under alkaline conditions. Unexpectedly,\npermeated hydrogen remains detectable over a broad FOR potential window\nup to 1.5 V vs RHE (reversible hydrogen electrode), demonstrating\nthat high-potential FOR on Pd is not a hydrogen-free oxidation process.\nCoulometric measurements confirm hydrogen uptake within the Pd lattice,\nwith H/Pd ratios reaching up to 0.57. Spectroscopic and computational\nresults support a sequential hydrogen-generating oxidation mechanism\nin which formaldehyde-derived intermediates undergo favorable C\u2013H\nactivation, while the resulting hydrogen atoms compete among absorption\ninto the Pd lattice, recombination to H<sub>2</sub>, and oxidation\nto protons. FOR-generated hydrogen atoms can be utilized for styrene\nhydrogenation in an organic phase, establishing anodic hydrogenation\nas a viable electrosynthetic strategy. These findings provide new\nmechanistic understanding of formaldehyde oxidation on palladium and\nalso demonstrate J-Pd<sub>m</sub> as a powerful platform for detecting\nand utilizing transient hydrogen intermediates in anodic reactions.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "4e8e402fab3475c7",
+    "title": "Differential\nEffects of \u03b1-Synuclein Monomers\nand Seeds on the Material Properties of Tau Condensates",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c07726/5436911/Differential-Effects-of-Synuclein-Monomers-and",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Tau and \u03b1-Synuclein\n(\u03b1Syn) frequently coaggregate in\nvarious neurodegenerative disorders. Recently, Tau has been shown\nto form dynamic, liquid-like condensates that can recruit \u03b1Syn,\nand potentially serve as a precursor to pathological crosstalk and\naggregation. However, the quantitative impact of \u03b1Syn on the\nmaterial properties of these condensates remains elusive. Here, we\nmeasure the viscosity and interfacial tension of Tau condensates and\ndetermine how these properties are modulated by \u03b1Syn monomers\nand fibril seeds. We find that while both forms of \u03b1Syn partition\nefficiently into Tau condensates, they exert vastly different effects\non the condensate\u2019s material state. The viscosity of Tau condensates\nremains unchanged in the presence of \u03b1Syn monomers at concentrations\nup to 200 \u03bcM, accompanied by a moderate reduction in the condensates\u2019\ninterfacial tension. In contrast, adding just 5 \u03bcM \u03b1Syn\nfibril seeds triggers rapid maturation of Tau condensates, manifested\nby a nearly 100-fold increase in their steady-state viscosity within\n1 h. These findings provide quantitative insights into condensate\nmechanics, highlighting the unique capacity of \u03b1Syn seeds to\nmodulate Tau condensate viscosity, which may underlie the formation\nof pathological aggregates.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "705163ece79c0b6c",
+    "title": "Pressure-Induced\nInterlayer Bonding in Arsenic Revealed\nby Single-Crystal Synchrotron X-ray Diffraction in a Diamond\nAnvil Cell",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09191/5436879/Pressure-Induced-Interlayer-Bonding-in-Arsenic",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Arsenic was studied\nby single-crystal synchrotron X-ray diffraction\nduring room <span style=\"font-style: italic;\">T</span> compression up to 37.8 GPa across the\nrhombohedral (As\u2013I, A7) to simple cubic (As\u2013II, sc)\nphase transition, using a diamond anvil cell for pressure generation\nand He as a pressure-transmitting medium. The pressure dependence\nof the rhombohedral lattice parameter <span style=\"font-style: italic;\">a</span>, angle \u03b1,\natomic position parameter <span style=\"font-style: italic;\">u</span>, and first (<span style=\"font-style: italic;\">d</span><sub>1</sub>) and second (<span style=\"font-style: italic;\">d</span><sub>2</sub>) neighbor\ndistances provides experimental evidence for a two-step pressure-induced\ninterlayer bond formation mechanism, underlying the transition from\nthe layered A7 structure to the nonlayered simple cubic one. Consistent\nwith phosphorus, our data demonstrate the existence of an intermediate\npseudo simple-cubic (p-sc) structure between 26.5 and 31.8 GPa. Within\nthis pressure interval, where \u03b1 = 60\u00b0 and <span style=\"font-style: italic;\">u</span> &lt; 0.250, the\nprogressive reduction of the interlayer distances (<span style=\"font-style: italic;\">d</span><sub>1</sub>) and the corresponding elongation of the intralayer\nones (<span style=\"font-style: italic;\">d</span><sub>2</sub>) reveal a pressure-induced <span style=\"font-style: italic;\">trans-</span>influence effect, underpinning the transition from\ntrigonal pyramidal to octahedral atomic coordination and relating\nthe formation of the p-sc structure to the persistence of <span style=\"font-style: italic;\">s-p</span> orbital mixing and stereochemically active lone pair\nelectron density. While solving a long-standing structural issue in\nAs, this study provides in-depth chemical insights concerning bond\ntheory in pnictogens and the synthesis of innovative As-based materials.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "aa04ab54df8f449f",
+    "title": "Low-Voltage Electrophoretic\nDeposition in Water with\nMetal\u2013Organic Framework Nanoparticles",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13197/5436750/Low-Voltage-Electrophoretic-Deposition-in-Water",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrophoretic deposition (EPD)\nconstitutes a major\nindustrial\nmethod for solution-processed fabrication of thin films and coatings.\nConventional protocols require high applied voltages (50\u20131000\nV) that induce parasitic electrochemical reactions, limit substrate\ncompatibility, and create safety hazards. Here, we demonstrate that\nintrinsic surface charge density of size-controlled metal\u2013organic\nframework (MOF) nanoparticles, together with particle size and solvent\nproperties, governs electrophoretic mobility and enables high-quality\nEPD in aqueous media at 1 V, well below the threshold for water electrolysis.\nCompact, uniform films of MOF nanoparticles with thicknesses &gt;10\n\u03bcm\ndeposit in 30 min, due to higher \u03b6-potentials and electrophoretic\nmobilities that improve with smaller particle sizes, whereas nonporous\ncolloids require hours. Deposition occurs on a wide range of conductive\nsubstrates, enabling real-time monitoring of film thickness with quartz\ncrystal microbalance devices and, as a result, the formation of redox-intercalation\nthin films with programmable capacitance and ion-insertion kinetics.\nThese results provide an energy-efficient, safer, and rapid method\nfor uniform thin-film assembly with thicknesses controlled to nanometer\nresolution.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "4645f5310998f248",
+    "title": "Decoding\nCO 2  Adsorption Modes and CO Yield\nVariation on TM\u2013N 4  Single-Atom Catalysts via Constant-Potential\nComputation and Machine-Learning Investigation",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13568/5436742/Decoding-CO2-Adsorption-Modes-and-CO-Yield",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Transition metal-based\nTM\u2013N<sub>4</sub> single-atom catalysts\n(SACs) are promising materials for electrochemical CO<sub>2</sub> reduction\nreactions (CO<sub>2</sub>RR) toward CO formation. In this study, we\nemployed the constant-potential method to investigate CO<sub>2</sub> adsorption and reduction on 10 TM\u2013N<sub>4</sub> SACs (TM\n= Sc\u2013Zn), with a particular focus on Ni\u2013N<sub>4</sub>. We first evaluated the CO<sub>2</sub> adsorption mode on the TM\nactive site as a function of the applied electrode potential, <span style=\"font-style: italic;\">U</span>. Landau free energy analysis revealed a transition in\nCO<sub>2</sub> adsorption mode from physisorption (<span style=\"font-style: italic;\">D</span><sub>\u221e<span style=\"font-style: italic;\">h</span></sub>\u2013<span style=\"font-style: italic;\">D</span><sub>2<span style=\"font-style: italic;\">h</span></sub>) to chemisorption (<span style=\"font-style: italic;\">C</span><sub>2<span style=\"font-style: italic;\">v</span></sub>\u2013<span style=\"font-style: italic;\">C</span><sub>2<span style=\"font-style: italic;\">v</span></sub>) at a critical electrode potential, referred to\nas the \u201ctransorption\u201d potential (<span style=\"font-style: italic;\">U</span><sub>trans</sub>). Walsh diagram and machine-learning analyses revealed\nsignificant \u03c0*-orbital splitting and an unusual \u03c3 back-donation\ngoverning <span style=\"font-style: italic;\">U</span><sub>trans</sub>. We then examined the\nCO<sub>2</sub>RR processes by considering both adsorption modes of\nCO<sub>2</sub>. The transition from CO<sub>2</sub> physisorption to\nchemisorption modes leads to a shift in the rate-limiting step from\nCO<sub>2</sub> hydrogenation to CO desorption, the emergence of new\nactive sites for competing hydrogen evolution reactions, and a decrease\nin electron transfer rates at more negative potentials. Taken together,\nthese observations align with the experimental CO yield profile under\nincreasingly negative potentials, capturing key performance trends\nof rise, plateau, and decline. Notably, the calculated <span style=\"font-style: italic;\">U</span><sub>trans</sub> values are consistent with the applied potentials\nat which CO yield declines for five SACs for which experimental data\nare available (Mn, Fe, Ni, Cu, and Zn). Thus, this work establishes <span style=\"font-style: italic;\">U</span><sub>trans</sub> as a novel predictive parameter for CO\nyield performance and offers valuable guidance for the design of advanced\nSACs in future studies.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "f3e4ba4651c18381",
+    "title": "Crystallographic Alignment\nof \u03b1-FAPbI 3  {100} Facets at the Buried Interface\nfor Efficient Perovskite\nPhotovoltaics",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10989/5436741/Crystallographic-Alignment-of-FAPbI3-100-Facets-at",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>At the SnO<sub>2</sub>/perovskite buried interface, the\npoorly\ncontrolled crystallization of black-phase \u03b1-FAPbI<sub>3</sub> typically gives rise to a disordered interfacial facet configuration\ninvolving {100}, {110}, and {111} facets, which introduces a significant\nenergetic barrier for electron injection and obscures the facet-dependent\nmechanisms governing carrier extraction and transport. Here, we identify\nburied-interface molecules that integrate a perovskite-interacting\nheterocycle with a substrate-anchoring carboxyl group, enabling the\nordered alignment of {100} facets at the SnO<sub>2</sub>/perovskite\ninterface. This crystallographic regulation reduces the interfacial\nelectrostatic potential discontinuity, accelerates carrier extraction,\nand suppresses nonradiative recombination. As a result, the <span style=\"font-style: italic;\">n-i-p</span> perovskite solar cells achieve a power conversion\nefficiency of 26.65%, with a stabilized efficiency of 26.03%. Under\nmaximum power point tracking in a nitrogen atmosphere at \u223c50\n\u00b0C under one-sun illumination, the devices retain over 91% of\ntheir initial efficiency after 2400 h of continuous operation, indicating\nenhanced operational stability.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "dace893cee9f2ccb",
+    "title": "Unlocking  17 O Natural-Abundance Nuclear\nMagnetic Resonance Detection in Solids",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15764/5436607/Unlocking-17O-Natural-Abundance-Nuclear-Magnetic",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Oxygen is an essential\ncomponent of a wide variety of\norganic and\ninorganic materials, whether natural or synthetic. Therefore, characterizing\nits bonding patterns is essential to a wide range of scientific disciplines.\nSolid-state nuclear magnetic resonance is the technique of choice\nfor this purpose but is insensitive to oxygen. Here, we demonstrate\nhow to overcome this issue by using high magnetic fields in combination\nwith cryogenic detection. This method enables us to obtain <sup>17</sup>O NMR spectra with excellent signal-to-noise ratios and natural abundance\nwithin minutes using samples at room temperature and straight from\nthe shelf. This paves the way for observing systems that cannot be\nenriched with the only NMR-active <sup>17</sup>O isotope such as industrial\ncatalysts, minerals, and natural biological samples.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "2c860e448e9f8126",
+    "title": "Dual-Atom-Doped Metastable\nIridium Oxide with Multichamber\nNanostructure for Durable Low-Iridium PEM Electrolyzers",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c03134/5436390/Dual-Atom-Doped-Metastable-Iridium-Oxide-with",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The pursuit of efficient and durable proton exchange\nmembrane water\nelectrolysis (PEMWE) under ultralow Ir loadings is critically hindered\nby the intrinsic activity\u2013stability trade-off of Ir-based oxygen\nevolution reaction (OER) catalysts and inefficient Ir utilization\nwithin low-loading anode catalyst layers. Herein, we report a class\nof Hf/Co dual-atom-doped multichamber 3R-IrO<sub>2</sub> electrocatalysts\nby integrating mesoscale structural engineering with atomic-scale\nelectronic regulation to achieve a durable low-Ir PEM electrolyzer.\nWe demonstrate that the multichamber architecture lowers the effective\nvolumetric Ir density and enlarges the electrochemically accessible\ninterface, while dual-atom doping into the inherent defect-rich Ir\u2013O\nframework enables robust OER activity. The experimental and theoretical\nresults reveal that Hf preferentially stabilizes the Ir\u2013O framework\nand suppresses excessive lattice-oxygen participation, whereas Co\nmodulates the electronic structure of Ir to lower the rate-determining\nbarrier of the adsorbate evolution mechanism, thereby synergistically\nenhancing catalytic activity and stability of metastable 3R-IrO<sub>2</sub>. A PEMWE device assembled with this catalyst delivers a cell\nvoltage of 1.61 V at 1 A cm<sup>\u20132</sup> with a low Ir loading\nof only 0.3 mg<sub>Ir</sub> cm<sup>\u20132</sup>, and sustains stable\noperation for over 2000 h. This work establishes a multiscale electrocatalyst\ndesign paradigm for sustainable durable PEMWEs.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "9cab951c503f4645",
+    "title": "Photodynamic Hijacking\nof APE1 Converts Tumor Defenses\ninto Therapeutic Vulnerabilities via a Bidirectionally Gated Prodrug",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13134/5436275/Photodynamic-Hijacking-of-APE1-Converts-Tumor",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photodynamic therapy (PDT) for melanoma is chronically\nundermined\nby adaptive resistance, a long-overlooked challenge rooted in coordinated\nantioxidant buffering and DNA repair defenses. Herein, we propose\na novel photodynamic sabotage approach that converts tumor defenses\ninto therapeutic vulnerabilities by hijacking one important defense\nhub, the APE1 protein. This was achieved through creating a bidirectionally\ngated theranostic prodrug, <strong>APE-BDP</strong>, which covalently\nlinks an iodine-engineered BODIPY to the APE1 inhibitor CRT through\na photocleavable bridge. Beyond pioneering the master regulator APE1,\nas a photodynamic target, the molecular design strategically repurposes\nthe inherent nitro group on CRT as an endogenous quencher that establishes\na photoinduced electron transfer process to silence the iodinated\nBODIPY. Meanwhile, the steric bulk of the conjugate concurrently physically\nblocks the CRT\u2013APE1 engagement. This bidirectional gating mechanism\nensures reciprocal deactivation in the dark. A single green light\ntrigger initiates near-instantaneous (\u223c100% within minutes)\nand synchronous liberation of both warheads, enabling a cooperative\ndual assault that potently disrupts redox homeostasis and inactivates\nthe APE1-mediated DNA repair machinery. This concerted hijacking of\nthe defense network within the tumor triggers multiple cell death\npathways. After formulation into a dissolvable microneedle patch for\nlocalized delivery, the system effectively suppressed tumor growth\nin melanoma models with minimal systemic toxicity. This work establishes\nthat the photodynamic hijacking of key regulatory proteins via intelligent\nmolecular engineering offers a potential design strategy to subvert\nPDT treatment resistance.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "3da58419363086f4",
+    "title": "Radical Disconnection\nLogic Enables Direct Conversion\nof \u03b1-Amino Acids into Differentiated Vicinal Diamines",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16323/5436272/Radical-Disconnection-Logic-Enables-Direct",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Functional group interconversions (FGIs) are foundational\nto synthesis,\nyet classical acid-to-aminomethyl transformations remain intrinsically\nstep- and redox-intensive. Here we introduce a radical disconnection\nstrategy that enables the direct conversion of \u03b1-amino acids\ninto differentiated vicinal diamines in a single step. The method\nrelies on photocatalytic decarboxylation of readily available amino\nacids to generate \u03b1-amino radicals, which are selectively trapped\nby an in situ-formed, unstabilized N-protected formimine, a transient\nand previously inaccessible aminomethyl equivalent. This operationally\nsimple approach circumvents harsh hydride reductions, tolerates hydride-sensitive\nfunctionalities, and offers broad generality. The robustness of the\nreaction is showcased by safe and intensified continuous-flow scale-up,\nwith a &gt;400-fold increase in space-time yield. Moreover, the differentiated\ndiamines allow selective downstream functionalization and provide\nstreamlined access to fragments of pharmaceutically active molecules.\nThis work establishes radical disconnection as a powerful blueprint\nfor redox-economical FGIs and unlocks a direct route to privileged\nvicinal diamine architectures.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "bd687e5ab2e20791",
+    "title": "Unlocking\nSulfurdiimide Reagents as Radical Traps\nin the Decarboxylative Synthesis of Sulfinamidines",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14601/5436271/Unlocking-Sulfurdiimide-Reagents-as-Radical-Traps",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aza-sulfur(IV) and\n(VI) compounds are emerging motifs in medicinal\nand crop protection chemistry, creating a demand for new methodologies\nfor their challenging synthesis. Sulfurdiimides, the diaza analogues\nof sulfur dioxide, remain underexplored in their potential to access\naza-sulfur compounds, in particular their use as radical traps has\nnot been reported. Here, we describe the synthesis of a new series\nof stable unsymmetrical sulfurdiimide reagents, which through choice\nof <span style=\"font-style: italic;\">N</span>-substituent, can be electronically tuned to\nunlock radical trapping reactivity. Taking advantage of the wide abundance\nof commercially available carboxylic acids, we have developed an acridine/copper\ncocatalyzed decarboxylative addition into sulfurdiimide reagents,\nto deliver a diverse range of sulfinamidine products. The method is\nscalable, and exhibits good functional group tolerance, and provides\nan efficient platform to access complex aza-sulfur(VI) functional\ngroups.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "9296e47f86c8bd0f",
+    "title": "Isocyanoalkynes:\nLeveraging a High-Energy Interstellar\nLead for Unique Multi-Bond-Forming Cascades",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12613/5436111/Isocyanoalkynes-Leveraging-a-High-Energy",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The reactivity of\nisocyanoalkynes\u2500alkynes bearing a terminal\nisocyanide\u2500is an unexplored frontier. The absence of any isocyanoalkyne-based\nreactions stems from their particularly challenging synthesis, a route\noriginally developed to determine the possible presence of isocyanoacetylene\nin interstellar gas clouds. The difficult flash-vacuum, pyrolysis-condensation\nsynthesis (240 \u2192 \u2212196 \u00b0C), the low yield (&lt;10%),\nand the rapid polymerization of simple isocyanoacetylenes likely dissuaded\nattempts to investigate the chemistry of these highly energetic molecules.\nDescribed here is a robust, scalable synthesis of substituted isocyanoalkynes\nbearing aromatic, heterocyclic, and aliphatic substituents, and a\nstructural analysis complemented by computations that identify molecular\nhot spots. These analyses have been particularly important in developing\nseveral exploratory reactions that reveal the high reactivity of isocyanoalkynes\nin unique, multi-bond-forming cascades. The synthesis, structural\nanalyses, and reactivity of isocyanoalkynes provides a robust foundation\nfor exploring, what augurs to be, a versatile new family of nitrogen-substituted\nalkynes.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "01a8b851f357ae5f",
+    "title": "A Coordination\nCage That Shrinks via Single-Site Labilization\nto Reshape Encapsulated Guests",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15207/5436099/A-Coordination-Cage-That-Shrinks-via-Single-Site",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>To achieve on-demand mechanical control\nover encapsulated guests,\na molecular host must be both structurally robust and dynamically\nresponsive, which are notoriously difficult to reconcile in self-assembled\nsystems. Here, we introduce a single-site labilization strategy, where\na single labile site is installed into an otherwise kinetically inert\ncoordination cage. We synthesized a heterometallic PdPt<sub>8</sub>L<sub>6</sub> cage with a chemically detachable site by incorporating\none labile Pd(II) unit onto a stable Pt<sub>8</sub>L<sub>6</sub> scaffold.\nThis design enables the cage to switch between expanded and contracted\nstates without releasing its guest, thereby mechanically controlling\nthe guest\u2019s shape. This mechanical control translates into\na hierarchical function: regulating secondary guest binding to the\nencapsulated host molecule. This approach provides a blueprint for\ndesigning advanced molecular machinery with multistate, on-demand\nfunctions.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "6e94c452d659a404",
+    "title": "Electrochemical Upgrading\nof Lignin-Derived Phenolics\nvia Vanadium Redox-Mediated Decoupling",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17163/5436095/Electrochemical-Upgrading-of-Lignin-Derived",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrochemical upgrading of biomass-derived phenolics\nrepresents\na sustainable pathway to high-value chemicals yet remains hindered\nby mass transfer limitations when processing industrially relevant\ncurrent densities and high-concentration substrates. Here, using phenol\nas a model, we report a redox-mediated strategy that spatially decouples\nelectrode reactions from catalytic hydrogenation steps via a V<sup>3+</sup>/V<sup>2+</sup> shuttle, effectively bypassing the interfacial\ndiffusion barrier. By selecting a bimetallic PtRu/C catalyst, we synergistically\noptimize phenol activation on Ru sites and H* adsorption on Pt sites,\nachieving a balanced modulation of hydrogen coverage and substrate\nactivation that effectively lowers the reaction barrier. This mediator-driven\napproach achieves a cyclohexanol Faradaic efficiency of 82.6% at 70\n\u00b0C and \u2212200 mA cm<sup>\u20132</sup> in a dilute aqueous\nsystem. Separately, the biphasic configuration enables continuous\nprocessing of high-concentration phenol (&gt;11 mol L<sup>\u20131</sup> in the organic phase), while the system also demonstrates stable\noperation for over 310 h under continuous-flow conditions. This mediator-decoupling\nstrategy is extended to the efficient hydrogenation of other lignin-derived\nplatform molecules, and it establishes a scalable paradigm for electrified\nbiomass conversion, thereby providing a practical approach toward\nadvancing renewable-power-driven biomass valorization from laboratory\nelectrosynthesis to industrial chemical manufacturing.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "9af63c6c3de5498e",
+    "title": "Operando  and  Postmortem  Study of Iridium-Decorated Titanium-Based\nCatalysts in PEM Water\nElectrolysis",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04230/5436092/Operando-and-Postmortem-Study-of-Iridium-Decorated",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Understanding the dynamic degradation of oxygen-evolution\nelectrocatalysts\nunder realistic operating conditions is essential for advancing the\nperformance and efficiency of proton exchange membrane (PEM) water\nelectrolyzers. By combining <span style=\"font-style: italic;\">operando</span> Small-Angle\nand Wide-Angle X-ray Scattering (SAXS/WAXS) with electrochemical measurements,\nthe evolution of iridium nanoparticles supported on TiO<sub>2</sub>, TiC, and TiN, loaded on full membrane electrode assemblies, and\nundergoing accelerated stress testing in these assemblies has been\nmonitored in real time. SAXS analysis shows pronounced Ostwald ripening\nof Ir on TiO<sub>2</sub>, resulting in particle growth from 1.5 to\n2.2 nm and a corresponding loss of electrochemically active surface\narea. In contrast, Ir supported on TiC remains morphologically stable.\nHowever, the TiC support undergoes severe degradation, losing approximately\n80% crystallinity and releasing Ti species that migrate across the\nmembrane. TiN exhibits an intermediate behavior, showing partial oxidation,\nmoderate Ir growth, and limited Ti migration. <span style=\"font-style: italic;\">Postmortem</span> transmission electron microscopy, energy-dispersive X-ray spectroscopy,\nX-ray photoelectron spectroscopy, and X-ray absorption spectroscopy\ncorroborate results from <span style=\"font-style: italic;\">operando</span> analyses. Results\nconfirm the dissolution and oxidation of Ti in TiC and TiN, as well\nas the structural stability of TiO<sub>2</sub>, and better describe\nthe boundaries of the trade-off between nanoparticle stability and\nsupport robustness. Moreover, results underscore the need to design\ncatalyst\u2013support systems capable of simultaneously suppressing\nIr ripening and mitigating support corrosion. Finally, this study\ndemonstrates the capabilities of <span style=\"font-style: italic;\">operando</span> SAXS/WAXS\nanalysis from full membrane electrode assemblies to elucidate degradation\npathways and inform the development of durable, next-generation anode\ncatalysts for PEM electrolyzers.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "ccc2f5a49a74e21f",
+    "title": "Biocatalytic Redox\nCascade Enabled Site-Selective\nDirect \u03b2-Alkylation of Cyclopentanones",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16346/5436075/Biocatalytic-Redox-Cascade-Enabled-Site-Selective",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Alkylation of carbonyl compounds is among the most widely\npracticed\ntransformations in organic synthesis. While extensive methods exist\nfor functionalization at the ipso and \u03b1-positions, direct \u03b2-alkylation\nremains a significant challenge, especially for cyclic ketones. Furthermore,\ncatalyst-controlled site selectivity in the \u03b2-alkylation of\n\u03b1-aryl- or alkyl-substituted cyclic ketones is rarely achieved\nusing existing methods. Herein, we report a highly site-selective\ndirect \u03b2-C(sp<sup>3</sup>)\u2013H alkylation of \u03b1-nonacyl-substituted\ncyclopentanones via photobiocatalysis. Through mechanism-driven enzyme\nrepurposing, a single flavin-dependent \u2018ene\u2019-reductase\n(ERED) orchestrates two mechanistically distinct transformations,\ndesaturation and Giese-type radical addition, in one redox cascade.\nPrecise enzyme control over site selectivity in the desaturation step\nensures site-specific installation of diverse alkyl groups at the\n\u03b2-position adjacent to the \u03b1-substituent, providing trans-\u03b1,\u03b2-disubstituted\ncyclopentanones with excellent diastereoselectivity. A site-divergent\nalkylation is also achieved through synergistic tuning of enzyme catalyst\nand light activation, underscoring the catalytic versatility of EREDs\nand their potential in streamlining complex molecule synthesis.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "46e3888642bd6ba7",
+    "title": "Tyrosinase-Catalyzed\nTyr\u2013Aniline Coupling Enables\nPeptide Editing, Macrocyclization, and Phage-Display-Based Selection",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16766/5436071/Tyrosinase-Catalyzed-Tyr-Aniline-Coupling-Enables",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Tyrosine-selective peptide modification\nprovides a valuable\nroute\nto late-stage diversification, yet current methods remain largely\nlimited to site-specific labeling and rarely extend to macrocyclization\nor ligand discovery within a unified platform. Here, we report a tyrosinase-catalyzed\ntyrosine\u2013aniline coupling platform that enables peptide editing,\nconjugation, macrocyclization, and phage-display-based ligand discovery\nwithin a single reaction manifold. Under mild aqueous conditions,\nthis enzymatic oxidative coupling proceeds rapidly within minutes\nand exhibits broad compatibility with unprotected peptide substrates\ncontaining diverse proteinogenic side chains. Structurally diverse\nand readily accessible arylamines can be directly introduced onto\nunprotected peptides to install functional, fluorophore, bioactive,\nand bifunctional modules. Moreover, bifunctional arylamines enable\ntyrosine-directed peptide conjugation and macrocyclization in a modular\nmanner. Importantly, this chemistry is compatible with phage display\nand enables post-translational diversification of genetically encoded\npeptide libraries through on-phage macrocyclization. The resulting\nplatform was applied to dual-tyrosine randomized peptide libraries\nfor target-directed biopanning, yielding cyclic peptide ligands against\ntwo independent protein targets, Keap1 and EphA4. The lead cyclic\npeptide <strong>CM1</strong> bound Keap1 with a <span style=\"font-style: italic;\">K</span><sub>d</sub> of 211 \u00b1 60 nM, while the independently identified EphA4\nligand <strong>CN1</strong> further demonstrated the transferability of\nthe platform beyond a single-target system. Alanine-scanning analysis\nand <sup>1</sup>H\u2013<sup>15</sup>N-heteronuclear single quantum\ncoherence (HSQC) titration NMR experiments further supported direct\nand sequence-dependent recognition of <strong>CM1</strong> toward Keap1.\nCollectively, this work establishes a generalizable tyrosine-based\nchemical platform that connects residue-selective peptide modification,\nmacrocycle construction, and genetically encoded ligand discovery,\nproviding a versatile strategy for expanding the chemical and functional\ndiversity of peptide libraries.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "8b1503b5e45c5301",
+    "title": "Electrolyte design for future batteries",
+    "link": "https://www.nature.com/articles/s41578-026-00958-8",
+    "content": "<p>Nature Reviews Materials, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/s41578-026-00958-8\">doi:10.1038/s41578-026-00958-8</a></p>Electrolyte design remains a central challenge in battery research. This Review explains how electrolytes\u2019 molecular environments alter ion energetics, electrode potentials, interphase evolution, transport behaviour and thermal safety, establishing rational electrolyte design principles for future batteries beyond conventional empirical formulation screening.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "203d960edf2f9b10",
+    "title": "Bumblebees don\u2019t mind a little plastic in their honeypots",
+    "link": "https://www.nature.com/articles/d41586-026-02988-2",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02988-2\">doi:10.1038/d41586-026-02988-2</a></p>Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a01a300c950c856c",
+    "title": "Youthful fans of YouTube sports videos stick to the sofa",
+    "link": "https://www.nature.com/articles/d41586-026-02989-1",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02989-1\">doi:10.1038/d41586-026-02989-1</a></p>University students who are highly motivated to watch sports online do not report higher participation in exercise.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6a6ddb9cdaeccda4",
+    "title": "GLP-1 drugs fail to help some people lose weight \u2014 scientists are on a quest for answers",
+    "link": "https://www.nature.com/articles/d41586-026-03020-3",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03020-3\">doi:10.1038/d41586-026-03020-3</a></p>Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.",
+    "journal": "Nature"
+  },
+  {
+    "id": "692ea40e116e7b72",
+    "title": "AI system helps lab devices \u2018talk\u2019 with each other \u2014 streamlining research",
+    "link": "https://www.nature.com/articles/d41586-026-02990-8",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02990-8\">doi:10.1038/d41586-026-02990-8</a></p>Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a56e2a372353750f",
+    "title": "AI agent hacks government website for first time: why this breach matters",
+    "link": "https://www.nature.com/articles/d41586-026-03024-z",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03024-z\">doi:10.1038/d41586-026-03024-z</a></p>An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn\u2019t reported for months.",
+    "journal": "Nature"
+  },
+  {
+    "id": "36f59da1a8c71a23",
+    "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+    "link": "https://www.nature.com/articles/d41586-026-03022-1",
+    "content": "<p>Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03022-1\">doi:10.1038/d41586-026-03022-1</a></p>AI predictions could help with pandemic preparedness, but they will need experimental confirmation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ae2cf38a4c509483",
+    "title": "Beyond cycle life toward calendar life in practical lithium metal batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600677X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Tao Liu, Xiaowei Wu, Qianru Wang, Zhen Ding, Yunpeng Li, Xinyi huang, Youlong Sun, Hui Ding, Lixue Zhou, Yue Zheng, Xinyu Lin, Dandan Li, Qiong Wu, Yan Zhang, Shanmu Dong, Guanglei Cui</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "19b06c9045b3e185",
+    "title": "Charge-Mediated Interfacial Coupling in Carbon Nanotube Conductive Networks Enables Concurrent Mechanical Reinforcement and SEI Stabilization for Durable SiO<sub>x</sub> Anodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726006872?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Zikai Li, Ming Zhang, Ziqi Xie, Yechen Si, Weikang Xia, Yu Liu, Tuo Deng, Chengling Qiu, Qi Chen, Junjie Wang, Guoyu Wang, Tong Zhang, Haiping Zhou, Zixuan Fang, Mengqiang Wu</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "67bb82c587171885",
+    "title": "Engineering, Modeling, and Scale-Up of Rotary Kiln\nReactors for Solid Waste Pyrolysis: A Review",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c02926/5436919/Engineering-Modeling-and-Scale-Up-of-Rotary-Kiln",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The\nrapid rise in solid waste generation and the environmental\nlimitations of conventional disposal methods, such as landfilling\nand mechanical recycling, have intensified the need for sustainable\nthermochemical conversion technologies such as pyrolysis. Among the\navailable reactor systems, rotary kilns are particularly attractive\nfor large-scale applications due to their ability to continuously\nprocess heterogeneous feedstocks. However, despite their industrial\nmaturity in sectors such as cement and mineral processing, the design\nand scale-up of rotary kilns for pyrolysis remain insufficiently understood\nfrom a chemical engineering perspective. This Review critically examines\nindirectly heated rotary kilns for solid waste pyrolysis, focusing\non reactor configurations, operational challenges, and scale-up methodologies.\nKey engineering aspects governing scale-up, including material selection,\nreaction kinetics, reactor hydrodynamics, residence time distribution\n(RTD), solid transport behavior, and modeling approaches, are systematically\ndiscussed. Furthermore, particular emphasis is placed on the role\nof kiln internals, especially lifter configurations, in controlling\nheat transfer, solid mixing, process intensification, and mean residence\ntime. Finally, a step-by-step engineering methodology for rotary kiln\npyrolysis scale-up is proposed to support the development of safer,\nmore efficient, and industrially reliable systems.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "4a8fb6b46c853630",
+    "title": "Cyclic Behavior\nand Critical Stress Ratios of Methane\nHydrate-Bearing Sediments under Varying Effective Confining Pressures\nvia Undrained Cyclic Loading",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03550/5436901/Cyclic-Behavior-and-Critical-Stress-Ratios-of",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Natural gas hydrate reservoirs are subjected to direct\nnatural\ndisasters such as earthquakes and tsunamis, as well as indirect cyclic\nloads transmitted through deep-sea platforms induced by waves and\nocean currents. In engineering practice, the critical cyclic stress\nratio (CSR<sub>c</sub>) is commonly used as a key parameter to assess\nsoil failure potential under cyclic loading. In this study, the cyclic\nbehavior of methane hydrate-bearing sediments (HBS) was investigated\nvia progressively evolving cyclic (PEC) loading on undrained specimens\nunder controlled experimental conditions. Hydrates enhance the liquefaction\nresistance of the soil, and increasing hydrate saturation further\nimproves the cyclic resistance of the specimens. The threshold CSR\nand CSR<sub>c</sub> for HBS are derived from the double inflection\npoints identified on the cyclic modulus and normalized cumulative\nexcess pore water pressure curves. Compared with hydrate-free specimens,\nthe CSR<sub>c</sub> of HBS increases significantly but decreases with\nincreasing effective confining pressure. Constant-amplitude cyclic\nloading tests have validated the reliability of the PEC loading method\nfor determining the CSR<sub>c</sub>. At the engineering application\nlevel, the PEC loading testing approach proves to be more accurate\nand reliable when confronted with complex, long-term loads in deep-sea\nenvironments.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "e599f082cb9ba2ed",
+    "title": "Ex-Situ\nCO 2  Mineralization: Bridging Laboratory\nScience and Industrial Reality. Part I: Thermodynamic Foundations,\nKinetic Barriers, and Engineering Pathways to Scale",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03945/5436858/Ex-Situ-CO2-Mineralization-Bridging-Laboratory",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Ex-situ CO<sub>2</sub> mineralization offers permanent\ncarbon storage\nby reacting CO<sub>2</sub> with alkaline solids to form thermodynamically\nstable carbonate minerals. Unlike geological storage, which requires\nlong-term subsurface monitoring, mineralized carbon in stable carbonate\nproducts remains fixed for &gt;10,000 years with negligible leakage\nrisk,\nalthough product-phase and carbon-accounting verification remain necessary.\nThis review (Part I) examines the pathway from thermodynamic foundations\nthrough reaction kinetics and activation strategies to reactor engineering,\nscale-up, and the current technology landscape. Carbonation is thermodynamically\nfavorable (\u0394<span style=\"font-style: italic;\">G</span>\u00b0 = \u221220 to \u2212130\nkJ/mol CO<sub>2</sub>), but practical rates depend strongly on mineralogy,\nparticle history, reaction pathway, and transport regime. Reactive\ncalcium-rich industrial residues can carbonate under comparatively\nmild conditions, whereas crystalline magnesium silicates generally\nrequire grinding, thermal or chemical activation, additives, or elevated\ntemperature and CO<sub>2</sub> pressure. Process-engineering approaches\nevaluated include direct gas\u2013solid carbonation, aqueous slurry\nsystems, indirect multistep routes, and intensified contactors. The\ntechnology landscape includes commercial residue-based operators such\nas CarbonFree, Fortera, and Neustark; demonstration ventures such\nas MCi Carbon, Blue Planet, and Paebbl; and emerging mine-integrated\nprojects such as Canada Nickel\u2019s Crawford development. The\nevidence indicates that feedstock-specific kinetics, activation energy\ndemand, solids handling, product markets, and verified delivered capacity\u2500not\nthermodynamic favorability alone\u2500govern scale-up. Quantitative\ntechno-economic and life-cycle assessments are developed in the companion\npaper (Part II).</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "7e2e3bb89b099695",
+    "title": "Microwave-Enhanced\nHydrodeoxygenation of Lignin-Derived\nPhenolics over Pt/HY Catalysts",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03333/5436262/Microwave-Enhanced-Hydrodeoxygenation-of-Lignin",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The upgrading of lignin-derived bio-oil via hydrodeoxygenation\n(HDO) remains challenging due to the stability of C\u2013O bonds\nin phenolic compounds and the severe conditions typically required.\nIn this work, microwave (MW)-assisted HDO of m-cresol, guaiacol, and\nvanillin was investigated for the first time over bifunctional Pt/HY\ncatalysts under mild conditions (150\u2013200 \u00b0C, 10 bar H<sub>2</sub>) and directly compared with conventional heating. Microwave\nirradiation significantly enhanced reaction rates, enabling complete\nm-cresol conversion within 30 min, whereas conventional heating required\nup to 120 min under identical conditions. Among the catalysts evaluated,\nPt/HY(80) exhibited superior performance, achieving high hydrocarbon\nselectivity due to its balanced Br\u00f8nsted acidity and enhanced\nmesoporosity, which mitigated diffusion limitations. In contrast,\nhighly oxygenated substrates such as vanillin showed reaction stagnation\nat the creosol intermediate stage, accompanied by substantial apparent\nreactant retention. Control experiments under H<sub>2</sub>-free conditions\nrevealed progressive disappearance from the liquid phase (m-cresol\n&lt; guaiacol &lt; vanillin), indicating strong adsorption and micropore\nblockage effects. These findings highlight the critical interplay\nbetween acidity, pore architecture, and molecular structure in determining\nHDO efficiency. Overall, microwave-assisted bifunctional catalysis\nenables efficient biomass upgrading under substantially milder conditions\nthan typically reported, while revealing transport\u2013acidity\ntrade-offs that govern the conversion of increasingly complex bio-oil\ncomponents.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "e349e37b96b08f26",
+    "title": "Process-Level\nTechno-Economic Assessment of Thermodynamic\nPromoters for Hydrate-Based Solidified Natural Gas Production",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03541/5436243/Process-Level-Techno-Economic-Assessment-of",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>This study presents a process-level techno-economic analysis\nof\nsolidified natural gas (SNG) production via clathrate hydrate formation,\nevaluating three configurations \u2500 pure methane (sI), methane-THF\n(sII), and methane-1,3-dioxolane (sII) \u2500 at a feed capacity\nof 0.13 MMTPA. Process simulations were developed in Aspen HYSYS V15\nusing the Twu\u2013Peng\u2013Robinson equation of state, with\ncapital and operating costs estimated using the Towler and Sinnott\nframework. Sensitivity analyses examined methane inlet pressure (atmospheric\nvs 45 bar) and refrigerant choice (propane vs ammonia). Literature-derived\nmethane conversions of 10.0% for the pure-methane case and 42.0% for\nthe promoted cases were specified in the conversion-reactor model.\nThe pure methane case yielded a process-cost levelized cost of storage\n(LCOS) of $0.794/kg under atmospheric conditions \u2500 uncompetitive\nagainst LNG ($0.169\u2013$0.434/kg) and CNG ($0.175/kg). Promoter-assisted\nconfigurations achieved $0.107\u2013$0.217/kg excluding raw material\ncost, competitive with LNG under favorable conditions. However, the\npromoter makeup requirement of 15209 kg/h \u2500 the stoichiometric\nquantity incorporated into the sII lattice and leaving with the solid\nproduct \u2500 generates an annual raw material cost of $184M, raising\nLCOS to $3.39\u20133.50/kg across all promoted cases regardless\nof operating conditions. Because this promoter is a structural constituent\nof the product rather than a recoverable stream, it cannot be reduced\nby in-process recovery. First-stage methane compression dominates\ncapital and operating costs; colocation with high-pressure gas infrastructure\nreduces LCOS by 44\u201359%. These findings indicate that thermodynamic\npromoters confer no net economic benefit at industrial scale, and\nthat the unpromoted pathway is the more tractable route to competitive\nSNG, contingent on improved conversion.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "901b3f8eb13ba7e0",
+    "title": "Hydrogen Spillover Modulated by Microenvironment Engineering toward Efficient Photo-Redox Catalysis",
+    "link": "https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c02018/5436926/Hydrogen-Spillover-Modulated-by-Microenvironment",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>As a fundamental process in heterogeneous catalysis, hydrogen spillover has garnered increasing attention in the field of photocatalysis. However, the influence of local microenvironment on hydrogen spillover remains elusive, and strategies to deliberately regulate this phenomenon in photo-redox reactions are still in their infancy. Herein, we report the design of W-doped <span style=\"font-style: italic;\">\u03b1</span>-MoC<sub>1\u2013<span style=\"font-style: italic;\">x</span></sub> quantum dots anchored on a multifunctional graphene support, where the degree of graphene crystallization can be precisely modulated. Our findings reveal that hydrogen spillover can be effectively orchestrated by tailoring the local environment particularly in the presence of free H<sub>2</sub>O and surface hydroxyl groups, resulting in over a 20-fold enhancement in photocatalytic hydrogen evolution compared to bare ZnIn<sub>2</sub>S<sub>4</sub>. Furthermore, an ordered graphene arrangement facilitates continuous hydrogen spillover and maintains hydroxyl dynamic equilibrium, significantly boosting the photocatalytic stability. This work highlights the critical role of mass transfer in photocatalysis. These insights open new avenues for advancing photocatalysis research through microenvironment engineering.</span>",
+    "journal": "ACS Energy Letters ASAP"
+  },
+  {
+    "id": "068f6fbb81bf0a19",
+    "title": "Molecular Topological Anchoring Enables Thermodynamic\u2013Kinetic Synergy in Hard-Carbon Anodes",
+    "link": "https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c02316/5436909/Molecular-Topological-Anchoring-Enables",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The practical deployment of hard carbon anodes in sodium-ion batteries is severely constrained by inferior sodium insertion thermodynamics and sluggish ion diffusion kinetics. We report a molecular topological anchoring strategy that simultaneously optimizes both aspects by cross-linking sucrose and zinc gluconate. The furan ring of sucrose acts as topological anchors, stabilizing Zn<sup>2+</sup> in the atomically dispersed form via C\u2013Zn\u2013O bonds, unlike conventional ZnO templating. This chemistry-driven pathway obviates hydrothermal pretreatment, precalcination and acid-washing, retarding graphitization and promoting expanded interlayers, high defect density, abundant closed pores, and redox-active oxygen groups. These features simultaneously enhance capacity through favorable sodium storage sites and accelerate kinetics via expanded interlayers and low-barrier hopping pathways. The optimized anode delivers 375.9 mA h g<sup>\u20131</sup> with 91.2% initial Coulombic efficiency, outstanding rate capability, and 91% capacity retention over 3000 cycles. This work demonstrates molecular topological engineering as an effective strategy to tune both thermodynamics and kinetics of carbon materials.</span>",
+    "journal": "ACS Energy Letters ASAP"
+  },
+  {
+    "id": "b62a80c367a7c230",
+    "title": "MOR Activity of a B-Doped Pd-Based Electrocatalyst",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c01437/5437125/MOR-Activity-of-a-B-Doped-Pd-Based-Electrocatalyst",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">ABSTRAT</div>A series of B-doped Pd-based catalysts was synthesized via a chemical reduction method in this work. Through XRD and HRTEM characterization, the Pd-based catalyst was mainly composed of the Pd<sub>2</sub>B, PdO, and NiO nanoclusters, and they are intermingled with each other. Due to lattice defects and strain caused by the lattice connections formed between the different nanoclusters and the increased d-spacing of the surface Pd atoms and the electron transfer from B to Pd caused by the doped B atoms, the B-doped Pd-based catalyst exhibited good catalytic performance for the methanol oxidation reaction (MOR). According to the corresponding CV data, the optimal Pd-based catalyst had a large electrochemical active surface area (ECSA) of 1895.2 cm<sup>2</sup> mg<sup>\u20131</sup> Pd and an excellent MOR activity of 1839.1 mA mg<sup>\u20131</sup> Pd in a 0.1 M KOH + 1 M CH<sub>3</sub>OH solution at a scan rate of 50 mV s<sup>\u20131</sup>. Furthermore, the kinetics investigation revealed that the MOR on the Pd-Ni-B-O/C catalyst was a diffusion-controlled process, and the utilization level of its ECSA for the MOR was only 0.265%, implying that its electrocatalytic activity could be significantly promoted.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "ad6cac9be68b0d32",
+    "title": "Isoreticular Metal\u2013Organic Framework-Confined Copper Nanowires for Broadband Solar Harvesting and Enhanced Pyrene Photodegradation",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02080/5437031/Isoreticular-Metal-Organic-Framework-Confined",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>A study featuring the in situ encapsulation of Pd/Al heterostructured motifs within isoreticular metal-organic framework (IRMOF-8) for efficient photocatalytic degradation of pyrene is presented. In this study, hybridized surface plasmon resonance in Pd-decorated Cu nanowires intensified broadband solar absorption across the visible and ultraviolet regions. Furthermore, coordinated optimization of three Pd loadings minimized noble-metal usage without compromising catalytic activity. Also, decorating plasmonic Cu nanowire reactors with Al nanocrystal antennas resulted in photocatalytic activity that exceeded the combined performance of the individual components. Using 0.6 g/L of 0.025 M Pd-Cu NWs@IRMOF-8, a remarkable 99.07% pyrene removal was achieved after sequential adsorption, light irradiation, and ultrasonication for 30 min each (<span style=\"font-style: italic;\">k</span><sub>app</sub> = 0.06957 min<sup>\u2013</sup><sup>1</sup>). This system outperformed the 0.1 M Al-loaded analog, which achieved 85.11% pyrene degradation under identical conditions (<span style=\"font-style: italic;\">k</span><sub>app</sub> = 0.02645 min<sup>\u20131</sup>). A detailed mechanistic survey, supported by GC\u2013MS analyses, provides crucial insights into the synergistic interfacial interactions responsible for enhanced polybenzenoid hydrocarbon degradation.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "78e072008e0daedb",
+    "title": "Potentiostatic Activation Enables Complete Decomposition of Li 2 C 4 O 4 /C and Enhances Performance of NCM811 Batteries at 4.2 V",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02117/5436920/Potentiostatic-Activation-Enables-Complete",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Lithium squarate (Li<sub>2</sub>C<sub>4</sub>O<sub>4</sub>) is a high-capacity cathode prelithiation additive, but its full decomposition voltage (\u223c4.5 V) induces severe side reactions, necessitating a reduction to 4.2 V for Ni-rich cathodes. This study prepares a carbon-composited Li<sub>2</sub>C<sub>4</sub>O<sub>4</sub> prelithiation additive and investigates the impact of a 4.2 V potentiostatic activation protocol on its decomposition efficiency, interface evolution, and cell performance. A 24 h potentiostatic step at 4.2 V enables nearly complete decomposition of the additive in half cells, with a first-cycle charge capacity 64.78% higher than under galvanostatic activation. In NCM811 half cells, 100% decomposition is achieved under 4.2 V potentiostatic activation, comparable to 4.5 V galvanostatic activation, while forming a denser cathode-electrolyte interphase (CEI) that reduces impedance and suppresses side reactions. These half cells show 4.76% higher capacity retention after 150 cycles at 1C and deliver 114 mAh g<sup>\u20131</sup> at 10C. Pouch full-cell tests confirm improved additive decomposition and optimized interphases, raising capacity retention to 92.6% after 150 cycles. This study demonstrates that 4.2 V potentiostatic activation enables efficient prelithiation without high voltage side reactions, providing experimental and theoretical support for industrial applications in Ni-rich ternary systems.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "58d2b807db39df80",
+    "title": "Organic Spacer Engineering Enables Three-Dimensional Ion Migration in Layered Halide Perovskite Photocathodes for Photo-rechargeable Batteries",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02279/5436907/Organic-Spacer-Engineering-Enables-Three",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photo-rechargeable batteries, which integrate energy conversion and storage in a single device, significantly enhance solar energy utilization. Halide perovskites, especially the two-dimensional (2D) counterparts, have emerged as promising photocathodes in photo-rechargeable Li-ion batteries. However, the photocathodes suffer from the lack of three-dimensional (3D) Li-ion migration and charge transport due to the presence of organic spacer cations separating the inorganic layers, which act as a barrier between them. In this work, using density functional theory, we rationalize the Li-ion migration during charging and discharging in lead-iodide-based 2D perovskites with n-butyl-, cyclohexyl ethyl-, phenyl ethyl-, and pyrene ethyl-ammonium spacer cations. Our results show that the Li-ion migration along the organic spacer cations can be improved by choosing a cation with less dense packing. However, during the charging process under illumination, we find that the large hole polaron creates a positively charged polaronic medium that increases the Li-ion migration barrier along the horizontal direction. Interestingly, if the organic spacer cation does not contribute to the electronic band edges of the material, the Li-ion migration barrier along the spacer cations becomes easier due to the lower migration barrier; however, the barrier significantly increases for electroactive spacer cations. Furthermore, our calculations show that an optimal balance between the spacer\u2019s length and electroactive nature can significantly lower the effective carrier mass along the vertical direction, enabling 3D charge transport in layered metal halide perovskites (MHPs). Thus, our study demonstrates that selecting an organic spacer cation with less dense packing, short length, and non-electroactive nature enhances the 3D Li-ion migration and charge transport. Our study opens the door to spacer-cation engineering for the development of 2D MHP-based photo-rechargeable batteries.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "b7ba8439be24fbfb",
+    "title": "Polysulfide Chain-Length Tuning of Poly(anthraquinonyl sulfides) to Enhance Crystallization, Defect Passivation, and Environmental Stability of Perovskite Solar Cells",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c01372/5436872/Polysulfide-Chain-Length-Tuning-of-Poly",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Perovskite solar cells (PSCs) have achieved rapid gains in power conversion efficiency (PCE), yet their broader deployment remains limited by insufficient stability and Pb-leakage concerns. Anthraquinone-based materials are attractive interfacial modifiers, with their carbonyl groups providing Lewis-base sites for passivating undercoordinated Pb-related defects and potential binding sites for Pb immobilization, their \u03c0-conjugated aromatic structures facilitating interfacial charge transport, and their redox-active quinone moieties helping suppress degradation-related Pb and iodine species. However, these materials have predominantly been explored as small-molecule additives or interfacial passivators, while their use as polymeric antisolvent additives and the influence of polymer structural characteristics on perovskite properties remain largely unexplored. Herein, we synthesized poly(anthraquinonyl sulfides) (PAQxS), in which anthraquinone units are connected by sulfur-containing linkages that provide conformational freedom and potential soft-donor functionality, and investigated their application as antisolvent additives for PSCs. To examine how these linkage characteristics affect polymer\u2013perovskite interactions, we compared two representative polymers, PAQdS and PAQnS, with relatively shorter and longer sulfur-linkage distributions, respectively. Compared with PAQdS, PAQnS promoted more ordered perovskite crystallization and improved film morphology, accompanied by lower trap density, reduced defect-related carrier losses, and improved charge-carrier behavior. These improvements in film and interfacial properties were associated with an approximately 20% relative increase in PCE, together with a markedly prolonged T<sub>80</sub> lifetime and an approximately 40% reduction in Pb leakage. Overall, this study demonstrates the potential of sulfur-linked anthraquinone-based polymers as a structure-guided platform for improving photovoltaic performance, stability, and Pb-leakage mitigation in PSCs while providing insight into structure-dependent film and interfacial behavior.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "74a471f8f5515658",
+    "title": "Deriving uniform hybrid SEI layer via silver trifluoroacetate toward durable Li metal pouch batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007251?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Nano Energy, Volume 159, Part B</p><p>Author(s): Aoyuan Chen, Wujie Yang, Zhenjie Zhang, Ping He, Haoshen Zhou</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "e301c429310b79a0",
+    "title": "Facet-anisotropy-engineered CdS photoelectrodes enable 5.24\u202fmA\u202fcm<sup>\u22122</sup> photo-charging current in Zn-Air/Sulfion hybrid batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007263?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Nano Energy, Volume 159, Part B</p><p>Author(s): Lingqiao Kong, Bingzhen Yan, Jiazheng Nan, Jingyuan Qiao, Linhong Xia, Shuai Zhang, Qiushi Ruan, ZhengMing Sun</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "98c8688195bd7b76",
+    "title": "Lattice nitrogen coordinated with Ru/Pt with bidirectional hydrogen spillover for universal hydrogen evolution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007330?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Nano Energy, Volume 159, Part A</p><p>Author(s): Xiaoya Jia, Yan Li, Liberty L. Mguni, Ziyue Tang, Xiaoyu Zhang, Xinping Song, Zi-ao Zong, Zexing Wu, Yali Yao, Tianyi Ma, Xiaoyin Zhang, Xiang-min Meng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "1a6a1d9754e78660",
+    "title": "Broad-temperature-range, efficient n-Type ionic thermoelectric cells enabled by pioneering hydrophobic crosslinked tough hydrogels",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007305?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 1 December 2026</p><p><b>Source:</b> Nano Energy, Volume 159, Part A</p><p>Author(s): Nan Shi, Jianyao Xu, Xiaofang Shi, Yarong Lan, Peiyi Wu, Zhiguo Hu</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "55edf81cdfd78424",
+    "title": "Enhancement of the Droplet Triboelectric Nanogenerator Enabled by a Vertical Cutting Mechanism",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007421?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 24 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Lixin Lu, Guannan Hao, Mengxiang Li, Ran Yu, Zihan Zhou</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ba91c6ebc4145943",
+    "title": "Entropy modulation strategy in organohydrogel enable high power density with anti-freezing and air stability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007299?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xin Hao, Yanqiu Yao, Jiahao Pan, Zihan Zhu, Tiantian Zhuang, Hong Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "13a493d611e110f1",
+    "title": "From Recovery to Qualification: Feedstock Disorder and the Battery-Grade Gap in Lithium-Ion Battery Recycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S221128552600738X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 23 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Vijay K. Tomer, Amey Panjwani, Weixuan Li, Abeer Khan, Ritu Malik, Yaser Abu-Lebdeh, Mohini Sain</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "7c3d729979b54227",
+    "title": "A feedback-accelerated and threshold-tunable switch for boosting triboelectric energy harvestingik",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007366?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Luyang Zheng, Yifan Yang, Qinhao Zheng, Chenyang He, Yanling Li, Li Zhang, Junxiang Zhou, Kangqi Fan, Rusen Yang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "ea94628e2b663e18",
+    "title": "Defect Engineering and Facet Regulation in 2D ZnIn<sub>2</sub>S<sub>4</sub> Photocatalysis: From DFT Descriptors to Working-State Mechanisms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007287?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Hanyi Chen, Sheng Liu, Qing Li</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "94a7c1ea0f43ca84",
+    "title": "Thermally Healable and Recyclable Polycaprolactone/Graphene Triboelectric Nanogenerator Enabled by an Integrated Triboelectric-Electrode Single-Layer Design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006622?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 21 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Junfei Feng, Shounian Cheng, Wen Jiang, Yudong Wang, Haixin Li, Jiandan Liang, Yawen Yuan, Zhiqiang Huo, Xia Cao, Zhonglin Wang</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "fc7b8fd436f8437d",
+    "title": "Extremely Low-Frequency Weak-Vibration Energy Harvesting via Stiffness Self-Adjustment and Threshold-Energy Bursting Strategy for Wind Turbine Blade Health Monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007378?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 21 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Shuaicheng Guo, Lu Dong, Yuejun Zhang, Borui Yang, Hengyu Li, Qiang Zhang, Chunlong Li, Xiaosong Zhang, Tinghai Cheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "6394d4f23e94e0b9",
+    "title": "Synergistic Enhancement via Thienyl Functionalization and In Situ Metallic Copper Formation in Porphyrin Cathodes for High-Energy, Long-Cycling Magnesium Batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007238?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 20 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Caihong Sun, Yu Li, Xi Peng, Binhua Chen, Yao Liao, Xiujuan Sun, Zheyuan Liu, Zhi Chen, Chengkai Yang, Zhen Chen, Ping Gao</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "83c900161199b56d",
+    "title": "Durability-Driven Advanced Energy Materials Engineering of Solid Oxide Electrolysis Cells and Stacks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007184?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 18 September 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Syed Shaheryar Ali Shamsi, Syeda Munazza Hussain, Tak-Hyoung Lim, Rak-Hyun Song, Hanfeng Liang, Jong-Eun Hong, Hye-Sung Kim, Seok-Joo Park, Dong-Woo Joh, Muhammad Zubair Khan</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "49c5c5f9499d55ef",
+    "title": "Fusion Energy and Tritium Fuel Cycle: Hydrogen Isotope Separation Technologies and Sorbent Materials",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70966?af=R",
+    "content": "This review surveys sorbent\u2010based materials for hydrogen isotope separation, a key challenge in fusion fuel processing. Different types of adsorbents are compared in terms of selectivity, kinetics, and operational practicality. Limitations of cryogenic operation and tritium compatibility are highlighted, providing guidance toward efficient, low tritium inventory isotope separation technologies for future fusion fuel processing.\n\n\n\n\n\n\n\n\nABSTRACT\nFusion using tritium and deuterium as the fuel has the potential for large\u2010scale carbon\u2010free energy generation but faces several key technical challenges; One of these is the need to develop a hydrogen isotope separation technique with the combined requirements of high separation and energy efficiency and low tritium inventory. Since only a small fraction of the injected fuel undergoes fusion per cycle, the mixture of hydrogen isotopes must be recycled and the isotope composition rebalanced, requiring hydrogen isotope separation. This task is technically complex because hydrogen isotopes exhibit nearly identical physicochemical properties making them difficult to separate conventionally. Cryogenic distillation currently serves as the reference technology for isotope separation but suffers from high energy demand, extreme cryogenic operating temperatures, and significant tritium hold\u2010up. Sorbent\u2010based processes have emerged as promising candidates, offering advantages in scalability, energy efficiency, and isotope selectivity. Sorbent materials that could be used in these processes have been reported to have high hydrogen isotope selectivity and so could have significant potential. This review examines recent advances in sorbent development and their integration into separation processes relevant to fusion fuel cycles, while also addressing key challenges such as stability, radiolytic degradation, and tritium exchange in organometallic porous adsorbents.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "532142b8037269d2",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70944?af=R",
+    "content": "",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "8ce241e4e25775ce",
+    "title": "Rational Design of LiNi1\u2010xFexO2 Electrodes for Enhanced Oxygen Evolution Reaction Under Power\u2010Fluctuating Operations in Alkaline Water Electrolysis (Small Methods 18/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70978?af=R",
+    "content": "Front Cover\nIn article number e70823, Chang\u2010Hee Kim and co\u2010workers report the rational design of an oxygen evolution reaction electrode for green hydrogen production via alkaline water electrolysis. The optimized LiNi0.6Fe0.4O2 electrode exhibits exceptional performance and durability under power\u2010fluctuating operations for 200 hours. This work demonstrates the feasibility of practical water electrolyzer operation even under stand\u2010alone power systems.",
+    "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "15d3dd0aa9215e87",
+    "title": "Functional Repurposing of Magnetic Nanoparticle\u2010Assisted Hyperthermia for Immune Cell Labelling and Tracking (Small Methods 18/2026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.70979?af=R",
+    "content": "Back Cover\nIn article number e02416, Roberta Castriconi, Teresa Pellegrino, and co\u2010workers propose a mild magnetic hyperthermia (mild\u2010MHT) protocol to rapidly enhance magnetic nanoparticles (MNPs) internalization by immune cells. Local heat generated under an alternating magnetic field promotes MNPs diffusion and membrane invagination, accelerating cellular uptake while preserving cell viability and function. This efficient cell labeling protocol enables magnetic imaging and cell tracking ready prior to cell infusion.",
+    "journal": "Wiley: Small Methods: Table of Contents"
   }
 ]
