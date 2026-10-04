@@ -1671,5 +1671,733 @@
     "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71092?af=R",
     "content": "The photovoltaic performance of bifacial semitransparent CuInSe2 solar cell is significantly enhanced by utilizing ZnS thin film at CuInSe2/TCO (transparent conducting oxide) interface as the rear\u2010side passivation. During CuInSe2 deposition, local point contacts through ZnS layer are spontaneously formed by recrystallization without an additional process, which reduce the rear\u2010side recombination and improve the bifacial power generation density and bifaciality factor.\n\n\n\n\n\n\n\n\nABSTRACT\nBifacial semitransparent (BST) solar cells utilizing transparent conducting oxides are advantageous in various applications because of their controllable transparency, ease of use, and potential in bifacial power generation using the albedo effect. However, their power conversion efficiency (PCE) is limited owing to the ultrathin absorber layer, where rear\u2010side recombination may dominate. To suppress carrier recombination at the rear\u2010interface in ultrathin BST CuInSe2 (CISe) solar cells, a direct passivation method is demonstrated, that is, a nanoscale ZnS layer is deposited between the rear\u2010side of the CISe absorber and an indium tin oxide (ITO) back contact using atomic layer deposition. The ZnS layer spontaneously forms localized holes by recrystallization during CISe co\u2010evaporation, which act as local direct conduction paths from the CISe to the ITO. The PCE of the BST\u2010CISe solar cells increases dramatically from 5.29% to 9.79% after applying the optimal 20\u2010nm ZnS layer. In addition, the passivation layer significantly reduces rear\u2010side carrier recombination and increases the bifaciality factor. The bifacial power\u2010generation density with rear\u2010side ZnS passivation increases to 11.4% and 17.8% under total illumination of 1.2 and 2.0 sun (considering the albedo effect), respectively.",
     "journal": "Wiley: Small Methods: Table of Contents"
+  },
+  {
+    "id": "77ba0eb6283c3dd7",
+    "title": "Visible Light-Harvesting\nDinuclear Chromium(III) Complex\nwith Anthracene-Based Phosphorescence for Photon Upconversion and\nPhotocatalysis",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13239/5444160/Visible-Light-Harvesting-Dinuclear-Chromium-III",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Luminescent 3d<sup>3</sup> chromium(III) complexes are\nemerging\nas highly attractive, earth-abundant alternatives to precious 4d or\n5d metal complexes in photophysical and photochemical applications.\nHowever, the Laporte-forbidden nature of their d\u2013d transitions\nin the visible region severely hampers the light-harvesting efficiency\nof conventional photoactive Cr<sup>III</sup> complexes. To overcome\nthis fundamental bottleneck, we anchored two anthracene-based antennas\nto the polypyridine ligands in a dinuclear Cr<sup>III</sup> complex,\nyielding the complex Cr<sub>2</sub>-An. The resulting energetically\nlow-lying \u03c0\u2013\u03c0* transition in the anthracene antenna\nenhances visible light absorption at 450 nm by a factor of 30 relative\nto the anthracene-free reference complex, Cr<sub>2</sub>-ref Both\ndimers exhibit ferromagnetic ground-state exchange interactions and\ndisplay room temperature luminescence, albeit originating from different\nexcited states. Specifically, Cr<sub>2</sub>-An exhibits anthracene-based\nphosphorescence with a lifetime of \u223c150 ns in solution at room\ntemperature, which is likely accessible via two pathways: direct intersystem\ncrossing from the singlet excited state of the anthracene fragment,\nor intramolecular doublet-triplet energy transfer from the spin-flip\nexcited states of the Cr<sup>III</sup> centers. These exceptional\nphotophysical properties render Cr<sub>2</sub>-An an attractive photosensitizer\nfor triplet\u2013triplet annihilation upconversion (TTA-UC) and\nsinglet oxygen-mediated oxidation reactions, delivering photocatalytic\nperformance that surpasses the benchmark [Ru(bpy)<sub>3</sub>]Cl<sub>2</sub> under visible-light irradiation. These findings offer a powerful\nmolecular design strategy for bypassing the intrinsic optical limitations\nof first-row transition metals, opening new avenues for sustainable\nand efficient light energy conversion.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "c10ffbd7ca3e6379",
+    "title": "Selective B(4)\u2013H\nAlkoxylation of  o -Carboranes with Alcohols\nvia Heteroleptic Cu(I)-Photocatalyzed\n1,5-HAT-Enabled Boron Radical-Polar Crossover",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16285/5444095/Selective-B-4-H-Alkoxylation-of-o-Carboranes-with",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Carboranes are an important class of boron cluster compounds\nwith\nbroad applications in medicine, materials science, and catalysis.\nHowever, the site-selective functionalization of their B\u2013H\nbonds remains a long-standing challenge owing to the nearly identical\nchemical environments and high bond dissociation energies (BDEs) of\nthese bonds. Traditional approaches generally rely on precious metal\ncatalysts, harsh reaction conditions, or substrate prefunctionalization,\nwhich significantly limit their synthetic utility. Herein, we report\nthe first direct B\u2013H/O\u2013H cross-coupling of <span style=\"font-style: italic;\">o</span>-carboranes with alcohols, enabled by heteroleptic Cu(I) complexes\nunder mild photocatalytic conditions. This protocol achieves highly\nregioselective B(4)\u2013H alkoxylation with a broad substrate scope\nand excellent functional group tolerance, providing a facile route\nto diverse carborane-based building blocks. Mechanistic studies reveal\nthat the benzoyl directing group effectively amplifies the difference\nin BDEs between B(3)\u2013H and B(4)\u2013H, thereby enabling\nselective activation of the B(4)\u2013H bond via 1,5-hydrogen atom\ntransfer (HAT). Notably, for the first time, we demonstrate that a\nboron radical-polar crossover process mediated by the heteroleptic\ncopper catalyst converts boron radicals into highly electrophilic\nboron cation intermediates, which can be directly trapped by weakly\nnucleophilic alcohols to form B\u2013O bonds. This work establishes\na new and general strategy for carborane B\u2013H functionalization\nvia radical pathways.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "b713e3a44d79b3e7",
+    "title": "Adaptive\nCinchona Alkaloid-Derived Organoboron Crystalline\nSponges Enable Enantioseparation of Weakly Interacting Molecules",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09766/5444092/Adaptive-Cinchona-Alkaloid-Derived-Organoboron",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The enantioseparation\nof small, weakly interacting organic molecules\nremains a fundamental challenge, as they lack the functional groups\nrequired for efficient chiral recognition. Consequently, their enantiopure\nforms are typically accessed <span style=\"font-style: italic;\">via</span> asymmetric synthesis\nrather than resolution. Herein, we demonstrate that adaptive supramolecular\ncrystalline sponges assembled from air- and moisture-stable cinchona\nalkaloid-derived organoboron complexes enable efficient enantiodiscrimination\nof small ethers, lactones, and cyclic ketones through guest inclusion\nwithin porous crystalline frameworks. Structural analysis reveals\nthat enantioselectivity arises from adaptive confinement within homochiral\ncavities, where subtle framework rearrangements and modulation of\ncavity volume amplify cooperative weak host\u2013guest interactions.\nSystematic tuning of the molecular building blocks affords crystalline\nsponges capable of resolving challenging substrates such as the biobased\ngreen solvent 2-methyltetrahydrofuran, \u03b3-valerolactone, and\nmethylcyclohexanone isomers with enantiomeric excesses of up to 76%.\nThese findings establish adaptive confinement in supramolecular crystalline\nsponges as a general mechanism for chiral discrimination in the solid\nstate and provide a conceptual framework for enantioseparation beyond\nconventional crystallization-based approaches.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "50639c7bb05c6191",
+    "title": "Multi-Field\nCEST NMR Reconstructs a Protein Folding\nLandscape",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16569/5443799/Multi-Field-CEST-NMR-Reconstructs-a-Protein",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Protein dynamics\nare central to their folding and function, yet\nthe sparsely populated conformational states that underpin these processes\nremain difficult to characterize at atomic resolution. Chemical exchange\nsaturation transfer (CEST) NMR can detect such states and is particularly\nsensitive to rapid exchange between two minor conformations. This\n\u201cminor-state exchange\u201d, however, broadens and displaces\nthe minor-state dip in CEST profiles, leading to parameter degeneracy\nthat can preclude quantitative reconstruction of multistate exchange\nnetworks. Here, we show that, in the presence of rapid \u201cminor-exchange\u201d,\nthe apparent minor-state chemical shift obtained from two-state fits\nvaries systematically with the static magnetic field, <span style=\"font-style: italic;\">B</span><sub>0</sub>. We exploit this field dependence to develop a nonperturbative,\nmulti-field CEST strategy that distinguishes otherwise degenerate\nexchange models. Applying multi-field <sup>15</sup>N-CEST to the model\nprotein Im7 revealed a folding intermediate populated at \u223c1%\nthat exchanges with the folded state on a \u223c2 ms time scale\nand with an unfolded state populated at \u223c0.4% on a \u223c200\n\u03bcs time scale. Although the unfolded state does not produce\na separate CEST dip, its exchange is encoded in the line width and <span style=\"font-style: italic;\">B</span><sub>0</sub>-dependent position of the intermediate-state\ndip. Analysis of the <sup>15</sup>N-CEST data provides populations,\nmicroscopic exchange rates, and residue-specific <sup>15</sup>N chemical\nshifts for all three states. The resulting Im7 free-energy landscape\nis sequential, with folding proceeding through the intermediate and\nno detectable direct exchange between the folded and unfolded states.\nMulti-field CEST provides a broadly applicable, perturbation-free\napproach for resolving biomolecular dynamics at equilibrium.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "9f225dd50681178e",
+    "title": "Demarcating the Effects\nof Aliphatic Ester Chain Lengths\nand Molecular Weight on Electrode\u2013Electrolyte Interphase Formation\nfor Wide-Temperature Operation of Lithium-Ion Batteries",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10537/5443700/Demarcating-the-Effects-of-Aliphatic-Ester-Chain",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Conventional nonaqueous electrolytes for lithium-ion\nbatteries\n(LIBs) employ carbonate cosolvents to dissociate the Li<sup>+</sup> salt. Aliphatic esters can be substituted to lower the melting point\nof the electrolyte solution, improving low-temperature performance,\nbut suffer from deleterious surface film formation. This work identifies\nthe molecular origin of aliphatic ester alkyl and alkoxy chain length\neffects on electrolyte solvation, decomposition, and electrochemical\nperformance of LIBs within a wide-temperature range of \u221260\nto +60 \u00b0C in Li<sub>1.02</sub>Ni<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) cathode and graphite anode\nfull cells. Removal of the alkyl chain and lengthening of the alkoxy\nchain improves low-temperature conductivity at temperatures below\n\u221240 \u00b0C, enabling 110 mAh g<sup>\u20131</sup> of C/10\ndischarge capacity at \u221260 \u00b0C, and 122 mAh g<sup>\u20131</sup> of reversible capacity when cycling at \u221240 \u00b0C. Long\nalkoxy esters are shown to exhibit greater reactivity with both electrodes,\nand their decomposition products were identified by nuclear magnetic\nresonance (NMR) spectroscopy and X-ray photoelectron spectroscopy\n(XPS). Ternary solvent blends were then developed to limit the reactivity\nof the esters and improve the +60 \u00b0C cycling performance at the\nexpense of the \u221260 \u00b0C discharge capacity. This work establishes\na structure\u2013property framework, grounded in the intrinsic electronic\nstructure of the ester chain lengths, for tuned ester-electrolyte\ndesign for wide-temperature LIB operation.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "aeb352fd9491ec68",
+    "title": "Stereoselective Glycosylation\nof Amides with Glycal\nCatalyzed by a Solid\u2013Liquid Phase-Transfer and Proton-Transfer\nDual-Functional Pyridinium Catalyst",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17350/5443696/Stereoselective-Glycosylation-of-Amides-with",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>2-Deoxyglycosylamides have great potential for biochemical\napplications,\nbut their streamlined synthesis remains underexplored. Herein, 2-pentafluorophenylpyridinium\ntetrafluoroborate was designed for highly stereoselective glycosylation\nof amides with glycals. Besides the challenging substrates like glucals,\nthe method also works well with previously unexplored 6-deoxy-sugars,\nincluding rhamnals, xylals, and arabinals, and is additionally suitable\nfor glycosylation of complex bioactive peptides. Experiments have\nrevealed this new catalyst\u2019s unique phase-transfer and proton-transfer\ndual functionality by identifying reaction intermediates and products,\nas well as determining reaction kinetics and KIEs. The experimental\nevidence combined with DFT calculations led to the conclusion that\nglycals accept a proton from the catalyst to form oxocarbenium intermediates\nthat are then nucleophilically attacked by amides from an equatorial\ndirection, thereby explaining the high stereoselectivity that this\nmethod exhibits.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "3979a2b1fc404a4e",
+    "title": "Engineering\nMetal Pyrazolate Coordination Polymers\nfor Highly Selective Direct Air Capture via Metal\u2013Ligand Cooperativity\nand Moisture-Gated Mechanism",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15929/5443691/Engineering-Metal-Pyrazolate-Coordination-Polymers",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Direct air capture\n(DAC) of CO<sub>2</sub> has emerged as an indispensable\nnegative emission technology, yet current sorbents remain constrained\nby the persistent trade-off between intrinsic capture capacity and\nregeneration energy alongside the extrinsic challenge of atmospheric\nmoisture inhibition. Herein, engineering of crystalline and thermally\nstable alkali metal pyrazolate coordination polymers (<strong>M</strong><sup><strong>R</strong></sup><strong>Pyr</strong>) is established as a novel\nparadigm for the metal\u2013ligand cooperative (MLC), moisture-gated,\nand highly selective capture of CO<sub>2</sub> from ambient air streams.\nWhile inert in low-humidity air, activation of solid-state <strong>M</strong><sup><strong>R</strong></sup><strong>Pyr</strong> by atmospheric moisture\nunlocks exceptional CO<sub>2</sub>-capture capacities (7.4\u20139.2\nmmol/g) and realizes a substantial CO<sub>2</sub>:pyrazolate stoichiometry\n(0.83\u20130.89) through formation of metal carbamate (<strong>M</strong><sup><strong>R</strong></sup><strong>Carbamate</strong>). To elucidate the\noperative mechanism, crystallographic snapshots and <span style=\"font-style: italic;\">in</span>/<span style=\"font-style: italic;\">ex situ</span> spectroscopic analyses unveil that MLC\nhydration of <strong>K</strong><sup><strong>Me</strong></sup><strong>Pyr</strong> yielding <strong>K</strong><sup><strong>Me</strong></sup><strong>Pyr</strong>\u00b7<strong>H</strong><sub><strong>2</strong></sub><strong>O</strong> triggers\na substantial structural rearrangement from a compact double-ladder\nchain into an expanded zig-zag architecture. This moisture-gated transformation\nrelieves steric shielding and unleashes intrinsic nucleophilicity\nof pyrazolate ligands to initiate CO<sub>2</sub> capture via a thermodynamically\nfavored displacement of bound water. Finally, quantitative regeneration\nof <strong>M</strong><sup><strong>R</strong></sup><strong>Pyr</strong> from CO<sub>2</sub>-saturated <strong>M</strong><sup><strong>R</strong></sup><strong>Carbamate</strong> adducts and demonstrated multiple-cycle recyclability under a temperature-vacuum\nswing adsorption process position the robust <strong>M</strong><sup><strong>R</strong></sup><strong>Pyr</strong> platform as a paradigm-shifting class\nof sorbents for sustainable DAC applications.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "ff7213bd33f8b3b2",
+    "title": "Redox-Active Bipyridine\u2013Iron\nHalf-Sandwich\nComplexes for Catalytic Carbene Transfer",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12059/5443690/Redox-Active-Bipyridine-Iron-Half-Sandwich",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Redox-active ligands are well established for enabling\nopen-shell\nreactivity in first-row transition-metal catalysis. Despite the privileged\nrole of 2,2\u2032-bipyridine (bpy) ligands in homogeneous catalysis,\nbpy-supported half-sandwich organoiron complexes have remained essentially\nunexplored. Here we report the synthesis and characterization of a\npreviously elusive family of half-sandwich iron complexes, (\u03b7<sup>5</sup>-C<sub>5</sub>Me<sub>5</sub>)Fe(bpy)(X) (X = Cl, Br), and\ntheir application in catalytic carbene transfer. Single-electron reduction\naffords a low-valent 17-electron complex best described as having\na predominantly Fe(II)/bpy<sup>\u2022\u2013</sup> electronic structure.\nIn contrast to classical (\u03b7<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)Fe(CO)<sub>2</sub> (Fp)-type iron systems that mainly engage in\ntwo-electron reactivity, the redox-active bpy\u2013(\u03b7<sup>5</sup>-C<sub>5</sub>Me<sub>5</sub>)Fe platform undergoes homolytic\nbond activation, including halogen-atom transfer from benzylic <span style=\"font-style: italic;\">gem</span>-dihalides. Leveraging this open-shell reactivity, catalytic\ncyclopropanation of styrenes and related alkenes was achieved using <span style=\"font-style: italic;\">gem</span>-dihalides as carbene precursors and manganese as terminal\nreductant. These findings establish bpy-supported half-sandwich iron\ncomplexes as a structurally tunable, non-heme platform for catalytic\ncarbene transfer reactivity.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "839f3cd4c8d11364",
+    "title": "Chirality-Induced\nOne-Way Magnetoresistance in Gold\nNanocrystals",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08887/5443665/Chirality-Induced-One-Way-Magnetoresistance-in",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Magnetoresistance\n(MR), a cornerstone for quantum materials and\nquantum devices, is usually symmetric (sometimes antisymmetric) under\nmagnetic field reversal. Here, we report a chirality-induced one-way\nmagnetoresistance (ChiMR) in gold nanocrystals, where MR is strongly\namplified, up to several tens of fold, under a small magnetic field\n(30 mT), but vanished under the opposite field, yielding a diode-like\nmagnetic response at room temperature. The preferred direction of\nChiMR is dictated by the nanocrystal handedness, which reverses for\nopposite enantiomers. We show that chirality and a magnetic field\njointly reshape the nanocrystal surface potential, giving rise to\nChiMR. This effect demonstrates that chirality can break the conventional\nsymmetry of magnetotransport, introducing a new degree of freedom\nfor controlling the magnetic response. Our findings establish ChiMR\nas a distinct magnetotransport phenomenon, identify chiral nanocrystals\nas a platform for directional quantum electronic functionalities,\nand open new opportunities for magnetic field-mediated control in\nchiral systems across electronics, catalysis, and biological processes.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "608d78d5f91efa64",
+    "title": "Electrochemical\nHydroformylation with a Homogeneous\nRhodium Catalyst",
+    "link": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15582/5443656/Electrochemical-Hydroformylation-with-a",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrochemical hydroformylation\nis an attractive pathway to synthesize\naldehydes at ambient conditions using electrons sourced from renewable\nenergy as a reductant instead of hydrogen gas sourced from energy-intensive\nsteam methane reforming. However, previously reported electrochemical\nhydroformylation systems have shown limited rates and selectivities\nusing heterogeneous catalysts, motivating continued development. In\nthis work, we report a homogeneously catalyzed system that achieved\na maximum partial current density of 1.1 \u00b1 0.1 mA cm<sup>\u20132</sup> and a Faradaic efficiency of 29 \u00b1 1% toward the conversion\nof styrene to 2-phenylpropanal at 5 bar CO and 25 \u00b0C. Infrared\nand UV-visible spectroscopies suggested that the initial Rh<sub>2</sub>Cl<sub>2</sub>(CO)<sub>4</sub> precatalyst undergoes pressure-dependent\nspeciation to Rh(I)\u2013CO species in the presence of CO. Kinetic\nexperiments revealed a complex mechanism in which the rate-determining\nstep likely shifts between electron transfer, substrate coordination,\nand Rh\u2013H bond cleavage in different substrate concentration\nand overpotential regimes. Looking forward, the insight from this\nwork informs future strategies to improve the rate and selectivity\nof electrochemical hydroformylation and other electrochemical C\u2013C\nbond formation reactions.</span>",
+    "journal": "Journal of the American Chemical Society ASAP"
+  },
+  {
+    "id": "d1719dddfd50b747",
+    "title": "Engineering magnetic soft materials for biomedical applications",
+    "link": "https://www.nature.com/articles/s41578-026-00963-x",
+    "content": "<p>Nature Reviews Materials, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41578-026-00963-x\">doi:10.1038/s41578-026-00963-x</a></p>Magnetic soft materials combine magnetic responsiveness with mechanical compliance, enabling wireless actuation, sensing and navigation in complex biological environments. This Review links materials and mechanisms to device function and clinical translation across wearable, ingestible, implantable and interventional systems.",
+    "journal": "Nature Reviews Materials"
+  },
+  {
+    "id": "8d51f89fa4ffecfa",
+    "title": "Location, location, location: how to edit genes only in the cells you want",
+    "link": "https://www.nature.com/articles/d41586-026-03037-8",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03037-8\">doi:10.1038/d41586-026-03037-8</a></p>Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
+    "journal": "Nature"
+  },
+  {
+    "id": "eb51dd7fafe2713f",
+    "title": "\u2018Learning about physics changed my life\u2019: author Hernan Diaz on his new novel <i>Ply</i>",
+    "link": "https://www.nature.com/articles/d41586-026-03057-4",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03057-4\">doi:10.1038/d41586-026-03057-4</a></p>The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum physics in fiction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6c30b5c48c146941",
+    "title": "How to respond to hate speech without fuelling it further",
+    "link": "https://www.nature.com/articles/d41586-026-03058-3",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03058-3\">doi:10.1038/d41586-026-03058-3</a></p>Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react.",
+    "journal": "Nature"
+  },
+  {
+    "id": "10d40fdfed5d0f14",
+    "title": "Stunning fossil shows dinosaurs\u2019 distinctive path to flight",
+    "link": "https://www.nature.com/articles/d41586-026-03126-8",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03126-8\">doi:10.1038/d41586-026-03126-8</a></p>A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.",
+    "journal": "Nature"
+  },
+  {
+    "id": "af560bad205f8164",
+    "title": "Nature has rights \u2014 it is time the world recognized them",
+    "link": "https://www.nature.com/articles/d41586-026-03145-5",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03145-5\">doi:10.1038/d41586-026-03145-5</a></p>Existing legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cf9d188e9a2d91d2",
+    "title": "Can you name the women who have won a science Nobel prize?",
+    "link": "https://www.nature.com/articles/d41586-026-03133-9",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03133-9\">doi:10.1038/d41586-026-03133-9</a></p>Take Nature\u2019s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2a335248f1ee622f",
+    "title": "Von Neumann\u2019s party",
+    "link": "https://www.nature.com/articles/d41586-026-02976-6",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02976-6\">doi:10.1038/d41586-026-02976-6</a></p>A tricky question.",
+    "journal": "Nature"
+  },
+  {
+    "id": "71397c9555581b10",
+    "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+    "link": "https://www.nature.com/articles/d41586-026-02769-x",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02769-x\">doi:10.1038/d41586-026-02769-x</a></p>One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a796097b700869b1",
+    "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+    "link": "https://www.nature.com/articles/d41586-026-02564-8",
+    "content": "<p>Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02564-8\">doi:10.1038/d41586-026-02564-8</a></p>Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
+    "journal": "Nature"
+  },
+  {
+    "id": "859b5acbad00fb20",
+    "title": "Retraction Note: Ribosomal frameshifting in the <i>CCR5</i> mRNA is regulated by miRNAs and the NMD pathway",
+    "link": "https://www.nature.com/articles/s41586-026-11149-4",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11149-4\">doi:10.1038/s41586-026-11149-4</a></p>Retraction Note: Ribosomal frameshifting in the <i>CCR5</i> mRNA is regulated by miRNAs and the NMD pathway",
+    "journal": "Nature"
+  },
+  {
+    "id": "ccaca6720a4f5b78",
+    "title": "A black hole\u2019s jets have a halo effect",
+    "link": "https://www.nature.com/articles/d41586-026-03036-9",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03036-9\">doi:10.1038/d41586-026-03036-9</a></p>Observations confirm jets\u2019 expected effect on the gas cloud that surrounds a galaxy.",
+    "journal": "Nature"
+  },
+  {
+    "id": "200a54ef1b084232",
+    "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
+    "link": "https://www.nature.com/articles/d41586-026-03119-7",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03119-7\">doi:10.1038/d41586-026-03119-7</a></p>With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2135dfaefdcc115c",
+    "title": "\u2018Vibe coding\u2019 makes the dictionary: AI terms recognized by Merriam-Webster",
+    "link": "https://www.nature.com/articles/d41586-026-03044-9",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03044-9\">doi:10.1038/d41586-026-03044-9</a></p>\u2018Agentic\u2019, \u2018prompt engineering\u2019 and other technical terms are among the 1,400 entries added to the online catalogue of the iconic lexicon.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3ec2d8335ef5ea3d",
+    "title": "The \u2018missed disease\u2019 that affects 190 million: endometriosis drug shows early promise",
+    "link": "https://www.nature.com/articles/d41586-026-03042-x",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03042-x\">doi:10.1038/d41586-026-03042-x</a></p>Modified medication targets the cells implicated in the condition\u2019s tell-tale lesions.",
+    "journal": "Nature"
+  },
+  {
+    "id": "382d3ee4cb1a317b",
+    "title": "Gaze into the cosmos and through the eyes of a bee \u2014 September\u2019s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-03101-3",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03101-3\">doi:10.1038/d41586-026-03101-3</a></p>The month\u2019s sharpest science shots, selected by Nature\u2019s photo team.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7e25546c42f62f1a",
+    "title": "Battle of the Anthropocene: allegations re-ignite row over proposed geological epoch",
+    "link": "https://www.nature.com/articles/d41586-026-03118-8",
+    "content": "<p>Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03118-8\">doi:10.1038/d41586-026-03118-8</a></p>Researchers say that a vote to reject the epoch violated procedure and call for transparency.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0f467d4824ff2f67",
+    "title": "These optical illusions are why butterflies are so hard to catch",
+    "link": "https://www.nature.com/articles/d41586-026-03124-w",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03124-w\">doi:10.1038/d41586-026-03124-w</a></p>High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to catch.",
+    "journal": "Nature"
+  },
+  {
+    "id": "2f855981c5eca36e",
+    "title": "Who\u2019s the loudest of them all? The bare-throated bellbird vies for the prize",
+    "link": "https://www.nature.com/articles/d41586-026-03038-7",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03038-7\">doi:10.1038/d41586-026-03038-7</a></p>The bellbird\u2019s extra-large gape helps it to achieve pneumatic-drill-level volume.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4347ea763efa3842",
+    "title": "Is exposomics the key to making personalized medicine a reality?",
+    "link": "https://www.nature.com/articles/d41586-026-02958-8",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02958-8\">doi:10.1038/d41586-026-02958-8</a></p>Scientists say tailored disease treatments require a comprehensive assessment of a person\u2019s lifelong environmental exposures.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3b7aa8b52f72d37c",
+    "title": "Daily briefing: How to save corals from the El Ni\u00f1o",
+    "link": "https://www.nature.com/articles/d41586-026-03138-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03138-4\">doi:10.1038/d41586-026-03138-4</a></p>Scientists are trying to help coral reefs survive record ocean temperatures. Plus, the aftermath of a deadly attack on Ukraine\u2019s National Academy of Sciences and whether it\u2019s OK to dodge small talk.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7b24ca7e23d67b40",
+    "title": "The super El Ni\u00f1o is cooking coral reefs \u2014 can lullabies and probiotics save them?",
+    "link": "https://www.nature.com/articles/d41586-026-02965-9",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02965-9\">doi:10.1038/d41586-026-02965-9</a></p>Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
+    "journal": "Nature"
+  },
+  {
+    "id": "7cd98aa8d48b6b65",
+    "title": "This award-winning microscopy image used AI \u2014 igniting controversy in a prestigious competition",
+    "link": "https://www.nature.com/articles/d41586-026-03086-z",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03086-z\">doi:10.1038/d41586-026-03086-z</a></p>Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ed28c7a97046e4fd",
+    "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
+    "link": "https://www.nature.com/articles/d41586-026-02777-x",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02777-x\">doi:10.1038/d41586-026-02777-x</a></p>An ultrathin semiconductor that conducts electricity using positively charged \u2018holes\u2019 might clear the way for next-generation electronic devices.",
+    "journal": "Nature"
+  },
+  {
+    "id": "910b1407539039c3",
+    "title": "Elena, Aris, Marcus: AI-generated \u2018ghosts\u2019 are polluting the scientific literature",
+    "link": "https://www.nature.com/articles/d41586-026-02991-7",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02991-7\">doi:10.1038/d41586-026-02991-7</a></p>The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d4a5d35733efafe0",
+    "title": "Tuberculosis treatment has advanced \u2014 now we need to stop drug resistance dragging us backwards",
+    "link": "https://www.nature.com/articles/d41586-026-02963-x",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02963-x\">doi:10.1038/d41586-026-02963-x</a></p>The next major advancement in TB might not be a new drug, but a better understanding of how and why resistance to medicines emerges.",
+    "journal": "Nature"
+  },
+  {
+    "id": "31ea917217812d18",
+    "title": "Sugar amplifies antibiotic disruption of gut microbes",
+    "link": "https://www.nature.com/articles/d41586-026-02782-0",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02782-0\">doi:10.1038/d41586-026-02782-0</a></p>People who underwent stem-cell transplantation and ate sugar-rich food had disrupted communities of gut microorganisms during antibiotic treatment.",
+    "journal": "Nature"
+  },
+  {
+    "id": "882aec57ac57e629",
+    "title": "How did Earth get its water? Inside the extreme machine seeking answers",
+    "link": "https://www.nature.com/articles/d41586-026-02978-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02978-4\">doi:10.1038/d41586-026-02978-4</a></p>The Z machine in New Mexico generates shockwaves that can simulate conditions deep inside our planet.",
+    "journal": "Nature"
+  },
+  {
+    "id": "c43dcd79f23a4cdc",
+    "title": "Harmful tau spreads like self-propagating prion proteins",
+    "link": "https://www.nature.com/articles/d41586-026-02778-w",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02778-w\">doi:10.1038/d41586-026-02778-w</a></p>Structural studies support the idea that fibrillized tau protein, a feature of neurodegenerative disorders, acts as a prion-like template to induce misfolding in healthy tau.",
+    "journal": "Nature"
+  },
+  {
+    "id": "4fa25d938953356f",
+    "title": "Beware sham scientific societies: the research community must be more vigilant",
+    "link": "https://www.nature.com/articles/d41586-026-03047-6",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03047-6\">doi:10.1038/d41586-026-03047-6</a></p>As AI content makes bad actors harder to spot, scrutiny of organizations must increase without reducing trust.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8a0a60b73396b58e",
+    "title": "AI \u2018speech clock\u2019 assesses how fast you\u2019re ageing from your voice",
+    "link": "https://www.nature.com/articles/d41586-026-03106-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03106-y\">doi:10.1038/d41586-026-03106-y</a></p>The pitch and emotional content of your speech are important predictors of accelerated ageing, researchers find.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b64d7fea5b50c890",
+    "title": "The buck stops with me",
+    "link": "https://www.nature.com/articles/d41586-026-02863-0",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02863-0\">doi:10.1038/d41586-026-02863-0</a></p>A note to self.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1402d6e6a3a4e9ff",
+    "title": "Secret watermark labels proteins as \u2018made by AI\u2019",
+    "link": "https://www.nature.com/articles/d41586-026-03033-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03033-y\">doi:10.1038/d41586-026-03033-y</a></p>An innovative safeguard could help to flag proteins devised by artificial-intelligence tools such as AlphaFold, but the digital marker can be erased.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f21a79d50ef80621",
+    "title": "Pipework problems when cancer spreads to an area bordering the brain",
+    "link": "https://www.nature.com/articles/d41586-026-02783-z",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02783-z\">doi:10.1038/d41586-026-02783-z</a></p>Analysis of cancer growing adjacent to the brain reveals that bone-eroding cells interfere with lymphatic drainage vessels and hinder anti-tumour immune responses.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fbb115b3929e0f28",
+    "title": "How to spend $25 billion on science: OpenAI\u2019s staggeringly rich research charity gets under way",
+    "link": "https://www.nature.com/articles/d41586-026-03015-0",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03015-0\">doi:10.1038/d41586-026-03015-0</a></p>Jacob Trefethen, who leads life sciences at the OpenAI Foundation, speaks to Nature about the organization\u2019s ambition to cure disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "f802298463878c74",
+    "title": "I turn up late to meetings to dodge small talk. Am I wrong?",
+    "link": "https://www.nature.com/articles/d41586-026-02201-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02201-4\">doi:10.1038/d41586-026-02201-4</a></p>A jury weighs in on whether a latecomer is simply using their time efficiently or disrespecting their colleagues.",
+    "journal": "Nature"
+  },
+  {
+    "id": "fc8d122bcb851ec2",
+    "title": "Restoring hearing in people with a rare form of deafness",
+    "link": "https://www.nature.com/articles/d41586-026-02894-7",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02894-7\">doi:10.1038/d41586-026-02894-7</a></p>How a decades-long quest led to the first gene therapy for deafness caused by a mutation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "1a42a7183167d3d3",
+    "title": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption",
+    "link": "https://www.nature.com/articles/s41586-026-11077-3",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11077-3\">doi:10.1038/s41586-026-11077-3</a></p>Avoiding a diet rich in simple sugars during treatment with antibiotics may mitigate microbiota disruption.",
+    "journal": "Nature"
+  },
+  {
+    "id": "5522747dec530a59",
+    "title": "Type 2 immune history trains lung macrophages for viral disease tolerance",
+    "link": "https://www.nature.com/articles/s41586-026-11060-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11060-y\">doi:10.1038/s41586-026-11060-y</a></p>Type 2 inflammation trains nerve- and airway-associated macrophages to confer disease tolerance against lethal influenza by limiting immunopathology and promoting tissue repair without enhancing viral clearance.",
+    "journal": "Nature"
+  },
+  {
+    "id": "3e84edec2f4bf90d",
+    "title": "Global mangrove distribution on the open coast is controlled by waves",
+    "link": "https://www.nature.com/articles/s41586-026-11089-z",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11089-z\">doi:10.1038/s41586-026-11089-z</a></p>A process-driven mangrove presence or absence model using 20\u2009years of open-source wave data shows that wave conditions are critical in determining where mangroves grow worldwide.",
+    "journal": "Nature"
+  },
+  {
+    "id": "61c3246f3de285d4",
+    "title": "X-ray liquidography decodes complex motions in azobenzene isomerization",
+    "link": "https://www.nature.com/articles/s41586-026-11068-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11068-4\">doi:10.1038/s41586-026-11068-4</a></p>Time-resolved X-ray liquidography films the structural changes of azobenzene during trans-to-cis isomerization in solution with atomic-level precision.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d5a37b290e539c07",
+    "title": "Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+    "link": "https://www.nature.com/articles/s41586-026-11087-1",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11087-1\">doi:10.1038/s41586-026-11087-1</a></p>By being restricted to target regions by MLLT1\u2013MLLT3 occupancy, activation-induced deaminase activity is able to avoid most off-target mutagenesis during B cell somatic hypermutation.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e2355f108b6d254e",
+    "title": "Carbene transfer from thianthrenium ylides for cyclopropanation",
+    "link": "https://www.nature.com/articles/s41586-026-11108-z",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11108-z\">doi:10.1038/s41586-026-11108-z</a></p>Thianthrenium ylides can be used as a general platform for metal\u2013carbene generation and transfer, including cyclopropanation, \u03c3-bond insertion and sigmatropic rearrangements.",
+    "journal": "Nature"
+  },
+  {
+    "id": "05bc23f3fa835205",
+    "title": "An amygdala to anterior hypothalamic circuit gates stress sensitivity",
+    "link": "https://www.nature.com/articles/s41586-026-11075-5",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11075-5\">doi:10.1038/s41586-026-11075-5</a></p>The anterior hypothalamic nucleus regulates negative valence in the brain, highlighting a new pathway that controls sensitivity to stressful events and signposting approaches to identify new circuit interactions relevant to mental health.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b515396c855c0779",
+    "title": "Dynamic protrusions mediate crawling motility in Asgard archaea",
+    "link": "https://www.nature.com/articles/s41586-026-11063-9",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11063-9\">doi:10.1038/s41586-026-11063-9</a></p>Anoxic live-cell imaging shows actin-dependent crawling motility and dynamic protrusions in Asgard archaea, providing insights into cellular innovations that may have contributed to eukaryotic evolution.",
+    "journal": "Nature"
+  },
+  {
+    "id": "791406cba7583cc1",
+    "title": "Osteoclasts intercept meningeal lymphatic paths for dural metastasis",
+    "link": "https://www.nature.com/articles/s41586-026-11082-6",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11082-6\">doi:10.1038/s41586-026-11082-6</a></p>Osteoclast-derived angiopoietin-2 in the dura mater impairs lymphatic vessel function and weakens anti-tumour immunity against dural metastases, which offers new therapeutic approaches to restore meningeal lymphatic function through selective osteoclast targeting.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d1703c07c0acf523",
+    "title": "Population-scale immune multiome atlas reveals regulatory disease mechanisms",
+    "link": "https://www.nature.com/articles/s41586-026-11078-2",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11078-2\">doi:10.1038/s41586-026-11078-2</a></p>Population-scale simultaneous profiling of chromatin accessibility and gene expression across immune cells reveals regulatory architectures that connect genetic variants to disease.",
+    "journal": "Nature"
+  },
+  {
+    "id": "25117182080891ed",
+    "title": "Human genetics implicates a BACH2\u2013NRF2 axis in fetal haemoglobin activation",
+    "link": "https://www.nature.com/articles/s41586-026-11113-2",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11113-2\">doi:10.1038/s41586-026-11113-2</a></p>BACH2 restrains activation of the fetal-haemoglobin-encoding \u03b3-globin genes, while loss of BACH2 enhances NRF2 chromatin occupancy and promotes the formation of activation foci at the \u03b3-globin genes.",
+    "journal": "Nature"
+  },
+  {
+    "id": "b52f5a6076988696",
+    "title": "Prion-like transmission of human tau strains in the mouse brain",
+    "link": "https://www.nature.com/articles/s41586-026-11061-x",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11061-x\">doi:10.1038/s41586-026-11061-x</a></p>Mouse experiments show that Alzheimer\u2019s disease and corticobasal degeneration tau filaments retain their distinct structures during templated seeding, supporting strain-specific tau propagation and disease modelling.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e2faae6a3991e00e",
+    "title": "Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+    "link": "https://www.nature.com/articles/s41586-026-11047-9",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11047-9\">doi:10.1038/s41586-026-11047-9</a></p>A dual-precursor chemical system is used to achieve wafer-scale epitaxy growth of boron carbon nitride, a high-performance p-type semiconductor, for potential integration in efficient 2D materials for electronics.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e0e984929621d4f3",
+    "title": "Written in development and lost in ageing: the grammar of cellular identity",
+    "link": "https://www.nature.com/articles/s41586-026-10955-0",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10955-0\">doi:10.1038/s41586-026-10955-0</a></p>Ageing reflects progressive decanalization of mammalian cell identity, driven by erosion of a regulatory grammar written during development.",
+    "journal": "Nature"
+  },
+  {
+    "id": "46e67531f541c079",
+    "title": "Transcription pause and elongation regulators mediate somatic hypermutation",
+    "link": "https://www.nature.com/articles/s41586-026-11092-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11092-4\">doi:10.1038/s41586-026-11092-4</a></p>The molecular factors and mechanisms that mediate the chromatin recruitment of activation-induced deaminase and the generation of its stalled polymerase\u2009II substrate during somatic hypermutation are identified.",
+    "journal": "Nature"
+  },
+  {
+    "id": "66921a7b72ac03ef",
+    "title": "GPCR antagonism via rewiring of receptor trafficking and degradation",
+    "link": "https://www.nature.com/articles/s41586-026-11088-0",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11088-0\">doi:10.1038/s41586-026-11088-0</a></p>A strategy for functional G-protein-coupled receptor (GPCR) antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation is reported.",
+    "journal": "Nature"
+  },
+  {
+    "id": "6dc40e3eac0efbec",
+    "title": "\u03b3\u03b4 T cell receptor dependencies define a unique immunosurveillance modality",
+    "link": "https://www.nature.com/articles/s41586-026-11076-4",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11076-4\">doi:10.1038/s41586-026-11076-4</a></p>Tissue-resident \u03b3\u03b4 T cells mount rapid, innate-like stress responses that require \u03b3\u03b4 T cell receptor signalling, revealing lineage-specific receptor dependence that underpins their conserved roles in immunosurveillance and informs therapeutic deployment.",
+    "journal": "Nature"
+  },
+  {
+    "id": "d36f635f3880480c",
+    "title": "Spatiotemporal clonal architecture of the newborn mouse forebrain",
+    "link": "https://www.nature.com/articles/s41586-026-11064-8",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11064-8\">doi:10.1038/s41586-026-11064-8</a></p>Clonal barcoding across the newborn mouse forebrain reveals developmental principles whereby glutamatergic neurons and astrocytes remain locally derived, whereas widely dispersed GABAergic (\u03b3-aminobutyric acid-producing) lineages link neurons with oligodendrocyte precursor cells.",
+    "journal": "Nature"
+  },
+  {
+    "id": "bd0d48ffade1a4e7",
+    "title": "Scalable decision-making for games of imperfect information",
+    "link": "https://www.nature.com/articles/s41586-026-11036-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11036-y\">doi:10.1038/s41586-026-11036-y</a></p>Ataraxos, an AI for the board wargame Stratego, establishes a design pattern for reinforcement learning and search that is effective under large amounts of hidden information, a longstanding desideratum of the field of strategic decision-making.",
+    "journal": "Nature"
+  },
+  {
+    "id": "ca2c12fa6631d0d2",
+    "title": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod",
+    "link": "https://www.nature.com/articles/s41586-026-11090-6",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11090-6\">doi:10.1038/s41586-026-11090-6</a></p>New anatomical evidence reclassifies Westlothiana as an aquatic stem tetrapod, showing that terrestrial limb adaptations evolved mosaically in transitional amphibious environments before crown tetrapods emerged.",
+    "journal": "Nature"
+  },
+  {
+    "id": "a16c0924c2ab015d",
+    "title": "Butterfly wing patterns in flight create powerful illusory motion cues",
+    "link": "https://www.nature.com/articles/s41586-026-11062-w",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11062-w\">doi:10.1038/s41586-026-11062-w</a></p>Butterfly wing patterns and flight dynamics work in tandem to create powerful visual illusions that confuse predators, potentially representing one of the most successful visual defence strategies in moving animals.",
+    "journal": "Nature"
+  },
+  {
+    "id": "cde8e294b4acdc43",
+    "title": "Self-aligned optical microcomb emerging between octave-separated lasers",
+    "link": "https://www.nature.com/articles/s41586-026-11086-2",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11086-2\">doi:10.1038/s41586-026-11086-2</a></p>An architectural inversion shifts integrated optical frequency comb generation from outward broadening around a central pump to filling the spectrum between two octave-separated pumps through a self-aligned parametrically driven cavity soliton, enabling robust self-referencing for future deployable on-chip frequency and time metrology.",
+    "journal": "Nature"
+  },
+  {
+    "id": "0ec6be9c8b38aee0",
+    "title": "Function-preserving watermarking of AI-generated proteins",
+    "link": "https://www.nature.com/articles/s41586-026-10965-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10965-y\">doi:10.1038/s41586-026-10965-y</a></p>SynthIDBio watermarks AI-generated protein sequences and structures while preserving function, enabling provenance detection and offering a proof-of-concept tool for biosecurity and information integrity.",
+    "journal": "Nature"
+  },
+  {
+    "id": "8f967c211266a9e3",
+    "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation",
+    "link": "https://www.nature.com/articles/s41586-026-11093-3",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11093-3\">doi:10.1038/s41586-026-11093-3</a></p>Proteomic and phosphoproteomic analyses of lysosomes identify a nutrient-independent regulatory arm of mTORC1 signalling that mediates lysosomal adaptation to stress and whose deregulation underlies tumorigenesis in follicular lymphoma.",
+    "journal": "Nature"
+  },
+  {
+    "id": "e43d9753718729a5",
+    "title": "A two-hit mechanism triggers autoimmune hair loss",
+    "link": "https://www.nature.com/articles/s41586-026-11098-y",
+    "content": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11098-y\">doi:10.1038/s41586-026-11098-y</a></p>Immune dysregulation and physiological neural activation converge to trigger autoimmune alopecia.",
+    "journal": "Nature"
+  },
+  {
+    "id": "9b524be5d8513b6b",
+    "title": "Daily briefing: Vaping has \u2018alarming\u2019 risks for children",
+    "link": "https://www.nature.com/articles/d41586-026-03122-y",
+    "content": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03122-y\">doi:10.1038/d41586-026-03122-y</a></p>Vaping in childhood comes with bigger health risks than we thought. Plus, chemists can\u2019t seem to ditch hazardous solvents and whether apocalyptic claims about AI are a dangerous distraction.",
+    "journal": "Nature"
+  },
+  {
+    "id": "738b31e4af66947b",
+    "title": "Single-stripe magnetic order and bilayer spin dynamics in single-crystalline La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>",
+    "link": "https://www.nature.com/articles/s41563-026-02768-3",
+    "content": "<p>Nature Materials, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41563-026-02768-3\">doi:10.1038/s41563-026-02768-3</a></p>Momentum-resolved neutron scattering of a mosaic of single crystals of La3Ni2O7, a parent compound of nickelate superconductors, is reported. The magnetic behaviour of these nickelate crystals is distinct from that of cuprates and furthers our understanding of the origin of superconductivity in this class of materials.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "de2b9ffda21d1e8d",
+    "title": "Polarization vortices in a ferromagnetic metal via twistronics",
+    "link": "https://www.nature.com/articles/s41563-026-02755-8",
+    "content": "<p>Nature Materials, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41563-026-02755-8\">doi:10.1038/s41563-026-02755-8</a></p>Polar topological states are realized in stacked and twisted 10-nm-thick metallic ferromagnetic SrRuO3 membranes, and their emergence is attributed to flexoelectric effects arising from shear strain gradients.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "8e85ace61c7e7af9",
+    "title": "Ionic feedback enables programmable event-driven organic photosensing",
+    "link": "https://www.nature.com/articles/s41563-026-02762-9",
+    "content": "<p>Nature Materials, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41563-026-02762-9\">doi:10.1038/s41563-026-02762-9</a></p>An organic mixed ionic\u2013electronic photosensor is developed that converts changes in illumination into transient current spikes and uses ion-mediated inhibition to program their amplitude. This in-sensor amplitude\u2013temporal coding preserves motion-relevant information before readout, enabling spatial event weighting and energy-efficient neuromorphic visual processing in device-informed simulations.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "1bbfc1f081d19df5",
+    "title": "Amplitude-controllable event-driven organic photosensors based on ionic-mediated inhibition",
+    "link": "https://www.nature.com/articles/s41563-026-02747-8",
+    "content": "<p>Nature Materials, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41563-026-02747-8\">doi:10.1038/s41563-026-02747-8</a></p>Conventional photosensors typically require multitransistor architecture to achieve fast temporal response and adaptive sensory gain to mimic biological vision. An organic mixed ionic\u2013electronic photosensor is developed to enable temporal-contrast detection and analogue amplitude control within a single active layer, realizing efficient event-driven neuromorphic vision.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "5d8db729a4063c25",
+    "title": "Probing orbital occupation at atomic resolution",
+    "link": "https://www.nature.com/articles/s41563-026-02760-x",
+    "content": "<p>Nature Materials, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41563-026-02760-x\">doi:10.1038/s41563-026-02760-x</a></p>A real-space method of measuring electron linear dichroism provides atomic column-resolved information on orbital occupancy, which is key to understanding strain and charge transfer effects at defects and interfaces.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "253250df69f7c0b9",
+    "title": "Controllable gene delivery via masked adeno-associated viral vectors",
+    "link": "https://www.nature.com/articles/s41563-026-02724-1",
+    "content": "<p>Nature Materials, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41563-026-02724-1\">doi:10.1038/s41563-026-02724-1</a></p>Masked adeno-associated viruses are developed that remain inactive until they are unmasked by disease-related signals or near-infrared light, enabling localized gene delivery to the liver, muscle, brain and injured heart in mice.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "63b2bf8ca5643171",
+    "title": "Adaptive integration of bioelectronics",
+    "link": "https://www.nature.com/articles/s41563-026-02771-8",
+    "content": "<p>Nature Materials, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41563-026-02771-8\">doi:10.1038/s41563-026-02771-8</a></p>Future bioelectronics depend not only on developing and improving device functions, but also on designing materials and delivery strategies that adapt to living environments.",
+    "journal": "Nature Materials"
+  },
+  {
+    "id": "d139c68370601fa5",
+    "title": "A crystalline uranium Fischer-type carbyne",
+    "link": "https://www.nature.com/articles/s41557-026-02260-0",
+    "content": "<p>Nature Chemistry, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41557-026-02260-0\">doi:10.1038/s41557-026-02260-0</a></p>Transition metal Fischer carbynes are a foundational class of organometallic complex, but isolating f-element analogues is challenging. Now a uranium Fischer-type carbyne complex that exhibits a \u03c32\u03c01\u03c01 triple-bond interaction has been synthesized, expanding the known bonding modes of diazomethanediides and paving the way for f-element carbyne chemistry.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "ee4fcd719d4a3778",
+    "title": "The many lives of a universal solvent",
+    "link": "https://www.nature.com/articles/s41557-026-02254-y",
+    "content": "<p>Nature Chemistry, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02254-y\">doi:10.1038/s41557-026-02254-y</a></p>Yasir Raouf examines how dimethyl sulfoxide (DMSO), a deceptively simple molecule, spans organic chemistry, cryobiology, medicine, and drug discovery. Diverse applications emerge from its highly polarized sulfur\u2013oxygen bond and sterically protecting methyl groups.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "8dd478b0d18912b9",
+    "title": "Bug bites",
+    "link": "https://www.nature.com/articles/s41557-026-02255-x",
+    "content": "<p>Nature Chemistry, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02255-x\">doi:10.1038/s41557-026-02255-x</a></p>Is it chemistry or culture that dictates whether an insect is seen as a food delicacy or a contaminant? Michelle Francl wonders whether ants belong on her spice shelf.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "52d0a1a8644674dc",
+    "title": "Linking vibrational energetics to carbon isotope separation in CO<sub>2</sub> electrolysis",
+    "link": "https://www.nature.com/articles/s41557-026-02262-y",
+    "content": "<p>Nature Chemistry, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02262-y\">doi:10.1038/s41557-026-02262-y</a></p>Electrochemical isotope separation offers an alternative to conventional energy-intensive separation processes, but the mechanism underpinning 13C enrichment is unclear. Now, a relationship is established between catalyst design and isotopologue enrichment in CO2 electrolysis, in a step towards a predictive and scalable strategy for carbon-isotope separation.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "299c6f82421bccb3",
+    "title": "Molecular engineering stabilizes the commensurate charge density wave state in 1T-TaS<sub>2</sub>/arginine hybrid superlattices",
+    "link": "https://www.nature.com/articles/s41557-026-02241-3",
+    "content": "<p>Nature Chemistry, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02241-3\">doi:10.1038/s41557-026-02241-3</a></p>Manipulating and stabilizing correlated quantum states in 1T-TaS2 remain key challenges. Now it has been shown that the commensurate charge density wave stability temperature can be elevated to 330\u2009K via arginine intercalation, establishing a chemically tunable hybrid-superlattice strategy for tailoring correlated states and electronic orders in van der Waals materials.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "6ebf0d29d1e9fb53",
+    "title": "Deep reduction in electrosynthesis",
+    "link": "https://www.nature.com/articles/s41557-026-02249-9",
+    "content": "<p>Nature Chemistry, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02249-9\">doi:10.1038/s41557-026-02249-9</a></p>Deep electrochemical reduction offers a safe and sustainable route to reduction potentials beyond the reach of many conventional reagents. In this Review, the authors detail how these conditions can enable new reactivity and transformations, and strategies to mitigate the challenges of extreme reducing environments.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "e690a5afb2798090",
+    "title": "Unmasking phenylalanine interactions through bioorthogonal decaging",
+    "link": "https://www.nature.com/articles/s41557-026-02277-5",
+    "content": "<p>Nature Chemistry, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02277-5\">doi:10.1038/s41557-026-02277-5</a></p>Phenylalanine has a hydrocarbon side chain that is difficult to chemically modulate. Now, a bioorthogonal strategy is developed in which this side chain is caged with iodine and selectively decaged by a palladium species. This approach enables on-demand control of hydrophobic and \u03c0 interactions in cells and at the cell surface.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "d00379e69a53b4c7",
+    "title": "Avoiding the path of LIESST resistance",
+    "link": "https://www.nature.com/articles/s41557-026-02259-7",
+    "content": "<p>Nature Chemistry, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/s41557-026-02259-7\">doi:10.1038/s41557-026-02259-7</a></p>Access to long-lived light-induced states in earth-abundant transition-metal chromophores is desirable but hard to achieve. Now, enhanced metal\u2013ligand covalency has been shown to increase the lifetime of the photomagnetic high-spin state in a manganese photoswitch.",
+    "journal": "Nature Chemistry"
+  },
+  {
+    "id": "e4ef5988715385d1",
+    "title": "Thermo-electrical coupling-induced thermal runaway evolution, multphysical failure and dynamic warning strategy of large-format LiFePO<sub>4</sub> batteries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405829726007051?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 October 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Junjie Yang, Zhipeng Ling, Jiahao Wang, Boyu Chen, Li Li, Chaoling Han, Zhirong Wang, Junling Wang</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials"
+  },
+  {
+    "id": "2a7cfa1578da11dd",
+    "title": "Amphiphilic\nMoS 2  Nanosheet-Enhanced Salt-Tolerant\nAlkyl Polyether Sulfonate Surfactant Flooding System for Interfacial\nRegulation and Enhanced Oil Recovery Performance",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03749/5444149/Amphiphilic-MoS2-Nanosheet-Enhanced-Salt-Tolerant",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The complex ionic environment in high-salinity reservoirs\ncan weaken\nsurfactant adsorption at oil\u2013water interfaces and compromise\ninterfacial film stability, limiting the effectiveness of chemical\nflooding systems for residual-oil mobilization. To improve the oil-displacement\nperformance of salt-tolerant surfactant systems, two alkyl polyether\nsulfonate surfactants with different alkyl chains and polyether structures\n(CX1 and CX2) were used to construct a mixed surfactant system. Amphiphilically\nmodified MoS<sub>2</sub> nanosheets were introduced to investigate\ntheir synergistic effects on interfacial behavior, wettability alteration,\nemulsion stability, and enhanced oil recovery performance. The results\nshowed that the CX1/CX2 = 5:5 mass ratio exhibited favorable interfacial\nactivity in simulated formation water containing Ca<sup>2+</sup> and\nMg<sup>2+</sup>. The addition of 0.01 wt % MoS<sub>2</sub> further\nreduced the interfacial tension to 1.49 \u00d7 10<sup>\u20133</sup> mN/m and increased the interfacial storage modulus and loss modulus.\nMeanwhile, MoS<sub>2</sub> addition reduced water separation, inhibited\ndroplet coalescence, and improved droplet-size distribution stability.\nContact-angle measurements demonstrated enhanced wettability alteration,\nwith the contact angle decreasing from 38.87\u00b0 to 28.76\u00b0\nafter MoS<sub>2</sub> addition. Core-flooding experiments showed that\nrepeated surfactant injection produced only 1.19% incremental oil\nrecovery, whereas the surfactant\u2013MoS<sub>2</sub> composite\nsystem achieved an additional recovery of 6.10% with a final oil recovery\nof 56.10%. The enhanced oil-displacement performance was attributed\nto the synergistic effects of interfacial film strengthening, wettability\nalteration, emulsion stabilization, and residual-oil mobilization.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "ebb51ba5f5cafb29",
+    "title": "Ex-Situ  CO 2  Mineralization:\nBridging Laboratory Science and Industrial Reality. Part II: Techno-Economics,\nLife-Cycle Assessment, and Market-Driven Deployment Strategies",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c02947/5444144/Ex-Situ-CO2-Mineralization-Bridging-Laboratory",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div><span style=\"font-style: italic;\">Ex-situ</span> CO<sub>2</sub> mineralization\nis moving\nfrom laboratory demonstration toward early commercial deployment,\nbut gigaton-scale implementation requires credible economics, favorable\nlife-cycle performance, real product markets, and standards-based\nverification. This second part of a two-part review examines the techno-economic,\nenvironmental, market, policy, and certification dimensions of the\ntechnology. Processing costs for industrial-residue systems are approximately\n$30 to $80 per ton of CO<sub>2</sub> on a cradle-to-gate basis for\nfacilities colocated with the CO<sub>2</sub> source, excluding CO<sub>2</sub> capture and product credits, at a nominal 100 ktCO<sub>2</sub>/year scale and $0.08/kWh electricity; costs outside these boundary\nconditions differ substantially and are reported separately throughout.\nRevenue from carbonated aggregates, supplementary cementitious materials,\nprecipitated calcium carbonate, and carbon-removal credits can offset\na significant portion of these costs. Net carbon-removal efficiencies\nrange from approximately 50% to 95% across pathways, a spread driven\nprincipally by feedstock activation demand and grid carbon intensity\nrather than by carbonation chemistry; residue-based systems integrating\nrenewable energy typically achieve 75% to 95%, whereas activation-intensive\nnatural silicate routes remain more energy sensitive. Commercial operators\n(CarbonFree, Fortera, Neustark, Greenore) stand at TRL 7\u20139\nalongside earlier-stage ventures, with combined <span style=\"font-style: italic;\">nameplate</span> capacity of approximately 70\u201390 ktCO<sub>2</sub>/year and\nindependently verified delivered volumes that are substantially lower.\nConstruction materials are the primary near-term market, with demand\nfor low-carbon aggregates and cement additives growing rapidly. A\nbottom-up buildup of operational and publicly announced projects places\n2030 capacity at approximately 0.4\u20135 MtCO<sub>2</sub>/year.\nReaching the 1\u20132 GtCO<sub>2</sub>/year that IPCC-consistent\ncarbon-removal portfolios would assign to mineralization by 2050 requires\nsustained capacity growth of 38\u201343% per year for two decades\nand a cumulative capital of approximately $0.2\u20130.7 trillion\nfor the mineralization system. Gigaton-scale deployment is therefore\npresented as a conditional scenario with explicitly stated preconditions,\nnot as a forecast. Policy mechanisms, including enhanced 45Q credits,\nEU Innovation Fund support, and emerging carbon-removal procurement\nprograms, are catalyzing investment.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "ee9b3753e843b58c",
+    "title": "An Updated\nWeighted-Sum-of-Gray-Gases Model for Radiation\nCalculation of H 2 /NH 3  Flames in High-Pressure\nConditions",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.6c03909/5443704/An-Updated-Weighted-Sum-of-Gray-Gases-Model-for",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Developing zero-carbon energy systems fueled by hydrogen\nand ammonia\nis crucial for modern aerospace propulsion. As operational temperatures\nfrequently exceed 1000 \u00b0C, thermal radiation becomes the dominant\nheat transfer mechanism. Furthermore, elevated operating pressures\n(up to 20 bar) trigger intense collisional broadening and significantly\nincrease the overall optical thickness. Traditional radiative models\ninadequately characterize these environments by neglecting the substantial\nradiative contribution of unburned NH<sub>3</sub>. To overcome such\nlimitations, a novel pressure-dependent weighted-sum-of-gray-gases\n(WSGG) model incorporating a variable total radiation gas concentration\nis developed specifically for estimating the radiation of H<sub>2</sub>/NH<sub>3</sub> flames in high-pressure conditions. With its parameters\noptimized via sequential quadratic programming (SQP), the proposed\nmodel is rigorously validated against benchmark line-by-line (LBL)\ncalculations across isothermal, nonisothermal, and nonhomogeneous\nconditions. The updated WSGG framework demonstrates exceptional accuracy,\nmaintaining average relative errors firmly within 10%. Ultimately,\nthe newly developed model provides a highly reliable and efficient\nmethod for evaluating radiative heat transfer characteristics of zero-carbon\nfuels under engine-like conditions.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "82f012304a3817b8",
+    "title": "Characterization\nof Formation Deformation during Production\nTest from Gas Hydrate in Alaska: A Distributed Fiber Optic Sensing\nApproach",
+    "link": "https://pubs.acs.org/enfuem/article/doi/10.1021/acs.energyfuels.5c05708/5443674/Characterization-of-Formation-Deformation-during",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Reliable monitoring of geomechanical responses is essential\nfor\nthe safe and sustainable production of gas hydrate reservoirs. This\nstudy reports the first field-scale application of distributed strain\nsensing (DSS) during a 10 month extended gas production test on Alaska\u2019s\nNorth Slope. DSS cables installed in production and monitoring wells\ncontinuously captured axial and bending strain at high spatial resolution,\ndirectly linking depressurization to formation deformation. The observations\nrevealed compressive strain within the hydrate-bearing interval and\ntensile strain in the surrounding layers, consistent with stress redistribution\npreviously predicted by geomechanical simulations. After the transition\nfrom electric submersible pump (ESP) to jet-pump operation, localized\nbending strain became evident, suggesting possible casing\u2013cement\ndeformation. Interwell measurements further demonstrated strain propagation\nand physically consistent attenuation away from the production well.\nIntegrated analysis indicated that inward casing\u2013cement deflection\nduring depressurization could have a greater contribution to the measured\nstrain than reservoir compaction and that plastic strain may have\ndeveloped in the cement where the DSS cable was embedded. This finding\nemphasizes the need for integrated validation with numerical simulations\nand additional testing to improve the current quantitative assessment\nof reservoir deformation, which remains subject to uncertainty. Overall,\nthis study provides the first long-term, field-scale evidence of stress\nredistribution in hydrate-bearing sediments, establishing DSS as a\npromising monitoring technology and offering critical insights for\nreservoir simulation, geomechanical risk assessment, and the future\ncommercial deployment of methane hydrate production systems.</span>",
+    "journal": "Energy & Fuels ASAP"
+  },
+  {
+    "id": "82284b8f537d5cf6",
+    "title": "Understanding the Role of Lithium Metal Microstructure in Chemo-Mechanical Instability of Solid-State Batteries",
+    "link": "https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c02372/5444140/Understanding-the-Role-of-Lithium-Metal",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Increased energy density and safety relative to conventional lithium (Li)-ion batteries motivate the development of solid-state batteries (SSBs). However, maintaining interface stability at the metal anode\u2013solid electrolyte (SE) interface remains a critical challenge to achieving practical areal capacities, especially during stripping/discharge. Here, a mesoscale model informed by atomistic simulations is employed to examine void formation at the Li metal\u2013SE interface during discharge/stripping. The model reveals how void-formation-driven interfacial contact loss behavior depends on the microstructural properties of the polycrystalline Li anode. In agreement with prior studies, Li microstructures with small grain sizes promote self-diffusion-induced void healing and generally exhibit better interfacial contact. We further show the effect of operating conditions, such as applied pressure, stripping current density, and temperature, on the stripping performance for different Li microstructures. Through this study, we shed light on the importance of taking microstructural features into account in predicting interfacial contact evolution during stripping of Li metal SSBs.</span>",
+    "journal": "ACS Energy Letters ASAP"
+  },
+  {
+    "id": "7aa06a2554cfe454",
+    "title": "A Hybrid Phosphate\u2013Ether Electrolyte for High-Temperature and High-Safety 18650 Cylindrical Sodium-Ion Batteries",
+    "link": "https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c02299/5444139/A-Hybrid-Phosphate-Ether-Electrolyte-for-High",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Sodium-ion batteries (SIBs) for grid-scale energy storage require electrolytes with high-temperature durability and intrinsic safety. Here, we report a nonflammable triethyl phosphate/tetrahydrofuran (TEP/THF) hybrid electrolyte for high-temperature SIBs. Weakly coordinating THF increases anion participation in the Na<sup>+</sup> solvation structure, promoting robust inorganic-rich interphases on both electrodes, while its low viscosity accelerates Na<sup>+</sup> transport, enabling fast ion kinetics and stable interfacial chemistry. As a result, Prussian blue||hard carbon full cells exhibit good rate capability and retain 76.0% capacity after 500 cycles at 80 \u00b0C, and 18650 cylindrical cells maintain 80.6% capacity after 300 cycles at 80 \u00b0C. Nail-penetration tests show no combustion or smoke, with a peak temperature of only 88.9 \u00b0C. Moreover, the electrolyte also supports stable cycling of layered oxide cathodes at 80 \u00b0C. This work provides a viable electrolyte design strategy for high-temperature and high-safety SIBs.</span>",
+    "journal": "ACS Energy Letters ASAP"
+  },
+  {
+    "id": "70f607cbb3a3c831",
+    "title": "Modeling Approaches for Polymer-Based Electrolytes in Advanced Batteries: Bridging Processing, Structure, and Performance",
+    "link": "https://pubs.acs.org/aelccp/article/doi/10.1021/acsenergylett.6c02246/5443805/Modeling-Approaches-for-Polymer-Based-Electrolytes",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Polymer-based electrolytes are increasingly important in advanced batteries because of their structural tunability, mechanical compliance, and compatibility with diverse electrode and cell architectures. Their behavior depends on transport, interfacial, mechanical, and structural processes that span multiple scales and are shaped by formulation and processing history. This Perspective examines how modeling can be applied to polymer-based electrolyte systems in batteries and introduces a framework based on modeling objective, modeling basis, characteristic scale or data level, and degree of process coupling. Battery-relevant ionogel studies are used to map current modeling emphases and underrepresented directions, while polymer-electrolyte-containing composite electrodes illustrate challenges associated with process-generated microstructure and multifunctional polymer phases. Broader gaps are identified in material-state definition, experiment-model information transfer, structural representation, and process coupling. Progress therefore depends not simply on adding isolated models but on developing transparent, experimentally anchored workflows that establish testable links among formulation, processing, structure, transport, and battery-relevant performance.</span>",
+    "journal": "ACS Energy Letters ASAP"
+  },
+  {
+    "id": "7f36a1a9cea16818",
+    "title": "Ethynyl/Thienyl-Functionalized Porphyrin Complexes as High-Performance Cathodes for Electrochemical Energy Storage",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02635/5444148/Ethynyl-Thienyl-Functionalized-Porphyrin-Complexes",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Organic molecules are promising candidates for next-generation energy storage; however, it still faces challenges of high solubility and low electronic conductivity. Here, we propose two functionalized porphyrin complexes, [5,15-bis(2-thienyl)\u201310,20-bis(5-ethynyl-2-thienyl)porphinato]copper(II) (CuDET4P) and its metal-free analogue DET4P, as high-performance cathodes for lithium organic batteries. The introduction of ethynyl and thienyl substituents effectively suppresses active material dissolution, thereby enhancing cycling stability. CuDET4P delivers a high stabilized reversible capacity of 216 mAh g<sup>\u20131</sup> after 100 cycles, with a maximum capacity of 221 mAh g<sup>\u20131</sup> at the 69th cycle, while DET4P exhibits a lower reversible capacity of 180 mAh g<sup>\u20131</sup> under comparable conditions. Remarkably, at a high current density of 1 A g<sup>\u20131</sup>, both cathodes maintain excellent long-term stability, with capacity retentions of 89.1% and 88.2% for CuDET4P and DET4P, respectively, over 500 cycles. Furthermore, copper coordination is found to significantly boost rate capability, making CuDET4P a superior performer. This study demonstrates that the synergistic effects of ethynyl and thienyl functionalization, combined with metal ion coordination, offer a promising molecular design strategy for developing durable and high-energy organic electrodes.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "565e7cc7e65e0b47",
+    "title": "Engineering Biomass-Derived Carbon Nanomaterial Interfaces for Green Hydrogen Technologies",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02124/5444101/Engineering-Biomass-Derived-Carbon-Nanomaterial",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Green hydrogen is essential for decarbonizing the energy sector, its widespread application is still constrained by the cost, durability, and efficiency of hydrogen production and storage technologies. Biomass-derived carbon nanomaterials have shown promise as interfacial materials because of their controllable surface chemistry, hierarchical porosity, defect-rich frameworks, and tunable electronic structure. Despite the rapid progress in catalyst development, the mechanistic role of biomass-derived carbon interfaces in governing electrochemical and adsorption processes remains insufficiently understood. This review presents an interface-centric framework that links hydrogen-energy performance to biomass precursor selection, synthesis techniques, structural evolution, and interfacial features. We systematically examine how controlled pyrolysis, hydrothermal processing, activation, defect engineering, and heteroatom doping regulate key interfacial descriptors, including adsorption energetics, charge-transfer resistance, electrochemically accessible active-site density, and transport dynamics. These descriptors are subsequently linked to the performance of biomass-derived carbon interfaces in the hydrogen evolution process, oxygen evolution reaction, hybrid catalyst architectures, photoelectrochemical systems, hydrogen storage, and practical electrolyzers. The focus is placed on dynamic interfacial phenomena, including electronic coupling, hierarchical transport, catalyst\u2013support interactions, and interface reconstruction under operating conditions, which collectively govern activity, stability, and scalability. This review establishes a unified structure\u2013interface\u2013performance framework that provides quantitative design principles for next-generation biomass derived carbon materials for hydrogen production, storage, and utilization.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "24024b8920001f6f",
+    "title": "Multifunctional Boron Nitride/Sodium Alginate Lamellar Membranes for Robust Osmotic Energy Harvesting and Thermal Management",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02234/5444064/Multifunctional-Boron-Nitride-Sodium-Alginate",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Osmotic energy, derived from salinity-gradient-driven mixing, is a clean renewable resource that may help address energy and environmental challenges. Ion-exchange membranes incorporating two-dimensional (2D) materials are attractive for reverse electrodialysis, yet manufacturing large-area membranes with low transport resistance remains challenging. In this work, 2D boron nitride (BN)/sodium alginate (SA) composite membranes are fabricated through polymer-assisted ball-milling exfoliation and doctor-blade casting; subsequent Ca<sup>2+</sup>-induced ionic crosslinking of SA is used to strengthen their stability in water. The as-prepared membranes possess a mesoscopic lamellar architecture that supports ion migration. At a BN content of 50 wt %, the composite membrane achieves a thermal conductivity of 24.1 W m<sup>\u20131</sup> K<sup>\u20131</sup> and an elastic modulus of 4.1 GPa. Under a 50-fold salinity gradient, a single membrane device delivers a peak output power of 3753 nW with a device-level internal resistance of approximately 450 \u03a9. The membrane also retains osmotic power generation across the tested temperature (1.5\u201336 \u00b0C) and pH (2\u201312) windows. Overall, this study establishes a scalable route to multifunctional BN/SA composite membranes and broadens their potential use in osmotic energy harvesting and related ion-transport applications.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "bb6bdc9f1b620705",
+    "title": "Dotted Mn 3 O 4 -Decorated MnO 2  Composites: Fabrication, Interfacial Characteristics, and Multivalent Mn Charge-Storage Behavior",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02414/5444020/Dotted-Mn3O4-Decorated-MnO2-Composites-Fabrication",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>To address the issues of insufficient conductivity, slow reaction kinetics, and limited cycling stability associated with pure MnO<sub>2</sub> electrode materials, this study used MnO<sub>2</sub> as a precursor to prepare MnO<sub>2</sub>/Mn<sub>3</sub>O<sub>4</sub> composite electrode materials through a subsequent compositing process and investigated their supercapacitor performance. The results show that M2@M4-30, prepared with an optimized reaction time, exhibits the best electrochemical performance, with a specific capacitance of 212.5 F g<sup>\u20131</sup> at 0.2 A g<sup>\u20131</sup> and 175.0 F g<sup>\u20131</sup> at 10 A g<sup>\u20131</sup>, corresponding to a capacitance retention of approximately 82.4%. After 10,000 cycles, the electrode retained 92.86% of its initial capacitance. The performance enhancement is primarily attributed to the dotted loading of Mn<sub>3</sub>O<sub>4</sub> on the MnO<sub>2</sub> surface, the formation of the MnO<sub>2</sub>/Mn<sub>3</sub>O<sub>4</sub> heterointerface, and the multivalent environment of Mn<sup>2+</sup>, Mn<sup>3+</sup>, and Mn<sup>4+</sup>. Specifically, the dotted loading structure helps keep the active areas exposed, the heterointerface promotes interfacial charge transfer, and the multivalent Mn states endow the composite system with richer reversible redox activity. The assembled M2@M4-30//AC asymmetric supercapacitor achieves an energy density of 31.6 Wh kg<sup>\u20131</sup> at a power density of 180.0 W kg<sup>\u20131</sup>, demonstrating significant application potential.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "1b476475e6876640",
+    "title": "Tailoring the Hydrogen-Bond Network via a Universal Additive Approach for Low-Temperature Alkaline Zinc/Ferricyanide Flow Batteries",
+    "link": "https://pubs.acs.org/aaemcq/article/doi/10.1021/acsaem.6c02042/5444034/Tailoring-the-Hydrogen-Bond-Network-via-a",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Although alkaline zinc/ferricyanide flow batteries (AZFFBs) perform well under ambient conditions, their low-temperature operation is severely limited by the freezing of aqueous electrolytes and the resulting deterioration of ion transport and reaction kinetics. At low temperatures, the extensive hydrogen-bond (H-bond) network among H<sub>2</sub>O molecules promotes the formation of an ordered frozen phase, leading to sluggish electrochemical kinetics. Herein, we report a cryogenic electrolyte formulated with potassium acetate (KAc) and urea as additives. The strong interactions between the additives and H<sub>2</sub>O molecules effectively break the original H-bonding network, thereby lowering the freezing-point while preserving high ionic conductivity even at extremely low temperatures. Density functional theory calculations combined with spectroscopic analyses reveal that KAc acts as a strong H-bonding acceptor and urea as a strong H-bonding donor. They synergistically disrupt the tetrahedral H-bonding network among H<sub>2</sub>O molecules. The optimized electrolyte (0.9 M KAc and 4.0 M urea, denoted as K.U.) achieves a substantially depressed freezing-point of \u201318.9 \u00b0C and retains excellent fluidity at \u201320 \u00b0C without any precipitation. Electrochemical measurements confirm that the additives do not compromise the redox activity of the [Fe(CN)<sub>6</sub>]<sup>3\u2013/4\u2013</sup> couple, which maintains good reversibility even at \u201320 \u00b0C. By virtue of the disrupted H-bonding network and enhanced ionic conductivity, AZFFBs using the K.U. catholyte exhibit outstanding low-temperature performance. At \u201320 \u00b0C and 20 mA cm<sup>\u20132</sup>, the AZFFB operated stably for more than 2500 cycles (&gt;1200 h), delivering average coulombic efficiency, voltage efficiency, and energy efficiency values of 99.8%, 88.3%, and 88.1%, respectively, with 83.2% capacity retention after 2500 cycles. This synergistic additive strategy, which relies on precise modulation of the H-bonding network, offers a general pathway toward high-performance cryogenic electrolytes and significantly facilitates the practical deployment of AZFFBs in cold climates.</span>",
+    "journal": "ACS Applied Energy Materials ASAP"
+  },
+  {
+    "id": "1d3a9a0d571c8e91",
+    "title": "Triboelectric-Plasma-Driven Reversible In Situ Modulation of Graphene Synaptic Devices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007664?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 3 October 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Haoran Ruan, Jinxing Wang, Junmeng Guo, Wanyu Shang, Rongmei Wen, Zuliang Du, Gang Cheng</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "9f2e9b695e2f549d",
+    "title": "Defect Engineering Enables Humidity-Tolerant Crystallization for Efficient and Stable Perovskite Solar Cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007676?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 October 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Zhiyuan Zhang, Pujie Shi, Yuanyuan Niu, Aoke Wang, Li Lei, Haiyan Chen, Jialong Duan, Qunwei Tang, Benlin He</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
+  },
+  {
+    "id": "5ff10124010b304d",
+    "title": "Ultrahigh-Performance Implantable Sono-Piezoelectric Nanogenerators Based on Core@Dendritic Shell Ferroelectric Nanocomposites for Battery-Free and Wireless-Powered Bioelectronics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007640?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 October 2026</p><p><b>Source:</b> Nano Energy</p><p>Author(s): Xu Cai, Rongjie Ma, Lang Shuai, Guoyu Ou, Yalun Wang, Xiaohan Tao, Dexin Yang, Lei Zhang, Yijing Nie, Yingxin Chen</p>",
+    "journal": "ScienceDirect Publication: Nano Energy"
   }
 ]
