@@ -3,6 +3,12 @@ import json
 import os
 import hashlib
 
+# Some publishers (Science, ACS, Wiley) reject the default feedparser user agent
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
 # Configuration
 FEED_LIST_FILE = "feeds.txt"
 CACHE_DIR = "cache"
@@ -15,7 +21,7 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 def load_raw_feed_cache():
     if not os.path.exists(RAW_FEED_CACHE):
         return []
-    with open(RAW_FEED_CACHE, "r") as f:
+    with open(RAW_FEED_CACHE, "r", encoding="utf-8") as f:
         try:
             data = json.load(f)
         except json.JSONDecodeError:
@@ -61,7 +67,9 @@ def fetch_all_feeds():
     # Fetch and process each feed
     for feed_url in feeds:
         print(f"Fetching: {feed_url}")
-        parsed = feedparser.parse(feed_url)
+        parsed = feedparser.parse(feed_url, agent=USER_AGENT)
+        if not parsed.entries:
+            print(f"  WARNING: 0 entries (status={parsed.get('status')}, bozo={parsed.get('bozo_exception')})")
         journal_title = parsed.feed.get("title", str(feed_url))
         # Process each entry in the feed
         for entry in parsed.entries:
@@ -95,7 +103,7 @@ def fetch_all_feeds():
 
     # Save new articles to cache (append to existing cache)
     all_entries = existing_entries + new_entries
-    with open(RAW_FEED_CACHE, "w") as f:
+    with open(RAW_FEED_CACHE, "w", encoding="utf-8") as f:
         json.dump(all_entries, f, indent=2)
 
     save_seen_ids(seen_ids)

@@ -1,0 +1,106 @@
+name: Weekly RSS Curation
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"  # Monday 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq pandoc texlive-xetex texlive-latex-recommended fonts-dejavu lmodern > /dev/null
+
+      # ----------------------------------------------------
+      # Fetch, rank with Claude, build the digest
+      # ----------------------------------------------------
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Optional repo variables (Settings > Secrets and variables > Variables)
+          TRIAGE_MODEL: ${{ vars.TRIAGE_MODEL || 'claude-haiku-4-5' }}
+          REVIEW_MODEL: ${{ vars.REVIEW_MODEL || 'claude-sonnet-4-5' }}
+          SCORE_THRESHOLD: ${{ vars.SCORE_THRESHOLD || '6' }}
+          MAX_PAPERS: ${{ vars.MAX_PAPERS || '25' }}
+        run: |
+          python scripts/fetch_feeds.py
+          python scripts/rank_articles.py
+          python scripts/generate_markdown.py
+
+      - name: Convert Markdown to PDF (clickable links)
+        run: |
+          pandoc output/curated_latest.md -o output/curated_latest.pdf \
+            --pdf-engine=xelatex \
+            -V geometry:margin=2cm \
+            -V mainfont="DejaVu Serif" -V sansfont="DejaVu Sans" -V fontsize=10pt \
+            -V colorlinks=true -V urlcolor=blue -V linkcolor=blue
+
+      - name: Archive this week's digest
+        run: cp output/curated_latest.md archive/curated_$(date -u +"%Y%m%d").md
+
+      # ----------------------------------------------------
+      # Email the curated results
+      # ----------------------------------------------------
+      - name: Get date
+        id: date
+        run: echo "d=$(date -u +'%d %b %Y')" >> "$GITHUB_OUTPUT"
+
+      - name: Email results
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.SMTP_PASS }}
+          subject: "Battery literature digest – week of ${{ steps.date.outputs.d }}"
+          to: ${{ secrets.MAIL_RECIPIENT }},larry.brazel@gmail.com
+          from: RSS Agent <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            This week's battery literature digest is attached (titles are clickable links).
+          attachments: output/curated_latest.pdf
+
+      # ----------------------------------------------------
+      # Keep last week's raw articles for review; reset cache
+      # ----------------------------------------------------
+      - name: Rotate raw feed cache
+        run: |
+          if [ -f cache/raw_feeds.json ]; then
+            cp cache/raw_feeds.json archive/raw_feeds_last_week.json
+            rm cache/raw_feeds.json
+          fi
+
+      # ----------------------------------------------------
+      # Commit updates
+      # ----------------------------------------------------
+      - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/elbee99/RSS_Agent.git
+          git add output/ archive/ cache/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Weekly RSS update: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

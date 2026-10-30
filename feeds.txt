@@ -1,56 +1,79 @@
-# Journal of Power Sources
-https://www.sciencedirect.com/journal/journal-of-power-sources
+# --- High-impact general / materials ---
+# Nature
+https://www.nature.com/nature.rss
 
-# Advanced Energy Materials
-http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840
+# Science
+https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
 
+# Science Advances
+https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv
+
+# Nature Energy
+https://www.nature.com/nenergy.rss
+
+# Nature Materials
+https://www.nature.com/nmat.rss
+
+# Nature Chemistry
+https://www.nature.com/nchem.rss
+
+# Nature Nanotechnology
+https://www.nature.com/nnano.rss
+
+# Nature Communications (high volume; triage filters it cheaply)
+https://www.nature.com/ncomms.rss
+
+# Nature Reviews Materials
+https://www.nature.com/natrevmats.rss
+
+# Joule
+https://www.cell.com/joule/inpress.rss
+
+# Chem
+https://www.cell.com/chem/inpress.rss
+
+# --- Chemistry / energy ---
 # Journal of the American Chemical Society
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
 
-# Nature Reviews Materials
-http://feeds.nature.com/natrevmats/rss/current
-
-# Nature
-http://www.nature.com/nature/current_issue/rss
-
-# Energy and Environmental Science
-http://feeds.rsc.org/rss/ee
-
-# Joule
-http://www.cell.com/joule/inpress.rss
-
-# Nature Energy
-http://feeds.nature.com/nenergy/rss/current
-
-# EES Batteries 
-http://feeds.rsc.org/rss/eb
-
-# Nature Materials
-http://www.nature.com/nmat/current_issue/rss/
-
-# Nature Chemistry
-http://www.nature.com/nchem/journal/vaop/ncurrent/rss.rdf
-
-# Energy Storage Materials
-http://rss.sciencedirect.com/publication/science/24058297
-
-# Science
-https://www.science.org/journal/science
-
-# Science Advances
-https://www.science.org/journal/sciadv
-
-# Energy & Fuels
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
+# Chemical Reviews
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay
 
 # ACS Energy Letters
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
 
+# ACS Nano
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3
+
 # ACS Applied Energy Materials
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
 
-# Nano Energy
-https://rss.sciencedirect.com/publication/science/22112855
+# Energy & Fuels
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
+
+# Energy and Environmental Science
+http://feeds.rsc.org/rss/ee
+
+# EES Batteries
+http://feeds.rsc.org/rss/eb
+
+# Advanced Energy Materials
+https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840
+
+# Advanced Materials
+https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-4095
+
+# Angewandte Chemie
+https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3773
 
 # Small Methods
 https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2366-9608
+
+# Journal of Power Sources
+https://rss.sciencedirect.com/publication/science/03787753
+
+# Energy Storage Materials
+https://rss.sciencedirect.com/publication/science/24058297
+
+# Nano Energy
+https://rss.sciencedirect.com/publication/science/22112855
