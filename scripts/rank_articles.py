@@ -1,12 +1,13 @@
 """
 Rank this week's articles with Claude.
 
-Two stages, to keep cost low while being picky:
-  1. TRIAGE  - a cheap model scores every article 0-10 against the rubric.
-  2. REVIEW  - a stronger model re-scores anything that passed triage and writes
-               a short "why it's interesting" note (not a title rephrase).
+Three stages, to keep cost and run time low while being picky:
+  0. PREFILTER - free keyword check; drops articles with no battery terms at all.
+  1. TRIAGE    - a cheap model scores the rest 0-10, many articles per API call.
+  2. REVIEW    - a stronger model re-scores the shortlist and writes a short
+                 "why it's interesting" note (not a title rephrase).
 
-Output: cache/ranked_articles.json (all scored articles, sorted)
+Output: cache/ranked_articles.json (all articles, sorted)
         cache/curated.json         (the filtered list used for the PDF)
 """
 import json
@@ -14,6 +15,7 @@ import os
 import re
 import html
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 import anthropic
 
@@ -21,17 +23,28 @@ RAW_FEED_CACHE = "cache/raw_feeds.json"
 RANKED_CACHE = "cache/ranked_articles.json"
 CURATED_CACHE = "cache/curated.json"
 
-# Models are configurable from the workflow (repo variables) without code changes.
-TRIAGE_MODEL = os.environ.get("TRIAGE_MODEL", "claude-haiku-4-5")
-REVIEW_MODEL = os.environ.get("REVIEW_MODEL", "claude-sonnet-4-5")
+# Models: set TRIAGE_MODEL / REVIEW_MODEL repo variables to override.
+# Otherwise the first available model in each list is used, so a retired
+# model never breaks the run.
+TRIAGE_CANDIDATES = ["claude-haiku-4-5"]
+REVIEW_CANDIDATES = ["claude-sonnet-5-5", "claude-sonnet-5", "claude-sonnet-4-6", "claude-sonnet-4-5"]
 
-# Selection: keep everything scoring >= THRESHOLD, capped at MAX_PAPERS.
-THRESHOLD = float(os.environ.get("SCORE_THRESHOLD", 6))
-MAX_PAPERS = int(os.environ.get("MAX_PAPERS", 25))
-# Triage score an article needs before it gets the (pricier) full review.
-TRIAGE_PASS = float(os.environ.get("TRIAGE_PASS", 4))
+THRESHOLD = float(os.environ.get("SCORE_THRESHOLD") or 6)   # keep score >= this
+MAX_PAPERS = int(os.environ.get("MAX_PAPERS") or 25)         # ...capped at this many
+TRIAGE_PASS = float(os.environ.get("TRIAGE_PASS") or 5)      # triage score needed for full review
+TRIAGE_BATCH = 25                                            # articles per triage call
+WORKERS = 4                                                  # parallel API calls
 
 client = anthropic.Anthropic()
+
+# Articles must mention at least one of these (title + abstract) to be sent to Claude.
+BATTERY_TERMS = re.compile(
+    r"batter|lithium|\bli[- ]?ion|\bli[- ]?metal|\bli[- ]?s\b|sodium[- ]ion|\bna[- ]?ion|"
+    r"potassium[- ]ion|zinc[- ]ion|\bzn[- ]?ion|magnesium[- ]ion|calcium[- ]ion|"
+    r"cathode|anode|electrolyte|electrode|interphase|\bsei\b|\bcei\b|dendrit|plating|"
+    r"intercalat|solid[- ]state|energy storage|state of charge|redox flow",
+    re.IGNORECASE,
+)
 
 RUBRIC = """
 You are screening the battery / electrochemistry literature for a researcher in
@@ -81,12 +94,24 @@ major imaging/operando advance.
 """
 
 TRIAGE_TOOL = {
-    "name": "record_score",
-    "description": "Record the relevance score for one article.",
+    "name": "record_scores",
+    "description": "Record a relevance score for every article in the list.",
     "input_schema": {
         "type": "object",
-        "properties": {"score": {"type": "integer", "minimum": 0, "maximum": 10}},
-        "required": ["score"],
+        "properties": {
+            "scores": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "n": {"type": "integer", "description": "Article number as given."},
+                        "score": {"type": "integer", "minimum": 0, "maximum": 10},
+                    },
+                    "required": ["n", "score"],
+                },
+            }
+        },
+        "required": ["scores"],
     },
 }
 
@@ -120,13 +145,25 @@ def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def call_tool(model, tool, system, user, max_tokens=300):
-    for attempt in range(4):
+def pick_model(env_var, candidates):
+    if os.environ.get(env_var):
+        return os.environ[env_var]
+    for m in candidates:
+        try:
+            client.models.retrieve(m)
+            return m
+        except anthropic.NotFoundError:
+            continue
+    raise RuntimeError(f"None of {candidates} is available; set the {env_var} repo variable.")
+
+
+def call_tool(model, tool, user, max_tokens):
+    for attempt in range(5):
         try:
             resp = client.messages.create(
                 model=model,
                 max_tokens=max_tokens,
-                system=system,
+                system=RUBRIC,
                 tools=[tool],
                 tool_choice={"type": "tool", "name": tool["name"]},
                 messages=[{"role": "user", "content": user}],
@@ -135,42 +172,60 @@ def call_tool(model, tool, system, user, max_tokens=300):
                 if block.type == "tool_use":
                     return block.input
             return None
-        except (anthropic.RateLimitError, anthropic.APIStatusError, anthropic.APIConnectionError) as e:
-            wait = 5 * (attempt + 1)
-            print(f"  API error ({e.__class__.__name__}); retrying in {wait}s")
+        except (anthropic.RateLimitError, anthropic.InternalServerError, anthropic.APIConnectionError) as e:
+            wait = 10 * (attempt + 1)
+            print(f"  {e.__class__.__name__}; retrying in {wait}s")
             time.sleep(wait)
     return None
 
 
-def article_text(a):
-    return (
-        f"Journal: {a.get('journal', '')}\n"
-        f"Title: {clean(a['title'])}\n"
-        f"Abstract: {clean(a.get('content', ''))[:4000] or '(no abstract in feed)'}"
+def article_text(a, abstract_chars=4000):
+    abstract = clean(a.get("content", ""))[:abstract_chars] or "(no abstract in feed)"
+    return f"Journal: {a.get('journal', '')}\nTitle: {clean(a['title'])}\nAbstract: {abstract}"
+
+
+def triage_batch(model, batch):
+    body = "Score each article below.\n\n" + "\n\n".join(
+        f"### Article {i}\n{article_text(a, 1500)}" for i, a in enumerate(batch)
     )
+    out = call_tool(model, TRIAGE_TOOL, body, max_tokens=60 + 25 * len(batch))
+    scores = {s["n"]: s["score"] for s in (out or {}).get("scores", []) if "n" in s}
+    for i, a in enumerate(batch):
+        a["triage_score"] = float(scores.get(i, 0))
+
+
+def review(model, a):
+    out = call_tool(model, REVIEW_TOOL, article_text(a), max_tokens=400)
+    if out:
+        a["score"] = float(out["score"])
+        a["technique"] = out.get("technique", "")
+        a["summary"] = out.get("why_interesting", "")
 
 
 def rank_articles():
     with open(RAW_FEED_CACHE, "r", encoding="utf-8") as f:
         articles = json.load(f)
 
-    print(f"Triage of {len(articles)} articles with {TRIAGE_MODEL}...")
-    for i, a in enumerate(articles):
-        out = call_tool(TRIAGE_MODEL, TRIAGE_TOOL, RUBRIC, article_text(a), max_tokens=50)
-        a["triage_score"] = float(out["score"]) if out else 0.0
-        a["score"] = a["triage_score"]
-        a["summary"], a["technique"] = "", ""
-        if (i + 1) % 50 == 0:
-            print(f"  {i + 1}/{len(articles)}")
+    for a in articles:
+        a.update(triage_score=0.0, score=0.0, summary="", technique="")
 
-    shortlist = [a for a in articles if a["triage_score"] >= TRIAGE_PASS]
-    print(f"Review of {len(shortlist)} shortlisted articles with {REVIEW_MODEL}...")
-    for a in shortlist:
-        out = call_tool(REVIEW_MODEL, REVIEW_TOOL, RUBRIC, article_text(a), max_tokens=400)
-        if out:
-            a["score"] = float(out["score"])
-            a["technique"] = out.get("technique", "")
-            a["summary"] = out.get("why_interesting", "")
+    candidates = [a for a in articles if BATTERY_TERMS.search(a["title"] + " " + clean(a.get("content", "")))]
+    print(f"{len(articles)} articles; {len(candidates)} mention batteries and go to triage.")
+
+    triage_model = pick_model("TRIAGE_MODEL", TRIAGE_CANDIDATES)
+    review_model = pick_model("REVIEW_MODEL", REVIEW_CANDIDATES)
+    print(f"Triage model: {triage_model}  |  Review model: {review_model}")
+
+    batches = [candidates[i:i + TRIAGE_BATCH] for i in range(0, len(candidates), TRIAGE_BATCH)]
+    with ThreadPoolExecutor(WORKERS) as pool:
+        list(pool.map(lambda b: triage_batch(triage_model, b), batches))
+    for a in candidates:
+        a["score"] = a["triage_score"]
+
+    shortlist = [a for a in candidates if a["triage_score"] >= TRIAGE_PASS]
+    print(f"{len(shortlist)} passed triage (>= {TRIAGE_PASS}); reviewing...")
+    with ThreadPoolExecutor(WORKERS) as pool:
+        list(pool.map(lambda a: review(review_model, a), shortlist))
 
     ranked = sorted(articles, key=lambda x: x["score"], reverse=True)
     curated = [a for a in ranked if a["score"] >= THRESHOLD][:MAX_PAPERS]
@@ -180,7 +235,7 @@ def rank_articles():
     with open(CURATED_CACHE, "w", encoding="utf-8") as f:
         json.dump(curated, f, indent=2, ensure_ascii=False)
 
-    print(f"Ranked {len(ranked)} articles. Kept {len(curated)} (score >= {THRESHOLD}, max {MAX_PAPERS}).")
+    print(f"Kept {len(curated)} papers (score >= {THRESHOLD}, max {MAX_PAPERS}).")
     return curated
 
 
