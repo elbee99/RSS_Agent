@@ -70,7 +70,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.SMTP_PASS }}
           subject: "Battery literature digest – week of ${{ steps.date.outputs.d }}"
-          to: ${{ secrets.MAIL_RECIPIENT }},larry.brazel@gmail.com
+          to: ${{ secrets.MAIL_RECIPIENT }}
           from: RSS Agent <${{ secrets.MAIL_USERNAME }}>
           body: |
             This week's battery literature digest is attached (titles are clickable links).
