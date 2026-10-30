@@ -157,25 +157,49 @@ def pick_model(env_var, candidates):
     raise RuntimeError(f"None of {candidates} is available; set the {env_var} repo variable.")
 
 
+# Some newer models reject a forced tool_choice; for those we ask nicely instead.
+NO_FORCED_TOOL = set()
+
+
 def call_tool(model, tool, user, max_tokens):
     for attempt in range(5):
+        forced = model not in NO_FORCED_TOOL
+        kwargs = dict(
+            model=model,
+            max_tokens=max_tokens if forced else max_tokens + 3000,  # room for any thinking
+            system=RUBRIC,
+            tools=[tool],
+            messages=[{"role": "user", "content": user + (
+                "" if forced else f"\n\nRespond only by calling the {tool['name']} tool.")}],
+        )
+        kwargs["tool_choice"] = {"type": "tool", "name": tool["name"]} if forced else {"type": "auto"}
         try:
-            resp = client.messages.create(
-                model=model,
-                max_tokens=max_tokens,
-                system=RUBRIC,
-                tools=[tool],
-                tool_choice={"type": "tool", "name": tool["name"]},
-                messages=[{"role": "user", "content": user}],
-            )
-            for block in resp.content:
-                if block.type == "tool_use":
-                    return block.input
+            resp = client.messages.create(**kwargs)
+        except anthropic.BadRequestError as e:
+            if forced and "tool_choice" in str(e):
+                print(f"  {model} does not allow forced tool use; switching to auto.")
+                NO_FORCED_TOOL.add(model)
+                continue
+            print(f"  BadRequest, skipping article: {e}")
             return None
         except (anthropic.RateLimitError, anthropic.InternalServerError, anthropic.APIConnectionError) as e:
             wait = 10 * (attempt + 1)
             print(f"  {e.__class__.__name__}; retrying in {wait}s")
             time.sleep(wait)
+            continue
+        for block in resp.content:
+            if block.type == "tool_use":
+                return block.input
+        # Fallback: the model answered in text; try to pull out a JSON object.
+        for block in resp.content:
+            if block.type == "text":
+                m = re.search(r"\{.*\}", block.text, re.DOTALL)
+                if m:
+                    try:
+                        return json.loads(m.group(0))
+                    except json.JSONDecodeError:
+                        pass
+        return None
     return None
 
 
@@ -195,8 +219,8 @@ def triage_batch(model, batch):
 
 
 def review(model, a):
-    out = call_tool(model, REVIEW_TOOL, article_text(a), max_tokens=400)
-    if out:
+    out = call_tool(model, REVIEW_TOOL, article_text(a), max_tokens=600)
+    if out and "score" in out:
         a["score"] = float(out["score"])
         a["technique"] = out.get("technique", "")
         a["summary"] = out.get("why_interesting", "")

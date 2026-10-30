@@ -24,7 +24,7 @@ https://www.nature.com/nnano.rss
 https://www.nature.com/ncomms.rss
 
 # Nature Reviews Materials
-https://www.nature.com/natrevmats.rss
+http://feeds.nature.com/natrevmats/rss/current
 
 # Joule
 https://www.cell.com/joule/inpress.rss
@@ -45,12 +45,6 @@ https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
 # ACS Nano
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3
 
-# ACS Applied Energy Materials
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
-
-# Energy & Fuels
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
-
 # Energy and Environmental Science
 http://feeds.rsc.org/rss/ee
 
@@ -69,11 +63,11 @@ https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3773
 # Small Methods
 https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2366-9608
 
-# Journal of Power Sources
-https://rss.sciencedirect.com/publication/science/03787753
-
 # Energy Storage Materials
 https://rss.sciencedirect.com/publication/science/24058297
 
-# Nano Energy
-https://rss.sciencedirect.com/publication/science/22112855
+# --- Removed (high volume, low yield). Uncomment to re-enable ---
+# https://rss.sciencedirect.com/publication/science/03787753   (Journal of Power Sources)
+# https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem   (Energy & Fuels)
+# https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq   (ACS Applied Energy Materials)
+# https://rss.sciencedirect.com/publication/science/22112855   (Nano Energy)

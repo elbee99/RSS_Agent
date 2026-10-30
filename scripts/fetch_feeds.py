@@ -3,7 +3,7 @@ import json
 import os
 import hashlib
 
-# Some publishers (Science, ACS, Wiley) reject the default feedparser user agent
+# Browser-like user agent, used as a fallback for publishers that reject feedparser's
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -67,7 +67,11 @@ def fetch_all_feeds():
     # Fetch and process each feed
     for feed_url in feeds:
         print(f"Fetching: {feed_url}")
-        parsed = feedparser.parse(feed_url, agent=USER_AGENT)
+        # Try feedparser's own user agent first (ACS blocks browser-like agents
+        # from GitHub's servers); fall back to a browser agent if that fails.
+        parsed = feedparser.parse(feed_url)
+        if not parsed.entries:
+            parsed = feedparser.parse(feed_url, agent=USER_AGENT)
         if not parsed.entries:
             print(f"  WARNING: 0 entries (status={parsed.get('status')}, bozo={parsed.get('bozo_exception')})")
         journal_title = parsed.feed.get("title", str(feed_url))
