@@ -1,4 +1,15 @@
-# --- High-impact general / materials ---
+# Journal of Power Sources
+https://www.sciencedirect.com/journal/journal-of-power-sources
+
+# Advanced Energy Materials
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840
+
+# Journal of the American Chemical Society
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
+
+# Nature Reviews Materials
+http://feeds.nature.com/natrevmats/rss/current
+
 # Nature
 https://www.nature.com/nature.rss
 
@@ -15,38 +26,25 @@ https://www.nature.com/nenergy.rss
 https://www.nature.com/nmat.rss
 
 # Nature Chemistry
-https://www.nature.com/nchem.rss
+http://www.nature.com/nchem/journal/vaop/ncurrent/rss.rdf
 
-# Nature Nanotechnology
-https://www.nature.com/nnano.rss
+# Energy Storage Materials
+http://rss.sciencedirect.com/publication/science/24058297
 
-# Nature Communications (high volume; triage filters it cheaply)
-https://www.nature.com/ncomms.rss
+# Science
+https://www.science.org/journal/science
 
-# Nature Reviews Materials
-https://www.nature.com/natrevmats.rss
+# Science Advances
+https://www.science.org/journal/sciadv
 
-# Joule
-https://www.cell.com/joule/inpress.rss
-
-# Chem
-https://www.cell.com/chem/inpress.rss
-
-# --- Chemistry / energy ---
-# Journal of the American Chemical Society
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
-
-# Chemical Reviews
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay
+# Energy & Fuels
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
 
 # ACS Energy Letters
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
 
-# ACS Nano
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3
-
 # ACS Applied Energy Materials
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq
+https://pubs.acs.org/rss/aaemcq/asap.xml
 
 # Energy & Fuels
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=enfuem
