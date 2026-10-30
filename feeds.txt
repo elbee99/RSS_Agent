@@ -33,17 +33,19 @@ https://www.cell.com/joule/inpress.rss
 https://www.cell.com/chem/inpress.rss
 
 # --- Chemistry / energy ---
+# ACS blocks GitHub's servers from its RSS feeds, so ACS journals are
+# fetched from Crossref by ISSN instead (crossref:<ISSN>).
 # Journal of the American Chemical Society
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat
+crossref:0002-7863
 
 # Chemical Reviews
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay
+crossref:0009-2665
 
 # ACS Energy Letters
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp
+crossref:2380-8195
 
 # ACS Nano
-https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3
+crossref:1936-0851
 
 # Energy and Environmental Science
 http://feeds.rsc.org/rss/ee

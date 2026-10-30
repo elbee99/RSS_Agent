@@ -2,6 +2,13 @@ import feedparser
 import json
 import os
 import hashlib
+import urllib.request
+import urllib.parse
+from datetime import datetime, timedelta, timezone
+
+# Crossref is used for publishers (ACS) that block GitHub's servers from their RSS.
+CROSSREF_DAYS = 8
+CROSSREF_UA = "RSS_Agent/1.0 (https://github.com/elbee99/RSS_Agent)"
 
 # Browser-like user agent, used as a fallback for publishers that reject feedparser's
 USER_AGENT = (
@@ -59,6 +66,34 @@ def load_feed_list():
                 feeds.append(stripped)
     return feeds
 
+def fetch_crossref(issn):
+    """Return (journal_title, entries) for articles registered in the last few days."""
+    since = (datetime.now(timezone.utc) - timedelta(days=CROSSREF_DAYS)).strftime("%Y-%m-%d")
+    entries, journal, cursor = [], issn, "*"
+    while True:
+        params = urllib.parse.urlencode({
+            "filter": f"issn:{issn},from-created-date:{since},type:journal-article",
+            "rows": 200, "cursor": cursor,
+            "select": "DOI,title,abstract,URL,container-title",
+        })
+        req = urllib.request.Request(f"https://api.crossref.org/works?{params}",
+                                     headers={"User-Agent": CROSSREF_UA})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            msg = json.load(r)["message"]
+        for it in msg.get("items", []):
+            journal = (it.get("container-title") or [journal])[0]
+            entries.append({
+                "id": "https://doi.org/" + it["DOI"],
+                "title": (it.get("title") or [""])[0],
+                "link": "https://doi.org/" + it["DOI"],
+                "content": it.get("abstract", ""),
+            })
+        if len(msg.get("items", [])) < 200:
+            break
+        cursor = msg.get("next-cursor")
+    return journal, entries
+
+
 def fetch_all_feeds():
     feeds = load_feed_list()
     seen_ids = load_seen_ids()
@@ -67,6 +102,21 @@ def fetch_all_feeds():
     # Fetch and process each feed
     for feed_url in feeds:
         print(f"Fetching: {feed_url}")
+        if feed_url.startswith("crossref:"):
+            try:
+                journal_title, items = fetch_crossref(feed_url.split(":", 1)[1].strip())
+            except Exception as e:
+                print(f"  WARNING: Crossref fetch failed: {e}")
+                continue
+            print(f"  {len(items)} articles from Crossref")
+            for it in items:
+                hashed_id = hash_id(it["id"])
+                if hashed_id in seen_ids:
+                    continue
+                new_entries.append({"id": hashed_id, "title": it["title"], "link": it["link"],
+                                    "content": it["content"], "journal": journal_title})
+                seen_ids.add(hashed_id)
+            continue
         # Try feedparser's own user agent first (ACS blocks browser-like agents
         # from GitHub's servers); fall back to a browser agent if that fails.
         parsed = feedparser.parse(feed_url)

@@ -177,8 +177,9 @@ def call_tool(model, tool, user, max_tokens):
             resp = client.messages.create(**kwargs)
         except anthropic.BadRequestError as e:
             if forced and "tool_choice" in str(e):
-                print(f"  {model} does not allow forced tool use; switching to auto.")
-                NO_FORCED_TOOL.add(model)
+                if model not in NO_FORCED_TOOL:
+                    NO_FORCED_TOOL.add(model)
+                    print(f"  {model} does not allow forced tool use; switching to auto.")
                 continue
             print(f"  BadRequest, skipping article: {e}")
             return None
