@@ -1,35 +1,68 @@
 [
   {
-    "id": "90f588d191048144",
-    "title": "<i>Operando</i>\n                    Time-of-Flight Secondary Ion Mass Spectrometry Reveals Iodine-Mediated Redox Chemistry in Solid-State Li–S Batteries",
-    "link": "https://doi.org/10.1021/acsenergylett.6c02036",
-    "content": "<jats:title>Abstract</jats:title>\n                  <jats:p>Understanding dynamic reaction pathways in all-solid-state batteries remains challenging because electrochemical processes occur at buried solid–solid interfaces and transient intermediates are difficult to detect with conventional analytical techniques. While operando techniques typically probe structural or macroscopic changes, direct detection of reactive species during operation remains experimentally demanding. Here, we introduce a dynamic operando time-of-flight secondary ion mass spectrometry platform that enables continuous chemical analysis of processes in a solid-state battery under electrochemical bias. Using this approach, we directly observe a pronounced increase of the I2– signal during charging of a Li–S composite cathode containing LiI, indicating the formation of elemental iodine. Concurrent changes in the sulfur-containing ion signals suggest the involvement of iodine species in the ongoing redox processes. These results reveal transient, low-concentration species at buried interfaces undetectable by other operando techniques, offering a pathway for identifying reactive intermediates in conversion-type solid-state batteries and related electrochemical systems.</jats:p>",
-    "journal": "ACS Energy Letters",
-    "triage_score": 8.0,
+    "id": "3284e6b7bfc433d4",
+    "title": "Four-dimensional X-ray nano-holotomography reveals multiscale chemomechanics in composite graphite–silicon battery electrodes",
+    "link": "https://www.nature.com/articles/s41565-026-02327-6",
+    "content": "<p>Nature Nanotechnology, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/s41565-026-02327-6\">doi:10.1038/s41565-026-02327-6</a></p>Particle-resolved 4D nano-tomography identifies fast ionic transport pathways as key regulators of electrochemical activity and reversibility in graphite–silicon battery electrodes.",
+    "journal": "Nature Nanotechnology",
+    "triage_score": 10.0,
+    "score": 9.0,
+    "summary": "Particle-resolved time-lapse nano-holotomography on composite graphite–silicon electrodes links local ionic transport pathways to electrochemical activity and reversibility. This gives multiscale chemomechanical heterogeneity (particle-to-particle, network-level) in a commercially relevant composite. Only the abstract teaser was available, so quantitative details are unverified.",
+    "technique": "operando 4D X-ray nano-holotomography"
+  },
+  {
+    "id": "04dd2ddc7665d4b1",
+    "title": "Tracking local chemomechanics in graphite–silicon composite electrodes",
+    "link": "https://www.nature.com/articles/s41565-026-02328-5",
+    "content": "<p>Nature Nanotechnology, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/s41565-026-02328-5\">doi:10.1038/s41565-026-02328-5</a></p>Operando 4D imaging reveals how local ionic pathways govern activity in graphite–silicon battery electrodes.",
+    "journal": "Nature Nanotechnology",
+    "triage_score": 9.0,
     "score": 8.0,
-    "summary": "A dynamic operando ToF-SIMS platform follows a solid-state Li–S cathode under bias. It detects a rising I2– signal on charging in LiI-containing cathodes, which indicates elemental iodine formation. Sulfur ion signals change at the same time, pointing to iodine-mediated redox. The work detects transient, low-concentration species at buried interfaces that other operando methods miss.",
-    "technique": "operando ToF-SIMS"
+    "summary": "Operando 4D imaging of graphite–silicon composite electrodes links local ionic pathways to particle-level activity and chemomechanics. This addresses spatial heterogeneity in a commercially relevant blend. The abstract is brief, so the quantitative findings and exact modality can't be checked.",
+    "technique": "operando 4D imaging (likely X-ray tomography)"
   },
   {
-    "id": "d03c85638de81ef7",
-    "title": "Quantitative Measurement of Li‐Ion Concentration in NCM811 Cathodes via Optimized Electrochemical Strain Microscopy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71201?af=R",
-    "content": "Electrochemical strain microscopy is turned into a quantitative probe of lithium content in NCM811 cathodes. A stiff cantilever suppresses electrostatic artifacts and contact‐potential drift, and the shortened acquisition time makes multi‐particle sampling practical. The calibrated amplitude tracks bulk lithium concentration, resolving inter‐particle state‐of‐charge heterogeneity and classifying three charge states from only four images.\n\n\n\n\n\n\n\n\nABSTRACT\nInter‐particle state‐of‐charge (SOC) heterogeneity governs electrochemical degradation in Ni‐rich layered oxide cathodes, yet quantifying the underlying nanoscale lithium distribution remains inaccessible to bulk‐averaging characterization techniques and impractical for destructive nanoscale probes. Here, a practical process for nanoscale Li‐ion quantification in NCM811 cathodes is established by optimizing the measurement conditions of electrochemical strain microscopy (ESM). Through rational probe selection to suppress electrostatic artifacts and contact potential difference drift sensitivity combined with a markedly reduced acquisition time, a quantitative calibration framework directly correlating pixel‐averaged ESM amplitude with ICP‐MS‐derived bulk Li concentration is constructed. Classification among three SOCs exceeds 90% accuracy with as few as four images per sample. This work establishes multi‐particle ESM imaging as a statistically robust and non‐destructive platform for nanoscale Li‐ion quantification in NCM811 cathodes, with broad applicability across mixed ionic‐electronic conductors in which local Vegard strain arises from ion redistribution.",
-    "journal": "Wiley: Small Methods: Table of Contents",
-    "triage_score": 8.0,
-    "score": 6.0,
-    "summary": "Turns ESM into a calibrated Li-content probe for NCM811: a stiff cantilever suppresses electrostatic and contact-potential artifacts, and faster acquisition allows multi-particle statistics. Pixel-averaged amplitude is calibrated against ICP-MS Li content, and three SOCs are classified with over 90% accuracy from four images. This is ex situ and gives only indirect quantification, but it is a useful methodological step.",
-    "technique": "Electrochemical strain microscopy (AFM-based) with ICP-MS calibration"
-  },
-  {
-    "id": "7e3016aa71d652b8",
-    "title": "Layer Stacking Structure Governed Transition‐Metal Interlayer Migration for Reversible High‐Voltage Oxygen Redox Plateau",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3309393?af=R",
-    "content": "A layer stacking structure governed reversible high‐voltage oxygen redox plateau is unraveled. The P2‐Na0.6Li0.2Mn0.6Ti0.2O2 with ribbon superlattice shows weak control of interlayer TM migration, which results in spontaneously molecular oxygen formation and large voltage hysteresis. The allotropic P3 stacking structure with strong control of interlayer TM migration shows reversible oxygen redox plateau.\n\n\n\n\n\n\n\n\nABSTRACT\nUtilization of lattice oxygen redox electrochemistry is the holy grail for achieving high‐capacity layered cathodes. However, prior to this, the large voltage hysteresis must be overcome. In this work, we uncover a novel scientific nature of layered stacking structure‐governed interlayer transition‑metal migration that substantially modulates the reversibility of the high‐voltage oxygen plateau. It is discovered that a kind of ribbon superlattice can facilitate the reversible high‐voltage oxygen redox plateau in the P3‐Na0.6Li0.2Mn0.6Ti0.2O2 with the oxygen stacking series of “ABBCCA…”, but plays no role in the P2‐Na0.6Li0.2Mn0.6Ti0.2O2 counterpart with the oxygen stacking series of “ABBA…”. Combined with the experiments and theoretical calculations, it is unraveled that the P3 stacking framework can suppress O‐type stacking faults and in turn elevates steric hindrance to the transition metal migration and the formation of molecular oxygen, thus enabling reversible high‐voltage oxygen redox. In contrast, the P2 phase can transform into O2 phase at de‐sodiated state, which accelerates severe interlayer transition metal migration, and triggers in‐plane structural reconstruction and molecular oxygen, leading to loss of high‐voltage plateau. This finding reveals how the layer stacking structure modulates the reversible oxygen redox plateau.",
-    "journal": "Wiley: Angewandte Chemie International Edition: Table of Contents",
+    "id": "1a7f170cbe0ed0de",
+    "title": "Stage‐Specific Pressure Programming Decouples Low‐Pressure Sulfur Reduction From High‐Pressure Interfacial Reconstruction in All‐Solid‐State Lithium–Sulfur Batteries",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75779?af=R",
+    "content": "Stage‐specific pressure programming decouples low‐pressure sulfur reduction from high‐pressure interfacial reconstruction in all‐solid‐state lithium–sulfur batteries. Combining 1 MPa discharge with 180 MPa charge enables 98.8% capacity retention over 100 cycles with 50 wt% sulfur cathodes. This pressure dichotomy offers a route to easing the trade‐off between energy density, cycle life, and stack pressure.\n\n\n\n\n\n\n\n\nABSTRACT\nThe commercialization of all‐solid‐state Li–S batteries (ASSLSBs) remains constrained by the “impossible trinity” between high energy density, long cycle life, and low stack pressure. Here we show that stack pressure is not merely a static mechanical boundary, but a stage‐specific regulator of sulfur conversion and interfacial reconstruction. Using a static pressure‐resistance‐overpotential (P‐R‐η) operational threshold algorithm, low‐stack‐pressure operation is predicted feasible for 50 wt% S cathodes. Further operando electrochemical measurements and multiscale chemical and structural characterizations reveal that 1 MPa discharge promotes Li2S2‐rich interfacial intermediates. However, constant low‐pressure cycling induces progressive pore filling that prolongs charge transport pathways, leading to inactive LiXS accumulation and triphase interfacial contact losses. State‐resolved very‐small‐angle neutron scattering (VSANS) further uncovers a ∼5 nm structural feature that persists after low‐stack‐pressure discharge, which specifically diminishes upon high‐pressure charging. Guided by this mechanism, we implement a pressure‐programmed protocol combining 1 MPa discharge with 180 MPa charge. The resulting cell retains 98.8% of capacity after 100 cycles at 30 °C. This work establishes a dynamic pressure modulation strategy towards alleviating the “impossible trinity” by decoupling the asymmetric pressure‐electrochemical behaviors.",
+    "journal": "Wiley: Advanced Materials: Table of Contents",
     "triage_score": 7.0,
     "score": 6.0,
-    "summary": "Compares P2 and P3 Na0.6Li0.2Mn0.6Ti0.2O2 with the same composition. P3 stacking suppresses O-type stacking faults, which hinders interlayer TM migration and molecular O2 formation, so the high-voltage oxygen plateau stays reversible. P2 transforms to O2 stacking and loses the plateau. This is a useful structure–mechanism link, but the evidence seems to be mostly conventional diffraction, microscopy and DFT.",
-    "technique": "ex situ/in situ XRD, STEM, RIXS/DFT (likely)"
+    "summary": "Shows that stack pressure acts stage-specifically in all-solid-state Li–S cells. Low-pressure cycling fills pores and accumulates inactive LiXS. State-resolved VSANS finds a ~5 nm feature that persists after 1 MPa discharge and disappears on high-pressure charge. This led to a 1 MPa discharge / 180 MPa charge protocol with 98.8% retention over 100 cycles. Mechanistic evidence is partly indirect.",
+    "technique": "state-resolved VSANS, operando pressure/electrochemistry"
+  },
+  {
+    "id": "e22301a92140e8b1",
+    "title": "Transition-Metal-Mediated\nDischarge Intermediates\nSet Anionic-Redox Potentials and Voltage Hysteresis in Li-Rich Cathodes",
+    "link": "https://doi.org/10.1021/jacs.6c17652",
+    "content": "<jats:title>Abstract</jats:title>\n                  <jats:p>Voltage hysteresis arising from anionic redox reactions remains a central bottleneck for lithium-rich cathodes. While ligand-to-metal charge transfer (LMCT) has been invoked to describe the charging pathway, its proposed reverse counterpart, metal-to-ligand charge transfer (MLCT), remains experimentally unresolved during discharge. Here, using cation-disordered rock-salt Li2Ni0.33Ta0.66O3 (LNTO) as a model system, we combine electrochemical relaxation analysis with synchrotron-based spectroscopy to identify, for the first time, a metastable reduction intermediate characterized by Ni(2-δ)+/(O–O)n− during discharge, thereby providing direct experimental validation for the MLCT framework. The discovery of this metastable intermediate demonstrates that discharge proceeds through a two-step electrochemical–chemical pathway, wherein the spontaneous relaxation evolution of the metastable intermediate drives free-energy dissipation and voltage hysteresis. Guided by this picture, Ru substitution was introduced to modulate the cation–anion electronic structure, enabling Ru 4d–O 2p hybridization to generate persistent low-energy hole states that lower the energy of the metastable discharge intermediate and shift O–O dimer reduction to higher potentials. We further show that the discharge intermediate serves as the energetic link through which transition-metal electronic structure governs the effective anionic-redox potential. This work provides a discharge-side thermodynamic framework for understanding and mitigating voltage hysteresis in Li-rich anionic-redox cathodes.</jats:p>",
+    "journal": "Journal of the American\nChemical Society",
+    "triage_score": 8.0,
+    "score": 6.0,
+    "summary": "Claims first experimental evidence of a metastable Ni(2-δ)+/(O–O)n− discharge intermediate (MLCT) in a DRX Li2Ni0.33Ta0.66O3, showing relaxation of this intermediate drives voltage hysteresis. Ru substitution then shifts O–O reduction potential upward. The mechanism is interesting, but the evidence is bulk spectroscopy, not spatially resolved.",
+    "technique": "electrochemical relaxation analysis + synchrotron XAS/RIXS"
+  },
+  {
+    "id": "e42fd9729e15eecb",
+    "title": "Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries",
+    "link": "https://www.nature.com/articles/s41560-026-02172-w",
+    "content": "<p>Nature Energy, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41560-026-02172-w\">doi:10.1038/s41560-026-02172-w</a></p>Discharge-induced voids are a major barrier to practical lithium metal solid-state batteries. Here the authors show that an egg-box-contoured lithium–electrolyte interface increases the voiding threshold by an order of magnitude and enables realistic electric vehicle discharge profiles without polarization.",
+    "journal": "Nature Energy",
+    "triage_score": 8.0,
+    "score": 6.0,
+    "summary": "A geometric \"egg-box\" contoured Li/ceramic interface raises the critical discharge current density for void formation by about 10x. It also supports EV-like discharge profiles without polarization. This addresses a key failure mode in Li-metal solid-state batteries. The abstract doesn't say whether the mechanism was confirmed by direct imaging or by modelling.",
+    "technique": "patterned Li/ceramic electrolyte interface; electrochemical stripping tests"
+  },
+  {
+    "id": "ee3839e2aac8dacf",
+    "title": "Operando Fiber-Optic Sensing of Lithium Status in Commercial Format Pouch Cells",
+    "link": "https://www.sciencedirect.com/science/article/pii/S240582972600810X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 22 November 2026</p><p><b>Source:</b> Energy Storage Materials</p><p>Author(s): Marina-Lamprini Vlara, Nilanka M Keppetipola, Murugasenapathi N K, Tatjana Šafarik, Alan Gen Li, Charlotte Mouravieff, Marion Fuhrmann, Philippe Stevens, Jean-Marie Tarascon</p>",
+    "journal": "ScienceDirect Publication: Energy Storage Materials",
+    "triage_score": 7.0,
+    "score": 6.0,
+    "summary": "The abstract is missing, so this judgement rests on the title and the author group. It appears to use operando fiber-optic sensing to track lithium status in commercial-format pouch cells. That would be a transferable operando method from the Tarascon group. It is probably not spatially resolved imaging, and the actual findings can't be assessed.",
+    "technique": "operando fiber-optic sensing (optical fiber sensors in pouch cells)"
   }
 ]
